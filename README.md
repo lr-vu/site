@@ -12,8 +12,7 @@ research
 
 * research themes
 * publications
-* projects
-* labs
+* projects (also labs)
 
 contact
 
