@@ -1,0 +1,15 @@
+theme: jekyll-theme-cayman
+
+title:            MLVU
+description:      Machine Learning at Vrije Universiteit Amsterdam
+
+defaults:
+  -
+    scope:
+        path: ""
+    values:
+        article: true   # Whether this is an article page.
+        front: false    # Whether this is the front page.
+        maps: false     # Whether to load the google maps stuff.
+        highlight: None # Which highlight to display: 0, 1, 2, 3... (front page only).
+        dark: false     # Whether the menu is in dark mode.

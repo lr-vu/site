@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+
+    <title>L&R | {{page.title}}</title>
+
+    {% if jekyll.environment == "production" and False %}
+    <!-- Analytics   -->
+    <script data-goatcounter="https://lnr.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+    {% else if %}
+    <!-- For design purposes, only load locally -->
+	<script src="./baseliner/baseliner.js"></script>
+	<script>
+      window.onload = function() {
+          baseliner = new Baseliner(8);
+      }
+	</script>
+    {% endif %}
+
+
+    {% seo %}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+    <link rel="stylesheet" href="/screen.lnr.css">
+
+    <meta name="twitter:site"    content="@pbloemesquire">
+    <meta name="twitter:title"   content="{{site.title}}">
+    <meta name="twitter:description" content="{{site.description}}">
+    <meta name="twitter:card"  content="summary">
+    <meta name="twitter:image" content="https://www.vu.nl/nl/Images/VUlogo_NL_530px_tcm289-201740.png">
+
+    <script src="/lnr.script.js"></script>
+
+  </head>
+  <body id="body" class="body {% if page.front %}front{% endif %}">
+    <header class="{% if page.dark %}dark{% else %}light{% endif %}">
+
+        <ul class="menu">
+            <li class="home"><a href="/">Learning <span>and</span>&nbsp;Reasoning</a></li>
+            <li><a href="about">about us</a></li>
+            <li><a href="research">research</a></li>
+            <li><a href="contact">contact</a></li>
+        </ul>
+
+        {% if page.highlight == 0%}
+          <div class=>
+              <h2>The next big question in AI.</h2>
+              <p>How do we build models that learn <em>and</em> reason? Read about our
+              mission statement and our research themes. <a href="#">more</a>
+              </p>
+          </div>
+        {% endif %}
+
+    </header>
+
+    <main>
+      {{content}}
+    </main>
+
+  </body>
+</html>

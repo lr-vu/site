@@ -1,0 +1,621 @@
+/**
+ * Colors:
+ * - main blue: #1368a3
+ * - secondary blue: #61a4d2
+ * - very light (on dark backgrounds): #bbefff
+ *
+ * - gray: #717171
+ *
+ * Spaces: 
+ */
+
+html {
+	margin: 0;
+	padding: 0;
+	
+	font-family: 'Ubuntu', sans-serif;
+	
+	font-size: 17px;
+	line-height: 1.618;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+
+h1, h2, h3, h4, h5 {
+	font-size: 17px;
+	font-weight: 600;
+}
+
+a {
+	color: #1368a3;
+
+	text-decoration: none;
+	font-weight: 500;
+}
+
+p {
+	margin: 0 auto 1.618em auto;
+}
+
+a:hover {
+	color: #61a4d2;
+}
+
+header {
+	border-bottom: solid transparent 1px;
+	box-shadow: 0 5px 5px rgba(0, 0, 0, 0.1);
+}
+
+/**
+ * Mobile and narrow windows
+ */
+@media(max-width: 820px)
+{
+	#body header ul.menu {
+	
+		width: auto;
+		margin: 0 3vw 0 3vw;
+	}
+	
+	#body header ul.menu li a {
+		font-size: 2.5vw;
+	}
+	
+	#body header ul.menu li.home a {
+		padding: 32px 0 0 8.5vw;
+
+		line-height: 4.05vw;
+	
+		background: no-repeat url('/images/logo/logo-blue.png');
+		background-size: 7.2vw;
+		background-position: 0 39px;
+		
+		max-width: 10vw
+	}
+	
+	
+	#body header ul.menu li a {	
+		padding: 40px 0 0 4vw;
+		margin: 0;
+	}
+
+	#body nav ul.submenu { 
+		height: 89px;
+		width: auto;
+		margin: 0 3vw 0 3vw;
+
+		font-size: 2.5vw;
+	}
+	
+	#body article h1,
+	#body article p,
+	#body article figcaption {
+		width: auto;
+		margin-left: 3vw;
+		margin-right: 3vw;
+	}
+}
+
+.front header {
+
+	background: no-repeat url("/images/highlight1.jpg");
+	background-size: cover;
+	
+	background-position: 0 -400px;
+	background-origin: bottom left;
+	
+	height: 494px;
+}
+
+header ul.menu {
+
+	margin: 0;
+	padding: 0;
+	
+	list-style: none;
+	display: flex;
+	
+	flex-flow: row nowrap;
+	justify-content: flex-end;
+	
+	width: 800px;
+	margin: 0 auto;
+	height: 116px;
+}
+
+header ul.menu li {
+
+	padding: 0;
+	margin: 0;
+
+	list-style: none;
+}
+
+header ul.menu li a {
+
+	display: block;
+	
+	height: auto
+	line-height: 27.5px;
+	
+	margin: 23px 0 0 23px; 
+	padding: 17px;
+	
+	text-decoration: none;
+	font-weight: bold;
+	
+	color: black;
+	text-transform: uppercase;
+	
+	font-size: 1.2em;
+}
+
+#body header a:hover {
+	color: #1368a3;
+}
+
+header ul.menu li.home {
+	flex-grow: 1;
+}
+
+header ul.menu li.home a {
+	max-width: 200px;
+}
+
+/* logo */
+header ul.menu li.home a {
+	padding: 32px 50px 0 60px;
+	margin: 0;
+	max-width: 200px;
+	
+	line-height: 1.36em;
+	
+	background: no-repeat url('/images/logo/logo-blue.png');
+	background-size: 50px;
+	background-position: 0 39px;
+}
+
+header.dark ul.menu li.home a {
+	background: no-repeat url('/images/logo/logo-white.png');
+	
+	background-size: 50px;
+	background-position: 0px 39px;
+}
+
+header ul.menu li.home a span {
+	text-transform: none;
+	font-style: italic;
+	font-weight: 500;
+	padding-right: 2px;
+}
+
+header ul.menu li:last-child a {
+	padding-right: 0;
+}
+
+#body header.dark  a {
+	color: white;
+}
+#body header.dark a:hover {
+	color: #bbefff;
+}
+
+header {
+	display: flex;
+	flex-flow: column nowrap;
+}
+
+header div {
+	margin: auto auto 54px auto;
+	max-width: 800px;
+	
+	color: white;
+}
+
+header div h2 {
+	font-size: 1.618em;
+	line-height: 2.3;
+	font-weight: 500;
+	
+	margin: 0 0 12px 0;
+	padding: 0;
+}
+
+header div p {
+	margin: 0;
+	padding: 0 0 0 0;
+}
+
+#body header .current a,
+#body nav .current a {
+	color: #1368a3;
+}
+
+header div a {
+	color: white;
+	text-decoration: none;
+	border-bottom: dotted white 1px;
+}
+
+nav ul.submenu { 
+	height: 89px;
+	width: 800px;
+	
+	padding: 0;
+	margin: 0 auto;
+	list-style: none;
+	
+	display: flex;
+	justify-content: flex-end;
+}
+
+nav ul.submenu li {
+
+	padding: 0;
+	margin: 0 0 0 44px;
+	list-style: none;
+	
+	flex-flow: row nowrap;
+	height: 100%;
+	line-height: 74px;
+}
+
+nav ul.submenu li a {
+	color: black;
+}
+
+nav ul.submenu li a:hover {
+	color: #1368a3;
+}
+
+main {
+	margin: 44px auto 150px auto;
+	max-width: 800px;	
+}
+
+.front main {
+	display: flex;
+
+	flex-flow: row nowrap;
+}
+
+.front main section h2 {
+	margin: 3px 0 27.5px 0;
+	
+	font-size: 1.168em;
+}
+
+.front main section.news h2 {
+	margin-bottom: 30px;
+}
+
+
+.front main section.news {
+	margin: 0 44px 0 0;
+	padding: 0 0 0 0;
+}
+
+.front main section.contact {
+	width: 40%;
+	min-width: 300px;
+}	
+	
+.front main section.contact p, 
+.front main section.contact div {	
+	font-size: 15px;
+	line-height: calc(17px * 1.618)	
+}
+
+.front main section.news dl, dd, dt {
+	margin: 0;
+	padding: 0 0 0;
+	list-style: none;
+}
+
+.front main section.news dt {	
+	float: left;
+	font-weight: 700;
+	margin-top: -2.25px;	
+}
+
+.front main section.news dt::after {
+	content: '—';
+	font-weight: 400;
+}
+
+.front main section.news dd {
+	margin-top: -2.25px;	
+}
+
+.front main section.contact .address {
+	margin: -1.618em 0 0 1em;
+}
+
+/**
+ * In articles (long-form pieces of content) we want to be able to have images fill the full
+ * width of the window. For this reason each individual child needs to be sized to the 
+ * margins.
+ */
+article p, 
+article h1, 
+article h2,
+article h3,
+article h4,
+article ul,
+article ol {
+	margin: 0 auto;
+	width: 800px;
+}
+
+article p {
+	margin-bottom: 1em;
+}
+
+article p:first-of-type {
+	font-weight: 700;
+}
+
+article h1 {
+	margin: 3px auto 50px auto;
+	font-size: 1.618em;
+	line-height: 1.618;
+}
+
+figure.wide {
+    margin: 1.618em 0 1.618em 0;
+    width: 100%;
+}
+
+figure.wide figcaption {
+
+	margin: 0 auto 1em auto;
+	width: 800px;
+		
+	font-size: 1em;
+
+	font-style: italic;
+}
+
+figure.tight {
+	margin-top: 0;
+	margin-bottom: 1em;
+}
+
+figure.wide-margin {
+    margin: 0 auto 1em;
+    width: 90%
+}
+
+figure.narrow img{ 
+    width: 660px;
+}
+
+figure.wide img,
+figure.wide-margin img {
+   	width: 100%;
+	min-width: 200px; 
+}
+
+figure img.small-margin{
+   	width: 800px;
+}
+
+figure.right {
+	max-width: 260px;
+	float: right;
+	margin-right: -220px;
+	margin-left: 1em;
+}
+
+figure.right img {
+	width: 100%;
+}
+
+figure .tile {
+	width: 33%;
+	min-width: 200px;
+}
+
+figure .tile4 {
+	width: 25%;
+	min-width: 200px;
+}
+
+figure img.tile3 {
+	width: 32%;
+	min-width: 200px;
+}
+
+#body figure .tile5 {
+	width: 20%;
+	min-width: 150px;
+}
+
+#body figure .tile2 {
+	width: 50%;
+	min-width: 150px;
+}
+
+#body figure .own-size {
+	width: auto;
+	min-width: 150px;
+}
+
+figure img.right {
+	display: block;
+	margin: 0 0 0 auto;
+}
+
+figure .half {
+	width: 50%;
+	min-width: 150px;
+}
+
+figure .three-quarters {
+	width: 75%;
+	min-width: 150px;
+}
+
+/* People */
+
+.people main {
+	width: 800px;
+	margin: 0 auto;
+}
+
+.people section {
+	position: relative;
+	display: flex;
+	flex-flow: row wrap;
+}
+
+.people section h2 {
+	color: #717171;
+
+	position: absolute;
+	top: 0;
+	left: -228px;
+	width: 200px;
+	float: left;
+	text-align: right;
+	text-transform: uppercase;
+}
+
+.people section h2 span {
+	text-transform: none;
+}
+
+.people section div {
+	width: 200px;
+	height: 200px;
+		
+	overflow: visible;
+}
+
+.people section div div {
+	position: relative;
+	z-index: 1;
+
+	display: flex;
+	flex-flow: column nowrap;
+	justify-content: space-between;
+	
+	top: -44px;
+	margin: 0 0 0 0px;
+	
+	height: 44px;
+	color: white;
+	
+	font-size: 14px;
+	background-color: transparent;
+	
+	transition: height 0.1s ease 0s, background-color 0.01s ease 0.1s;
+}
+	
+.people section div div span, 
+.people section div div ul {
+	display: block;
+
+	max-height: 0;
+	overflow: clip;
+	transition: max-height 0.05s ease 0s;
+}
+
+.people section div:hover div span, 
+.people section div:hover div ul {
+	max-height: 500px;
+	transition: max-height 0s ease 0.05s;
+}
+	
+.people section div:hover div {	
+	z-index: 2;
+	
+	background-color: black;
+	height: 236.5px;
+		
+	transition: height 0.1s ease 100ms, background-color 0.01s ease 0s;
+}
+
+.people section div div h3 {
+	padding: 4px 0 0 10px;
+	margin: 0;
+}
+
+.people section div img {	
+	width: 200px;
+	height: 200px;
+	filter: grayscale(1.0);
+	margin: 0;
+}
+
+.people section div:hover img {
+	filter: none;
+}
+
+.people section span,
+.people section ul {
+	margin: 0 10px;
+}
+
+.people section span,
+.people section ul {
+	margin: 0 10px;
+}
+
+.people section ul {
+	padding: 0;
+	margin: 0px 10px 0 10px;
+	list-style: none;
+}
+
+.people section ul li {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	
+	display: inline
+}
+
+.people section span.title {
+}
+
+.people section ul.keywords {
+	font-style: italic;
+	flex-grow: 2;
+	padding-top: 1em;
+}
+
+.people section ul.keywords li::after {
+	content: ', ';
+}
+
+.people section ul.keywords li:last-child::after {
+	content: none;
+}
+
+
+.people section ul.links {
+	margin-bottom: 10px;
+}
+
+.people section ul.links li a {
+	color: white;
+	font-weight: 500;
+}
+
+.people section ul.links li a:hover {
+	color: #bbefff;
+}
+
+.people section ul.links li::after {
+	content: ' · ';
+}
+
+.people section ul.links li:last-child::after {
+	content: none;
+}
+
