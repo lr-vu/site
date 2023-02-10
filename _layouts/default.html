@@ -5,13 +5,13 @@
 
     <title>L&R | {{page.title}}</title>
 
-    {% if jekyll.environment == "production" and False %}
+    {% if jekyll.environment == "production" %}
     <!-- Analytics   -->
     <script data-goatcounter="https://lnr.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
     {% else if %}
     <!-- For design purposes, only load locally -->
-	<script src="./baseliner/baseliner.js"></script>
+	<script src="/baseliner/baseliner.js"></script>
 	<script>
       window.onload = function() {
           baseliner = new Baseliner(8);
@@ -19,8 +19,6 @@
 	</script>
     {% endif %}
 
-
-    {% seo %}
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -36,14 +34,14 @@
     <script src="/lnr.script.js"></script>
 
   </head>
-  <body id="body" class="body {% if page.front %}front{% endif %}">
+  <body id="body" class="body {{page.class}}">
     <header class="{% if page.dark %}dark{% else %}light{% endif %}">
 
         <ul class="menu">
             <li class="home"><a href="/">Learning <span>and</span>&nbsp;Reasoning</a></li>
-            <li><a href="about">about us</a></li>
-            <li><a href="research">research</a></li>
-            <li><a href="contact">contact</a></li>
+            <li><a href="/about">about us</a></li>
+            <li><a href="/research">research</a></li>
+            <li><a href="/contact">contact</a></li>
         </ul>
 
         {% if page.highlight == 0%}
@@ -56,6 +54,21 @@
         {% endif %}
 
     </header>
+
+        {% comment %}
+            Load the submenu, based on the start of the page URL. The submenu content can be found under /_includes/
+        {% endcomment %}
+
+        {% assign tokens = page.url | split:'/' %}
+        {% if tokens.size > 1 %}
+            {% if tokens[1] == 'about'%}
+                {% include _about.md %}
+            {% elsif tokens[1] == 'research' %}
+                {% include _research.md %}
+            {% elsif tokens[1] == 'contact' %}
+                {% include _contact.md %}
+            {% endif %}
+        {% endif %}
 
     <main>
       {{content}}

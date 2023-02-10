@@ -1,6 +1,6 @@
 ---
 title: Learning and reasoning
-front: true
+class: front
 highlight: 0
 maps: true
 dark: true
