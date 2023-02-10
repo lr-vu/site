@@ -1,0 +1,84 @@
+# When adding people make sure to add the correct role. This is used to determine in which section they are displayed. The
+# `title` is displayed below their name.
+#
+# The order is by last name, except under Staff, where it is by seniority.
+#
+# Please add no more than 4 keywords per person, and keep them short. Keywords are lowercase, unless involving a
+# person's name.
+#
+# Add the person's image to /images/people/ as a png or a jpeg. Make sure to crop it to a square.
+
+- name: Frank van Harmelen
+  keywords:
+    - approximate reasoning
+    - formalisation of medical knowledge
+    - diagnosis
+  website: frankvanharmelen.nl
+  twitter: fvanharmelen
+  github: fvanharmelen
+  mastodon: fvanharmelen
+  role: staff
+  title: professor
+  image: /images/people/frank.png
+
+- name: Annette ten Teije
+  keywords:
+    - approximate reasoning
+    - formalisation of medical knowledge
+    - diagnosis
+  role: staff
+  title: professor
+  website: https://cs.vu.nl/~annette/
+  scholar: https://scholar.google.com/citations?user=2fDYEcgAAAAJ
+  image: /images/people/annette.png
+
+- name: Michael Cochez
+  keywords:
+    - approximate reasoning
+    - formalisation of medical knowledge
+    - diagnosis
+  role: staff
+  title: assistant professor
+  website: https://cochez.nl
+  image: /images/people/michael.png
+
+- name: Peter Bloem
+  keywords:
+    - machine learning
+    - information theory
+    - minimum description length
+    - Kolmogorov complexity
+  website: peterbloem.nl
+  twitter: https://twitter.com/pbloemesquire
+  github: https://github.com/pbloem
+  mastodon: https://sigmoid.social/@pbloem
+  scholar: https://scholar.google.com/citations?user=zVntAfQAAAAJ
+  role: staff
+  title: assistant professor
+  image: /images/people/peter.jpg
+
+- name: Jan Christoph Kalo
+  keywords:
+   - machine learning
+   - information theory
+   - MDL
+   - Kolmogorov complexity
+  website: https://research.vu.nl/en/persons/jan-christoph-kalo
+  twitter: JanCKalo
+  github: janckalo
+  scholar: zVntAfQAAAAJ
+  role: postdoc
+  title: researcher
+  image: /images/people/jc.png
+
+- name: Taraneh Younesian
+  keywords:
+    - explainability
+    - learning on graphs
+    - scalability
+  scholar: https://scholar.google.com/citations?user=oPPUcYoAAAAJ
+  website: https://research.vu.nl/en/persons/taraneh-younesian/
+  role: phd
+  title: PhD student
+  image: /images/people/taraneh.png
+
