@@ -374,7 +374,7 @@ main {
 
 .front main section.contact {
 	width: 40%;
-	min-width: 300px;
+	min-width: 306px;
 }	
 	
 .front main section.contact p, 
@@ -813,5 +813,11 @@ nav.publication-links li {
 nav.publication-links li + li::before {
     content: ' | ';
     font-weight: normal;
+}
 
+.gmaps {
+  border: 0;
+  padding-top: 1em;
+  width: 306px;
+  height: 306px;
 }
