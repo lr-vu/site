@@ -25,8 +25,8 @@
  * - 50px
  *
  * Baseline grid:
- * - line-height: 27.506 (17px * 1.618)
- * - offset: 1px
+ * - line-height: 27px;
+ * - offset: 0px
  * (Use the baseliner tool that pops up when the website is loaded locally)
  *
  */
@@ -38,7 +38,8 @@ html {
 	font-family: 'Ubuntu', sans-serif;
 	
 	font-size: 17px;
-	line-height: 1.618;
+
+	line-height: 27px;
 }
 
 body {
@@ -56,6 +57,8 @@ h1, h2, h3, h4, h5 {
 h1 {
     font-size: 1.618em;
     line-height : 1em;
+
+    margin-bottom: calc(1em + 3px);
 }
 
 h2 {
@@ -74,13 +77,41 @@ a {
 	font-weight: 500;
 }
 
+button.link {
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    font-weight: 500;
+
+    color: #1368a3;
+
+    font-family: 'Ubuntu', sans-serif;
+	font-size: 17px;
+	line-height: 27px;
+}
+
+a:hover, button.link:hover {
+	color: #61a4d2;
+}
+
+button.link:disabled {
+
+    cursor: default;
+    font-weight: normal;
+
+    color: black;
+
+}
+
+button.link:disabled:hover {
+    color: black;
+}
+
 p {
 	margin: 0 auto 1.618em auto;
 }
 
-a:hover {
-	color: #61a4d2;
-}
 
 header {
 	border-bottom: solid transparent 1px;
@@ -660,6 +691,10 @@ figure .three-quarters {
 	content: none;
 }
 
+body.publications h1 {
+    margin-bottom: 0;
+}
+
 ul.publications, ul.publications li {
     margin: 0;
     padding: 0;
@@ -713,10 +748,70 @@ ul.keywords, ul.keywords li {
     list-style: none;
 }
 
+ul.keywords {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: flex-end;
+}
+
 ul.keywords li {
     display: inline;
+
+    font-size: 14px;
+    line-height: 27px;
 }
 
 ul.keywords li + li::before {
     content: ', ';
+}
+
+nav.publication-links {
+    min-height: 27px;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+
+    margin-bottom: 27px;
+}
+
+nav.publication-links, nav.publication-links button.link{
+    font-size: 14px;
+
+}
+
+nav.publication-links a.bibtex {
+    display: block;
+    color: #717171;
+    min-width: 10em;
+    margin-left: 3em;
+    text-align: right;
+}
+
+nav.publication-links a.bibtex:hover {
+    color: #61a4d2;
+}
+
+nav.publication-links span {
+    display: block;
+    margin-right: 0.4em;
+}
+
+nav.publication-links ul, li {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav.publication-links ul {
+    flex-grow: 1;
+}
+
+nav.publication-links li {
+    display: inline;
+}
+
+nav.publication-links li + li::before {
+    content: ' | ';
+    font-weight: normal;
+
 }

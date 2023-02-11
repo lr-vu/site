@@ -332,11 +332,13 @@ references:
   container-title: PeerJ Computer Science
   id: thanapalasingam2022relational
   issued: 2022
+  keyword: machine learning
   page: e1073
   publisher: PeerJ Inc.
   title: "Relational graph convolutional networks: A closer look"
   title-short: Relational graph convolutional networks
   type: article-journal
+  url: "https://peerj.com/articles/cs-1073/"
   volume: 8
 - author:
   - family: Capel

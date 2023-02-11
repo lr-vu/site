@@ -7,6 +7,11 @@ js: true
 # Publications
 
 {::nomarkdown}
+
+<nav class="publication-links">
+<a href="/files/publications.bib" class="bibtex">download as bibtex</a>
+</nav>
+
 {% assign pubs = site.data.publications.references | sort: 'issued' | reverse %} 
 
 <ul class="publications">
