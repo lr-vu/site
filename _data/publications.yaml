@@ -1,0 +1,450 @@
+---
+nocite: "[@*]"
+references:
+- author:
+  - dropping-particle: de
+    family: Rooij
+    given: Steven
+  - family: Beek
+    given: Wouter
+  - family: Bloem
+    given: Peter
+  - dropping-particle: van
+    family: Harmelen
+    given: Frank
+  - family: Schlobach
+    given: Stefan
+  container-title: "The semantic web--ISWC 2016: 15th international
+    semantic web conference, kobe, japan, october 17--21, 2016,
+    proceedings, part i 15"
+  id: de2016names
+  issued: 2016
+  page: 184-199
+  publisher: Springer International Publishing
+  title: Are names meaningful? Quantifying social meaning on the
+    semantic web
+  type: paper-conference
+- author:
+  - family: Bloem
+    given: Peter
+  - dropping-particle: de
+    family: Rooij
+    given: Steven
+  container-title: Data Mining and Knowledge Discovery, 2020
+  id: bloem2020large
+  issued: 2020
+  page: 1421-1453
+  publisher: Springer
+  title: Large-scale network motif analysis using compression
+  type: article-journal
+  volume: 34
+- author:
+  - family: Wilcke
+    given: Xander
+  - family: Bloem
+    given: Peter
+  - family: De Boer
+    given: Victor
+  container-title: Data Science
+  id: wilcke2017knowledge
+  issue: 1-2
+  issued: 2017
+  page: 39-57
+  publisher: IOS Press
+  title: The knowledge graph as the default data model for learning on
+    heterogeneous knowledge
+  type: article-journal
+  volume: 1
+- author:
+  - family: Meroño-Peñuela
+    given: Albert
+  - family: Hoekstra
+    given: Rinke
+  - family: Gangemi
+    given: Aldo
+  - family: Bloem
+    given: Peter
+  - dropping-particle: de
+    family: Valk
+    given: Reinier
+  - family: Stringer
+    given: Bas
+  - family: Janssen
+    given: Berit
+  - dropping-particle: de
+    family: Boer
+    given: Victor
+  - family: Allik
+    given: Alo
+  - family: Schlobach
+    given: Stefan
+  - literal: others
+  container-title: "The semantic web--ISWC 2017: 16th international
+    semantic web conference, vienna, austria, october 21-25, 2017,
+    proceedings, part II 16"
+  id: merono2017midi
+  issued: 2017
+  keyword: music, semantic web, linked data
+  page: 156-164
+  publisher: Springer International Publishing
+  title: The MIDI linked data cloud
+  type: paper-conference
+- author:
+  - family: Wilcke
+    given: WX
+  - family: Bloem
+    given: Peter
+  - dropping-particle: de
+    family: Boer
+    given: Viktor
+  container-title: "ICT open 2018: The interface for dutch ICT research"
+  id: wilcke2018knowledge
+  issued: 2018
+  keyword: graph learning, multimodality
+  title: The knowledge graph for end-to-end learning on heterogeneous
+    knowledge
+  type: paper-conference
+- author:
+  - dropping-particle: van der
+    family: Veen
+    given: Koen Lennart
+  - family: Seggers
+    given: Ruben
+  - family: Bloem
+    given: Peter
+  - family: Patrini
+    given: Giorgio
+  container-title: Privacy preserving machine learning workshop
+  id: van2018three
+  issued: 2018
+  keyword: differential privacy
+  title: Three tools for practical differential privacy
+  type: paper-conference
+- author:
+  - family: Schlichtkrull
+    given: M
+  - family: Kipf
+    given: TN
+  - family: Bloem
+    given: P
+  - family: Berg
+    given: Titov
+    suffix: R. vd
+  - family: Welling
+    given: M.
+  container-title: European semantic web conference, 593-607
+  id: schlichtkrull2018modeling
+  issued: 2018
+  keyword: machine learning, graph learning
+  title: Modeling relational data with graph convolutional networks
+  type: paper-conference
+- author:
+  - family: Sibechi
+    given: Radu
+  - family: Booij
+    given: Olaf
+  - family: Baka
+    given: Nora
+  - family: Bloem
+    given: Peter
+  container-title: Proceedings of the IEEE/CVF international conference
+    on computer vision workshops
+  id: sibechi2019exploiting
+  issued: 2019
+  page: 0-0
+  title: Exploiting temporality for semi-supervised video segmentation
+  type: paper-conference
+- author:
+  - family: El-Gazzar
+    given: Ahmed
+  - family: Quaak
+    given: Mirjam
+  - family: Cerliani
+    given: Leonardo
+  - family: Bloem
+    given: Peter
+  - dropping-particle: van
+    family: Wingen
+    given: Guido
+  - family: Mani Thomas
+    given: Rajat
+  container-title: "OR 2.0 context-aware operating theaters and machine
+    learning in clinical neuroimaging: Second international workshop, OR
+    2.0 2019, and second international workshop, MLCN 2019, held in
+    conjunction with MICCAI 2019, shenzhen, china, october 13 and 17,
+    2019, proceedings 2"
+  id: el2019hybrid
+  issued: 2019
+  page: 95-102
+  publisher: Springer International Publishing
+  title: "A hybrid 3DCNN and 3DC-LSTM based model for 4D spatio-temporal
+    fMRI data: An ABIDE autism classification study"
+  title-short: A hybrid 3DCNN and 3DC-LSTM based model for 4D
+    spatio-temporal fMRI data
+  type: paper-conference
+- author:
+  - family: Wang
+    given: Shuai
+  - family: Bloem
+    given: Peter
+  - family: Raad
+    given: Joe
+  - dropping-particle: van
+    family: Harmelen
+    given: Frank
+  container-title: Workshop on large scale RDF analytics
+  id: wang2020submassive
+  issued: 2020
+  title: "SUBMASSIVE: Resolving subclass cycles in very large knowledge
+    graphs"
+  title-short: SUBMASSIVE
+  type: paper-conference
+- author:
+  - family: Wilcke
+    given: WX
+  - family: Bloem
+    given: Peter
+  - dropping-particle: de
+    family: Boer
+    given: Victor
+  - dropping-particle: van t
+    family: Veer
+    given: RH
+  - dropping-particle: van
+    family: Harmelen
+    given: FAH
+  container-title: "arXiv preprint arXiv:2003.12383"
+  id: wilcke2020end
+  issued: 2020
+  title: End-to-end entity classification on multimodal knowledge graphs
+  type: article-journal
+- author:
+  - family: Ciupec
+    given: Victor
+  - family: Bloem
+    given: Peter
+  container-title: BNAIC/BeneLearn 2020
+  id: ciupec2020re
+  issued: 2020
+  page: 409
+  title: Re-evaluating knowledge graph embedding models performance on
+    domain specific datasets
+  type: article-journal
+- author:
+  - family: Alting von Geusau
+    given: Paulo
+  - family: Bloem
+    given: Peter
+  container-title: "Artificial intelligence and machine learning: 32nd
+    benelux conference, BNAIC/benelearn 2020, leiden, the netherlands,
+    november 19--20, 2020, revised selected papers"
+  id: alting2021evaluating
+  issued: 2021
+  page: 1-14
+  publisher: Springer International Publishing Cham
+  title: Evaluating the robustness of question-answering models to
+    paraphrased questions
+  type: paper-conference
+- author:
+  - family: Maas
+    given: Tijs
+  - family: Bloem
+    given: Peter
+  container-title: "arXiv preprint arXiv:2012.05207"
+  id: maas2020uncertainty
+  issued: 2020
+  title: Uncertainty intervals for graph-based spatio-temporal traffic
+    prediction
+  type: article-journal
+- author:
+  - family: Wang
+    given: Shuai
+  - family: Raad
+    given: Joe
+  - family: Bloem
+    given: Peter
+  - family: Van Harmelen
+    given: Frank
+  container-title: "The semantic web: 18th international conference,
+    ESWC 2021, virtual event, june 6--10, 2021, proceedings 18"
+  id: wang2021refining
+  issued: 2021
+  page: 249-264
+  publisher: Springer International Publishing
+  title: Refining transitive and pseudo-transitive relations at web
+    scale
+  type: paper-conference
+- author:
+  - family: Bloem
+    given: Peter
+  - family: Wilcke
+    given: Xander
+  - dropping-particle: van
+    family: Berkel
+    given: Lucas
+  - dropping-particle: de
+    family: Boer
+    given: Victor
+  container-title: "The semantic web: 18th international conference,
+    ESWC 2021, virtual event, june 6--10, 2021, proceedings 18"
+  id: bloem2021kgbench
+  issued: 2021
+  page: 614-630
+  publisher: Springer International Publishing
+  title: "Kgbench: A collection of knowledge graph datasets for
+    evaluating relational and multimodal machine learning"
+  title-short: Kgbench
+  type: paper-conference
+- author:
+  - family: Wilcke
+    given: WX
+  - family: Bloem
+    given: Peter
+  - dropping-particle: de
+    family: Boer
+    given: Victor
+  - dropping-particle: van't
+    family: Veer
+    given: RH
+  container-title: Under Submission
+  id: wilcke2021end
+  issued: 2021
+  title: End-to-end learning on multimodal knowledge graphs
+  type: article-journal
+- author:
+  - family: Bloem
+    given: Peter
+  container-title: "arXiv preprint arXiv:2104.08163"
+  id: bloem2021finding
+  issued: 2021
+  title: Finding motifs in knowledge graphs using compression
+  type: article-journal
+- author:
+  - family: Thanapalasingam
+    given: Thiviyan
+  - dropping-particle: van
+    family: Berkel
+    given: Lucas
+  - family: Bloem
+    given: Peter
+  - family: Groth
+    given: Paul
+  container-title: PeerJ Computer Science
+  id: thanapalasingam2022relational
+  issued: 2022
+  page: e1073
+  publisher: PeerJ Inc.
+  title: "Relational graph convolutional networks: A closer look"
+  title-short: Relational graph convolutional networks
+  type: article-journal
+  volume: 8
+- author:
+  - family: Capel
+    given: Henriette
+  - family: Weiler
+    given: Robin
+  - family: Dijkstra
+    given: Maurits
+  - family: Vleugels
+    given: Reinier
+  - family: Bloem
+    given: Peter
+  - family: Feenstra
+    given: K Anton
+  container-title: Scientific Reports
+  id: capel2022proteinglue
+  issue: 1
+  issued: 2022
+  page: 16047
+  publisher: Nature Publishing Group UK London
+  title: ProteinGLUE multi-task benchmark suite for self-supervised
+    protein modeling
+  type: article-journal
+  volume: 12
+- author:
+  - family: Weiler
+    given: Robin
+  - family: Diachenko
+    given: Marina
+  - family: Juarez-Martinez
+    given: Erika
+  - family: Avramiea
+    given: Arthur-Ervin
+  - family: Bloem
+    given: Peter
+  - family: Linkenkaer-Hansen
+    given: Klaus
+  container-title: bioRxiv
+  id: weiler2022robin
+  issued: 2022
+  page: 2022-08
+  publisher: Cold Spring Harbor Laboratory
+  title: "Robin's viewer: Using deep-learning predictions to assist EEG
+    annotation"
+  title-short: Robin's viewer
+  type: article-journal
+  url: "https://www.frontiersin.org/articles/10.3389/fninf.2022.1025847/full"
+- author:
+  - family: Diachenko
+    given: Marina
+  - family: Houtman
+    given: Simon J
+  - family: Juarez-Martinez
+    given: Erika L
+  - family: Ramautar
+    given: Jennifer R
+  - family: Weiler
+    given: Robin
+  - family: Mansvelder
+    given: Huibert D
+  - family: Bruining
+    given: Hilgo
+  - family: Bloem
+    given: Peter
+  - family: Linkenkaer-Hansen
+    given: Klaus
+  container-title: Eneuro
+  id: diachenko2022improved
+  issued: 2022
+  publisher: Society for Neuroscience
+  title: Improved manual annotation of EEG signals through convolutional
+    neural network guidance
+  type: article-journal
+- author:
+  - family: Nasim
+    given: Idries
+  - family: Wang
+    given: Shuai
+  - family: Raad
+    given: Joe
+  - family: Bloem
+    given: Peter
+  - dropping-particle: van
+    family: Harmelen
+    given: Frank
+  container-title: 8th workshop on managing the evolution and
+    preservation of the data web (MEPDaW at ISWC)
+  id: nasim2022does
+  issued: 2022
+  title: What does it mean when your URIs are redirected? Examining
+    identity and redirection in the LOD cloud
+  type: paper-conference
+  url: "https://shuai.ai/static/files/paper/MEPDaW.pdf"
+- author:
+  - family: Schouten
+    given: Stefan
+  - family: Bloem
+    given: Peter
+  - family: Vossen
+    given: Piek
+  container-title: Proceedings of the fifth BlackboxNLP workshop on
+    analyzing and interpreting neural networks for NLP
+  id: schouten2022probing
+  issued: 2022
+  page: 384-393
+  title: Probing the representations of named entities in
+    transformer-based language models
+  type: paper-conference
+  url: "https://aclanthology.org/2022.blackboxnlp-1.32.pdf"
+---
+

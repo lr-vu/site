@@ -5,8 +5,30 @@
  * - very light (on dark backgrounds): #bbefff
  *
  * - gray: #717171
+ * - light gray: #b5b5b5;
  *
- * Spaces: 
+ * Spacing grid (golden ratio), 800^-n
+ * - 800 px
+ * - 494 px
+ * - 306 px
+ * - 189 px
+ * - 116 px
+ *
+ *
+ *
+ *
+ *  -
+ *  - 17px
+ * Secondary grid (quarter):
+ * - 800px
+ * - 200px
+ * - 50px
+ *
+ * Baseline grid:
+ * - line-height: 27.506 (17px * 1.618)
+ * - offset: 1px
+ * (Use the baseliner tool that pops up when the website is loaded locally)
+ *
  */
 
 html {
@@ -26,8 +48,23 @@ body {
 
 
 h1, h2, h3, h4, h5 {
-	font-size: 17px;
 	font-weight: 600;
+	margin: 0 0 1em 0;
+	padding: 0;
+}
+
+h1 {
+    font-size: 1.618em;
+    line-height : 1em;
+}
+
+h2 {
+    font-size: 1em;
+}
+
+h3 {
+    font-size: 1em;
+    margin-bottom: 0;
 }
 
 a {
@@ -48,6 +85,10 @@ a:hover {
 header {
 	border-bottom: solid transparent 1px;
 	box-shadow: 0 5px 5px rgba(0, 0, 0, 0.1);
+}
+
+.hidden {
+    display: none;
 }
 
 /**
@@ -84,7 +125,7 @@ header {
 	}
 
 	#body nav ul.submenu { 
-		height: 89px;
+		height: 72px;
 		width: auto;
 		margin: 0 3vw 0 3vw;
 
@@ -242,7 +283,7 @@ header div a {
 }
 
 nav ul.submenu { 
-	height: 89px;
+	height: 72px;
 	width: 800px;
 	
 	padding: 0;
@@ -273,13 +314,14 @@ nav ul.submenu li a:hover {
 }
 
 main {
-	margin: 44px auto 150px auto;
-	max-width: 800px;	
+	margin: 2px auto 150px auto;
+	max-width: 800px;
 }
 
 .front main {
-	display: flex;
+    margin: 44px auto 150px auto;
 
+	display: flex;
 	flex-flow: row nowrap;
 }
 
@@ -464,7 +506,7 @@ figure .three-quarters {
 
 .people main {
 	width: 800px;
-	margin: 0 auto;
+	margin: 0 auto 15px auto;
 }
 
 .people section {
@@ -597,7 +639,6 @@ figure .three-quarters {
 	content: none;
 }
 
-
 .people section ul.links {
 	margin-bottom: 10px;
 }
@@ -619,3 +660,63 @@ figure .three-quarters {
 	content: none;
 }
 
+ul.publications, ul.publications li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+ul.publications li {
+    position: relative;
+}
+
+ul.publications li .issued {
+    color: #717171;
+    position: absolute;
+    top: 0;
+    left: -228px;
+    width: 200px;
+    float: left;
+    text-align: right;
+    text-transform: uppercase;
+
+    font-size: 1em;
+    font-weight: bold;
+}
+
+ul.authors, ul.authors li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: inline;
+}
+
+ul.authors li + li::before {
+    content: ', ';
+}
+
+ul.authors::after {
+    content: '. ';
+}
+
+ul.publications li a {
+    float: right;
+}
+
+ul.publications li .venue {
+    color: #b5b5b5;
+}
+
+ul.keywords, ul.keywords li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+ul.keywords li {
+    display: inline;
+}
+
+ul.keywords li + li::before {
+    content: ', ';
+}

@@ -14,7 +14,7 @@
 	<script src="/baseliner/baseliner.js"></script>
 	<script>
       window.onload = function() {
-          baseliner = new Baseliner(8);
+          baseliner = new Baseliner({'gridHeight': 27, 'gridOffset': 1});
       }
 	</script>
     {% endif %}
@@ -24,6 +24,7 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
     <link rel="stylesheet" href="/screen.lnr.css">
+    <link rel="icon" href="/images/logo/favicon.png" />
 
     <meta name="twitter:site"    content="@pbloemesquire">
     <meta name="twitter:title"   content="{{site.title}}">
@@ -31,17 +32,20 @@
     <meta name="twitter:card"  content="summary">
     <meta name="twitter:image" content="https://www.vu.nl/nl/Images/VUlogo_NL_530px_tcm289-201740.png">
 
-    <script src="/lnr.script.js"></script>
+    {% if page.js%}
+    <script src="/script.lnr.js"></script>
+    {% endif %}
 
   </head>
   <body id="body" class="body {{page.class}}">
     <header class="{% if page.dark %}dark{% else %}light{% endif %}">
 
+        {% assign cur = page.url | split:'/' %}
         <ul class="menu">
             <li class="home"><a href="/">Learning <span>and</span>&nbsp;Reasoning</a></li>
-            <li><a href="/about">about us</a></li>
-            <li><a href="/research">research</a></li>
-            <li><a href="/contact">contact</a></li>
+            <li class="{% if cur[1] == 'about' %}current{% endif %}"><a href="/about">about us</a></li>
+            <li class="{% if cur[1] == 'research' %}current{% endif %}"><a href="/research">research</a></li>
+            <li class="{% if cur[1] == 'contact' %}current{% endif %}"><a href="/contact">contact</a></li>
         </ul>
 
         {% if page.highlight == 0%}
