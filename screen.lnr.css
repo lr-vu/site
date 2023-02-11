@@ -134,7 +134,7 @@ header {
 	}
 	
 	#body header ul.menu li a {
-		font-size: 2.5vw;
+		font-size: 3vw;
 	}
 	
 	#body header ul.menu li.home a {
@@ -142,7 +142,6 @@ header {
 
 		line-height: 4.05vw;
 	
-		background: no-repeat url('/images/logo/logo-blue.png');
 		background-size: 7.2vw;
 		background-position: 0 39px;
 		
@@ -170,6 +169,37 @@ header {
 		margin-left: 3vw;
 		margin-right: 3vw;
 	}
+
+	#body.front header {
+
+        background: no-repeat url("/images/highlight1.jpg");
+    	background-size: 100%;
+
+        background-position: 0 0;
+        background-origin: top left;
+
+        height: 494px;
+    }
+
+    #body.front header div {
+        margin-right: 3vw;
+        margin-left: 3vw;
+    }
+
+    #body.front main {
+        display: block;
+
+        margin-right: 3vw;
+        margin-left: 3vw;
+    }
+
+    #body.front main section {
+        width: 100%;
+    }
+
+    #body.front main section.contact {
+        margin-top: 2em;
+    }
 }
 
 .front header {
