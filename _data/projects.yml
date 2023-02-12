@@ -1,0 +1,100 @@
+current_projects:
+-   name: CLARIAH
+    website: http://www.clariah.nl/
+    image: /images/projects/Clariah-300x83.png
+-   name: Discovery Lab
+    website: https://www.discoverylab.ai/
+    image: /images/projects/discobery_lab.png
+-   name: HumaneA
+    website: https://www.humane-ai.eu/
+    image: /images/projects/humane_ai.svg
+-   name: Hybrid Intelligence
+    website: https://www.hybrid-intelligence-centre.nl/
+    image: /images/projects/hybrid_intelligence.jpg
+-   name: LEAPfROG
+    website: https://www.pharmacoinformaticslab.nl/leapfrog-project/
+    image: /images/projects/leapfrog.png
+-   name: MUHAI
+    website: https://muhai.univiu.org/
+    image: /images/projects/muhai.png
+-   name: The DReAMS Lab
+    website: https://krr.cs.vu.nl/dreams-lab/
+    image: /images/projects/huawei.svg.png
+previous_projects:
+-   name: BEST
+    website: null
+    image: null
+-   name: Chinese WordNet
+    website: null
+    image: null
+-   name: Data2Semantics (COMMIT)
+    website: null
+    image: null
+-   name: Eureca
+    website: https://cordis.europa.eu/project/id/288048
+    image: null
+-   name: I-Catcher (Intensive-Care Access to Terminology &amp; Course of Health Exploration
+        and Retrieval)
+    website: null
+    image: null
+-   name: 'IBROW: Intelligent Brokering Service for Knowledge-Component Reuse on the
+        World Wide Web'
+    website: http://projects.kmi.open.ac.uk/ibrow/
+    image: null
+-   name: Knowledge Web
+    website: http://knowledgeweb.semanticweb.org/
+    image: null
+-   name: LATC (Linked Open Data Around the Clock)
+    website: http://latc-project.eu/
+    image: null
+-   name: LDBC
+    website: http://ldbc.eu/
+    image: null
+-   name: LarKC (Large Knowledge Collider)
+    website: http://www.larkc.org/
+    image: null
+-   name: 'MaestroGraph: The Meaning and Structure of Very Large Knowledge Graphs'
+    website: https://www.narcis.nl/research/RecordID/OND1359681/
+    image: null
+-   name: 'On-To-Knowledge: Content-driven knowledge management through evolving ontologies'
+    website: null
+    image: null
+-   name: Open PHACTS (Open Pharmacological Concepts Triple Store)
+    website: http://www.openphacts.org/
+    image: null
+-   name: OpenKnowledge
+    website: null
+    image: null
+-   name: 'Protocure: Improving medical protocols by formal methods'
+    website: http://www.protocure.org/
+    image: null
+-   name: RISIS (Research Infrastructure for Science and Innovation Studies)
+    website: null
+    image: null
+-   name: SEKT (Semantically Enabled Knowledge Technologies)
+    website: http://www.sekt-project.com/
+    image: null
+-   name: SMS (Semantically Mapping Science)
+    website: null
+    image: null
+-   name: SOKS (Self-Organising Knowledge Systems)
+    website: null
+    image: null
+-   name: STITCH (Semantic Interoperability To access Cultural Heritage)
+    website: http://www.cs.vu.nl/STITCH/
+    image: null
+-   name: SWAP (Semantic Web And Peer-to-peer)
+    website: http://swap.semanticweb.org/
+    image: null
+-   name: SlideWiki
+    website: http://slidewiki.eu/
+    image: null
+-   name: The OntoWeb Network
+    website: null
+    image: null
+-   name: ULM-4 (Understanding Language by Machines 4)
+    website: http://www.understandinglanguagebymachines.org/a-quantum-model-of-text-understanding/
+    image: null
+-   name: 'WonderWeb: Infrastructure for the Semantic Web'
+    website: null
+    image: null

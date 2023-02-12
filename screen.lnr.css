@@ -122,6 +122,20 @@ header {
     display: none;
 }
 
+ul {
+    padding-left: 1em;
+       list-style: none;
+}
+
+ul li::before {
+    content: '▪';
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em;
+
+    color: #1368a3;
+}
+
 /**
  * Mobile and narrow windows
  */
@@ -866,7 +880,7 @@ nav.publication-links span {
     margin-right: 0.4em;
 }
 
-nav.publication-links ul, li {
+nav.publication-links ul, nav.publication-links ul li {
     list-style: none;
     padding: 0;
     margin: 0;
@@ -890,4 +904,32 @@ nav.publication-links li + li::before {
   padding-top: 1em;
   width: 306px;
   height: 306px;
+}
+
+.projects .logo {
+    display: block;
+    width: 30%;
+    float: left;
+
+    margin: 1em 1em 1em 0;
+}
+
+.projects .logo.alt {
+    float: right;
+    margin: 1em 0 1em 1em;
+}
+
+.projects .logo img {
+    width: 100%;
+}
+
+.projects h2, .projects h1 {
+    clear: left;
+}
+
+.projects .square img {
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
 }
