@@ -788,6 +788,23 @@ figure .three-quarters {
 	content: none;
 }
 
+.people .alumni {
+    margin-top: 2em;
+}
+
+.people .alumni ul, .people .alumni li {
+    display: block;
+}
+
+.people .alumni span {
+    margin: 0;
+}
+
+.people .alumni li p {
+    display: inline;
+    font-size: 14px;
+}
+
 body.publications h1 {
     margin-bottom: 0;
 }

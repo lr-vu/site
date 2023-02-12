@@ -56,4 +56,20 @@ or they won't show up.
     </section>
 {% endfor %}
 
+<section class="alumni">
+    <h2>Alumni</h2>
+    <ul>
+    {% for person in site.data.people %}
+        {% if person.role == 'alumnus' %}
+            
+            <li>{% if person.website %}<span>{{person.name}}</span>{% else %}<a href="{{person.website}}">{{person.name}}</a>{% endif %}
+            {{person.bio | markdownify }}</li>
+
+        {% endif %}
+    {% endfor%}
+    <ul>
+</section>
+
 {:/nomarkdown}
+
+
