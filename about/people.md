@@ -24,10 +24,10 @@ or they won't show up.
     
     {% for person in site.data.people %}
         {% if person.role == role %} 
-        <div>
+        <div class="person">
             <img src="{{person.image}}">
         
-            <div>
+            <div class="info">
             <h3>{{person.name}}</h3>
             <span class="title">{{person.title}}</span>
             

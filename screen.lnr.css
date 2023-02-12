@@ -149,7 +149,6 @@ header {
 		max-width: 10vw
 	}
 	
-	
 	#body header ul.menu li a {	
 		padding: 40px 0 0 4vw;
 		margin: 0;
@@ -160,7 +159,7 @@ header {
 		width: auto;
 		margin: 0 3vw 0 3vw;
 
-		font-size: 2.5vw;
+		font-size: 3vw;
 	}
 	
 	#body article h1,
@@ -211,18 +210,24 @@ header {
         display: none;
     }
 
-    #body.people section div {
-	    width: 50%;
+    #body.people section div.person {
+	    width: 50vw;
 	    aspect-ratio: 1/1;
+	    height: 50vw;
 	}
 
-	#body.people section div div {
+	#body.people section div.person img {
 	    width: 100%;
+	    height: auto;
 	}
 
-	#body.people section div img {
-	    width: 100%;
+	#body.people section div.person div.info {
+        width: 100%;
 	}
+
+	#body.people section div.person:hover div.info {
+	    height: calc(50vw + 36.5px);
+    }
 
 }
 
@@ -623,14 +628,16 @@ figure .three-quarters {
 	text-transform: none;
 }
 
-.people section div {
+.people section div.person {
+    position: relative;
+
 	width: 200px;
 	height: 200px;
 		
 	overflow: visible;
 }
 
-.people section div div {
+.people section div div.info {
 	position: relative;
 	z-index: 1;
 
@@ -650,8 +657,8 @@ figure .three-quarters {
 	transition: height 0.1s ease 0s, background-color 0.01s ease 0.1s;
 }
 	
-.people section div div span, 
-.people section div div ul {
+.people section div div.info span,
+.people section div div.info ul {
 	display: block;
 
 	max-height: 0;
@@ -659,13 +666,13 @@ figure .three-quarters {
 	transition: max-height 0.05s ease 0s;
 }
 
-.people section div:hover div span, 
-.people section div:hover div ul {
+.people section div:hover div.info span,
+.people section div:hover div.info ul {
 	max-height: 500px;
 	transition: max-height 0s ease 0.05s;
 }
 	
-.people section div:hover div {	
+.people section div:hover div.info {
 	z-index: 2;
 	
 	background-color: black;
@@ -674,7 +681,7 @@ figure .three-quarters {
 	transition: height 0.1s ease 100ms, background-color 0.01s ease 0s;
 }
 
-.people section div div h3 {
+.people section div div.info h3 {
 	padding: 4px 0 0 10px;
 	margin: 0;
 }
