@@ -136,14 +136,15 @@ header {
 	#body header ul.menu li a {
 		font-size: 3vw;
 	}
-	
+
+	/* logo */
 	#body header ul.menu li.home a {
 		padding: 32px 0 0 8.5vw;
 
 		line-height: 4.05vw;
 	
 		background-size: 7.2vw;
-		background-position: 0 39px;
+		background-position: 0 37px;
 		
 		max-width: 10vw
 	}
@@ -200,6 +201,29 @@ header {
     #body.front main section.contact {
         margin-top: 2em;
     }
+
+    #body.people main {
+        width: 100%;
+        margin: 0;
+    }
+
+    #body.people section h2 {
+        display: none;
+    }
+
+    #body.people section div {
+	    width: 50%;
+	    aspect-ratio: 1/1;
+	}
+
+	#body.people section div div {
+	    width: 100%;
+	}
+
+	#body.people section div img {
+	    width: 100%;
+	}
+
 }
 
 .front header {
@@ -455,7 +479,7 @@ article ol {
 }
 
 article p {
-	margin-bottom: 1em;
+    margin-bottom: 27px;
 }
 
 article p:first-of-type {
@@ -463,24 +487,31 @@ article p:first-of-type {
 }
 
 article h1 {
-	margin: 3px auto 50px auto;
-	font-size: 1.618em;
-	line-height: 1.618;
+	margin: 3px auto 1em auto;
+}
+
+
+figure {
+    margin: -5px auto 27px auto;
+    width: 800px;
+}
+
+figure.embed iframe {
+    width: 800px;
+    height 494px;
 }
 
 figure.wide {
-    margin: 1.618em 0 1.618em 0;
     width: 100%;
+    margin-left: 0;
+    margin-right: 0;
 }
 
 figure.wide figcaption {
 
-	margin: 0 auto 1em auto;
 	width: 800px;
-		
-	font-size: 1em;
-
 	font-style: italic;
+	margin: 0 auto;
 }
 
 figure.tight {

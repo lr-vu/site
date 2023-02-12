@@ -8,7 +8,7 @@ defaults:
     scope:
         path: ""
     values:
-        article: true   # Whether this is an article page.
+        article: false  # Whether this is an article page.
         maps: false     # Whether to load the google maps stuff.
         highlight: None # Which highlight to display: 0, 1, 2, 3... (front page only).
         dark: false     # Whether the menu is in dark mode.
