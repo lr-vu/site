@@ -163,7 +163,10 @@ header {
 	}
 	
 	#body article h1,
+	#body article h2,
+	#body article h3,
 	#body article p,
+	#body article figure,
 	#body article figcaption {
 		width: auto;
 		margin-left: 3vw;
@@ -186,7 +189,7 @@ header {
         margin-left: 3vw;
     }
 
-    #body.front main {
+    #body main {
         display: block;
 
         margin-right: 3vw;
@@ -502,8 +505,8 @@ figure {
 }
 
 figure.embed iframe {
-    width: 800px;
-    height 494px;
+    width: 100%;
+    aspect-ratio: 1.618 / 1;
 }
 
 figure.wide {
@@ -515,7 +518,6 @@ figure.wide {
 figure.wide figcaption {
 
 	width: 800px;
-	font-style: italic;
 	margin: 0 auto;
 }
 

@@ -8,7 +8,7 @@ article: true
 
 A vast amount of the world’s data and knowledge is _relational_ in nature. By designing machine learning methods that consume such symbolic, relational knowledge or interact with formal reasoning methods, it becomes possible to discover new knowledge, to detect mistakes in existing knowledge, and to develop alternative forms of inference.
 
-The Learning & Reasoning group studies the ways machine learning, symbolic knowledge and formal reasoning can interact to enhance one another. We believe that inductive data-driven learning and deductive knowledge-based reasoning have complementary strengths and weaknesses. 
+The Learning & Reasoning group studies the ways machine learning, symbolic knowledge and formal reasoning can interact to enhance one another. We believe that inductive data-driven learning and deductive knowledge-based reasoning have complementary strengths and weaknesses.
 
 ## The two histories of AI
 
@@ -18,8 +18,9 @@ The symbolic approaches, broadly, cover those attempts at solving a problem that
 
 In the case of chess, this line of investigation led to a watershed in 1997, when IBM's Deep Blue became the first computer system to beat the reigning human champion at chess.  
 
-<figure>
-<iframe width="800" height="494" src="https://www.youtube.com/embed/aNpv3LfCUa4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<figure class="embed">
+<iframe src="https://www.youtube.com/embed/aNpv3LfCUa4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<figcaption>Footage of Kasparov playing Deep Blue in 1997.</figcaption>
 </figure>
 
 Deep blue combined a highly optimized search algorithm, with a vast amount of human knowledge about chess, specifally encoded to help it evaluate how valuable various positions would be in the game. Not long after its first victory, super-human chess players could be run first on a computer, and then on a cell phone. 
@@ -28,7 +29,7 @@ The other approach, that of _learning_, entirely sidesteps the issue of understa
 
 <figure class="wide">
 <img src="/images/rosenblatt.png">
-<figcaption>Frank Rosenblatt, inventor of the perceptron (1954), a very realy machine learning method.</figcaption>
+<figcaption>Frank Rosenblatt, inventor of the perceptron (1954), a very early machine learning method.</figcaption>
 </figure>
 
 Learning approaches had their own moment in the sun, similar to Deep Blue. Note with chess, this time, but with Go. 
@@ -46,7 +47,7 @@ In recent years, AI has made tremendous progress. First in areas like image clas
 </figure>
 
 
-##
+## Where are we going?
 
 In the other direction, the use of prior knowledge can improve machine learning methods by reducing the need for huge amounts of data and computing resources, and by making machine learning models more generalisable and interpretable. We study how symbolic methods can be used to represent such prior knowledge, and how formal reasoning can be combined with learning to achieve the best of both worlds.
 
