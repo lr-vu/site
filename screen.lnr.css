@@ -750,6 +750,15 @@ figure .three-quarters {
 	content: ', ';
 }
 
+.people ul.keywords li::before {
+    padding: 0;
+    margin: 0;
+    display: inline;
+    color: black;
+    content: none;
+}
+
+
 .people section ul.keywords li:last-child::after {
 	content: none;
 }
@@ -769,6 +778,10 @@ figure .three-quarters {
 
 .people section ul.links li::after {
 	content: ' · ';
+}
+
+.people ul.links li::before {
+    content: none;
 }
 
 .people section ul.links li:last-child::after {
@@ -814,6 +827,13 @@ ul.authors, ul.authors li {
     display: inline;
 }
 
+ul.authors li::before {
+    padding: 0;
+    margin: 0;
+    display: inline;
+    color: black;
+}
+
 ul.authors li + li::before {
     content: ', ';
 }
@@ -830,26 +850,33 @@ ul.publications li .venue {
     color: #b5b5b5;
 }
 
-ul.keywords, ul.keywords li {
+.publications ul.keywords, ul.keywords li {
     margin: 0;
     padding: 0;
     list-style: none;
 }
 
-ul.keywords {
+.publications ul.keywords {
     display: flex;
     flex-flow: row nowrap;
     justify-content: flex-end;
 }
 
-ul.keywords li {
+.publications ul.keywords li {
     display: inline;
 
     font-size: 14px;
     line-height: 27px;
 }
 
-ul.keywords li + li::before {
+.publications ul.keywords li::before {
+    padding: 0;
+    margin: 0;
+    display: inline;
+    color: black;
+}
+
+.publications ul.keywords li + li::before {
     content: ', ';
 }
 
@@ -895,6 +922,7 @@ nav.publication-links ul li::before {
     padding: 0;
     margin: 0;
     display: inline;
+    color: black;
 }
 
 nav.publication-links ul {
