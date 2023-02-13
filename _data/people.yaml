@@ -1,14 +1,26 @@
 # When adding people make sure to add the correct role. This is used to determine in which section they are displayed. The
 # `title` is displayed below their name.
 #
-# The order is by last name, except under Staff, where it is by seniority.
+# People are order by the value in the "orderby" field which should contain their last name.
 #
 # Please add no more than 4 keywords per person, and keep them short. Keywords are lowercase, unless involving a
 # person's name.
 #
 # Add the person's image to /images/people/ as a png or a jpeg. Make sure to crop it to a square.
 
+- name: Michael Cochez
+  orderby: Cochez
+  keywords:
+    - approximate reasoning
+    - formalisation of medical knowledge
+    - diagnosis
+  role: staff
+  title: assistant professor
+  website: https://cochez.nl
+  image: /images/people/michael.png
+
 - name: Frank van Harmelen
+  orderby: Harmelen
   keywords:
     - approximate reasoning
     - formalisation of medical knowledge
@@ -22,6 +34,7 @@
   image: /images/people/frank.png
 
 - name: Annette ten Teije
+  orderby: Teije
   keywords:
     - approximate reasoning
     - formalisation of medical knowledge
@@ -32,17 +45,9 @@
   scholar: https://scholar.google.com/citations?user=2fDYEcgAAAAJ
   image: /images/people/annette.png
 
-- name: Michael Cochez
-  keywords:
-    - approximate reasoning
-    - formalisation of medical knowledge
-    - diagnosis
-  role: staff
-  title: assistant professor
-  website: https://cochez.nl
-  image: /images/people/michael.png
 
 - name: Peter Bloem
+  orderby: Bloem
   keywords:
     - machine learning
     - information theory
@@ -58,6 +63,7 @@
   image: /images/people/peter.jpg
 
 - name: Jan Christoph Kalo
+  orderby: Kalo
   keywords:
    - machine learning
    - information theory
@@ -72,6 +78,7 @@
   image: /images/people/jc.png
 
 - name: Taraneh Younesian
+  orderby: Younesian
   keywords:
     - explainability
     - learning on graphs
@@ -83,73 +90,91 @@
   image: /images/people/taraneh.png
 
 -   name: Al Idrizou
+    orderby: Idrizou
     website: https://www.illc.uva.nl/People/person/4927/Al-Idrissou/
     image: /images/people/Al.png
     role: postdoc
 -   name: Andreas Sauter
+    orderby: Sauter
     website: http://sauter.at/
     image: /images/people/Andreas.png
     role: phd
 -   name: Daniel Daza
+    orderby: Daza
     website: https://dfdazac.github.io/
     image: /images/people/Daniel.png
     role: phd
 -   name: Dimitrios Alivanistos
+    orderby: Alivanostos
     website: https://dimitrisalivas.github.io/
     image: /images/people/Dimitris.png
     role: phd
 -   name: Emile van Krieken
+    orderby: Krieken
     website: https://emilevankrieken.com/
     image: /images/people/Emile.jpg
     role: phd
 -   name: Inès Blin
+    orderby: Blin
     website: https://csl.sony.fr/team/ines-blin/
     image: /images/people/Ines.png
 -   name: Majid Mohammedi
+    orderby: Mohammedi
     website: https://research.vu.nl/en/persons/majeed-mohammadi/
     image: /images/people/Majid.png
     role: postdoc
 -   name: Mani Tajaddini
+    orderby: Tajaddini
     website: https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/interactive-intelligence/people/current-group-members/mani-tajaddini/
     image: /images/people/Mani.png
     role: guest
 -   name: Nikos Kondylidis
+    orderby: Kondylidis
     website: https://research.vu.nl/en/persons/nikolaos-kondylidis/
     image: /images/people/Nikos.png
     role: phd
 -   name: Romy Vos
+    orderby: Vos
     website: https://research.vu.nl/en/persons/romy-vos
     image: /images/people/Romy.png
     role: phd
 -   name: Ruud van Bakel
+    orderby: Bakel
     website: https://r-van-bakel.github.io/
     image: /images/people/Ruud.png
     role: phd
 -   name: Taewoon Kim
+    orderby: Kim
     website: https://taewoon.kim/
     image: /images/people/Taewoon.png
     role: phd
 -   name: Ting Liu
+    orderby: Liu
     website: https://scholar.google.com/citations?user=ObfjiFkAAAAJ&hl=en/
     image: /images/people/Ting.jpg
     role: postdoc
 -   name: Xander Wilcke
+    orderby: Wilcke
     website: https://research.vu.nl/en/persons/xander-wilcke/
     image: /images/people/Xander-Wilcke.jpg
     role: postdoc
 -   name: Zhisheng Huang
+    orderby: Huang
     website: https://www.cs.vu.nl/~huang/
     image: /images/people/Zhisheng-Huang.jpg
     role: staff
 -   name: Ali Khalili
+    orderby: Khalili
     website: https://ali1k.com/
     image: /images/people/Ali.jpg
     role: guest
 -   name: Chengcheng Fu
+    orderby: Fu
     website: https://research.vu.nl/en/persons/chengcheng-fu/
     image: /images/people/chengcheng.png
     role: guest
 -   name: Thiviyan Thanapalasingam
+    orderby: Thanapalasingam
     website: https://thiviyansingam.com/
     image: /images/people/Thiviyan.jpg
     role: guest

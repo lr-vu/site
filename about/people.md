@@ -10,6 +10,7 @@ or they won't show up.
 
 {% endcomment %}
 
+{% assign people = site.data.people | sort: 'orderby' %}
 
 {::nomarkdown}
 {% assign roles = "staff, postdoc, phd, guest" | split: ", " %}
@@ -22,7 +23,7 @@ or they won't show up.
     {% when 'guest' %}Guests
     {% endcase%}</h2>
     
-    {% for person in site.data.people %}
+    {% for person in people %}
         {% if person.role == role %} 
         <div class="person">
             <img src="{{person.image}}">
