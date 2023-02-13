@@ -126,6 +126,10 @@
     image: /images/people/Ruud.png
     role: phd
 -   name: Taewoon Kim
+    keywords:
+        - reinforcement learning
+        - knowledge graphs
+        - memory
     website: https://taewoon.kim/
     image: /images/people/Taewoon.png
     role: phd
