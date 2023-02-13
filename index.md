@@ -45,7 +45,7 @@ dark: true
     page</a>. Otherwise send an email to <a href="mailto:m.lovrencak@vu.nl">Mojca Lovrencak</a>, or a <a 
     href="/about/people">specific group member</a>.
 
-    <p>If you are visiting, you can find us on the VU campus in the NU building. The 
+    <p>If you are visiting, you can find us on the VU campus in the NU building. We are on the 10th floor. The 
     address is</p>
       <div class="address">Boelelaan 1111<br>
       1103HG Amsterdam </div>
