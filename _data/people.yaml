@@ -121,6 +121,7 @@
     website: https://dimitrisalivas.github.io/
     image: /images/people/Dimitris.png
     role: phd
+
 -   name: Emile van Krieken
     orderby: Krieken
     keywords:
@@ -132,6 +133,7 @@
     image: /images/people/Emile.jpg
     role: phd
     title: PhD student
+
 -   name: Inès Blin
     orderby: Blin
     website: https://csl.sony.fr/team/ines-blin/
@@ -230,9 +232,17 @@
     website: https://thiviyansingam.com/
     image: /images/people/Thiviyan.jpg
     role: guest
+
 -   name: Selene Baez Santamaria
     orderby: Baez
-    website: https://research.vu.nl/en/persons/selene-baez-santamaria
+    keywords:
+      - language modelling
+      - conversational AI
+      - hybrid intelligence
+    website: https://selbaez.github.io/
+    github: selBaez
+    scholar: https://scholar.google.com/citations?user=4xjZkV4AAAAJ
+    title: PhD student
     image: /images/people/selene.png
     role: guest    
 
