@@ -8,23 +8,15 @@
 #
 # Add the person's image to /images/people/ as a png or a jpeg. Make sure to crop it to a square.
 
-
 - name: Michael Cochez
   orderby: Cochez
   keywords:
-    - knowledge graphs
-    - graph embedding
-    - machine learning
     - approximate reasoning
-  website: https://www.cochez.nl
-  twitter: https://twitter.com/
-  github: https://github.com/miselico
-  mastodon: https://sigmoid.social/@michaelcochez
-  scholar: https://scholar.google.com/citations?user=JuZrOtoAAAAJ&hl=en
-  dblp: https://dblp.org/pid/83/11448.html
-  linkedin: https://www.linkedin.com/in/michaelcochez/
+    - formalisation of medical knowledge
+    - diagnosis
   role: staff
   title: assistant professor
+  website: https://cochez.nl
   image: /images/people/michael.png
 
 - name: Frank van Harmelen
@@ -102,11 +94,23 @@
     website: https://www.illc.uva.nl/People/person/4927/Al-Idrissou/
     image: /images/people/Al.png
     role: postdoc
+    
 -   name: Andreas Sauter
     orderby: Sauter
+    keywords:
+      - causality
+      - reinforcement Learning
     website: http://sauter.at/
     image: /images/people/Andreas.png
     role: phd
+    title: PhD student
+    twitter: https://twitter.com/awmsauter
+    github: https://github.com/sa-and
+    mastodon: https://sigmoid.social/@awmsauter
+    scholar: https://scholar.google.com/citations?hl=de&user=vj75MN0AAAAJ
+    youtube: https://www.youtube.com/channel/UC6exs7HdUOyQJFIUXqw_TZQ/featured
+    linkedin: https://www.linkedin.com/in/andreas-sauter-a95858179/
+    
 -   name: Daniel Daza
     orderby: Daza
     website: https://dfdazac.github.io/
@@ -196,11 +200,6 @@
     orderby: Thanapalasingam
     website: https://thiviyansingam.com/
     image: /images/people/Thiviyan.jpg
-    role: guest
--   name: Selene Baez Santamaria
-    orderby: Baez
-    website: https://research.vu.nl/en/persons/selene-baez-santamaria
-    image: /images/people/todo.jpg
     role: guest
 
 # Alumni
