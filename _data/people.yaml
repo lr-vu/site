@@ -8,15 +8,22 @@
 #
 # Add the person's image to /images/people/ as a png or a jpeg. Make sure to crop it to a square.
 
+
 - name: Michael Cochez
   orderby: Cochez
   keywords:
+    - knowledge graphs
+    - graph embedding
+    - machine learning
     - approximate reasoning
-    - formalisation of medical knowledge
-    - diagnosis
+  website: https://www.cochez.nl
+  twitter: https://twitter.com/
+  github: https://github.com/miselico
+  mastodon: @michaelcochez@sigmoid.social
+  scholar: https://scholar.google.com/citations?user=JuZrOtoAAAAJ&hl=en
+  dblp: https://dblp.org/pid/83/11448.html
   role: staff
   title: assistant professor
-  website: https://cochez.nl
   image: /images/people/michael.png
 
 - name: Frank van Harmelen
