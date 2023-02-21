@@ -2,6 +2,27 @@
 nocite: "[@*]"
 references:
 - author:
+  - family: Kim
+    given: Taewoon
+  - family: Cochez
+    given: Michael
+  - family: François-Lavet
+    given: Vincent
+  - family: Neerincx
+    given: Mark
+  - family: Vossen
+    given: Piek
+  container-title: Proceedings of the AAAI conference on artificial
+    intelligence
+  doi: 10.48550/ARXIV.2212.02098
+  id: Taewoon-AAAI-2023
+  issued: 2023
+  keyword: machine learning, graph learning, memory
+  title: A machine with short-term, episodic, and semantic memory
+    systems
+  type: paper-conference
+  url: "https://arxiv.org/abs/2212.02098"
+- author:
   - dropping-particle: de
     family: Rooij
     given: Steven
