@@ -153,10 +153,15 @@
     image: /images/people/Nikos.png
     role: phd
 -   name: Romy Vos
+    keywords: 
+      - neurosymbolic AI
+      - drug safety
+      - machine learning on graphs
     orderby: Vos
     website: https://research.vu.nl/en/persons/romy-vos
     image: /images/people/Romy.png
     role: phd
+    linkedin: https://www.linkedin.com/in/romy-vos-928891158/
 -   name: Ruud van Bakel
     orderby: Bakel
     website: https://r-van-bakel.github.io/
