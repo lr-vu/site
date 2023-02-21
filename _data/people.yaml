@@ -111,9 +111,15 @@
     role: phd
 -   name: Emile van Krieken
     orderby: Krieken
+    keywords:
+    - neurosymbolic AI
+    - optimization
+    - probabilistic modeling
+    scholar: https://scholar.google.com/citations?user=il8Y0B4AAAAJ&hl=en
     website: https://emilevankrieken.com/
     image: /images/people/Emile.jpg
     role: phd
+    title: PhD student
 -   name: Inès Blin
     orderby: Blin
     website: https://csl.sony.fr/team/ines-blin/
