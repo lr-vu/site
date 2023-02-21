@@ -19,7 +19,7 @@ The symbolic approaches, broadly, cover those attempts at solving a problem that
 In the case of chess, this line of investigation led to a watershed in 1997, when IBM's Deep Blue became the first computer system to beat the reigning human champion at chess.  
 
 <figure class="embed">
-<iframe src="https://www.youtube.com/embed/aNpv3LfCUa4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/ja3UHKbXsZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <figcaption>Footage of Kasparov playing Deep Blue in 1997.</figcaption>
 </figure>
 
