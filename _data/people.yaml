@@ -201,6 +201,11 @@
     website: https://thiviyansingam.com/
     image: /images/people/Thiviyan.jpg
     role: guest
+-   name: Selene Baez Santamaria
+    orderby: Baez
+    website: https://research.vu.nl/en/persons/selene-baez-santamaria
+    image: /images/people/selene.png
+    role: guest    
 
 # Alumni
 
