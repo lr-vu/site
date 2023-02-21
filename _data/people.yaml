@@ -164,9 +164,20 @@
     linkedin: https://www.linkedin.com/in/romy-vos-928891158/
 -   name: Ruud van Bakel
     orderby: Bakel
+    keywords:
+      - Massive Graphs
+      - Scalability
+      - Graph Embeddings
+      - Machine Learning
+      - Neuro-symbolic AI
     website: https://r-van-bakel.github.io/
     image: /images/people/Ruud.png
     role: phd
+    title: PhD student
+    twitter: https://twitter.com/Ruud_van_Bakel
+    github: https://github.com/R-van-Bakel
+    youtube: https://www.youtube.com/@ruudvanbakel
+    linkedin: https://www.linkedin.com/in/ruud-v-942425128/
 -   name: Taewoon Kim
     orderby: Kim
     keywords:
