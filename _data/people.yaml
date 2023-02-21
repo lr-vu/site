@@ -118,6 +118,7 @@
     orderby: Blin
     website: https://csl.sony.fr/team/ines-blin/
     image: /images/people/Ines.png
+    role: phd
 -   name: Majid Mohammedi
     orderby: Mohammedi
     website: https://research.vu.nl/en/persons/majeed-mohammadi/
@@ -188,7 +189,6 @@
 -   name: Albert Merono
     website: https://www.albertmeronyo.org/
     bio: now assist. prof. at Kings College London
-    role: alumnus
     role: alumnus
 -   name: Alessandro Daniele
     website: https://ict.fbk.eu/people/detail/alessandro-daniele/
@@ -564,4 +564,5 @@
 -   name: Zharko Aleksovski
     website: https://www.linkedin.com/in/zharko-aleksovski-0a7b086/?originalSubdomain=nl
     bio: now at [Philips Research](http://www.research.philips.com/)
+    role: alumnus
 
