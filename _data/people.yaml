@@ -116,11 +116,19 @@
     website: https://dfdazac.github.io/
     image: /images/people/Daniel.png
     role: phd
+
 -   name: Dimitrios Alivanistos
-    orderby: Alivanostos
+    orderby: Alivanistos
+    keywords:
+      - Graph Machine Learning
+      - Knowledge Graphs
+      - Scientific Discovery
+    scholar: https://scholar.google.nl/citations?hl=en&user=snZnIqEAAAAJ
     website: https://dimitrisalivas.github.io/
+    linkedin: https://www.linkedin.com/in/dimitris-alivanistos-678a04b6/
     image: /images/people/Dimitris.png
     role: phd
+    title: PhD Student
 
 -   name: Emile van Krieken
     orderby: Krieken
