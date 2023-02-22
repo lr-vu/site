@@ -136,9 +136,16 @@
 
 -   name: Inès Blin
     orderby: Blin
-    website: https://csl.sony.fr/team/ines-blin/
+    keywords:
+    - narratives
+    - knowledge graphs
+    scholar: https://scholar.google.com/citations?user=YQmdRbwAAAAJ&hl=en
+    website: https://inesblin.github.io
     image: /images/people/Ines.png
     role: phd
+    title: PhD Student
+    github: InesBlin
+    linkedin: https://www.linkedin.com/in/ines-blin-903650151/
 -   name: Majid Mohammedi
     orderby: Mohammedi
     website: https://research.vu.nl/en/persons/majeed-mohammadi/
