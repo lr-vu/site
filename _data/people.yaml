@@ -80,11 +80,13 @@
 - name: Taraneh Younesian
   orderby: Younesian
   keywords:
+    - machine learning on graphs
     - explainability
-    - learning on graphs
     - scalability
   scholar: https://scholar.google.com/citations?user=oPPUcYoAAAAJ
   website: https://research.vu.nl/en/persons/taraneh-younesian/
+  linkedin: https://www.linkedin.com/in/taraneh-younesian1/
+  twitter: https://twitter.com/TYounesian
   role: phd
   title: PhD student
   image: /images/people/taraneh.png
