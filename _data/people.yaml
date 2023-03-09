@@ -115,9 +115,18 @@
     
 -   name: Daniel Daza
     orderby: Daza
+    keywords:
+      - machine learning
+      - knowledge graphs
+      - information extraction 
     website: https://dfdazac.github.io/
     image: /images/people/Daniel.png
     role: phd
+    title: PhD student
+    github: https://github.com/dfdazac
+    twitter: https://twitter.com/danieldazac
+    scholar: https://scholar.google.com/citations?user=VR4a4QIAAAAJ&hl=en
+    linkedin: https://www.linkedin.com/in/daniel-daza/
 
 -   name: Dimitrios Alivanistos
     orderby: Alivanistos
