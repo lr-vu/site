@@ -13,6 +13,8 @@ permissions:
 jobs:
   update_bibliography:
     runs-on: ubuntu-latest
+    outputs:
+      bibliography_changes: ${{ steps.download_and_check.outputs.BIBLIOGRAPHY_CHANGES }}
     steps:
       - name: clone
         uses: actions/checkout@v1
@@ -22,17 +24,17 @@ jobs:
           wget --output-document=files/publications.bib https://api.zotero.org/groups/4989916/items?format=bibtex
           echo "BIBLIOGRAPHY_CHANGES=$(git diff --name-only | wc -l)" >> $GITHUB_ENV
       - name: push_if_updated
-        if: ${{steps.download_and_check.BIBLIOGRAPHY_CHANGES }} != 0
+        if: ${{steps.download_and_check.outputs.BIBLIOGRAPHY_CHANGES }} != 0
         run: |
           git config --local user.email "zotero_change@zotero.org"
           git config --local user.name "GitHub Action"
           git commit -m "Updated bibliography"
       - name: Push changes
-        if: ${{steps.download_and_check.BIBLIOGRAPHY_CHANGES }} != 0
+        if: ${{steps.download_and_check.outputs.BIBLIOGRAPHY_CHANGES }} != 0
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
   update_pages:
     needs: update_bibliography
-    if: ${{jobs.update_bibliography.download_and_check.outputs.BIBLIOGRAPHY_CHANGES }} != 0
+    if: ${{needs.update_bibliography.bibliography_changes }} != 0
     uses: ./.github/workflows/jekyll.yml
