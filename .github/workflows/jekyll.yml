@@ -36,13 +36,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: run pandoc
-        uses: docker://pandoc/core:2.9
+        uses: docker://pandoc/core:3.1
         with:
-          args: "./files/publications.bib -s -f biblatex -t markdown > ./_data/publications.yaml" # gets appended to pandoc command
+          args: "--output=./_data/publications.yaml ./files/publications.bib -s --from biblatex --to markdown" # gets appended to pandoc command
       - name: Setup Ruby
         uses: ruby/setup-ruby@ee2113536afb7f793eed4ce60e8d3b26db912da4 # v1.127.0
         with:
-          ruby-version: '3.1' # Not needed with a .ruby-version file
+          ruby-version: "3.1" # Not needed with a .ruby-version file
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
           cache-version: 0 # Increment this number if you need to re-download cached gems
       - name: Setup Pages
