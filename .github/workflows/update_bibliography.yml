@@ -1,0 +1,36 @@
+# workflow to update the bibliograhy file if it has changed.
+
+on:
+  schedule:
+    # every 15 minutes
+    - cron: "3,18,33,48 * * * *"
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update_bibliography:
+    runs-on: ubuntu-latest
+    steps:
+      - name: clone
+        uses: actions/checkout@v1
+      - name: download bibtex
+        run: |
+          wget --output-document=files/publications.bib https://api.zotero.org/groups/4989916/items?format=bibtex
+          echo "BIBLIOGRAPHY_CHANGES=$(git diff --name-only | wc -l)" >> $GITHUB_ENV
+      - name: push_if_updated
+        if: ${{env.BIBLIOGRAPHY_CHANGES }} != 0
+        run: |
+          git config --local user.email "zotero_change@zotero.org"
+          git config --local user.name "GitHub Action"
+          git commit -m "Updated bibliography"
+      - name: Push changes
+        if: ${{env.BIBLIOGRAPHY_CHANGES }} != 0
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+  update_pages:
+    if: ${{env.BIBLIOGRAPHY_CHANGES }} != 0
+    uses: ./.github/workflows/jekyll.yml
