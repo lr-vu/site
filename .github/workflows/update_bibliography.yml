@@ -1,9 +1,9 @@
 # workflow to update the bibliograhy file if it has changed.
 
 on:
-  schedule:
-    # every 15 minutes
-    - cron: "3,18,33,48 * * * *"
+  # schedule:
+  # every 15 minutes
+  # - cron: "3,18,33,48 * * * *"
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
