@@ -1,5 +1,7 @@
 # workflow to update the bibliograhy file if it has changed.
 
+name: Check for updates of the bibliography and deploy if it changed
+
 on:
   # schedule:
   # every 15 minutes
@@ -29,6 +31,7 @@ jobs:
       - name: push_if_updated
         if: ${{steps.download_and_check.outputs.BIBLIOGRAPHY_CHANGES }} != 0
         run: |
+          git add files/publications.bib
           git config --local user.email "zotero_change@zotero.org"
           git config --local user.name "GitHub Action"
           git commit -m "Updated bibliography"
