@@ -9,6 +9,9 @@ on:
 
 permissions:
   contents: write
+  # The following permissions are needed by the pages call if a change occured.
+  pages: write
+  id-token: write
 
 jobs:
   update_bibliography:
