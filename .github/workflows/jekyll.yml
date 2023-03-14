@@ -13,6 +13,8 @@ on:
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
+  # allow calling from another workflow (update bibliography)
+  workflow_call:
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
@@ -33,6 +35,10 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+      - name: run pandoc
+        uses: docker://pandoc/core:2.9
+        with:
+          args: "./files/publications.bib -s -f biblatex -t markdown > ./_data/publications.yaml" # gets appended to pandoc command
       - name: Setup Ruby
         uses: ruby/setup-ruby@ee2113536afb7f793eed4ce60e8d3b26db912da4 # v1.127.0
         with:
