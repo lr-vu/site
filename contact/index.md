@@ -10,10 +10,14 @@ class: contact
 Feel free to get in touch with us on any subject. Whether you want to give us some feedback, talk to us about our research, or propose a collaboration, we want to hear from you. The best way to do this is to find the <a href="/about/people">specific group member</a>, whose work is closest to what you want to discuss. When in doubt, just pick a staff member, and they'll redirect you to the right person. 
 
 If you are interested in working with us, please check the <a href="/about/jobs">jobs
-page</a>. If there is nothing there, we do not currently offer any new positions. This includes PhD positions, which are posted as job openings in the Netherlands. For jobs anywhere in our department or Universitty, have a look at [the university job listings page](https://workingat.vu.nl/home).
+page</a>. If there is nothing there, we do not currently offer any new positions. This includes PhD positions, which are posted as job openings in the Netherlands. For jobs anywhere in our department or at our university, have a look at [the university job listings page](https://workingat.vu.nl/home).
 
 For general enquiries, send an email to the department secretary <a href="mailto:m.lovrencak@vu.nl">Mojca Lovrenčak</a>.
     
+# For students
+
+If you are a student looking for thesis supervision, you should have access to a list of projects available at the department. Do not approach researchers before checking the list to see if they have projects or slots available. If you have trouble finding a supervisor, contact the coordinator for your thesis project. 
+
 # Finding us
 
 If you are visiting, you can find us on the VU campus in the _NU building_. We are on the 10th floor. The 

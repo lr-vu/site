@@ -52,7 +52,6 @@
     - machine learning
     - information theory
     - minimum description length
-    - Kolmogorov complexity
   website: peterbloem.nl
   twitter: https://twitter.com/pbloemesquire
   github: https://github.com/pbloem
@@ -61,6 +60,7 @@
   role: staff
   title: assistant professor
   image: /images/people/peter.jpg
+  mail: p.bloem@vu.nl
 
 - name: Jan Christoph Kalo
   orderby: Kalo

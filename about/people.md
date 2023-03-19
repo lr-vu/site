@@ -39,14 +39,20 @@ or they won't show up.
             </ul>
             
             <ul class="links">
+                {% if person.mail %}
+                    <li><a href="mailto:{{person.mail}}">mail</a></li>{% endif %}
                 {% if person.website %}
-                    <li><a href="{{person.website}}">website</a></li>{% endif %}
+                    <li><a href="{{person.website}}">site</a></li>{% endif %}
                 {% if person.twitter %}
                     <li><a href="{{person.twitter}}">twitter</a></li>{% endif %}
                 {% if person.scholar %}
                     <li><a href="{{person.scholar}}">scholar</a></li>{% endif %}
                 {% if person.mastodon %}
                     <li><a href="{{person.mastodon}}">mastodon</a></li>{% endif %}
+                {% if person.linkedin %}
+                    <li><a href="{{person.mastodon}}">linkedin</a></li>{% endif %}
+                {% if person.github %}
+                    <li><a href="{{person.github}}">github</a></li>{% endif %}
 
             </ul>
             </div>
