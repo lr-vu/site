@@ -554,6 +554,11 @@ figure.narrow img{
     width: 660px;
 }
 
+figure.centering img {
+    margin: 0 auto;
+    display: block;
+}
+
 figure.wide img,
 figure.wide-margin img {
    	width: 100%;
