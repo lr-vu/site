@@ -1,8 +1,8 @@
 {% include _slug.md %}
 
-<!-- <nav>
+<nav>
     <ul class="submenu">
-        <li><a href="#">reaching us</a></li>
-        <li><a href="#">getting in touch</a></li>
+        <li><a href="#get-in-touch">get in touch</a></li>
+        <li><a href="#finding-us">finding us</a></li>
     </ul>
-</nav> -->
+</nav>

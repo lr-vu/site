@@ -15,8 +15,6 @@
  * - 116 px
  *
  *
- *
- *
  *  -
  *  - 17px
  * Secondary grid (quarter):
@@ -988,4 +986,12 @@ nav.publication-links li + li::before {
     margin-right: auto;
     margin-left: auto;
     display: block;
+}
+
+.contact .gmaps,
+.contact .gmaps-photo {
+    width: 800px;
+    height: 494px;
+    margin: 0 auto;
+
 }

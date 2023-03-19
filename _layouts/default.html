@@ -3,7 +3,6 @@
   <head>
     <meta charset="UTF-8">
 
-
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap" rel="stylesheet">
@@ -54,7 +53,7 @@
             <li class="home"><a href="/">Learning <span>and</span>&nbsp;Reasoning</a></li>
             <li class="{% if cur[1] == 'about' %}current{% endif %}"><a href="/about">about us</a></li>
             <li class="{% if cur[1] == 'research' %}current{% endif %}"><a href="/research">research</a></li>
-            <!-- <li class="{% if cur[1] == 'contact' %}current{% endif %}"><a href="/contact">contact</a></li> -->
+            <li class="{% if cur[1] == 'contact' %}current{% endif %}"><a href="/contact">contact</a></li>
         </ul>
 
         {% if page.highlight == 0%}
