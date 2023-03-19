@@ -7,7 +7,7 @@ class: contact
 
 # Get in touch
 
-Feel free to get in touch with us on any subject. Whether you want to give us some feedback, talk to us about our research, or propose a collaboration, we want to hear from you. The best way to do this is to find the <a href="/about/people">specific group member</a>, whose work is closest to what you want to discuss. When in doubt, just pick a staff member, and they'll redirect you to the righ person. 
+Feel free to get in touch with us on any subject. Whether you want to give us some feedback, talk to us about our research, or propose a collaboration, we want to hear from you. The best way to do this is to find the <a href="/about/people">specific group member</a>, whose work is closest to what you want to discuss. When in doubt, just pick a staff member, and they'll redirect you to the right person. 
 
 If you are interested in working with us, please check the <a href="/about/jobs">jobs
 page</a>. If there is nothing there, we do not currently offer any new positions. This includes PhD positions, which are posted as job openings in the Netherlands. For jobs anywhere in our department or Universitty, have a look at [the university job listings page](https://workingat.vu.nl/home).
