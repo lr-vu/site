@@ -988,10 +988,9 @@ nav.publication-links li + li::before {
     display: block;
 }
 
-.contact .gmaps,
-.contact .gmaps-photo {
+body.contact .gmaps,
+body.contact .gmaps-photo {
     width: 800px;
     height: 494px;
     margin: 0 auto;
-
 }
