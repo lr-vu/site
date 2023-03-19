@@ -891,7 +891,7 @@ ul.publications li .venue {
 
 .publications ul.keywords {
     display: flex;
-    flex-flow: row nowrap;
+    flex-flow: row wrap;
     justify-content: flex-end;
 }
 
@@ -909,8 +909,13 @@ ul.publications li .venue {
     color: black;
 }
 
-.publications ul.keywords li + li::before {
+.publications ul.keywords li::after {
     content: ', ';
+    margin-right: 0.4em;
+}
+
+.publications ul.keywords li:last-child::after {
+    content: none;
 }
 
 nav.publication-links {
