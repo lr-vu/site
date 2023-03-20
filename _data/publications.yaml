@@ -2,6 +2,44 @@
 nocite: "[@*]"
 references:
 - author:
+  - family: Kim
+    given: Taewoon
+  - family: Cochez
+    given: Michael
+  - family: François-Lavet
+    given: Vincent
+  - family: Neerincx
+    given: Mark
+  - family: Vossen
+    given: Piek
+  container-title: AAAI 2023
+  doi: "https://doi.org/10.48550/arXiv.2212.02098"
+  id: kim_machine_2023
+  issued: 2023-02
+  title: A Machine with Short-Term, Episodic, and Semantic Memory
+    Systems
+  type: paper-conference
+  url: "https://arxiv.org/abs/2212.02098"
+- author:
+  - family: Kim
+    given: Taewoon
+  - family: Cochez
+    given: Michael
+  - family: Francois-Lavet
+    given: Vincent
+  - family: Neerincx
+    given: Mark
+  - family: Vossen
+    given: Piek
+  container-title: "HCSHI2022: Workshop on Human-centered Design of
+    Symbiotic Hybrid Intelligence"
+  doi: "https://doi.org/10.48550/arXiv.2204.01611"
+  id: kim_machine_2022
+  issued: 2022-04
+  title: A Machine With Human-Like Memory Systems
+  type: paper-conference
+  url: "https://arxiv.org/abs/2204.01611"
+- author:
   - family: Bonatti
     given: Piero Andrea
   - family: Decker
@@ -89,7 +127,7 @@ references:
   id: hogan_knowledge_2021
   issn: 0360-0300
   issue: 4
-  issued: 2021
+  issued: 2021-07
   keyword: Knowledge graphs, embeddings, graph algorithms, graph
     databases, graph neural networks, graph query languages, ontologies,
     rule mining, shapes
@@ -217,35 +255,5 @@ references:
   title-short: QAGCN
   type: paper-conference
   url: "https://arxiv.org/abs/2206.01818"
-- author:
-  - family: Wang
-    given: Xu
-  - dropping-particle: van
-    family: Harmelen
-    given: Frank
-  - family: Cochez
-    given: Michael
-  - family: Huang
-    given: Zhisheng
-  container-title: Knowledge Science, Engineering and Management
-  editor:
-  - family: Memmi
-    given: Gerard
-  - family: Yang
-    given: Baijian
-  - family: Kong
-    given: Linghe
-  - family: Zhang
-    given: Tianwei
-  - family: Qiu
-    given: Meikang
-  id: wang_scientific_2022
-  isbn: 978-3-031-10986-7
-  issued: 2022
-  page: 469-484
-  publisher: Springer International Publishing
-  publisher-place: Cham
-  title: Scientific Item Recommendation Using a Citation Network
-  type: paper-conference
 ---
 
