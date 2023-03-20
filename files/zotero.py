@@ -33,20 +33,15 @@ def parse_publication(publication: dict) -> dict:
 
     for item in publication["data"]["creators"]:
         if item["creatorType"] == "author":
+            author = {}
             if "lastName" in item:
-                family = item["lastName"]
-            else:
-                family = ""
+                author["family"] = item["lastName"]
             if "firstName" in item:
-                given = item["firstName"]
-            else:
-                given = ""
+                author["given"] = item["firstName"]
             if "name" in item:
-                name = item["name"]
-            else:
-                name = ""
+                author["name"] = item["name"]
 
-            pub["author"].append({"family": family, "given": given, "name": name})
+            pub["author"].append(author)
 
     if "publicationTitle" in publication["data"]:
         pub["container-title"] = publication["data"]["publicationTitle"]
