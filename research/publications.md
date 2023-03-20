@@ -9,10 +9,10 @@ js: true
 {::nomarkdown}
 
 <nav class="publication-links">
-<a href="/files/publications.bib" class="bibtex">download as bibtex</a>
+<!-- <a href="/files/publications.bib" class="bibtex">download as bibtex</a> -->
 </nav>
 
-{% assign pubs = site.data.publications.references | sort: 'issued' | reverse %} 
+{% assign pubs = site.data.publications | sort: 'issued' | reverse %} 
 
 <ul class="publications">
 {% for publication in pubs %}
