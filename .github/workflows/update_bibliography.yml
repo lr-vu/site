@@ -24,8 +24,6 @@ jobs:
     outputs:
       bibliography_changes: ${{ steps.download_and_check.outputs.BIBLIOGRAPHY_CHANGES }}
     steps:
-
-    steps:
       - name: clone
         uses: actions/checkout@v1
       - name: run zotero python client script
