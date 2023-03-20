@@ -25,6 +25,9 @@ def parse_publication(publication: dict) -> dict:
     """
     pub = {}
 
+    if not publication["data"]["title"]:
+        return None
+
     pub["title"] = publication["data"]["title"]
     pub["url"] = publication["data"]["url"]
     pub["issued"] = publication["data"]["date"]
@@ -55,6 +58,8 @@ def parse_publication(publication: dict) -> dict:
 
 
 publications = [parse_publication(pub) for pub in publications]
+publications = [pub for pub in publications if pub is not None]
+publications.sort(key=lambda x: x["issued"], reverse=True)
 
 with open("./_data/publications.yaml", "w") as stream:
     yaml.safe_dump(publications, stream, indent=4, allow_unicode=True)
