@@ -45,7 +45,7 @@ jobs:
       - name: push_if_updated
         if: ${{ env.BIBLIOGRAPHY_CHANGES != '0' }}
         run: |
-          git add files/publications.bib
+          git add _data/publications.yaml
           git config --local user.email "zotero_change@zotero.org"
           git config --local user.name "GitHub Action"
           git commit -m "Updated bibliography"
