@@ -24,14 +24,18 @@ jobs:
     outputs:
       bibliography_changes: ${{ steps.download_and_check.outputs.BIBLIOGRAPHY_CHANGES }}
     steps:
+
       - name: clone
         uses: actions/checkout@v1
-      - name: run zotero python client script
-        id: download_and_check
-        uses: actions/checkout@v3
+
+      - name: setup python
         uses: actions/setup-python@v4
         with:
           python-version: '3.9' 
+
+      - name: run zotero python client script
+        id: download_and_check
+        uses: actions/checkout@v3
         env:
           API_KEY: ${{ secrets.ZOTERO_API_KEY }
         run: |
