@@ -3,9 +3,9 @@
 name: Check for updates of the bibliography and deploy if it changed
 
 on:
-  # push:
-  #   branches:
-  #     - main
+  push:
+    branches:
+      - main
   schedule:
     # every 15 minutes
     - cron: "3,18,33,48 * * * *"
