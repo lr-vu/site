@@ -40,7 +40,7 @@ jobs:
           echo "BIBLIOGRAPHY_CHANGES=$(git diff --name-only | wc -l)" >> $GITHUB_ENV
       - name: print_env
         run: |
-          echo ${{ env.BIBLIOGRAPHY_CHANGES }}
+          echo ${{ steps.download_and_check.outputs.BIBLIOGRAPHY_CHANGES }}
       - name: push_if_updated
         if: ${{ steps.download_and_check.outputs.BIBLIOGRAPHY_CHANGES }} != '0'
         run: |
