@@ -30,7 +30,6 @@ jobs:
         uses: actions/setup-python@v4
         with:
           python-version: '3.9' 
-      - uses: actions/checkout@v3
       - name: run zotero python client script
         id: download_and_check
         env:
@@ -56,5 +55,5 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
   update_pages:
     needs: update_bibliography
-    if: ${{needs.update_bibliography.bibliography_changes != '0' }}
+    if: ${{needs.update_bibliography.bibliography_changes }} != 0
     uses: ./.github/workflows/jekyll.yml
