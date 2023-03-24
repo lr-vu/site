@@ -12,42 +12,44 @@ js: true
 <!-- <a href="/files/publications.bib" class="bibtex">download as bibtex</a> -->
 </nav>
 
-{% assign pubs = site.data.publications | sort: 'issued' | reverse %} 
+{% assign pubs = site.data.publications | sort: 'data.date' | reverse %}
 
 <ul class="publications">
 {% for publication in pubs %}
     <li>
-        <h3>{{publication.title}}
-        {% if publication.url %}
-            {% assign suffix = publication.url | slice: -4, 4 %}
+        <h3>{{publication.data.title}}
+        {% if publication.data.url != '' %}
+            {% assign suffix = publication.data.url | slice: -4, 4 %}
             {% if suffix == '.pdf' %}
-                <a href="{{publication.url}}" class="pdf">pdf</a>
+                <a href="{{publication.data.url}}" class="pdf">pdf</a>
             {% else %}
-                <a href="{{publication.url}}" class="non-pdf">link</a>
-            {% endif %}    
+                <a href="{{publication.data.url}}" class="non-pdf">link</a>
+            {% endif %}
         {% endif %}
+        {% assign current_issued = publication.data.date | split: '-' | first %}
         </h3>
-
-        <span class="issued {% if publication.issued == last_issued %}hidden{% endif%}">{{publication.issued}}</span>
-
-        {% if publication.author %} 
+        <span class="issued {% if current_issued == last_issued %}hidden{% endif%}">{{current_issued}}</span>
+        {% if publication.data.creators %}
         <ul class="authors">
-            {% for author in publication.author %}<li>{{author.given}} {{author.family}}</li>{% endfor %}</ul>
+            {% for author in publication.data.creators %}<li>{{author.firstName}} {{author.lastName}}</li>{% endfor %}</ul>
         {% endif %}
-
-        {% if publication.container-title %} 
-        <span class="venue">Published at {{publication.container-title}}.</span>
+        {% if publication.data.proceedingsTitle %}
+        <span class="venue">Published at {{publication.data.proceedingsTitle}}.</span>
+        {% elsif publication.data.publicationTitle %}
+        <span class="venue">Published at {{publication.data.publicationTitle}}.</span>
+        {% elsif publication.data.conferenceName %}
+        <span class="venue">Published at {{publication.data.conferenceName}}.</span>
         {% endif %}
-
-        {% if publication.keyword %} 
+        {% if publication.data.tags %}
         <ul class="keywords">
-            {% assign keys = publication.keyword | split: ', ' %}
-            {% for key in keys %}<li>{{key}}</li>{% endfor %}   
+            {% assign keys = publication.data.tags %}
+            {% for key in keys %}<li>{{key.tag}}</li>{% endfor %}
         </ul>
         {% endif %}
     </li>
 
-    {% assign last_issued = publication.issued %}
+    {% assign last_issued = publication.data.date | split: '-' | first %}
+
 {% endfor %}
 </span>
 
