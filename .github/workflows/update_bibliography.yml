@@ -6,7 +6,7 @@ on:
   # push:
   #   branches:
   #     - main
-  schedule:
+  # schedule:
     # every 15 minutes
     # - cron: "3,18,33,48 * * * *"
   # Allows you to run this workflow manually from the Actions tab
