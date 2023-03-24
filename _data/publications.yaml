@@ -1,4 +1,19 @@
 -   author:
+    -   family: Kim
+        given: Taewoon
+    -   family: Cochez
+        given: Michael
+    -   family: Francois-Lavet
+        given: Vincent
+    -   family: Neerincx
+        given: Mark
+    -   family: Vossen
+        given: Piek
+    container-title: ''
+    issued: '2022'
+    title: A Machine With Human-Like Memory Systems
+    url: ''
+-   author:
     -   family: Alivanistos
         given: Dimitrios
     -   family: Berrendorf
@@ -125,21 +140,6 @@
     issued: '2022'
     title: Potential Energy to Improve Link Prediction With Relational Graph Neural
         Networks.
-    url: ''
--   author:
-    -   family: Kim
-        given: Taewoon
-    -   family: Cochez
-        given: Michael
-    -   family: Francois-Lavet
-        given: Vincent
-    -   family: Neerincx
-        given: Mark
-    -   family: Vossen
-        given: Piek
-    container-title: arXiv preprint arXiv:2204.01611
-    issued: '2022'
-    title: A Machine With Human-Like Memory Systems
     url: ''
 -   author:
     -   family: Hogan
