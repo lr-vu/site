@@ -8,7 +8,7 @@ on:
   #     - main
   schedule:
     # every 15 minutes
-    - cron: "3,18,33,48 * * * *"
+    # - cron: "3,18,33,48 * * * *"
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
