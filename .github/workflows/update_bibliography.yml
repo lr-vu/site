@@ -42,18 +42,18 @@ jobs:
         run: |
           echo ${{ env.BIBLIOGRAPHY_CHANGES }}
       - name: push_if_updated
-        if: ${{ env.BIBLIOGRAPHY_CHANGES }} != 0
+        if: ${{ env.BIBLIOGRAPHY_CHANGES }} != '0'
         run: |
           git add _data/publications.yaml
           git config --local user.email "zotero_change@zotero.org"
           git config --local user.name "GitHub Action"
           git commit -m "Updated bibliography"
       - name: Push changes
-        if: ${{ env.BIBLIOGRAPHY_CHANGES }} != 0 
+        if: ${{ env.BIBLIOGRAPHY_CHANGES }} != '0' 
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
   update_pages:
     needs: update_bibliography
-    if: ${{needs.update_bibliography.bibliography_changes }} != 0
+    if: ${{needs.update_bibliography.bibliography_changes }} != '0'
     uses: ./.github/workflows/jekyll.yml
