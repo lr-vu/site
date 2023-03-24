@@ -3,32 +3,16 @@
         given: Taewoon
     -   family: Cochez
         given: Michael
-    -   family: François-Lavet
+    -   family: Francois-Lavet
         given: Vincent
     -   family: Neerincx
         given: Mark
     -   family: Vossen
         given: Piek
-    container-title: AAAI 2023
-    issued: 2023-02
-    title: A Machine with Short-Term, Episodic, and Semantic Memory Systems
-    url: https://arxiv.org/abs/2212.02098
--   author:
-    -   family: Kim
-        given: Taewoon
-    -   family: Cochez
-        given: Michael
-    -   family: François-Lavet
-        given: Vincent
-    -   family: Neerincx
-        given: Mark
-    -   family: Vossen
-        given: Piek
-    container-title: 'HCSHI2022: Workshop on Human-centered Design of Symbiotic Hybrid
-        Intelligence'
-    issued: 2022-04
+    container-title: ''
+    issued: '2022'
     title: A Machine With Human-Like Memory Systems
-    url: https://arxiv.org/abs/2204.01611
+    url: ''
 -   author:
     -   family: Alivanistos
         given: Dimitrios
@@ -43,21 +27,18 @@
     title: Query Embedding on Hyper-Relational Knowledge Graphs
     url: https://openreview.net/forum?id=4rLw09TgRw9
 -   author:
-    -   family: Alivanistos
-        given: Dimitrios
-    -   family: Santamaría
-        given: Selene Báez
+    -   family: Wang
+        given: Xu
+    -   family: van Harmelen
+        given: Frank
     -   family: Cochez
         given: Michael
-    -   family: Kalo
-        given: Jan-Christoph
-    -   family: van Krieken
-        given: Emile
-    -   family: Thanapalasingam
-        given: Thiviyan
+    -   family: Huang
+        given: Zhisheng
+    container-title: Knowledge Science, Engineering and Management
     issued: '2022'
-    title: 'Prompting as Probing: Using Language Models for Knowledge Base Construction'
-    url: https://arxiv.org/abs/2208.11057
+    title: Scientific Item Recommendation Using a Citation Network
+    url: ''
 -   author:
     -   family: Xiong
         given: Bo
@@ -86,18 +67,21 @@
         System'
     url: https://arxiv.org/abs/2206.01818
 -   author:
-    -   family: Wang
-        given: Xu
-    -   family: van Harmelen
-        given: Frank
+    -   family: Alivanistos
+        given: Dimitrios
+    -   family: Santamaría
+        given: Selene Báez
     -   family: Cochez
         given: Michael
-    -   family: Huang
-        given: Zhisheng
-    container-title: Knowledge Science, Engineering and Management
+    -   family: Kalo
+        given: Jan-Christoph
+    -   family: van Krieken
+        given: Emile
+    -   family: Thanapalasingam
+        given: Thiviyan
     issued: '2022'
-    title: Scientific Item Recommendation Using a Citation Network
-    url: ''
+    title: 'Prompting as Probing: Using Language Models for Knowledge Base Construction'
+    url: https://arxiv.org/abs/2208.11057
 -   author:
     -   family: Daza
         given: Daniel
@@ -178,32 +162,6 @@
         given: Roberto
     -   family: Neumaier
         given: Sebastian
-    -   name: others
-    container-title: ACM Comput. Surv.
-    issued: 2021-07
-    title: Knowledge Graphs
-    url: https://arxiv.org/abs/2003.02320
--   author:
-    -   family: Hogan
-        given: Aidan
-    -   family: Blomqvist
-        given: Eva
-    -   family: Cochez
-        given: Michael
-    -   family: D’amato
-        given: Claudia
-    -   family: Melo
-        given: Gerard De
-    -   family: Gutierrez
-        given: Claudio
-    -   family: Kirrane
-        given: Sabrina
-    -   family: Gayo
-        given: José Emilio Labra
-    -   family: Navigli
-        given: Roberto
-    -   family: Neumaier
-        given: Sebastian
     -   family: Ngomo
         given: Axel-Cyrille Ngonga
     -   family: Polleres
@@ -224,6 +182,32 @@
     issued: 2021-07
     title: Knowledge Graphs
     url: https://arxiv.org/abs/2003.02320
+-   author:
+    -   family: Wang
+        given: Xu
+    -   family: Harmelen
+        given: Frank van
+    -   family: Huang
+        given: Zhisheng
+    container-title: Proceedings of the 10th International Conference on Data Science,
+        Technology and Applications, DATA 2021, Online Streaming, July 6-8, 2021
+    issued: '2021'
+    title: Biomedical Dataset Recommendation
+    url: https://doi.org/10.5220/0010521801920199
+-   author:
+    -   family: Chakrabarti
+        given: Arnab
+    -   family: Das
+        given: Abhijeet
+    -   family: Cochez
+        given: Michael
+    -   family: Quix
+        given: Christoph
+    container-title: Advances in Databases and Information Systems
+    issued: '2021'
+    title: Unsupervised Feature Selection for Efficient Exploration of High Dimensional
+        Data
+    url: https://www.cochez.nl/papers/feature_selection_for_exploration.pdf
 -   author:
     -   family: Lipp
         given: Johannes
@@ -246,43 +230,6 @@
     title: Towards Easy Vocabulary Drafts with Neologism 2.0
     url: https://openreview.net/forum?id=PoAI5RrlUFj
 -   author:
-    -   family: Hogan
-        given: Aidan
-    -   family: Blomqvist
-        given: Eva
-    -   family: Cochez
-        given: Michael
-    -   family: d'Amato
-        given: Claudia
-    -   family: Melo
-        given: Gerard de
-    -   family: Gutierrez
-        given: Claudio
-    -   family: Kirrane
-        given: Sabrina
-    -   family: Gayo
-        given: José Emilio Labra
-    -   family: Navigli
-        given: Roberto
-    -   family: Neumaier
-        given: Sebastian
-    -   name: others
-    container-title: Synthesis Lectures on Data, Semantics, and Knowledge
-    issued: '2021'
-    title: Knowledge graphs
-    url: https://kgbook.org
--   author:
-    -   family: Wewer
-        given: Christopher
-    -   family: Lemmerich
-        given: Florian
-    -   family: Cochez
-        given: Michael
-    container-title: arXiv preprint arXiv:2109.10896
-    issued: '2021'
-    title: Updating Embeddings for Dynamic Knowledge Graphs
-    url: ''
--   author:
     -   family: Eichenberger
         given: Leandro
     -   family: Cochez
@@ -291,62 +238,41 @@
         given: Benjamin
     -   family: Decker
         given: Stefan
-    container-title: arXiv preprint arXiv:2103.00082
+    container-title: CoRR
     issued: '2021'
     title: Secure Evaluation of Knowledge Graph Merging Gain
-    url: ''
+    url: https://arxiv.org/abs/2103.00082
 -   author:
-    -   family: Chakrabarti
-        given: Arnab
-    -   family: Das
-        given: Abhijeet
-    -   family: Cochez
-        given: Michael
-    -   family: Quix
-        given: Christoph
-    container-title: Advances in Databases and Information Systems
+    -   family: Bekkum
+        given: Michael van
+    -   family: Boer
+        given: Maaike de
+    -   family: Harmelen
+        given: Frank van
+    -   family: Meyer-Vitali
+        given: André
+    -   family: Teije
+        given: Annette ten
+    container-title: CoRR
     issued: '2021'
-    title: Unsupervised Feature Selection for Efficient Exploration of High Dimensional
-        Data
-    url: https://www.cochez.nl/papers/feature_selection_for_exploration.pdf
+    title: 'Modular Design Patterns for Hybrid Learning and Reasoning Systems: a taxonomy,
+        patterns and use cases'
+    url: https://arxiv.org/abs/2102.11965
 -   author:
-    -   family: van Bakel
-        given: Ruud
-    -   family: Aleksiev
-        given: Teodor
-    -   family: Daza
-        given: Daniel
-    -   family: Alivanistos
-        given: Dimitrios
-    -   family: Cochez
-        given: Michael
-    container-title: Graph Structures for Knowledge Representation and Reasoning
+    -   family: Bekkum
+        given: Michael van
+    -   family: Boer
+        given: Maaike de
+    -   family: Harmelen
+        given: Frank van
+    -   family: Meyer-Vitali
+        given: André
+    -   family: Teije
+        given: Annette ten
+    container-title: Appl. Intell.
     issued: '2021'
-    title: 'Approximate Knowledge Graph Query Answering: From Ranking to Binary Classification'
-    url: ''
--   author:
-    -   family: Arakelyan
-        given: Erik
-    -   family: Daza
-        given: Daniel
-    -   family: Minervini
-        given: Pasquale
-    -   family: Cochez
-        given: Michael
-    container-title: International Conference on Learning Representations (ICLR 2021)
-    issued: '2021'
-    title: Complex Query Answering with Neural Link Predictors
-    url: https://openreview.net/forum?id=Mos9F9kDwkz
--   author:
-    -   family: Daza
-        given: Daniel
-    -   family: Cochez
-        given: Michael
-    -   family: Groth
-        given: Paul
-    issued: '2021'
-    title: Inductive Entity Representations from Text via Link Prediction
-    url: https://arxiv.org/abs/2010.03496
+    title: Modular design patterns for hybrid learning and reasoning systems
+    url: https://doi.org/10.1007/s10489-021-02394-3
 -   author:
     -   family: Karim
         given: Md. Rezaul
@@ -368,78 +294,6 @@
         and Magnetic Resonance Imaging'
     url: ''
 -   author:
-    -   family: Arakelyan
-        given: Erik
-    -   family: Daza
-        given: Daniel
-    -   family: Minervini
-        given: Pasquale
-    -   family: Cochez
-        given: Michael
-    container-title: 9th International Conference on Learning Representations, ICLR
-        2021, Virtual Event, Austria, May 3-7, 2021
-    issued: '2021'
-    title: Complex Query Answering with Neural Link Predictors
-    url: https://openreview.net/forum?id=Mos9F9kDwkz
--   author:
-    -   family: Daza
-        given: Daniel
-    -   family: Cochez
-        given: Michael
-    -   family: Groth
-        given: Paul
-    container-title: Proceedings of The Web Conference 2021
-    issued: '2021'
-    title: Inductive Entity Representations from Text via Link Prediction
-    url: https://doi.org/10.1145/3442381.3450141
--   author:
-    -   family: Eichenberger
-        given: Leandro
-    -   family: Cochez
-        given: Michael
-    -   family: Heitmann
-        given: Benjamin
-    -   family: Decker
-        given: Stefan
-    container-title: CoRR
-    issued: '2021'
-    title: Secure Evaluation of Knowledge Graph Merging Gain
-    url: https://arxiv.org/abs/2103.00082
--   author:
-    -   family: Wilcke
-        given: WX
-    -   family: Bloem
-        given: P
-    -   family: van Berkel
-        given: L
-    -   family: de Boer
-        given: V
-    container-title: Proceedings of the European Semantic Web Conference 2021
-    issued: '2021'
-    title: 'kgbench: A Collection of Datasets for Multimodal and Relational Learning
-        on Heterogeneous Knowledge'
-    url: ''
--   author:
-    -   family: Bakel
-        given: Ruud van
-    -   family: Aleksiev
-        given: Teodor
-    -   family: Daza
-        given: Daniel
-    -   family: Alivanistos
-        given: Dimitrios
-    -   family: Cochez
-        given: Michael
-    container-title: CoRR
-    issued: '2021'
-    title: 'Approximate Knowledge Graph Query Answering: From Ranking to Binary Classification'
-    url: https://arxiv.org/abs/2102.11389
--   author: []
-    issued: '2021'
-    title: Graph Structures for Knowledge Representation and Reasoning - 6th International
-        Workshop, GKR 2020, Virtual Event, September 5, 2020, Revised Selected Papers
-    url: https://doi.org/10.1007/978-3-030-72308-8
--   author:
     -   family: Karim
         given: Md Rezaul
     -   family: Beyan
@@ -459,38 +313,113 @@
     title: Deep learning-based clustering approaches for bioinformatics
     url: https://doi.org/10.1093/bib/bbz170
 -   author:
-    -   family: Karim
-        given: Md Rezaul
-    -   family: Jiao
-        given: Jiao
-    -   family: Döhmen
-        given: Till
+    -   family: Arakelyan
+        given: Erik
+    -   family: Daza
+        given: Daniel
+    -   family: Minervini
+        given: Pasquale
     -   family: Cochez
         given: Michael
-    -   family: Beyan
-        given: Oya
-    -   family: Rebholz-Schuhmann
-        given: Dietrich
-    -   family: Decker
-        given: Stefan
-    container-title: IEEE Access
+    container-title: 9th International Conference on Learning Representations, ICLR
+        2021, Virtual Event, Austria, May 3-7, 2021
     issued: '2021'
-    title: 'DeepKneeExplainer: Explainable Knee Osteoarthritis Diagnosis From Radiographs
-        and Magnetic Resonance Imaging'
-    url: https://doi.org/10.1109/ACCESS.2021.3062493
+    title: Complex Query Answering with Neural Link Predictors
+    url: https://openreview.net/forum?id=Mos9F9kDwkz
 -   author:
-    -   family: Haan
-        given: Rosaline de
-    -   family: Tiddi
-        given: Ilaria
-    -   family: Beek
-        given: Wouter
-    container-title: The Semantic Web - 18th International Conference, ESWC 2021,
-        Virtual Event, June 6-10, 2021, Proceedings
+    -   family: Wewer
+        given: Christopher
+    -   family: Lemmerich
+        given: Florian
+    -   family: Cochez
+        given: Michael
+    container-title: arXiv preprint arXiv:2109.10896
     issued: '2021'
-    title: Discovering Research Hypotheses in Social Science Using Knowledge Graph
-        Embeddings
-    url: https://doi.org/10.1007/978-3-030-77385-4\_28
+    title: Updating Embeddings for Dynamic Knowledge Graphs
+    url: ''
+-   author:
+    -   family: van Bakel
+        given: Ruud
+    -   family: Aleksiev
+        given: Teodor
+    -   family: Daza
+        given: Daniel
+    -   family: Alivanistos
+        given: Dimitrios
+    -   family: Cochez
+        given: Michael
+    container-title: Graph Structures for Knowledge Representation and Reasoning
+    issued: '2021'
+    title: 'Approximate Knowledge Graph Query Answering: From Ranking to Binary Classification'
+    url: ''
+-   author:
+    -   family: Daza
+        given: Daniel
+    -   family: Cochez
+        given: Michael
+    -   family: Groth
+        given: Paul
+    issued: '2021'
+    title: Inductive Entity Representations from Text via Link Prediction
+    url: https://arxiv.org/abs/2010.03496
+-   author:
+    -   family: Daza
+        given: Daniel
+    -   family: Cochez
+        given: Michael
+    -   family: Groth
+        given: Paul
+    container-title: Proceedings of The Web Conference 2021
+    issued: '2021'
+    title: Inductive Entity Representations from Text via Link Prediction
+    url: https://doi.org/10.1145/3442381.3450141
+-   author:
+    -   family: Alivanistos
+        given: Dimitrios
+    -   family: Berrendorf
+        given: Max
+    -   family: Cochez
+        given: Michael
+    -   family: Galkin
+        given: Mikhail
+    container-title: CoRR
+    issued: '2021'
+    title: Query Embedding on Hyper-relational Knowledge Graphs
+    url: https://arxiv.org/abs/2106.08166
+-   author:
+    -   family: Bakel
+        given: Ruud van
+    -   family: Aleksiev
+        given: Teodor
+    -   family: Daza
+        given: Daniel
+    -   family: Alivanistos
+        given: Dimitrios
+    -   family: Cochez
+        given: Michael
+    container-title: CoRR
+    issued: '2021'
+    title: 'Approximate Knowledge Graph Query Answering: From Ranking to Binary Classification'
+    url: https://arxiv.org/abs/2102.11389
+-   author:
+    -   family: Wilcke
+        given: WX
+    -   family: Bloem
+        given: P
+    -   family: van Berkel
+        given: L
+    -   family: de Boer
+        given: V
+    container-title: Proceedings of the European Semantic Web Conference 2021
+    issued: '2021'
+    title: 'kgbench: A Collection of Datasets for Multimodal and Relational Learning
+        on Heterogeneous Knowledge'
+    url: ''
+-   author: []
+    issued: '2021'
+    title: Graph Structures for Knowledge Representation and Reasoning - 6th International
+        Workshop, GKR 2020, Virtual Event, September 5, 2020, Revised Selected Papers
+    url: https://doi.org/10.1007/978-3-030-72308-8
 -   author:
     -   family: Boomgaard
         given: Guusje
@@ -509,6 +438,19 @@
     title: Learning Profile-Based Recommendations for Medical Search Auto-Complete
     url: http://ceur-ws.org/Vol-2846/paper34.pdf
 -   author:
+    -   family: Haan
+        given: Rosaline de
+    -   family: Tiddi
+        given: Ilaria
+    -   family: Beek
+        given: Wouter
+    container-title: The Semantic Web - 18th International Conference, ESWC 2021,
+        Virtual Event, June 6-10, 2021, Proceedings
+    issued: '2021'
+    title: Discovering Research Hypotheses in Social Science Using Knowledge Graph
+        Embeddings
+    url: https://doi.org/10.1007/978-3-030-77385-4\_28
+-   author:
     -   family: Horta
         given: Vitor A. C.
     -   family: Tiddi
@@ -521,48 +463,6 @@
     issued: '2021'
     title: Extracting knowledge from Deep Neural Networks through graph analysis
     url: https://doi.org/10.1016/j.future.2021.02.009
--   author:
-    -   family: Wang
-        given: Xu
-    -   family: Harmelen
-        given: Frank van
-    -   family: Huang
-        given: Zhisheng
-    container-title: Proceedings of the 10th International Conference on Data Science,
-        Technology and Applications, DATA 2021, Online Streaming, July 6-8, 2021
-    issued: '2021'
-    title: Biomedical Dataset Recommendation
-    url: https://doi.org/10.5220/0010521801920199
--   author:
-    -   family: Liu
-        given: Ting
-    -   family: Pan
-        given: Xueli
-    -   family: Wang
-        given: Xu
-    -   family: Feenstra
-        given: K. Anton
-    -   family: Heringa
-        given: Jaap
-    -   family: Huang
-        given: Zhisheng
-    container-title: Health Inf. Sci. Syst.
-    issued: '2021'
-    title: Predicting the relationships between gut microbiota and mental disorders
-        with knowledge graphs
-    url: https://doi.org/10.1007/s13755-020-00128-2
--   author:
-    -   family: Wang
-        given: X.
-    -   family: van Harmelen
-        given: F.
-    -   family: Huang
-        given: Z.
-    container-title: Proceedings of the 10th International Conference on Data Science,
-        Technology and Applications, DATA 2021
-    issued: '2021'
-    title: Biomedical dataset recommendation
-    url: ''
 -   author:
     -   family: Siuly
         given: Siuly
@@ -596,16 +496,23 @@
     title: Knowledge Graphs of Kawasaki Disease
     url: https://doi.org/10.1007/s13755-020-00130-8
 -   author:
-    -   family: Riaño
-        given: David
-    -   family: Wilk
-        given: Szymon
-    -   family: Teije
-        given: Annette ten
-    container-title: Artif. Intell. Medicine
+    -   family: Liu
+        given: Ting
+    -   family: Pan
+        given: Xueli
+    -   family: Wang
+        given: Xu
+    -   family: Feenstra
+        given: K. Anton
+    -   family: Heringa
+        given: Jaap
+    -   family: Huang
+        given: Zhisheng
+    container-title: Health Inf. Sci. Syst.
     issued: '2021'
-    title: 'Preface: AIME 2019'
-    url: https://doi.org/10.1016/j.artmed.2021.102058
+    title: Predicting the relationships between gut microbiota and mental disorders
+        with knowledge graphs
+    url: https://doi.org/10.1007/s13755-020-00128-2
 -   author:
     -   family: Krieken
         given: Emile van
@@ -617,22 +524,6 @@
     issued: '2021'
     title: 'Storchastic: A Framework for General Stochastic Automatic Differentiation'
     url: https://arxiv.org/abs/2104.00428
--   author:
-    -   family: Bekkum
-        given: Michael van
-    -   family: Boer
-        given: Maaike de
-    -   family: Harmelen
-        given: Frank van
-    -   family: Meyer-Vitali
-        given: André
-    -   family: Teije
-        given: Annette ten
-    container-title: CoRR
-    issued: '2021'
-    title: 'Modular Design Patterns for Hybrid Learning and Reasoning Systems: a taxonomy,
-        patterns and use cases'
-    url: https://arxiv.org/abs/2102.11965
 -   author:
     -   family: Stijn
         given: Jip J. van
@@ -650,20 +541,16 @@
         A Case Study of Bias Mitigation'
     url: http://ceur-ws.org/Vol-2846/paper15.pdf
 -   author:
-    -   family: Bekkum
-        given: Michael van
-    -   family: Boer
-        given: Maaike de
-    -   family: Harmelen
-        given: Frank van
-    -   family: Meyer-Vitali
-        given: André
+    -   family: Riaño
+        given: David
+    -   family: Wilk
+        given: Szymon
     -   family: Teije
         given: Annette ten
-    container-title: Appl. Intell.
+    container-title: Artif. Intell. Medicine
     issued: '2021'
-    title: Modular design patterns for hybrid learning and reasoning systems
-    url: https://doi.org/10.1007/s10489-021-02394-3
+    title: 'Preface: AIME 2019'
+    url: https://doi.org/10.1016/j.artmed.2021.102058
 -   author: []
     issued: '2021'
     title: Proceedings of the AAAI 2021 Spring Symposium on Combining Machine Learning
@@ -685,18 +572,6 @@
     title: Refining Transitive and Pseudo-Transitive Relations at Web Scale
     url: https://doi.org/10.1007/978-3-030-77385-4\_15
 -   author:
-    -   family: Wang
-        given: Xu
-    -   family: Harmelen
-        given: Frank van
-    -   family: Huang
-        given: Zhisheng
-    container-title: Proceedings of the 10th International Conference on Data Science,
-        Technology and Applications, DATA 2021, Online Streaming, July 6-8, 2021
-    issued: '2021'
-    title: Biomedical Dataset Recommendation
-    url: https://doi.org/10.5220/0010521801920199
--   author:
     -   family: Idrissou
         given: Al Koudous
     -   family: Harmelen
@@ -708,57 +583,6 @@
     title: Network metrics for assessing the quality of entity resolution between
         multiple datasets
     url: https://doi.org/10.3233/SW-200410
--   author:
-    -   family: Bekkum
-        given: Michael van
-    -   family: Boer
-        given: Maaike de
-    -   family: Harmelen
-        given: Frank van
-    -   family: Meyer-Vitali
-        given: André
-    -   family: Teije
-        given: Annette ten
-    container-title: Appl. Intell.
-    issued: '2021'
-    title: Modular design patterns for hybrid learning and reasoning systems
-    url: https://doi.org/10.1007/s10489-021-02394-3
--   author:
-    -   family: Bekkum
-        given: Michael van
-    -   family: Boer
-        given: Maaike de
-    -   family: Harmelen
-        given: Frank van
-    -   family: Meyer-Vitali
-        given: André
-    -   family: Teije
-        given: Annette ten
-    container-title: CoRR
-    issued: '2021'
-    title: 'Modular Design Patterns for Hybrid Learning and Reasoning Systems: a taxonomy,
-        patterns and use cases'
-    url: https://arxiv.org/abs/2102.11965
--   author:
-    -   family: Karim
-        given: Md. Rezaul
-    -   family: Jiao
-        given: Jiao
-    -   family: Döhmen
-        given: Till
-    -   family: Cochez
-        given: Michael
-    -   family: Beyan
-        given: Oya
-    -   family: Rebholz-Schuhmann
-        given: Dietrich
-    -   family: Decker
-        given: Stefan
-    container-title: IEEE Access
-    issued: '2021'
-    title: 'DeepKneeExplainer: Explainable Knee Osteoarthritis Diagnosis From Radiographs
-        and Magnetic Resonance Imaging'
-    url: ''
 -   author:
     -   family: Alivanistos
         given: Dimitrios
@@ -773,53 +597,6 @@
     title: Query Embedding on Hyper-relational Knowledge Graphs
     url: https://arxiv.org/abs/2106.08166
 -   author:
-    -   family: Chakrabarti
-        given: Arnab
-    -   family: Das
-        given: Abhijeet
-    -   family: Cochez
-        given: Michael
-    -   family: Quix
-        given: Christoph
-    container-title: Advances in Databases and Information Systems
-    issued: '2021'
-    title: Unsupervised Feature Selection for Efficient Exploration of High Dimensional
-        Data
-    url: https://www.cochez.nl/papers/feature_selection_for_exploration.pdf
--   author:
-    -   family: Lipp
-        given: Johannes
-    -   family: Gleim
-        given: Lars
-    -   family: Cochez
-        given: Michael
-    -   family: Dimitriadis
-        given: Iraklis
-    -   family: Ali
-        given: Hussain
-    -   family: Alvarez
-        given: Daniel Hoppe
-    -   family: Lange
-        given: Christoph
-    -   family: Decker
-        given: Stefan
-    container-title: 'The Semantic Web: ESWC 2021 Satellite Events'
-    issued: '2021'
-    title: Towards Easy Vocabulary Drafts with Neologism 2.0
-    url: https://openreview.net/forum?id=PoAI5RrlUFj
--   author:
-    -   family: Wang
-        given: Xu
-    -   family: Harmelen
-        given: Frank Van
-    -   family: Huang
-        given: Zhisheng
-    container-title: ''
-    issued: '2020-11-19'
-    title: 'Ontology-based Methods for Classifying Scientific Datasets into Research
-        Domains: Much Harder than Expected'
-    url: https://www.scitepress.org/Link.aspx?doi=10.5220/0010056101530160
--   author:
     -   family: Wang
         given: Ruijie
     -   family: Wang
@@ -834,40 +611,6 @@
     issued: '2020-05-01'
     title: Structured query construction via knowledge graph embedding
     url: https://doi.org/10.1007/s10115-019-01401-x
--   author:
-    -   family: Wang
-        given: Ruijie
-    -   family: Wang
-        given: Meng
-    -   family: Liu
-        given: Jun
-    -   family: Cochez
-        given: Michael
-    -   family: Decker
-        given: Stefan
-    container-title: Knowledge and Information Systems
-    issued: '2020-05-01'
-    title: Structured query construction via knowledge graph embedding
-    url: https://doi.org/10.1007/s10115-019-01401-x
--   author:
-    -   family: Karim
-        given: Md Rezaul
-    -   family: Beyan
-        given: Oya
-    -   family: Zappa
-        given: Achille
-    -   family: Costa
-        given: Ivan G
-    -   family: Rebholz-Schuhmann
-        given: Dietrich
-    -   family: Cochez
-        given: Michael
-    -   family: Decker
-        given: Stefan
-    container-title: Briefings in Bioinformatics
-    issued: 2020-02
-    title: Deep learning-based clustering approaches for bioinformatics
-    url: https://doi.org/10.1093/bib/bbz170
 -   author:
     -   family: Acar
         given: Erman
@@ -897,30 +640,59 @@
     title: 'SchemaTree: Maximum-Likelihood Property Recommendation for Wikidata'
     url: ''
 -   author:
-    -   family: Pellegrino
-        given: Maria Angela
-    -   family: Altabba
-        given: Abdulrahman
-    -   family: Garofalo
-        given: Martina
-    -   family: Ristoski
-        given: Petar
-    -   family: Cochez
-        given: Michael
-    container-title: The Semantic Web
+    -   family: Wang
+        given: Xu
+    -   family: Huang
+        given: Zhisheng
+    -   family: Harmelen
+        given: Frank van
+    container-title: Health Information Science - 9th International Conference, HIS
+        2020, Amsterdam, The Netherlands, October 20-23, 2020, Proceedings
     issued: '2020'
-    title: 'GEval: A Modular and Extensible Evaluation Framework for Graph Embedding
-        Techniques'
-    url: ''
+    title: Ontology-Based Semantic Similarity Approach for Biomedical Dataset Retrieval
+    url: https://doi.org/10.1007/978-3-030-61951-0\_5
 -   author:
-    -   family: Daza
-        given: Daniel
+    -   family: Wang
+        given: Xu
+    -   family: Harmelen
+        given: Frank van
+    -   family: Huang
+        given: Zhisheng
+    container-title: 'Proceedings of the 12th International Joint Conference on Knowledge
+        Discovery, Knowledge Engineering and Knowledge Management, IC3K 2020, Volume
+        1: KDIR, Budapest, Hungary, November 2-4, 2020'
+    issued: '2020'
+    title: 'Ontology-based Methods for Classifying Scientific Datasets into Research
+        Domains: Much Harder than Expected'
+    url: https://doi.org/10.5220/0010056101530160
+-   author:
+    -   family: Hallawa
+        given: Ahmed
+    -   family: Iacca
+        given: Giovanni
+    -   family: Sariman
+        given: Cagatay
+    -   family: Rahman
+        given: Touhidur
     -   family: Cochez
         given: Michael
+    -   family: Ascheid
+        given: Gerd
+    container-title: Materials and Manufacturing Processes
     issued: '2020'
-    title: Message Passing Query Embedding. Presented at Presented at the GRL+ ICML
-        workshop https://grlplus.github.io/
-    url: https://arxiv.org/abs/2002.02406
+    title: Morphological evolution for pipe inspection using Robot Operating System
+        (ROS)
+    url: https://doi.org/10.1080/10426914.2020.1746335
+-   author:
+    -   family: Harmelen
+        given: Frank van
+    container-title: 'Proceedings of the 12th International Joint Conference on Knowledge
+        Discovery, Knowledge Engineering and Knowledge Management, IC3K 2020, Volume
+        1: KDIR, Budapest, Hungary, November 2-4, 2020'
+    issued: '2020'
+    title: 'Hybrid Intelligence: AI Systems That Collaborate with People Instead of
+        Replacing Them'
+    url: ''
 -   author:
     -   family: Karim
         given: Md. Rezaul
@@ -955,23 +727,92 @@
         Multichannel Convolutional-LSTM Network
     url: https://arxiv.org/abs/2004.07807
 -   author:
-    -   family: Hallawa
-        given: Ahmed
-    -   family: Iacca
-        given: Giovanni
-    -   family: Sariman
-        given: Cagatay
-    -   family: Rahman
-        given: Touhidur
+    -   family: Wilcke
+        given: Xander
+    -   family: Kleijn
+        given: Maurice de
+    -   family: Boer
+        given: Victor de
+    -   family: Scholten
+        given: Henk J.
+    -   family: Harmelen
+        given: Frank van
+    container-title: 'Proceedings of the 12th International Joint Conference on Knowledge
+        Discovery, Knowledge Engineering and Knowledge Management, IC3K 2020, Volume
+        1: KDIR, Budapest, Hungary, November 2-4, 2020'
+    issued: '2020'
+    title: Bottom-up Discovery of Context-aware Quality Constraints for Heterogeneous
+        Knowledge Graphs
+    url: https://doi.org/10.5220/0010113500810092
+-   author:
+    -   family: Wang
+        given: Xu
+    -   family: Huang
+        given: Zhisheng
+    -   family: Harmelen
+        given: Frank van
+    container-title: Web Information Systems Engineering - WISE 2020 - 21st International
+        Conference, Amsterdam, The Netherlands, October 20-24, 2020, Proceedings,
+        Part II
+    issued: '2020'
+    title: Evaluating Similarity Measures for Dataset Search
+    url: https://doi.org/10.1007/978-3-030-62008-0\_3
+-   author:
+    -   family: Tiddi
+        given: Ilaria
+    -   family: Balliet
+        given: Daniel
+    -   family: Teije
+        given: Annette ten
+    container-title: The Semantic Web - 17th International Conference, ESWC 2020,
+        Heraklion, Crete, Greece, May 31-June 4, 2020, Proceedings
+    issued: '2020'
+    title: 'Fostering Scientific Meta-analyses with Knowledge Graphs: A Case-Study'
+    url: https://doi.org/10.1007/978-3-030-49461-2\_17
+-   author:
+    -   family: Krieken
+        given: Emile van
+    -   family: Acar
+        given: Erman
+    -   family: Harmelen
+        given: Frank van
+    container-title: CoRR
+    issued: '2020'
+    title: Analyzing Differentiable Fuzzy Logic Operators
+    url: https://arxiv.org/abs/2002.06100
+-   author: []
+    issued: '2020'
+    title: 'The Semantic Web: 17th International Conference, ESWC 2020, Heraklion'
+    url: https://www.springer.com/gp/book/9783030494605
+-   author: []
+    issued: '2020'
+    title: 'The Semantic Web: ESWC 2020 Satellite Events'
+    url: https://www.springer.com/gp/book/9783030623265
+-   author:
+    -   family: Daza
+        given: Daniel
     -   family: Cochez
         given: Michael
-    -   family: Ascheid
-        given: Gerd
-    container-title: Materials and Manufacturing Processes
     issued: '2020'
-    title: Morphological evolution for pipe inspection using Robot Operating System
-        (ROS)
-    url: https://doi.org/10.1080/10426914.2020.1746335
+    title: Message Passing Query Embedding. Presented at Presented at the GRL+ ICML
+        workshop https://grlplus.github.io/
+    url: https://arxiv.org/abs/2002.02406
+-   author:
+    -   family: Pellegrino
+        given: Maria Angela
+    -   family: Altabba
+        given: Abdulrahman
+    -   family: Garofalo
+        given: Martina
+    -   family: Ristoski
+        given: Petar
+    -   family: Cochez
+        given: Michael
+    container-title: The Semantic Web
+    issued: '2020'
+    title: 'GEval: A Modular and Extensible Evaluation Framework for Graph Embedding
+        Techniques'
+    url: ''
 -   author:
     -   family: Acar
         given: Erman
@@ -1015,40 +856,12 @@
         given: Erman
     -   family: Harmelen
         given: Frank van
-    container-title: CoRR
-    issued: '2020'
-    title: Analyzing Differentiable Fuzzy Logic Operators
-    url: https://arxiv.org/abs/2002.06100
--   author:
-    -   family: Krieken
-        given: Emile van
-    -   family: Acar
-        given: Erman
-    -   family: Harmelen
-        given: Frank van
     container-title: Proceedings of the 17th International Conference on Principles
         of Knowledge Representation and Reasoning, KR 2020, Rhodes, Greece, September
         12-18, 2020
     issued: '2020'
     title: Analyzing Differentiable Fuzzy Implications
     url: https://doi.org/10.24963/kr.2020/92
--   author:
-    -   family: Wilcke
-        given: WX
-    -   family: de Kleijn
-        given: MTM
-    -   family: de Boer
-        given: V
-    -   family: Scholten
-        given: HJ
-    -   family: van Harmelen
-        given: FAH
-    container-title: 'Proceedings of the 12th International Joint Conference on Knowledge
-        Discovery, Knowledge Engineering and Knowledge Management - Volume 1: KDIR,'
-    issued: '2020'
-    title: Bottom-up Discovery of Context-aware Quality Constraints for Heterogeneous
-        Knowledge Graphs
-    url: ''
 -   author: []
     issued: '2020'
     title: 'Knowledge Graphs for eXplainable Artificial Intelligence: Foundations,
@@ -1076,6 +889,14 @@
     title: Using Linked Data to Help Robots Understand Product-related Actions
     url: http://ceur-ws.org/Vol-2708/robontics2.pdf
 -   author:
+    -   family: Tiddi
+        given: Ilaria
+    -   family: Raad
+        given: Joe
+    issued: '2020'
+    title: Managing Identity in Knowledge-Based Explainable Systems
+    url: https://doi.org/10.3233/SSW200025
+-   author:
     -   family: Yang
         given: Xinran
     -   family: Tiddi
@@ -1086,26 +907,6 @@
     issued: '2020'
     title: Creative Storytelling with Language Models and Knowledge Graphs
     url: http://ceur-ws.org/Vol-2699/paper07.pdf
--   author:
-    -   family: Tiddi
-        given: Ilaria
-    -   family: Raad
-        given: Joe
-    issued: '2020'
-    title: Managing Identity in Knowledge-Based Explainable Systems
-    url: https://doi.org/10.3233/SSW200025
--   author:
-    -   family: Tiddi
-        given: Ilaria
-    -   family: Balliet
-        given: Daniel
-    -   family: Teije
-        given: Annette ten
-    container-title: The Semantic Web - 17th International Conference, ESWC 2020,
-        Heraklion, Crete, Greece, May 31-June 4, 2020, Proceedings
-    issued: '2020'
-    title: 'Fostering Scientific Meta-analyses with Knowledge Graphs: A Case-Study'
-    url: https://doi.org/10.1007/978-3-030-49461-2\_17
 -   author:
     -   family: Mensio
         given: Martino
@@ -1148,45 +949,24 @@
     title: Web Information Systems Engineering - WISE 2020 - 21st International Conference,
         Amsterdam, The Netherlands, October 20-24, 2020, Proceedings, Part I
     url: https://doi.org/10.1007/978-3-030-62005-9
--   author:
-    -   family: Wang
-        given: Xu
-    -   family: Huang
-        given: Zhisheng
-    -   family: Harmelen
-        given: Frank van
-    container-title: Web Information Systems Engineering - WISE 2020 - 21st International
-        Conference, Amsterdam, The Netherlands, October 20-24, 2020, Proceedings,
-        Part II
+-   author: []
     issued: '2020'
-    title: Evaluating Similarity Measures for Dataset Search
-    url: https://doi.org/10.1007/978-3-030-62008-0\_3
+    title: Health Information Science - 9th International Conference, HIS 2020, Amsterdam,
+        The Netherlands, October 20-23, 2020, Proceedings
+    url: https://doi.org/10.1007/978-3-030-61951-0
 -   author:
-    -   family: Wang
-        given: Xu
-    -   family: Harmelen
-        given: Frank van
+    -   family: Jing
+        given: Xiaomin
+    -   family: Lin
+        given: Shaofu
     -   family: Huang
         given: Zhisheng
-    container-title: 'Proceedings of the 12th International Joint Conference on Knowledge
-        Discovery, Knowledge Engineering and Knowledge Management, IC3K 2020, Volume
-        1: KDIR, Budapest, Hungary, November 2-4, 2020'
-    issued: '2020'
-    title: 'Ontology-based Methods for Classifying Scientific Datasets into Research
-        Domains: Much Harder than Expected'
-    url: https://doi.org/10.5220/0010056101530160
--   author:
-    -   family: Wang
-        given: Xu
-    -   family: Huang
-        given: Zhisheng
-    -   family: Harmelen
-        given: Frank van
     container-title: Health Information Science - 9th International Conference, HIS
         2020, Amsterdam, The Netherlands, October 20-23, 2020, Proceedings
     issued: '2020'
-    title: Ontology-Based Semantic Similarity Approach for Biomedical Dataset Retrieval
-    url: https://doi.org/10.1007/978-3-030-61951-0\_5
+    title: Research on the Behavior Pattern of Microblog "Tree Hole" Users with Their
+        Temporal Characteristics
+    url: https://doi.org/10.1007/978-3-030-61951-0\_3
 -   author:
     -   family: Li
         given: Jianqiang
@@ -1208,46 +988,6 @@
     issued: '2020'
     title: 'WCP-RNN: a novel RNN-based approach for Bio-NER in Chinese EMRs'
     url: https://doi.org/10.1007/s11227-017-2229-x
--   author: []
-    issued: '2020'
-    title: Health Information Science - 9th International Conference, HIS 2020, Amsterdam,
-        The Netherlands, October 20-23, 2020, Proceedings
-    url: https://doi.org/10.1007/978-3-030-61951-0
--   author:
-    -   family: Jing
-        given: Xiaomin
-    -   family: Lin
-        given: Shaofu
-    -   family: Huang
-        given: Zhisheng
-    container-title: Health Information Science - 9th International Conference, HIS
-        2020, Amsterdam, The Netherlands, October 20-23, 2020, Proceedings
-    issued: '2020'
-    title: Research on the Behavior Pattern of Microblog "Tree Hole" Users with Their
-        Temporal Characteristics
-    url: https://doi.org/10.1007/978-3-030-61951-0\_3
--   author:
-    -   family: Wang
-        given: Xu
-    -   family: Huang
-        given: Zhisheng
-    -   family: van Harmelen
-        given: Frank
-    container-title: Web Information Systems Engineering – WISE 2020
-    issued: '2020'
-    title: Evaluating Similarity Measures for Dataset Search
-    url: ''
--   author:
-    -   family: Wang
-        given: Xu
-    -   family: Huang
-        given: Zhisheng
-    -   family: van Harmelen
-        given: Frank
-    container-title: Health Information Science
-    issued: '2020'
-    title: Ontology-Based Semantic Similarity Approach for Biomedical Dataset Retrieval
-    url: ''
 -   author:
     -   family: Jansen
         given: Tom
@@ -1266,18 +1006,6 @@
     issued: '2020'
     title: Machine Learning Explainability in Breast Cancer Survival
     url: https://doi.org/10.3233/SHTI200172
--   author:
-    -   family: Tiddi
-        given: Ilaria
-    -   family: Balliet
-        given: Daniel
-    -   family: Teije
-        given: Annette ten
-    container-title: The Semantic Web - 17th International Conference, ESWC 2020,
-        Heraklion, Crete, Greece, May 31-June 4, 2020, Proceedings
-    issued: '2020'
-    title: 'Fostering Scientific Meta-analyses with Knowledge Graphs: A Case-Study'
-    url: https://doi.org/10.1007/978-3-030-49461-2\_17
 -   author:
     -   family: Krieken
         given: Emile van
@@ -1304,73 +1032,12 @@
     issued: '2020'
     title: End-to-End Entity Classification on Multimodal Knowledge Graphs
     url: https://arxiv.org/abs/2003.12383
--   author:
-    -   family: Krieken
-        given: Emile van
-    -   family: Acar
-        given: Erman
-    -   family: Harmelen
-        given: Frank van
-    container-title: CoRR
-    issued: '2020'
-    title: Analyzing Differentiable Fuzzy Logic Operators
-    url: https://arxiv.org/abs/2002.06100
 -   author: []
     issued: '2020'
     title: Proceedings of the AAAI 2020 Spring Symposium on Combining Machine Learning
         and Knowledge Engineering in Practice, AAAI-MAKE 2020, Palo Alto, CA, USA,
         March 23-25, 2020, Volume I
     url: http://ceur-ws.org/Vol-2600
--   author:
-    -   family: Wilcke
-        given: Xander
-    -   family: Kleijn
-        given: Maurice de
-    -   family: Boer
-        given: Victor de
-    -   family: Scholten
-        given: Henk J.
-    -   family: Harmelen
-        given: Frank van
-    container-title: 'Proceedings of the 12th International Joint Conference on Knowledge
-        Discovery, Knowledge Engineering and Knowledge Management, IC3K 2020, Volume
-        1: KDIR, Budapest, Hungary, November 2-4, 2020'
-    issued: '2020'
-    title: Bottom-up Discovery of Context-aware Quality Constraints for Heterogeneous
-        Knowledge Graphs
-    url: https://doi.org/10.5220/0010113500810092
--   author:
-    -   family: Harmelen
-        given: Frank van
-    container-title: 'Proceedings of the 12th International Joint Conference on Knowledge
-        Discovery, Knowledge Engineering and Knowledge Management, IC3K 2020, Volume
-        1: KDIR, Budapest, Hungary, November 2-4, 2020'
-    issued: '2020'
-    title: 'Hybrid Intelligence: AI Systems That Collaborate with People Instead of
-        Replacing Them'
-    url: ''
--   author:
-    -   family: Wang
-        given: Xu
-    -   family: Huang
-        given: Zhisheng
-    -   family: Harmelen
-        given: Frank van
-    container-title: Web Information Systems Engineering - WISE 2020 - 21st International
-        Conference, Amsterdam, The Netherlands, October 20-24, 2020, Proceedings,
-        Part II
-    issued: '2020'
-    title: Evaluating Similarity Measures for Dataset Search
-    url: https://doi.org/10.1007/978-3-030-62008-0\_3
--   author:
-    -   family: Harmelen
-        given: Frank van
-    container-title: Proceedings of the 16th International Conference on Web Information
-        Systems and Technologies, WEBIST 2020, Budapest, Hungary, November 3-5, 2020
-    issued: '2020'
-    title: 'Hybrid Intelligence: AI Systems that Collaborate with People Instead of
-        Replacing Them'
-    url: ''
 -   author:
     -   family: Krieken
         given: Emile van
@@ -1385,32 +1052,6 @@
     title: Analyzing Differentiable Fuzzy Implications
     url: https://doi.org/10.24963/kr.2020/92
 -   author:
-    -   family: Wang
-        given: Xu
-    -   family: Harmelen
-        given: Frank van
-    -   family: Huang
-        given: Zhisheng
-    container-title: 'Proceedings of the 12th International Joint Conference on Knowledge
-        Discovery, Knowledge Engineering and Knowledge Management, IC3K 2020, Volume
-        1: KDIR, Budapest, Hungary, November 2-4, 2020'
-    issued: '2020'
-    title: 'Ontology-based Methods for Classifying Scientific Datasets into Research
-        Domains: Much Harder than Expected'
-    url: https://doi.org/10.5220/0010056101530160
--   author:
-    -   family: Wang
-        given: Xu
-    -   family: Huang
-        given: Zhisheng
-    -   family: Harmelen
-        given: Frank van
-    container-title: Health Information Science - 9th International Conference, HIS
-        2020, Amsterdam, The Netherlands, October 20-23, 2020, Proceedings
-    issued: '2020'
-    title: Ontology-Based Semantic Similarity Approach for Biomedical Dataset Retrieval
-    url: https://doi.org/10.1007/978-3-030-61951-0\_5
--   author:
     -   family: Beek
         given: Wouter
     -   family: Raad
@@ -1424,6 +1065,20 @@
     issued: '2020'
     title: 'MetaLink: A Travel Guide to the LOD Cloud'
     url: https://doi.org/10.1007/978-3-030-49461-2\_28
+-   author:
+    -   family: Bazoobandi
+        given: Hamid R.
+    -   family: Bal
+        given: Henri E.
+    -   family: Harmelen
+        given: Frank van
+    -   family: Urbani
+        given: Jacopo
+    container-title: The Semantic Web - 17th International Conference, ESWC 2020,
+        Heraklion, Crete, Greece, May 31-June 4, 2020, Proceedings
+    issued: '2020'
+    title: Handling Impossible Derivations During Stream Reasoning
+    url: https://doi.org/10.1007/978-3-030-49461-2\_1
 -   author:
     -   family: Raad
         given: Joe
@@ -1441,20 +1096,6 @@
     issued: '2020'
     title: Constructing and Cleaning Identity Graphs in the LOD Cloud
     url: https://doi.org/10.1162/dint\_a\_00057
--   author:
-    -   family: Bazoobandi
-        given: Hamid R.
-    -   family: Bal
-        given: Henri E.
-    -   family: Harmelen
-        given: Frank van
-    -   family: Urbani
-        given: Jacopo
-    container-title: The Semantic Web - 17th International Conference, ESWC 2020,
-        Heraklion, Crete, Greece, May 31-June 4, 2020, Proceedings
-    issued: '2020'
-    title: Handling Impossible Derivations During Stream Reasoning
-    url: https://doi.org/10.1007/978-3-030-49461-2\_1
 -   author:
     -   family: Akata
         given: Zeynep
@@ -1514,42 +1155,25 @@
         With Collaborative, Adaptive, Responsible, and Explainable Artificial Intelligence'
     url: https://doi.org/10.1109/MC.2020.2996587
 -   author:
-    -   family: Hallawa
-        given: Ahmed
-    -   family: Iacca
-        given: Giovanni
-    -   family: Sariman
-        given: Cagatay
-    -   family: Rahman
-        given: Touhidur
-    -   family: Cochez
-        given: Michael
-    -   family: Ascheid
-        given: Gerd
-    container-title: Materials and Manufacturing Processes
-    issued: '2020'
-    title: Morphological evolution for pipe inspection using Robot Operating System
-        (ROS)
-    url: https://doi.org/10.1080/10426914.2020.1746335
+    -   family: Harmelen
+        given: Frank van
+    -   family: Teije
+        given: Annette ten
+    container-title: J. Web Eng.
+    issued: '2019'
+    title: A Boxology of Design Patterns forHybrid Learning and Reasoning Systems
+    url: https://doi.org/10.13052/jwe1540-9589.18133
 -   author:
-    -   family: Gleim
-        given: Lars C.
-    -   family: Schimassek
-        given: Rafael
-    -   family: Hüser
-        given: Dominik
-    -   family: Peters
-        given: Maximilian
-    -   family: Krämer
-        given: Christoph
-    -   family: Cochez
-        given: Michael
-    -   family: Decker
-        given: Stefan
-    container-title: The Semantic Web
-    issued: '2020'
-    title: 'SchemaTree: Maximum-Likelihood Property Recommendation for Wikidata'
-    url: ''
+    -   family: Krieken
+        given: Emile van
+    -   family: Acar
+        given: Erman
+    -   family: Harmelen
+        given: Frank van
+    container-title: FLAP
+    issued: '2019'
+    title: Semi-supervised Learning using Differentiable Reasoning
+    url: https://collegepublications.co.uk/ifcolog/?00033
 -   author:
     -   family: Bonatti
         given: Piero Andrea
@@ -1564,6 +1188,24 @@
     title: 'Knowledge Graphs: New Directions for Knowledge Representation on the Semantic
         Web (Dagstuhl Seminar 18371)'
     url: http://drops.dagstuhl.de/opus/volltexte/2019/10328
+-   author:
+    -   family: Lin
+        given: Shaofu
+    -   family: Zhao
+        given: Yuanyuan
+    -   family: Huang
+        given: Zhisheng
+    container-title: Brain Informatics - 12th International Conference, BI 2019, Haikou,
+        China, December 13-15, 2019, Proceedings
+    issued: '2019'
+    title: Time Recognition of Chinese Electronic Medical Record of Depression Based
+        on Conditional Random Field
+    url: https://doi.org/10.1007/978-3-030-37078-7\_15
+-   author: []
+    issued: '2019'
+    title: Health Information Science - 8th International Conference, HIS 2019, Xi'an,
+        China, October 18-20, 2019, Proceedings
+    url: https://doi.org/10.1007/978-3-030-32962-4
 -   author:
     -   family: Huang
         given: Zhisheng
@@ -1583,21 +1225,6 @@
     title: Semantic Processing of Personality Description for Depression Patients
     url: https://doi.org/10.1007/978-3-030-32962-4\_24
 -   author:
-    -   family: Zhong
-        given: Han
-    -   family: Huang
-        given: Zhisheng
-    container-title: Health Information Science - 8th International Conference, HIS
-        2019, Xi'an, China, October 18-20, 2019, Proceedings
-    issued: '2019'
-    title: Document Recommendation Based on Interests of Co-authors for Brain Science
-    url: https://doi.org/10.1007/978-3-030-32962-4\_11
--   author: []
-    issued: '2019'
-    title: Health Information Science - 8th International Conference, HIS 2019, Xi'an,
-        China, October 18-20, 2019, Proceedings
-    url: https://doi.org/10.1007/978-3-030-32962-4
--   author:
     -   family: Liu
         given: Ting
     -   family: Huang
@@ -1607,6 +1234,16 @@
     issued: '2019'
     title: Evidence-Based Analysis of Neurotransmitter Modulation by Gut Microbiota
     url: https://doi.org/10.1007/978-3-030-32962-4\_22
+-   author:
+    -   family: Zhong
+        given: Han
+    -   family: Huang
+        given: Zhisheng
+    container-title: Health Information Science - 8th International Conference, HIS
+        2019, Xi'an, China, October 18-20, 2019, Proceedings
+    issued: '2019'
+    title: Document Recommendation Based on Interests of Co-authors for Brain Science
+    url: https://doi.org/10.1007/978-3-030-32962-4\_11
 -   author:
     -   family: Qi
         given: Yunfei
@@ -1619,19 +1256,6 @@
     issued: '2019'
     title: Classification of Skin Pigmented Lesions Based on Deep Residual Network
     url: https://doi.org/10.1007/978-3-030-32962-4\_6
--   author:
-    -   family: Lin
-        given: Shaofu
-    -   family: Zhao
-        given: Yuanyuan
-    -   family: Huang
-        given: Zhisheng
-    container-title: Brain Informatics - 12th International Conference, BI 2019, Haikou,
-        China, December 13-15, 2019, Proceedings
-    issued: '2019'
-    title: Time Recognition of Chinese Electronic Medical Record of Depression Based
-        on Conditional Random Field
-    url: https://doi.org/10.1007/978-3-030-37078-7\_15
 -   author:
     -   family: Zhong
         given: Han
@@ -1671,31 +1295,11 @@
     title: Artificial Intelligence in Health - First International Workshop, AIH@IJCAI
         2018, Stockholm, Sweden, July 13-14, 2018, Revised Selected Papers
     url: https://doi.org/10.1007/978-3-030-12738-1
--   author:
-    -   family: Harmelen
-        given: Frank van
-    -   family: Teije
-        given: Annette ten
-    container-title: J. Web Eng.
-    issued: '2019'
-    title: A Boxology of Design Patterns forHybrid Learningand Reasoning Systems
-    url: https://doi.org/10.13052/jwe1540-9589.18133
 -   author: []
     issued: '2019'
     title: Artificial Intelligence in Medicine - 17th Conference on Artificial Intelligence
         in Medicine, AIME 2019, Poznan, Poland, June 26-29, 2019, Proceedings
     url: https://doi.org/10.1007/978-3-030-21642-9
--   author:
-    -   family: Harmelen
-        given: Frank van
-    -   family: Teije
-        given: Annette ten
-    container-title: Proceedings of the 31st Benelux Conference on Artificial Intelligence
-        (BNAIC 2019) and the 28th Belgian Dutch Conference on Machine Learning (Benelearn
-        2019), Brussels, Belgium, November 6-8, 2019
-    issued: '2019'
-    title: A Boxology of Design Patterns for Hybrid Learning and Reasoning Systems
-    url: http://ceur-ws.org/Vol-2491/abstract63.pdf
 -   author:
     -   family: Riaño
         given: David
@@ -1708,6 +1312,19 @@
     title: 'Ten years of knowledge representation for health care (2009-2018): Topics,
         trends, and challenges'
     url: https://doi.org/10.1016/j.artmed.2019.101713
+-   author:
+    -   family: Hengst
+        given: Floris den
+    -   family: Hoogendoorn
+        given: Mark
+    -   family: Harmelen
+        given: Frank van
+    -   family: Bosman
+        given: Joost
+    container-title: CoRR
+    issued: '2019'
+    title: Reinforcement Learning for Personalized Dialogue Management
+    url: http://arxiv.org/abs/1908.00286
 -   author:
     -   family: Raad
         given: Joe
@@ -1723,65 +1340,6 @@
     issued: '2019'
     title: 'The sameAs Problem: A Survey on Identity Management in the Web of Data'
     url: http://arxiv.org/abs/1907.10528
--   author:
-    -   family: Harmelen
-        given: Frank van
-    -   family: Teije
-        given: Annette ten
-    container-title: CoRR
-    issued: '2019'
-    title: A Boxology of Design Patterns for Hybrid Learning and Reasoning Systems
-    url: http://arxiv.org/abs/1905.12389
--   author: []
-    issued: '2019'
-    title: Proceedings of the AAAI 2019 Spring Symposium on Combining Machine Learning
-        with Knowledge Engineering (AAAI-MAKE 2019) Stanford University, Palo Alto,
-        California, USA, March 25-27, 2019., Stanford University, Palo Alto, California,
-        USA, March 25-27, 2019
-    url: http://ceur-ws.org/Vol-2350
--   author:
-    -   family: Pan
-        given: Jeff Z.
-    -   family: Zhang
-        given: Mei
-    -   family: Singh
-        given: Kuldeep
-    -   family: Harmelen
-        given: Frank van
-    -   family: Gu
-        given: Jinguang
-    -   family: Zhang
-        given: Zhi
-    container-title: The Semantic Web - ISWC 2019 - 18th International Semantic Web
-        Conference, Auckland, New Zealand, October 26-30, 2019, Proceedings, Part
-        I
-    issued: '2019'
-    title: Entity Enabled Relation Linking
-    url: https://doi.org/10.1007/978-3-030-30793-6\_30
--   author:
-    -   family: Krieken
-        given: Emile van
-    -   family: Acar
-        given: Erman
-    -   family: Harmelen
-        given: Frank van
-    container-title: CoRR
-    issued: '2019'
-    title: Semi-Supervised Learning using Differentiable Reasoning
-    url: http://arxiv.org/abs/1908.04700
--   author:
-    -   family: Hengst
-        given: Floris den
-    -   family: Hoogendoorn
-        given: Mark
-    -   family: Harmelen
-        given: Frank van
-    -   family: Bosman
-        given: Joost
-    container-title: CoRR
-    issued: '2019'
-    title: Reinforcement Learning for Personalized Dialogue Management
-    url: http://arxiv.org/abs/1908.00286
 -   author:
     -   family: Asprino
         given: Luigi
@@ -1804,6 +1362,41 @@
         Understanding - Third China Conference, CCKS 2018, Tianjin, China, August
         14-17, 2018, Revised Selected Papers
     url: https://doi.org/10.1007/978-981-13-3146-6
+-   author:
+    -   family: Pan
+        given: Jeff Z.
+    -   family: Zhang
+        given: Mei
+    -   family: Singh
+        given: Kuldeep
+    -   family: Harmelen
+        given: Frank van
+    -   family: Gu
+        given: Jinguang
+    -   family: Zhang
+        given: Zhi
+    container-title: The Semantic Web - ISWC 2019 - 18th International Semantic Web
+        Conference, Auckland, New Zealand, October 26-30, 2019, Proceedings, Part
+        I
+    issued: '2019'
+    title: Entity Enabled Relation Linking
+    url: https://doi.org/10.1007/978-3-030-30793-6\_30
+-   author:
+    -   family: Harmelen
+        given: Frank van
+    -   family: Teije
+        given: Annette ten
+    container-title: CoRR
+    issued: '2019'
+    title: A Boxology of Design Patterns for Hybrid Learning and Reasoning Systems
+    url: http://arxiv.org/abs/1905.12389
+-   author: []
+    issued: '2019'
+    title: Proceedings of the AAAI 2019 Spring Symposium on Combining Machine Learning
+        with Knowledge Engineering (AAAI-MAKE 2019) Stanford University, Palo Alto,
+        California, USA, March 25-27, 2019., Stanford University, Palo Alto, California,
+        USA, March 25-27, 2019
+    url: http://ceur-ws.org/Vol-2350
 -   author:
     -   family: Hengst
         given: Floris den
@@ -1836,32 +1429,6 @@
     title: Triplifying Equivalence Set Graphs
     url: http://ceur-ws.org/Vol-2456/paper66.pdf
 -   author:
-    -   family: Idrissou
-        given: Al Koudous
-    -   family: Zamborlini
-        given: Veruska
-    -   family: Harmelen
-        given: Frank van
-    -   family: Latronico
-        given: Chiara
-    container-title: Proceedings of the 10th International Conference on Knowledge
-        Capture, K-CAP 2019, Marina Del Rey, CA, USA, November 19-21, 2019
-    issued: '2019'
-    title: 'Contextual Entity Disambiguation in Domains with Weak Identity Criteria:
-        Disambiguating Golden Age Amsterdamers'
-    url: https://doi.org/10.1145/3360901.3364440
--   author:
-    -   family: Krieken
-        given: Emile van
-    -   family: Acar
-        given: Erman
-    -   family: Harmelen
-        given: Frank van
-    container-title: FLAP
-    issued: '2019'
-    title: Semi-supervised Learning using Differentiable Reasoning
-    url: https://collegepublications.co.uk/ifcolog/?00033
--   author:
     -   family: Asprino
         given: Luigi
     -   family: Beek
@@ -1879,6 +1446,21 @@
     title: 'Observing LOD Using Equivalent Set Graphs: It Is Mostly Flat and Sparsely
         Linked'
     url: https://doi.org/10.1007/978-3-030-30793-6\_4
+-   author:
+    -   family: Idrissou
+        given: Al Koudous
+    -   family: Zamborlini
+        given: Veruska
+    -   family: Harmelen
+        given: Frank van
+    -   family: Latronico
+        given: Chiara
+    container-title: Proceedings of the 10th International Conference on Knowledge
+        Capture, K-CAP 2019, Marina Del Rey, CA, USA, November 19-21, 2019
+    issued: '2019'
+    title: 'Contextual Entity Disambiguation in Domains with Weak Identity Criteria:
+        Disambiguating Golden Age Amsterdamers'
+    url: https://doi.org/10.1145/3360901.3364440
 -   author:
     -   family: Harmelen
         given: Frank van
@@ -1915,15 +1497,6 @@
         study'
     url: https://doi.org/10.1016/j.websem.2018.12.004
 -   author:
-    -   family: Harmelen
-        given: Frank van
-    -   family: Teije
-        given: Annette ten
-    container-title: J. Web Eng.
-    issued: '2019'
-    title: A Boxology of Design Patterns forHybrid Learningand Reasoning Systems
-    url: https://doi.org/10.13052/jwe1540-9589.18133
--   author:
     -   family: Denecke
         given: Kerstin
     -   family: Harmelen
@@ -1954,19 +1527,6 @@
         QLD, Australia, October 5-7, 2018, Proceedings
     url: https://doi.org/10.1007/978-3-030-01078-2
 -   author:
-    -   family: Zhao
-        given: Xiaoli
-    -   family: Lin
-        given: Shaofu
-    -   family: Huang
-        given: Zhisheng
-    container-title: Health Information Science - 7th International Conference, HIS
-        2018, Cairns, QLD, Australia, October 5-7, 2018, Proceedings
-    issued: '2018'
-    title: Extraction of Semantic Relations from Medical Literature Based on Semantic
-        Predicates and SVM
-    url: https://doi.org/10.1007/978-3-030-01078-2\_2
--   author:
     -   family: Huang
         given: Zhisheng
     -   family: Yan
@@ -1982,6 +1542,19 @@
     title: A Secure and Efficient Privacy-Preserving Range Query Scheme in Location-Based
         Services
     url: https://doi.org/10.1109/ACCESS.2018.2882399
+-   author:
+    -   family: Zhao
+        given: Xiaoli
+    -   family: Lin
+        given: Shaofu
+    -   family: Huang
+        given: Zhisheng
+    container-title: Health Information Science - 7th International Conference, HIS
+        2018, Cairns, QLD, Australia, October 5-7, 2018, Proceedings
+    issued: '2018'
+    title: Extraction of Semantic Relations from Medical Literature Based on Semantic
+        Predicates and SVM
+    url: https://doi.org/10.1007/978-3-030-01078-2\_2
 -   author:
     -   family: Wilcke
         given: Xander
@@ -2117,6 +1690,12 @@
         studies: An example'
     url: ''
 -   author:
+    -   family: Magliacane
+        given: S.
+    issued: '2017'
+    title: Logics for causal inference under uncertainty
+    url: ''
+-   author:
     -   family: Khalili
         given: Ali
     -   family: van den Besselaar
@@ -2173,30 +1752,6 @@
     title: 'LOD lab: Scalable linked data processing'
     url: ''
 -   author:
-    -   family: Carretta Zamborlini
-        given: Veruska
-    -   family: Hu
-        given: Qing
-    -   family: Huang
-        given: Z.
-    -   family: Da Silveira
-        given: Marcos
-    -   family: Pruski
-        given: Cedric
-    -   family: ten Teije
-        given: A.C.M.
-    -   family: van Harmelen
-        given: F.A.H.
-    issued: '2017'
-    title: Knowledge-Driven Paper Retrieval to Support Updating of Clinical Guidelines
-    url: ''
--   author:
-    -   family: Magliacane
-        given: S.
-    issued: '2017'
-    title: Logics for causal inference under uncertainty
-    url: ''
--   author:
     -   family: Fernández
         given: Javier D.
     -   family: Beek
@@ -2224,18 +1779,35 @@
         Multimorbidity Analysis and Literature Search'
     url: ''
 -   author:
-    -   family: Idrissou
-        given: Al Koudous
-    -   family: Hoekstra
-        given: Rinke
+    -   family: Carretta Zamborlini
+        given: Veruska
+    -   family: Hu
+        given: Qing
+    -   family: Huang
+        given: Z.
+    -   family: Da Silveira
+        given: Marcos
+    -   family: Pruski
+        given: Cedric
+    -   family: ten Teije
+        given: A.C.M.
     -   family: van Harmelen
-        given: Frank
+        given: F.A.H.
+    issued: '2017'
+    title: Knowledge-Driven Paper Retrieval to Support Updating of Clinical Guidelines
+    url: ''
+-   author:
     -   family: Khalili
         given: Ali
+    -   family: van Andel
+        given: Pek
     -   family: van den Besselaar
         given: Peter
+    -   family: de Graaf
+        given: Klaas Andries
     issued: '2017'
-    title: Is my:sameAs the same as your:sameAs?
+    title: Fostering Serendipitous Knowledge Discovery using an Adaptive Multigraph-based
+        Faceted Browser
     url: ''
 -   author:
     -   family: Liu
@@ -2263,43 +1835,18 @@
     title: Evaluating research portfolio's through ontology based text annotation
     url: ''
 -   author:
-    -   family: van den Besselaar
-        given: P.A.A.
-    -   family: Khalili
-        given: A.
-    -   family: Sandstrom
-        given: Ulf
-    issued: '2017'
-    title: Evaluating research portfolios, a method and a case
-    url: ''
--   author:
     -   family: Idrissou
-        given: O. A. K.
+        given: Al Koudous
+    -   family: Hoekstra
+        given: Rinke
+    -   family: van Harmelen
+        given: Frank
     -   family: Khalili
-        given: A.
+        given: Ali
     -   family: van den Besselaar
-        given: P.A.A.
-    -   family: de Graaf
-        given: K.A.
-    -   family: Loizou
-        given: A.
-    -   family: van Harmelen
-        given: Frank
+        given: Peter
     issued: '2017'
-    title: 'Enriching Scientometrics with Linked Data: the SMS platform'
-    url: ''
--   author:
-    -   family: Hu
-        given: Qing
-    -   family: Huang
-        given: Zisheng
-    -   family: ten Teije
-        given: Annette
-    -   family: van Harmelen
-        given: Frank
-    issued: '2017'
-    title: Detecting New Evidences for Evidence-Based Medical Guidelines with Journal
-        Filtering
+    title: Is my:sameAs the same as your:sameAs?
     url: ''
 -   author:
     -   family: van den Besselaar
@@ -2341,17 +1888,81 @@
     title: From university rankings to portfolio analysis and evaluation
     url: ''
 -   author:
-    -   family: Khalili
-        given: Ali
-    -   family: van Andel
-        given: Pek
     -   family: van den Besselaar
-        given: Peter
-    -   family: de Graaf
-        given: Klaas Andries
+        given: P.A.A.
+    -   family: Khalili
+        given: A.
+    -   family: Sandstrom
+        given: Ulf
     issued: '2017'
-    title: Fostering Serendipitous Knowledge Discovery using an Adaptive Multigraph-based
-        Faceted Browser
+    title: Evaluating research portfolios, a method and a case
+    url: ''
+-   author:
+    -   family: Idrissou
+        given: O. A. K.
+    -   family: Khalili
+        given: A.
+    -   family: van den Besselaar
+        given: P.A.A.
+    -   family: de Graaf
+        given: K.A.
+    -   family: Loizou
+        given: A.
+    -   family: van Harmelen
+        given: Frank
+    issued: '2017'
+    title: 'Enriching Scientometrics with Linked Data: the SMS platform'
+    url: ''
+-   author:
+    -   family: Hu
+        given: Qing
+    -   family: Huang
+        given: Zisheng
+    -   family: ten Teije
+        given: Annette
+    -   family: van Harmelen
+        given: Frank
+    issued: '2017'
+    title: Detecting New Evidences for Evidence-Based Medical Guidelines with Journal
+        Filtering
+    url: ''
+-   author:
+    -   family: Meroño-Peñuela
+        given: Albert
+    -   family: Ashkpour
+        given: Ashkan
+    -   family: Guéret
+        given: Christophe
+    -   family: Schlobach
+        given: Stefan
+    container-title: Semantic Web
+    issued: '2017'
+    title: 'CEDAR: The Dutch Historical Censuses as Linked Open Data'
+    url: ''
+-   author:
+    -   family: Huang
+        given: Zhisheng
+    -   family: Yang
+        given: Jie
+    -   family: van Harmelen
+        given: Frank
+    -   family: Hu
+        given: Qing
+    issued: '2017'
+    title: Constructing Knowledge Graphs of Depression
+    url: ''
+-   author:
+    -   family: Huang
+        given: Zhisheng
+    -   family: Yang
+        given: Jie
+    -   family: van Harmelen
+        given: Frank
+    -   family: Hu
+        given: Qing
+    issued: '2017'
+    title: 'Constructing disease-centric knowledge graphs: A case study for depression
+        (short version)'
     url: ''
 -   author:
     -   family: Wilcke
@@ -2396,44 +2007,6 @@
         areas
     url: ''
 -   author:
-    -   family: Huang
-        given: Zhisheng
-    -   family: Yang
-        given: Jie
-    -   family: van Harmelen
-        given: Frank
-    -   family: Hu
-        given: Qing
-    issued: '2017'
-    title: Constructing Knowledge Graphs of Depression
-    url: ''
--   author:
-    -   family: Huang
-        given: Zhisheng
-    -   family: Yang
-        given: Jie
-    -   family: van Harmelen
-        given: Frank
-    -   family: Hu
-        given: Qing
-    issued: '2017'
-    title: 'Constructing disease-centric knowledge graphs: A case study for depression
-        (short version)'
-    url: ''
--   author:
-    -   family: Meroño-Peñuela
-        given: Albert
-    -   family: Ashkpour
-        given: Ashkan
-    -   family: Guéret
-        given: Christophe
-    -   family: Schlobach
-        given: Stefan
-    container-title: Semantic Web
-    issued: '2017'
-    title: 'CEDAR: The Dutch Historical Censuses as Linked Open Data'
-    url: ''
--   author:
     -   family: Rietveld
         given: Laurens
     -   family: Hoekstra
@@ -2444,17 +2017,19 @@
     url: ''
 -   author:
     -   family: Wang
-        given: Hui
-    -   family: Huang
-        given: Jiajin
-    -   family: Zhou
-        given: Erzhong
+        given: Haiyuan
     -   family: Huang
         given: Zhisheng
     -   family: Zhong
         given: Ning
+    -   family: Huang
+        given: Jiajin
+    -   family: Han
+        given: Yuzhong
+    -   family: Zhang
+        given: Feng
     issued: 2016-11
-    title: Suitable Route Recommendation Inspired by Cognition
+    title: A Monitoring System for the Safety of Building Structure Based on W2T Methodology
     url: ''
 -   author:
     -   family: Chen
@@ -2480,19 +2055,17 @@
     url: ''
 -   author:
     -   family: Wang
-        given: Haiyuan
+        given: Hui
+    -   family: Huang
+        given: Jiajin
+    -   family: Zhou
+        given: Erzhong
     -   family: Huang
         given: Zhisheng
     -   family: Zhong
         given: Ning
-    -   family: Huang
-        given: Jiajin
-    -   family: Han
-        given: Yuzhong
-    -   family: Zhang
-        given: Feng
     issued: 2016-11
-    title: A Monitoring System for the Safety of Building Structure Based on W2T Methodology
+    title: Suitable Route Recommendation Inspired by Cognition
     url: ''
 -   author:
     -   family: Auer
@@ -2585,30 +2158,6 @@
     title: 'ClioPatria: A SWI-prolog infrastructure for the semantic web'
     url: ''
 -   author:
-    -   family: Costea
-        given: Andrei
-    -   family: Ionescu
-        given: Adrian
-    -   family: Raducanu
-        given: Bogdan
-    -   family: Świtakowski
-        given: Michał
-    -   family: Bârca
-        given: Cristian
-    -   family: Sompolski
-        given: Juliusz
-    -   family: Łuszczak
-        given: Alicja
-    -   family: Szafrański
-        given: Michał
-    -   family: De Nijs
-        given: Giel
-    -   family: Boncz
-        given: Peter
-    issued: 2016-06
-    title: 'VectorH: Taking SQL-on-Hadoop to the next level'
-    url: ''
--   author:
     -   family: Rutgers
         given: Peter
     -   family: Martella
@@ -2639,6 +2188,30 @@
         and compilation'
     url: ''
 -   author:
+    -   family: Costea
+        given: Andrei
+    -   family: Ionescu
+        given: Adrian
+    -   family: Raducanu
+        given: Bogdan
+    -   family: Świtakowski
+        given: Michał
+    -   family: Bârca
+        given: Cristian
+    -   family: Sompolski
+        given: Juliusz
+    -   family: Łuszczak
+        given: Alicja
+    -   family: Szafrański
+        given: Michał
+    -   family: De Nijs
+        given: Giel
+    -   family: Boncz
+        given: Peter
+    issued: 2016-06
+    title: 'VectorH: Taking SQL-on-Hadoop to the next level'
+    url: ''
+-   author:
     -   family: Beek
         given: Wouter
     -   family: Rietveld
@@ -2658,6 +2231,25 @@
     container-title: Journal of Digital Library Forum
     issued: '2016'
     title: 大数据时代的语义技术
+    url: ''
+-   author:
+    -   family: van den Besselaar
+        given: Peter
+    -   family: Khalili
+        given: Ali
+    -   family: de Graaf
+        given: Klaas Andries
+    -   family: Idrissou
+        given: Oladele
+    -   family: Loizou
+        given: A.
+    -   family: Schlobach
+        given: K. S.
+    -   family: van Harmelen
+        given: F.A.H.
+    issued: '2016'
+    title: Towards an open data infrastructure for STI data. OECD Blue Sky Conference,
+        Gent, September 2016
     url: ''
 -   author:
     -   family: Meroño-Peñuela
@@ -2686,15 +2278,6 @@
     title: SWISH for prototyping clinical guideline interactions theory
     url: ''
 -   author:
-    -   family: Beek
-        given: Wouter
-    -   family: Wielemaker
-        given: Jan
-    container-title: CEUR workshop proceedings
-    issued: '2016'
-    title: 'SWISH: An integrated semantic web notebook'
-    url: ''
--   author:
     -   family: Schlobach
         given: Stefan
     -   family: Janowicz
@@ -2702,25 +2285,6 @@
     container-title: Semantic Web
     issued: '2016'
     title: Selected papers from the combined EKAW 2014 and Semantic Web journal track
-    url: ''
--   author:
-    -   family: van den Besselaar
-        given: Peter
-    -   family: Khalili
-        given: Ali
-    -   family: de Graaf
-        given: Klaas Andries
-    -   family: Idrissou
-        given: Oladele
-    -   family: Loizou
-        given: A.
-    -   family: Schlobach
-        given: K. S.
-    -   family: van Harmelen
-        given: F.A.H.
-    issued: '2016'
-    title: Towards an open data infrastructure for STI data. OECD Blue Sky Conference,
-        Gent, September 2016
     url: ''
 -   author:
     -   family: Valkering
@@ -2743,6 +2307,15 @@
         given: Jan
     issued: '2016'
     title: 'SWISH: An Integrated Semantic Web Notebook'
+    url: ''
+-   author:
+    -   family: Beek
+        given: Wouter
+    -   family: Wielemaker
+        given: Jan
+    container-title: CEUR workshop proceedings
+    issued: '2016'
+    title: 'SWISH: An integrated semantic web notebook'
     url: ''
 -   author:
     -   family: van den Besselaar
@@ -2781,12 +2354,6 @@
     title: Refining Statistical Data on the Web
     url: ''
 -   author:
-    -   family: Rietveld
-        given: L. J.
-    issued: '2016'
-    title: Publishing and Consuming Linked Data
-    url: ''
--   author:
     -   family: Van Wierst
         given: Pauline
     -   family: Vrijenhoek
@@ -2812,6 +2379,20 @@
     issued: '2016'
     title: 'Managing metadata for science, technology and innovation studies: The
         RISIS case'
+    url: ''
+-   author:
+    -   family: Ilievski
+        given: F.
+    -   family: Beek
+        given: Wouter
+    -   family: van Erp
+        given: Marieke
+    -   family: Rietveld
+        given: Laurens
+    -   family: Schlobach
+        given: Stefan
+    issued: '2016'
+    title: 'LOTUS: Adaptive text search for big linked data'
     url: ''
 -   author:
     -   family: Ilievski
@@ -2843,18 +2424,10 @@
         25.2'
     url: ''
 -   author:
-    -   family: Ilievski
-        given: F.
-    -   family: Beek
-        given: Wouter
-    -   family: van Erp
-        given: Marieke
     -   family: Rietveld
-        given: Laurens
-    -   family: Schlobach
-        given: Stefan
+        given: L. J.
     issued: '2016'
-    title: 'LOTUS: Adaptive text search for big linked data'
+    title: Publishing and Consuming Linked Data
     url: ''
 -   author:
     -   family: Khalili
@@ -2862,6 +2435,21 @@
     container-title: CEUR workshop proceedings
     issued: '2016'
     title: 'Linked Data Reactor: a Framework for Building Reactive Linked Data Applications'
+    url: ''
+-   author:
+    -   family: Huang
+        given: Z.
+    -   family: Hu
+        given: Q.
+    -   family: ten Teije
+        given: A.C.M.
+    -   family: van Harmelen
+        given: F.A.H.
+    -   family: Ait-Mokhtar
+        given: S.
+    issued: '2016'
+    title: Knowledge Services Using Rule-Based Formalization for Eligibility Criteria
+        of Clinical Trials
     url: ''
 -   author:
     -   family: Schlobach
@@ -2878,30 +2466,6 @@
         given: P.A.A.
     issued: '2016'
     title: 'Interim report on the disambiguation results: RISIS Deliverable D25.1'
-    url: ''
--   author:
-    -   family: Leis
-        given: Viktor
-    -   family: Gubichev
-        given: Andrey
-    -   family: Mirchev
-        given: Atanas
-    -   family: Boncz
-        given: Peter
-    -   family: Kemper
-        given: Alfons
-    -   family: Neumann
-        given: Thomas
-    issued: '2016'
-    title: How Good Are Query Optimizers, Really?
-    url: ''
--   author:
-    -   family: Merono Penuela
-        given: A.
-    -   family: Hoekstra
-        given: R. J.
-    issued: '2016'
-    title: grlc Makes GitHub Taste Like Linked Data APIs
     url: ''
 -   author:
     -   family: Iosup
@@ -2936,21 +2500,6 @@
     issued: '2016'
     title: 'LDBC Graphalytics: A Benchmark for Large-Scale Graph Analysis on Parallel
         and Distributed Platforms'
-    url: ''
--   author:
-    -   family: Huang
-        given: Z.
-    -   family: Hu
-        given: Q.
-    -   family: ten Teije
-        given: A.C.M.
-    -   family: van Harmelen
-        given: F.A.H.
-    -   family: Ait-Mokhtar
-        given: S.
-    issued: '2016'
-    title: Knowledge Services Using Rule-Based Formalization for Eligibility Criteria
-        of Clinical Trials
     url: ''
 -   author:
     -   family: Lo
@@ -2994,6 +2543,30 @@
     title: Inferring recommendation interactions in clinical guidelines
     url: ''
 -   author:
+    -   family: Leis
+        given: Viktor
+    -   family: Gubichev
+        given: Andrey
+    -   family: Mirchev
+        given: Atanas
+    -   family: Boncz
+        given: Peter
+    -   family: Kemper
+        given: Alfons
+    -   family: Neumann
+        given: Thomas
+    issued: '2016'
+    title: How Good Are Query Optimizers, Really?
+    url: ''
+-   author:
+    -   family: Merono Penuela
+        given: A.
+    -   family: Hoekstra
+        given: R. J.
+    issued: '2016'
+    title: grlc Makes GitHub Taste Like Linked Data APIs
+    url: ''
+-   author:
     -   family: Carretta Zamborlini
         given: Veruska
     -   family: Hoekstra
@@ -3011,6 +2584,14 @@
         Guidelines
     url: ''
 -   author:
+    -   family: Pham
+        given: Minh Duc
+    -   family: Boncz
+        given: Peter
+    issued: '2016'
+    title: Exploiting emergent schemas to make RDF systems more efficient
+    url: ''
+-   author:
     -   family: Hu
         given: Qing
     -   family: Huang
@@ -3026,38 +2607,6 @@
     issued: '2016'
     title: A topic-centric approach to detecting new evidences for evidence-based
         medical guidelines
-    url: ''
--   author:
-    -   family: Shafahi
-        given: Mohammad
-    -   family: Hu
-        given: Qing
-    -   family: Afsarmanesh
-        given: Hamideh
-    -   family: Huang
-        given: Z.
-    -   family: ten Teije
-        given: A.C.M.
-    -   family: van Harmelen
-        given: F.A.H.
-    container-title: CEUR workshop proceedings
-    issued: '2016'
-    title: A Task-based Comparison of Linguistic and Semantic Document Retrieval Methods
-        in the Medical Domain
-    url: ''
--   author:
-    -   family: de Rooij
-        given: Steven
-    -   family: Beek
-        given: Wouter
-    -   family: Bloem
-        given: Peter
-    -   family: van Harmelen
-        given: Frank
-    -   family: Schlobach
-        given: Stefan
-    issued: '2016'
-    title: Are names meaningful? Quantifying social meaning on the semantic web
     url: ''
 -   author:
     -   family: Hoekstra
@@ -3105,12 +2654,36 @@
     title: grlc Makes GitHub Taste Like Linked Data APIs
     url: ''
 -   author:
-    -   family: Pham
-        given: Minh Duc
-    -   family: Boncz
-        given: Peter
+    -   family: Shafahi
+        given: Mohammad
+    -   family: Hu
+        given: Qing
+    -   family: Afsarmanesh
+        given: Hamideh
+    -   family: Huang
+        given: Z.
+    -   family: ten Teije
+        given: A.C.M.
+    -   family: van Harmelen
+        given: F.A.H.
+    container-title: CEUR workshop proceedings
     issued: '2016'
-    title: Exploiting emergent schemas to make RDF systems more efficient
+    title: A Task-based Comparison of Linguistic and Semantic Document Retrieval Methods
+        in the Medical Domain
+    url: ''
+-   author:
+    -   family: de Rooij
+        given: Steven
+    -   family: Beek
+        given: Wouter
+    -   family: Bloem
+        given: Peter
+    -   family: van Harmelen
+        given: Frank
+    -   family: Schlobach
+        given: Stefan
+    issued: '2016'
+    title: Are names meaningful? Quantifying social meaning on the semantic web
     url: ''
 -   author:
     -   family: Wilcke
@@ -3207,13 +2780,6 @@
     title: Why the Data Train Needs Semantic Rails
     url: ''
 -   author:
-    -   family: Merono Penuela
-        given: Albert
-    container-title: eHumanities Magazine 4
-    issued: 2015-01
-    title: We've Always Been Digital
-    url: ''
--   author:
     -   family: Janssen
         given: B.
     -   family: Merono
@@ -3227,46 +2793,11 @@
     title: Tracking down the habitat of folk songs
     url: ''
 -   author:
-    -   family: Koning
-        given: N. R.
-    -   family: Moons
-        given: L. N. G.
-    -   family: Büchner
-        given: F. L.
-    -   family: Helsper
-        given: C. W.
-    -   family: ten Teije
-        given: A.C.M.
-    -   family: Numans
-        given: M. E.
-    container-title: European Journal of Gastroenterology and Hepatology
-    issued: '2015'
-    title: 'Identification of patients at risk for colorectal cancer in primary care:
-        an explorative study with routine healthcare data'
-    url: ''
--   author:
-    -   family: Hoekstra
-        given: Rinke
-    -   family: Magliacane
-        given: Sara
-    -   family: Rietveld
-        given: Laurens
-    -   family: De Vries
-        given: Gerben
-    -   family: Wibisono
-        given: Adianto
-    -   family: Schlobach
-        given: Stefan
-    issued: '2015'
-    title: 'Hubble: Linked data Hub for clinical decision support'
-    url: ''
--   author:
-    -   family: Beek
-        given: Wouter
-    -   family: Rietveld
-        given: Laurens
-    issued: '2015'
-    title: 'Frank: The LOD cloud at your fingertips?'
+    -   family: Merono Penuela
+        given: Albert
+    container-title: eHumanities Magazine 4
+    issued: 2015-01
+    title: We've Always Been Digital
     url: ''
 -   author:
     -   family: Zamborlini
@@ -3297,6 +2828,24 @@
     title: Identifying Evidence Quality for Updating Evidence-based Medical Guidelines
     url: ''
 -   author:
+    -   family: Koning
+        given: N. R.
+    -   family: Moons
+        given: L. N. G.
+    -   family: Büchner
+        given: F. L.
+    -   family: Helsper
+        given: C. W.
+    -   family: ten Teije
+        given: A.C.M.
+    -   family: Numans
+        given: M. E.
+    container-title: European Journal of Gastroenterology and Hepatology
+    issued: '2015'
+    title: 'Identification of patients at risk for colorectal cancer in primary care:
+        an explorative study with routine healthcare data'
+    url: ''
+-   author:
     -   family: Huang
         given: Z.
     -   family: Hu
@@ -3309,12 +2858,58 @@
     title: Identifying Evidence Quality for Updating Evidence-based Medical Guideline
     url: ''
 -   author:
+    -   family: Hoekstra
+        given: Rinke
+    -   family: Magliacane
+        given: Sara
+    -   family: Rietveld
+        given: Laurens
+    -   family: De Vries
+        given: Gerben
+    -   family: Wibisono
+        given: Adianto
+    -   family: Schlobach
+        given: Stefan
+    issued: '2015'
+    title: 'Hubble: Linked data Hub for clinical decision support'
+    url: ''
+-   author:
     -   family: Beek
         given: W. G. J.
     -   family: Rietveld
         given: L. J.
     issued: '2015'
     title: 'Frank: Algorithmic Access to the LOD Cloud'
+    url: ''
+-   author:
+    -   family: Magliacane
+        given: S.
+    -   family: Stutz
+        given: P.
+    -   family: Groth
+        given: P.
+    -   family: Bernstein
+        given: A.
+    container-title: International Journal of Approximate Reasoning
+    issued: '2015'
+    title: 'foxPSL: A Fast, Optimized and eXtended PSL implementation'
+    url: ''
+-   author:
+    -   family: Beek
+        given: Wouter
+    -   family: Rietveld
+        given: Laurens
+    issued: '2015'
+    title: 'Frank: The LOD cloud at your fingertips?'
+    url: ''
+-   author:
+    -   family: Beek
+        given: Wouter
+    -   family: Rietveld
+        given: Laurens
+    container-title: CEUR workshop proceedings
+    issued: '2015'
+    title: 'Frank: The LOD cloud at your fingertips?'
     url: ''
 -   author:
     -   family: Magliacane
@@ -3337,6 +2932,65 @@
         given: Zisheng
     issued: '2015'
     title: Finding Evidence for Updates in Medical Guidelines
+    url: ''
+-   author:
+    -   family: Israel
+        given: E.
+    -   family: Villard
+        given: L.
+    -   family: Revollo
+        given: M.
+    -   family: Getz
+        given: D.
+    -   family: Segal
+        given: V.
+    -   family: Larédo
+        given: P.
+    -   family: Khalili
+        given: A.
+    -   family: Loizou
+        given: A.
+    -   family: van den Besselaar
+        given: P.A.A.
+    -   family: Veglio
+        given: V.
+    -   family: Lepori
+        given: B.
+    -   family: Reale
+        given: E.
+    issued: '2015'
+    title: Depicting and selecting preferable approaches to knowledge clustering -
+        RISIS deliverable
+    url: ''
+-   author:
+    -   family: Li
+        given: Youjun
+    -   family: Wan
+        given: Z.
+    -   family: Huang
+        given: J.
+    -   family: Chen
+        given: J.
+    -   family: Huang
+        given: Z.
+    -   family: Zhong
+        given: N.
+    issued: '2015'
+    title: A Semantic Smart Hospital Information System for Mental Disorders
+    url: ''
+-   author:
+    -   family: Wilcke
+        given: W. X.
+    -   family: de Boer
+        given: Viktor
+    -   family: van Harmelen
+        given: F.A.H.
+    -   family: de Kleijn
+        given: Mauritius
+    -   family: Wansleeben
+        given: M.
+    issued: '2015'
+    title: 'ARIADNE: First Report on Data Mining'
     url: ''
 -   author:
     -   family: Izquirdo
@@ -3392,71 +3046,6 @@
         Content'
     url: ''
 -   author:
-    -   family: Beek
-        given: Wouter
-    -   family: Rietveld
-        given: Laurens
-    container-title: CEUR workshop proceedings
-    issued: '2015'
-    title: 'Frank: The LOD cloud at your fingertips?'
-    url: ''
--   author:
-    -   family: Magliacane
-        given: S.
-    -   family: Stutz
-        given: P.
-    -   family: Groth
-        given: P.
-    -   family: Bernstein
-        given: A.
-    container-title: International Journal of Approximate Reasoning
-    issued: '2015'
-    title: 'foxPSL: A Fast, Optimized and eXtended PSL implementation'
-    url: ''
--   author:
-    -   family: Israel
-        given: E.
-    -   family: Villard
-        given: L.
-    -   family: Revollo
-        given: M.
-    -   family: Getz
-        given: D.
-    -   family: Segal
-        given: V.
-    -   family: Larédo
-        given: P.
-    -   family: Khalili
-        given: A.
-    -   family: Loizou
-        given: A.
-    -   family: van den Besselaar
-        given: P.A.A.
-    -   family: Veglio
-        given: V.
-    -   family: Lepori
-        given: B.
-    -   family: Reale
-        given: E.
-    issued: '2015'
-    title: Depicting and selecting preferable approaches to knowledge clustering -
-        RISIS deliverable
-    url: ''
--   author:
-    -   family: Wilcke
-        given: W. X.
-    -   family: de Boer
-        given: Viktor
-    -   family: van Harmelen
-        given: F.A.H.
-    -   family: de Kleijn
-        given: Mauritius
-    -   family: Wansleeben
-        given: M.
-    issued: '2015'
-    title: 'ARIADNE: First Report on Data Mining'
-    url: ''
--   author:
     -   family: Wang
         given: H.
     -   family: Huang
@@ -3485,22 +3074,6 @@
         given: Zhi
     issued: '2015'
     title: Automatic Verification of Road Signs based on Ontology
-    url: ''
--   author:
-    -   family: Li
-        given: Youjun
-    -   family: Wan
-        given: Z.
-    -   family: Huang
-        given: J.
-    -   family: Chen
-        given: J.
-    -   family: Huang
-        given: Z.
-    -   family: Zhong
-        given: N.
-    issued: '2015'
-    title: A Semantic Smart Hospital Information System for Mental Disorders
     url: ''
 -   author:
     -   family: Wang
