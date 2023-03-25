@@ -9,7 +9,10 @@ js: true
 {::nomarkdown}
 
 <nav class="publication-links">
-<!-- <a href="/files/publications.bib" class="bibtex">download as bibtex</a> -->
+{% comment %} 
+Javascript is used to add filter links to this document. The JS file also contains the list of keywords that are converted
+to these links.
+{% endcomment %}
 </nav>
 
 {% assign pubs = site.data.publications | sort: 'data.date' | reverse %}
