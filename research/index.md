@@ -37,9 +37,9 @@ The [Hybrid Intelligence](https://www.hybrid-intelligence-centre.nl/) centre bri
 
 ## LEAPfROG
 
-<a class="logo" href="https://www.pharmacoinformaticslab.nl/leapfrog-project/"><img src="/images/projects/leapfrog.png" title="The logo of the LEAPfROG project"></a>
+<a class="logo" href="https://www.pharmacoinformaticslab.nl/leapfrog/"><img src="/images/projects/leapfrog.png" title="The logo of the LEAPfROG project"></a>
 
-The [LEAPfROG project](https://www.pharmacoinformaticslab.nl/leapfrog-project/)  aims for a scientific breakthrough in Artificial Intelligence (AI) application in healthcare by combining machine learning and knowledge representation methods to deliver novel AI-powered tools, methods, models, and a prototype for AI-based decision support system. All to support effective and safe pharmacotherapy in people with multimorbidity. The value of LEAPfROG’s approach will be demonstrated via a clinically relevant and urgent use case of drug-induced kidney diseases (DIKD) in patients with chronic kidney disease (CKD).
+The [LEAPfROG project](https://www.pharmacoinformaticslab.nl/leapfrog/)  aims for a scientific breakthrough in Artificial Intelligence (AI) application in healthcare by combining machine learning and knowledge representation methods to deliver novel AI-powered tools, methods, models, and a prototype for AI-based decision support system. All to support effective and safe pharmacotherapy in people with multimorbidity. The value of LEAPfROG’s approach will be demonstrated via a clinically relevant and urgent use case of drug-induced kidney diseases (DIKD) in patients with chronic kidney disease (CKD).
 
 ## MUHAI
 

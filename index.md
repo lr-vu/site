@@ -33,7 +33,7 @@ dark: true
                 </a> or <a href="https://twitter.com/NeSy_GeMs">its twitter feed</a> for more information. </dd>
 
         <dt>Nov 1, 2022</dt>
-            <dd>We are pleased to welcome <a href="https://research.vu.nl/en/persons/romy-vos"><em>Romy Vos</em></a> to the team. She will join us as a PhD student on <a href="https://www.pharmacoinformaticslab.nl/">the LeapFrog project</a>,
+            <dd>We are pleased to welcome <a href="https://research.vu.nl/en/persons/romy-vos"><em>Romy Vos</em></a> to the team. She will join us as a PhD student on <a href="https://www.pharmacoinformaticslab.nl/leapfrog/">the LeapFrog project</a>,
                 investigating the application of learning and reasoning to drug safety. </dd>
     </dl>
 </section>
