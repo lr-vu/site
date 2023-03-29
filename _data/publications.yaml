@@ -1,6 +1,82 @@
 -   data:
         DOI: ''
         ISBN: ''
+        abstractNote: Large-scale, algorithmic access to LOD Cloud data has been hampered
+            by the absence of queryable endpoints for many datasets, a plethora of
+            serialization formats, and an abundance of idiosyncrasies such as syntax
+            errors. As of late, very large-scale - hundreds of thousands of document,
+            tens of billions of triples - access to RDF data has become possible thanks
+            to the LOD Laundromat Web Service. In this paper we showcase Frank, a
+            command-line interface to a very large collection of standards-compliant,
+            real-world RDF data that can be used to run Semantic Web experiments and
+            stress-test Linked Data applications.
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Wouter
+            lastName: Beek
+        -   creatorType: author
+            firstName: Laurens
+            lastName: Rietveld
+        date: '2015'
+        dateAdded: '2023-03-24T12:41:26Z'
+        dateModified: '2023-03-29T15:20:55Z'
+        extra: ''
+        itemType: conferencePaper
+        key: R7AY6ETG
+        language: ''
+        libraryCatalog: ''
+        pages: 41–46
+        place: ''
+        proceedingsTitle: Proceedings of the ESWC Developers Workshop 2015 co-located
+            with the 12th Extended Semantic Web Conference (ESWC 2015)
+        publisher: ''
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: 'Frank: The LOD cloud at your fingertips?'
+        url: ''
+        version: 298
+        volume: '1361'
+    key: R7AY6ETG
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/R7AY6ETG
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/R7AY6ETG
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: Beek and Rietveld
+        numChildren: 0
+        parsedDate: '2015'
+    version: 298
+-   data:
+        DOI: ''
+        ISBN: ''
         abstractNote: ''
         accessDate: ''
         archive: ''
@@ -6385,149 +6461,6 @@
             name: Michael Cochez
             username: michaelcochez
         creatorSummary: Magliacane et al.
-        numChildren: 0
-        parsedDate: '2015'
-    version: 148
--   data:
-        abstractNote: Large-scale, algorithmic access to LOD Cloud data has been hampered
-            by the absence of queryable endpoints for many datasets, a plethora of
-            serialization formats, and an abundance of idiosyncrasies such as syntax
-            errors. As of late, very large-scale — hundreds of thousands of document,
-            tens of billions of triples — access to RDF data has become possible thanks
-            to the LOD Laundromat Web Service. In this paper we showcase Frank, a
-            command-line interface to a very large collection of standards-compliant,
-            real-world RDF data that can be used to run Semantic Web experiments and
-            stress-test Linked Data applications.
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Wouter
-            lastName: Beek
-        -   creatorType: author
-            firstName: Laurens
-            lastName: Rietveld
-        date: '2015'
-        dateAdded: '2023-03-24T12:41:26Z'
-        dateModified: '2023-03-24T12:41:26Z'
-        extra: ''
-        itemType: document
-        key: PBQQA3IW
-        language: ''
-        libraryCatalog: ''
-        publisher: ''
-        relations: {}
-        rights: ''
-        shortTitle: ''
-        tags: []
-        title: 'Frank: The LOD cloud at your fingertips?'
-        url: ''
-        version: 148
-    key: PBQQA3IW
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/PBQQA3IW
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/PBQQA3IW
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Beek and Rietveld
-        numChildren: 0
-        parsedDate: '2015'
-    version: 148
--   data:
-        DOI: ''
-        ISSN: 1613-0073
-        abstractNote: Large-scale, algorithmic access to LOD Cloud data has been hampered
-            by the absence of queryable endpoints for many datasets, a plethora of
-            serialization formats, and an abundance of idiosyncrasies such as syntax
-            errors. As of late, very large-scale - hundreds of thousands of document,
-            tens of billions of triples - access to RDF data has become possible thanks
-            to the LOD Laundromat Web Service. In this paper we showcase Frank, a
-            command-line interface to a very large collection of standards-compliant,
-            real-world RDF data that can be used to run Semantic Web experiments and
-            stress-test Linked Data applications.
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Wouter
-            lastName: Beek
-        -   creatorType: author
-            firstName: Laurens
-            lastName: Rietveld
-        date: '2015'
-        dateAdded: '2023-03-24T12:41:26Z'
-        dateModified: '2023-03-24T12:41:26Z'
-        extra: 'Publisher: CEUR Workshop Proceedings'
-        issue: ''
-        itemType: journalArticle
-        journalAbbreviation: ''
-        key: R7AY6ETG
-        language: ''
-        libraryCatalog: ''
-        pages: 41–46
-        publicationTitle: CEUR workshop proceedings
-        relations: {}
-        rights: ''
-        series: ''
-        seriesText: ''
-        seriesTitle: ''
-        shortTitle: ''
-        tags: []
-        title: 'Frank: The LOD cloud at your fingertips?'
-        url: ''
-        version: 148
-        volume: '1361'
-    key: R7AY6ETG
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/R7AY6ETG
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/R7AY6ETG
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Beek and Rietveld
         numChildren: 0
         parsedDate: '2015'
     version: 148
