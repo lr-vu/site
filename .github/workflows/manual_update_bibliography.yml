@@ -1,6 +1,6 @@
 # workflow to update the bibliograhy file if it has changed.
 
-name: Check for updates of the bibliography and deploy if it changed
+name: Maual - Check for updates of the bibliography and deploy if it changed
 
 on:
   # Allows you to run this workflow manually from the Actions tab
