@@ -1,8 +1,14 @@
 # workflow to update the bibliograhy file if it has changed.
 
-name: Manual - Check for updates of the bibliography and deploy if it changed
+name: Check for updates of the bibliography and deploy if it changed
 
 on:
+  # push:
+  #   branches:
+  #     - main
+  schedule:
+    # every hour at minute 37
+    - cron: "37 * * * *"
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
@@ -15,6 +21,8 @@ permissions:
 jobs:
   update_bibliography:
     runs-on: ubuntu-latest
+    outputs:
+      bibliography_changes: ${{ env.BIBLIOGRAPHY_CHANGES }}
     steps:
       - name: clone
         uses: actions/checkout@v1
@@ -47,4 +55,5 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
   update_pages:
     needs: update_bibliography
+    if: needs.update_bibliography.bibliography_changes != '0'
     uses: ./.github/workflows/jekyll.yml
