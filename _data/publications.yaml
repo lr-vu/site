@@ -10,6 +10,2231 @@
         conferenceName: ''
         creators:
         -   creatorType: author
+            firstName: Emile
+            lastName: van Krieken
+        -   creatorType: author
+            firstName: Jakub
+            lastName: Tomczak
+        -   creatorType: author
+            firstName: Annette
+            lastName: Ten Teije
+        -   creatorType: editor
+            firstName: M.
+            lastName: Ranzato
+        -   creatorType: editor
+            firstName: A.
+            lastName: Beygelzimer
+        -   creatorType: editor
+            firstName: Y.
+            lastName: Dauphin
+        -   creatorType: editor
+            firstName: P.S.
+            lastName: Liang
+        -   creatorType: editor
+            firstName: J. Wortman
+            lastName: Vaughan
+        date: '2021'
+        dateAdded: '2023-03-29T12:41:15Z'
+        dateModified: '2023-03-29T12:46:06Z'
+        extra: ''
+        itemType: conferencePaper
+        key: ZYIGX6WB
+        language: ''
+        libraryCatalog: ''
+        pages: 7574–7587
+        place: ''
+        proceedingsTitle: Advances in neural information processing systems
+        publisher: Curran Associates, Inc.
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags:
+        -   tag: machine learning
+        title: 'Storchastic: A framework for general stochastic automatic differentiation'
+        url: https://proceedings.neurips.cc/paper/2021/file/3dfe2f633108d604df160cd1b01710db-Paper.pdf
+        version: 294
+        volume: '34'
+    key: ZYIGX6WB
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/ZYIGX6WB
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/ZYIGX6WB
+            type: application/json
+    meta:
+        createdByUser:
+            id: 6261094
+            links:
+                alternate:
+                    href: https://www.zotero.org/hemile
+                    type: text/html
+            name: ''
+            username: hemile
+        creatorSummary: van Krieken et al.
+        numChildren: 0
+        parsedDate: '2021'
+    version: 294
+-   data:
+        DOI: 10.1007/s10994-023-06310-3
+        ISSN: 1573-0565
+        abstractNote: Recent work has shown learning systems can use logical background
+            knowledge to compensate for a lack of labeled training data. Many methods
+            work by creating a loss function that encodes this knowledge. However,
+            often the logic is discarded after training, even if it is still helpful
+            at test time. Instead, we ensure neural network predictions satisfy the
+            knowledge by refining the predictions with an extra computation step.
+            We introduce differentiable refinement functions that find a corrected
+            prediction close to the original prediction. We study how to effectively
+            and efficiently compute these refinement functions. Using a new algorithm
+            called iterative local refinement (ILR), we combine refinement functions
+            to find refined predictions for logical formulas of any complexity. ILR
+            finds refinements on complex SAT formulas in significantly fewer iterations
+            and frequently finds solutions where gradient descent can not. Finally,
+            ILR produces competitive results in the MNIST addition task.
+        accessDate: '2023-03-29T12:41:55Z'
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Alessandro
+            lastName: Daniele
+        -   creatorType: author
+            firstName: Emile
+            lastName: van Krieken
+        -   creatorType: author
+            firstName: Luciano
+            lastName: Serafini
+        -   creatorType: author
+            firstName: Frank
+            lastName: van Harmelen
+        date: '2023-03-14'
+        dateAdded: '2023-03-29T12:42:46Z'
+        dateModified: '2023-03-29T12:46:00Z'
+        extra: ''
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: Mach Learn
+        key: PX7AD88P
+        language: en
+        libraryCatalog: Springer Link
+        pages: ''
+        publicationTitle: Machine Learning
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags:
+        -   tag: Fuzzy logic
+            type: 1
+        -   tag: Neurosymbolic AI
+            type: 1
+        -   tag: Optimization
+            type: 1
+        -   tag: machine learning
+        title: Refining neural network predictions using background knowledge
+        url: https://doi.org/10.1007/s10994-023-06310-3
+        version: 293
+        volume: ''
+    key: PX7AD88P
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/PX7AD88P
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/PX7AD88P
+            type: application/json
+    meta:
+        createdByUser:
+            id: 6261094
+            links:
+                alternate:
+                    href: https://www.zotero.org/hemile
+                    type: text/html
+            name: ''
+            username: hemile
+        creatorSummary: Daniele et al.
+        numChildren: 1
+        parsedDate: '2023-03-14'
+    version: 293
+-   data:
+        DOI: ''
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Emile
+            lastName: van Krieken
+        -   creatorType: author
+            firstName: Erman
+            lastName: Acar
+        -   creatorType: author
+            firstName: Frank
+            lastName: van Harmelen
+        date: '2019'
+        dateAdded: '2023-03-24T12:41:24Z'
+        dateModified: '2023-03-29T12:45:54Z'
+        extra: ''
+        issue: '4'
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: 5JETFDV9
+        language: ''
+        libraryCatalog: ''
+        pages: 633–652
+        publicationTitle: FLAP
+        relations:
+            dc:replaces: http://zotero.org/groups/4989916/items/V7V684RD
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags:
+        -   tag: Neurosymbolic AI
+        title: Semi-supervised Learning using Differentiable Reasoning
+        url: https://collegepublications.co.uk/ifcolog/?00033
+        version: 292
+        volume: '6'
+    key: 5JETFDV9
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/5JETFDV9
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/5JETFDV9
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: van Krieken et al.
+        lastModifiedByUser:
+            id: 6261094
+            links:
+                alternate:
+                    href: https://www.zotero.org/hemile
+                    type: text/html
+            name: ''
+            username: hemile
+        numChildren: 1
+        parsedDate: '2019'
+    version: 292
+-   data:
+        DOI: 10.24963/kr.2020/92
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Emile
+            lastName: van Krieken
+        -   creatorType: author
+            firstName: Erman
+            lastName: Acar
+        -   creatorType: author
+            firstName: Frank
+            lastName: van Harmelen
+        -   creatorType: editor
+            firstName: Diego
+            lastName: Calvanese
+        -   creatorType: editor
+            firstName: Esra
+            lastName: Erdem
+        -   creatorType: editor
+            firstName: Michael
+            lastName: Thielscher
+        date: '2020'
+        dateAdded: '2023-03-24T12:41:24Z'
+        dateModified: '2023-03-29T12:45:32Z'
+        extra: ''
+        itemType: conferencePaper
+        key: 26KMT284
+        language: ''
+        libraryCatalog: ''
+        pages: 893–903
+        place: ''
+        proceedingsTitle: Proceedings of the 17th International Conference on Principles
+            of Knowledge Representation and Reasoning, KR 2020, Rhodes, Greece, September
+            12-18, 2020
+        publisher: ''
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags:
+        -   tag: Knowledge Representation
+        -   tag: Neurosymbolic AI
+        -   tag: machine learning
+        title: Analyzing Differentiable Fuzzy Implications
+        url: https://doi.org/10.24963/kr.2020/92
+        version: 291
+        volume: ''
+    key: 26KMT284
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/26KMT284
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/26KMT284
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: van Krieken et al.
+        lastModifiedByUser:
+            id: 6261094
+            links:
+                alternate:
+                    href: https://www.zotero.org/hemile
+                    type: text/html
+            name: ''
+            username: hemile
+        numChildren: 0
+        parsedDate: '2020'
+    version: 291
+-   data:
+        DOI: ''
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Emile
+            lastName: van Krieken
+        -   creatorType: author
+            firstName: Erman
+            lastName: Acar
+        -   creatorType: author
+            firstName: Frank
+            lastName: van Harmelen
+        date: '2022'
+        dateAdded: '2023-03-29T12:36:09Z'
+        dateModified: '2023-03-29T12:45:22Z'
+        extra: 'Publisher: Elsevier'
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: IA2T3CSS
+        language: ''
+        libraryCatalog: ''
+        pages: '103602'
+        publicationTitle: Artificial Intelligence
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags:
+        -   tag: Knowledge representation
+        -   tag: Neurosymbolic AI
+        -   tag: machine learning
+        title: Analyzing differentiable fuzzy logic operators
+        url: ''
+        version: 290
+        volume: '302'
+    key: IA2T3CSS
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/IA2T3CSS
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/IA2T3CSS
+            type: application/json
+    meta:
+        createdByUser:
+            id: 6261094
+            links:
+                alternate:
+                    href: https://www.zotero.org/hemile
+                    type: text/html
+            name: ''
+            username: hemile
+        creatorSummary: van Krieken et al.
+        numChildren: 0
+        parsedDate: '2022'
+    version: 290
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections:
+        - VSP3MV9F
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Idries
+            lastName: Nasim
+        -   creatorType: author
+            firstName: Shuai
+            lastName: Wang
+        -   creatorType: author
+            firstName: Joe
+            lastName: Raad
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        -   creatorType: author
+            firstName: Frank
+            lastName: van Harmelen
+        date: '2022'
+        dateAdded: '2023-03-27T15:48:35Z'
+        dateModified: '2023-03-27T15:54:00Z'
+        extra: ''
+        itemType: conferencePaper
+        key: BCQXWUAE
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        place: ''
+        proceedingsTitle: 8th Workshop on Managing the Evolution and Preservation
+            of the Data Web (MEPDaW at ISWC)
+        publisher: ''
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags:
+        -   tag: linked open data
+        -   tag: semantic web
+        title: What does it mean when your URIs are redirected? Examining identity
+            and redirection in the LOD cloud
+        url: ''
+        version: 272
+        volume: ''
+    key: BCQXWUAE
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/BCQXWUAE
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/BCQXWUAE
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: Nasim et al.
+        numChildren: 0
+        parsedDate: '2022'
+    version: 272
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections:
+        - VSP3MV9F
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        -   creatorType: author
+            firstName: Steven
+            lastName: de Rooij
+        -   creatorType: author
+            firstName: Pieter
+            lastName: Adriaans
+        date: '2015'
+        dateAdded: '2023-03-27T15:48:34Z'
+        dateModified: '2023-03-27T15:53:53Z'
+        extra: ''
+        itemType: conferencePaper
+        key: WPWLEIPE
+        language: ''
+        libraryCatalog: ''
+        pages: 379–394
+        place: ''
+        proceedingsTitle: 'Algorithmic Learning Theory: 26th International Conference,
+            ALT 2015, Banff, AB, Canada, October 4-6, 2015, Proceedings 26'
+        publisher: Springer International Publishing
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags:
+        -   tag: kolmogorov complexity
+        -   tag: theoretical computer science
+        title: Two problems for sophistication
+        url: ''
+        version: 271
+        volume: ''
+    key: WPWLEIPE
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/WPWLEIPE
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/WPWLEIPE
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: Bloem et al.
+        numChildren: 0
+        parsedDate: '2015'
+    version: 271
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections:
+        - VSP3MV9F
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Koen Lennart
+            lastName: van der Veen
+        -   creatorType: author
+            firstName: Ruben
+            lastName: Seggers
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        -   creatorType: author
+            firstName: Giorgio
+            lastName: Patrini
+        date: '2018'
+        dateAdded: '2023-03-27T15:48:34Z'
+        dateModified: '2023-03-27T15:53:39Z'
+        extra: ''
+        itemType: conferencePaper
+        key: GPALI7LF
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        place: ''
+        proceedingsTitle: Privacy Preserving Machine Learning Workshop
+        publisher: ''
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags:
+        -   tag: differential privacy
+        -   tag: machine learning
+        title: Three tools for practical differential privacy
+        url: ''
+        version: 269
+        volume: ''
+    key: GPALI7LF
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/GPALI7LF
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/GPALI7LF
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: van der Veen et al.
+        numChildren: 0
+        parsedDate: '2018'
+    version: 269
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections:
+        - VSP3MV9F
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Albert
+            lastName: Meroño-Peñuela
+        -   creatorType: author
+            firstName: Rinke
+            lastName: Hoekstra
+        -   creatorType: author
+            firstName: Aldo
+            lastName: Gangemi
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        -   creatorType: author
+            firstName: Reinier
+            lastName: de Valk
+        -   creatorType: author
+            firstName: Bas
+            lastName: Stringer
+        -   creatorType: author
+            firstName: Berit
+            lastName: Janssen
+        -   creatorType: author
+            firstName: Victor
+            lastName: de Boer
+        -   creatorType: author
+            firstName: Alo
+            lastName: Allik
+        -   creatorType: author
+            firstName: Stefan
+            lastName: Schlobach
+        -   creatorType: author
+            name: others
+        date: '2017'
+        dateAdded: '2023-03-27T15:48:34Z'
+        dateModified: '2023-03-27T15:53:30Z'
+        extra: ''
+        itemType: conferencePaper
+        key: IKP6U9HC
+        language: ''
+        libraryCatalog: ''
+        pages: 156–164
+        place: ''
+        proceedingsTitle: 'The Semantic Web–ISWC 2017: 16th International Semantic
+            Web Conference, Vienna, Austria, October 21-25, 2017, Proceedings, Part
+            II 16'
+        publisher: Springer International Publishing
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags:
+        -   tag: linked open data
+        -   tag: music
+        -   tag: semantic web
+        title: The MIDI linked data cloud
+        url: ''
+        version: 267
+        volume: ''
+    key: IKP6U9HC
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/IKP6U9HC
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/IKP6U9HC
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: Meroño-Peñuela et al.
+        numChildren: 0
+        parsedDate: '2017'
+    version: 267
+-   data:
+        DOI: ''
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections:
+        - VSP3MV9F
+        creators:
+        -   creatorType: author
+            firstName: Xander
+            lastName: Wilcke
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        -   creatorType: author
+            firstName: Victor
+            lastName: De Boer
+        date: '2017'
+        dateAdded: '2023-03-27T15:48:34Z'
+        dateModified: '2023-03-27T15:53:18Z'
+        extra: 'Publisher: IOS Press'
+        issue: 1-2
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: 3LI8PZBP
+        language: ''
+        libraryCatalog: ''
+        pages: 39–57
+        publicationTitle: Data Science
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags:
+        -   tag: knowledge graphs
+        -   tag: machine learning
+        -   tag: position paper
+        -   tag: semantic web
+        title: The knowledge graph as the default data model for learning on heterogeneous
+            knowledge
+        url: ''
+        version: 265
+        volume: '1'
+    key: 3LI8PZBP
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/3LI8PZBP
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/3LI8PZBP
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: Wilcke et al.
+        numChildren: 0
+        parsedDate: '2017'
+    version: 265
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections:
+        - VSP3MV9F
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Shuai
+            lastName: Wang
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        -   creatorType: author
+            firstName: Joe
+            lastName: Raad
+        -   creatorType: author
+            firstName: Frank
+            lastName: van Harmelen
+        date: '2020'
+        dateAdded: '2023-03-27T15:48:35Z'
+        dateModified: '2023-03-27T15:53:00Z'
+        extra: ''
+        itemType: conferencePaper
+        key: CPNQNC38
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        place: ''
+        proceedingsTitle: Workshop on Large Scale RDF Analytics
+        publisher: ''
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags:
+        -   tag: linked open data
+        -   tag: semantic web
+        title: 'SUBMASSIVE: Resolving subclass cycles in very large knowledge graphs'
+        url: ''
+        version: 263
+        volume: ''
+    key: CPNQNC38
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/CPNQNC38
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/CPNQNC38
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: Wang et al.
+        numChildren: 0
+        parsedDate: '2020'
+    version: 263
+-   data:
+        DOI: ''
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections:
+        - VSP3MV9F
+        creators:
+        -   creatorType: author
+            firstName: Thiviyan
+            lastName: Thanapalasingam
+        -   creatorType: author
+            firstName: Lucas
+            lastName: van Berkel
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        -   creatorType: author
+            firstName: Paul
+            lastName: Groth
+        date: '2022'
+        dateAdded: '2023-03-27T15:48:35Z'
+        dateModified: '2023-03-27T15:52:41Z'
+        extra: 'Publisher: PeerJ Inc.'
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: QEMI9V22
+        language: ''
+        libraryCatalog: ''
+        pages: e1073
+        publicationTitle: PeerJ Computer Science
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags:
+        -   tag: graph learning
+        title: 'Relational graph convolutional networks: a closer look'
+        url: ''
+        version: 261
+        volume: '8'
+    key: QEMI9V22
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/QEMI9V22
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/QEMI9V22
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: Thanapalasingam et al.
+        numChildren: 0
+        parsedDate: '2022'
+    version: 261
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections:
+        - VSP3MV9F
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Shuai
+            lastName: Wang
+        -   creatorType: author
+            firstName: Joe
+            lastName: Raad
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        -   creatorType: author
+            firstName: Frank
+            lastName: Van Harmelen
+        date: '2021'
+        dateAdded: '2023-03-27T15:48:35Z'
+        dateModified: '2023-03-27T15:52:35Z'
+        extra: ''
+        itemType: conferencePaper
+        key: ULWZBP9Y
+        language: ''
+        libraryCatalog: ''
+        pages: 249–264
+        place: ''
+        proceedingsTitle: 'The Semantic Web: 18th International Conference, ESWC 2021,
+            Virtual Event, June 6–10, 2021, Proceedings 18'
+        publisher: Springer International Publishing
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags:
+        -   tag: linked open data
+        -   tag: semantic web
+        title: Refining transitive and pseudo-transitive relations at web scale
+        url: ''
+        version: 260
+        volume: ''
+    key: ULWZBP9Y
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/ULWZBP9Y
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/ULWZBP9Y
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: Wang et al.
+        numChildren: 0
+        parsedDate: '2021'
+    version: 260
+-   data:
+        DOI: ''
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections:
+        - VSP3MV9F
+        creators:
+        -   creatorType: author
+            firstName: Henriette
+            lastName: Capel
+        -   creatorType: author
+            firstName: Robin
+            lastName: Weiler
+        -   creatorType: author
+            firstName: Maurits
+            lastName: Dijkstra
+        -   creatorType: author
+            firstName: Reinier
+            lastName: Vleugels
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        -   creatorType: author
+            firstName: K Anton
+            lastName: Feenstra
+        date: '2022'
+        dateAdded: '2023-03-27T15:48:35Z'
+        dateModified: '2023-03-27T15:52:03Z'
+        extra: 'Publisher: Nature Publishing Group UK London'
+        issue: '1'
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: DRHSRQSA
+        language: ''
+        libraryCatalog: ''
+        pages: '16047'
+        publicationTitle: Scientific Reports
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags:
+        -   tag: biomedical
+        title: ProteinGLUE multi-task benchmark suite for self-supervised protein
+            modeling
+        url: ''
+        version: 258
+        volume: '12'
+    key: DRHSRQSA
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/DRHSRQSA
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/DRHSRQSA
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: Capel et al.
+        numChildren: 0
+        parsedDate: '2022'
+    version: 258
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections:
+        - VSP3MV9F
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Stefan
+            lastName: Schouten
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        -   creatorType: author
+            firstName: Piek
+            lastName: Vossen
+        date: '2022'
+        dateAdded: '2023-03-27T15:48:35Z'
+        dateModified: '2023-03-27T15:51:52Z'
+        extra: ''
+        itemType: conferencePaper
+        key: P5W6J8LZ
+        language: ''
+        libraryCatalog: ''
+        pages: 384–393
+        place: ''
+        proceedingsTitle: Proceedings of the Fifth BlackboxNLP Workshop on Analyzing
+            and Interpreting Neural Networks for NLP
+        publisher: ''
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags:
+        -   tag: large language models
+        title: Probing the representations of named entities in Transformer-based
+            Language Models
+        url: ''
+        version: 257
+        volume: ''
+    key: P5W6J8LZ
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/P5W6J8LZ
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/P5W6J8LZ
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: Schouten et al.
+        numChildren: 0
+        parsedDate: '2022'
+    version: 257
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections:
+        - VSP3MV9F
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: M
+            lastName: Schlichtkrull
+        -   creatorType: author
+            firstName: TN
+            lastName: Kipf
+        -   creatorType: author
+            firstName: P
+            lastName: Bloem
+        -   creatorType: author
+            firstName: ', R. vd, Titov, I.'
+            lastName: Berg
+        -   creatorType: author
+            firstName: M.
+            lastName: Welling
+        date: '2018'
+        dateAdded: '2023-03-27T15:48:34Z'
+        dateModified: '2023-03-27T15:51:45Z'
+        extra: ''
+        itemType: conferencePaper
+        key: R3FJRED9
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        place: ''
+        proceedingsTitle: European Semantic Web Conference, 593-607
+        publisher: ''
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags:
+        -   tag: graph learning
+        -   tag: knowledge graphs
+        title: Modeling relational data with graph convolutional networks
+        url: ''
+        version: 256
+        volume: ''
+    key: R3FJRED9
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/R3FJRED9
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/R3FJRED9
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: Schlichtkrull et al.
+        numChildren: 0
+        parsedDate: '2018'
+    version: 256
+-   data:
+        DOI: ''
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections:
+        - VSP3MV9F
+        creators:
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        -   creatorType: author
+            firstName: Steven
+            lastName: de Rooij
+        date: '2020'
+        dateAdded: '2023-03-27T15:48:34Z'
+        dateModified: '2023-03-27T15:51:35Z'
+        extra: 'Publisher: Springer'
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: ZVVMKZDU
+        language: ''
+        libraryCatalog: ''
+        pages: 1421–1453
+        publicationTitle: Data Mining and Knowledge Discovery, 2020
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags:
+        -   tag: graph learning
+        -   tag: motif analysis
+        title: Large-scale network motif analysis using compression
+        url: ''
+        version: 255
+        volume: '34'
+    key: ZVVMKZDU
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/ZVVMKZDU
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/ZVVMKZDU
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: Bloem and de Rooij
+        numChildren: 0
+        parsedDate: '2020'
+    version: 255
+-   data:
+        DOI: ''
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections:
+        - VSP3MV9F
+        creators:
+        -   creatorType: author
+            firstName: Marina
+            lastName: Diachenko
+        -   creatorType: author
+            firstName: Simon J
+            lastName: Houtman
+        -   creatorType: author
+            firstName: Erika L
+            lastName: Juarez-Martinez
+        -   creatorType: author
+            firstName: Jennifer R
+            lastName: Ramautar
+        -   creatorType: author
+            firstName: Robin
+            lastName: Weiler
+        -   creatorType: author
+            firstName: Huibert D
+            lastName: Mansvelder
+        -   creatorType: author
+            firstName: Hilgo
+            lastName: Bruining
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        -   creatorType: author
+            firstName: Klaus
+            lastName: Linkenkaer-Hansen
+        date: '2022'
+        dateAdded: '2023-03-27T15:48:35Z'
+        dateModified: '2023-03-27T15:51:12Z'
+        extra: 'Publisher: Society for Neuroscience'
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: 38QK7GWN
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        publicationTitle: Eneuro
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags:
+        -   tag: biomedical
+        -   tag: eeg
+        -   tag: machine learning
+        title: Improved manual annotation of EEG signals through convolutional neural
+            network guidance
+        url: ''
+        version: 252
+        volume: ''
+    key: 38QK7GWN
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/38QK7GWN
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/38QK7GWN
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: Diachenko et al.
+        numChildren: 0
+        parsedDate: '2022'
+    version: 252
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections:
+        - VSP3MV9F
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Radu
+            lastName: Sibechi
+        -   creatorType: author
+            firstName: Olaf
+            lastName: Booij
+        -   creatorType: author
+            firstName: Nora
+            lastName: Baka
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        date: '2019'
+        dateAdded: '2023-03-27T15:48:34Z'
+        dateModified: '2023-03-27T15:50:49Z'
+        extra: ''
+        itemType: conferencePaper
+        key: 486CUG2X
+        language: ''
+        libraryCatalog: ''
+        pages: 0–0
+        place: ''
+        proceedingsTitle: Proceedings of the IEEE/CVF International Conference on
+            Computer Vision Workshops
+        publisher: ''
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags:
+        -   tag: computer vision
+        -   tag: machine learning
+        -   tag: video
+        title: Exploiting temporality for semi-supervised video segmentation
+        url: ''
+        version: 249
+        volume: ''
+    key: 486CUG2X
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/486CUG2X
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/486CUG2X
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: Sibechi et al.
+        numChildren: 0
+        parsedDate: '2019'
+    version: 249
+-   data:
+        DOI: ''
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections:
+        - VSP3MV9F
+        creators:
+        -   creatorType: author
+            firstName: WX
+            lastName: Wilcke
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        -   creatorType: author
+            firstName: Victor
+            lastName: de Boer
+        -   creatorType: author
+            firstName: RH
+            lastName: van t Veer
+        -   creatorType: author
+            firstName: FAH
+            lastName: van Harmelen
+        date: '2020'
+        dateAdded: '2023-03-27T15:48:35Z'
+        dateModified: '2023-03-27T15:50:11Z'
+        extra: ''
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: 2KIHF8WF
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        publicationTitle: arXiv preprint arXiv:2003.12383
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags:
+        -   tag: graph learning
+        -   tag: multimodal knowledge graphs
+        title: End-to-end entity classification on multimodal knowledge graphs
+        url: ''
+        version: 245
+        volume: ''
+    key: 2KIHF8WF
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/2KIHF8WF
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/2KIHF8WF
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: Wilcke et al.
+        numChildren: 0
+        parsedDate: '2020'
+    version: 245
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections:
+        - VSP3MV9F
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Steven
+            lastName: de Rooij
+        -   creatorType: author
+            firstName: Wouter
+            lastName: Beek
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        -   creatorType: author
+            firstName: Frank
+            lastName: van Harmelen
+        -   creatorType: author
+            firstName: Stefan
+            lastName: Schlobach
+        date: '2016'
+        dateAdded: '2023-03-27T15:48:34Z'
+        dateModified: '2023-03-27T15:49:51Z'
+        extra: ''
+        itemType: conferencePaper
+        key: 656SKI8N
+        language: ''
+        libraryCatalog: ''
+        pages: 184–199
+        place: ''
+        proceedingsTitle: 'The Semantic Web–ISWC 2016: 15th International Semantic
+            Web Conference, Kobe, Japan, October 17–21, 2016, Proceedings, Part I
+            15'
+        publisher: Springer International Publishing
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags:
+        -   tag: semantic web
+        title: Are names meaningful? Quantifying social meaning on the semantic web
+        url: ''
+        version: 242
+        volume: ''
+    key: 656SKI8N
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/656SKI8N
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/656SKI8N
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: de Rooij et al.
+        numChildren: 0
+        parsedDate: '2016'
+    version: 242
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections:
+        - VSP3MV9F
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        -   creatorType: author
+            firstName: Francisco
+            lastName: Mota
+        -   creatorType: author
+            firstName: Steven
+            lastName: de Rooij
+        -   creatorType: author
+            firstName: Luís
+            lastName: Antunes
+        -   creatorType: author
+            firstName: Pieter
+            lastName: Adriaans
+        date: '2014'
+        dateAdded: '2023-03-27T15:48:34Z'
+        dateModified: '2023-03-27T15:49:46Z'
+        extra: ''
+        itemType: conferencePaper
+        key: DWD6FD46
+        language: ''
+        libraryCatalog: ''
+        pages: 336–350
+        place: ''
+        proceedingsTitle: International Conference on Algorithmic Learning Theory
+        publisher: Springer International Publishing
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags:
+        -   tag: kolmogorov complexity
+        -   tag: minimium description length
+        -   tag: theoretical computer science
+        title: A safe approximation for Kolmogorov complexity
+        url: ''
+        version: 241
+        volume: ''
+    key: DWD6FD46
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/DWD6FD46
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/DWD6FD46
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: Bloem et al.
+        numChildren: 0
+        parsedDate: '2014'
+    version: 241
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections:
+        - VSP3MV9F
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Ahmed
+            lastName: El-Gazzar
+        -   creatorType: author
+            firstName: Mirjam
+            lastName: Quaak
+        -   creatorType: author
+            firstName: Leonardo
+            lastName: Cerliani
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        -   creatorType: author
+            firstName: Guido
+            lastName: van Wingen
+        -   creatorType: author
+            firstName: Rajat
+            lastName: Mani Thomas
+        date: '2019'
+        dateAdded: '2023-03-27T15:48:34Z'
+        dateModified: '2023-03-27T15:49:22Z'
+        extra: ''
+        itemType: conferencePaper
+        key: QYSJXR9A
+        language: ''
+        libraryCatalog: ''
+        pages: 95–102
+        place: ''
+        proceedingsTitle: 'OR 2.0 Context-Aware Operating Theaters and Machine Learning
+            in Clinical Neuroimaging: Second International Workshop, OR 2.0 2019,
+            and Second International Workshop, MLCN 2019, Held in Conjunction with
+            MICCAI 2019, Shenzhen, China, October 13 and 17, 2019, Proceedings 2'
+        publisher: Springer International Publishing
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags:
+        -   tag: biomedical
+        -   tag: machine learning
+        title: 'A hybrid 3DCNN and 3DC-LSTM based model for 4D spatio-temporal fMRI
+            data: an ABIDE autism classification study'
+        url: ''
+        version: 238
+        volume: ''
+    key: QYSJXR9A
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/QYSJXR9A
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/QYSJXR9A
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: El-Gazzar et al.
+        numChildren: 0
+        parsedDate: '2019'
+    version: 238
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        -   creatorType: author
+            firstName: Xander
+            lastName: Wilcke
+        -   creatorType: author
+            firstName: Lucas
+            lastName: van Berkel
+        -   creatorType: author
+            firstName: Victor
+            lastName: de Boer
+        date: '2021'
+        dateAdded: '2023-03-27T15:48:35Z'
+        dateModified: '2023-03-27T15:48:35Z'
+        extra: ''
+        itemType: conferencePaper
+        key: JCDFA2BU
+        language: ''
+        libraryCatalog: ''
+        pages: 614–630
+        place: ''
+        proceedingsTitle: 'The Semantic Web: 18th International Conference, ESWC 2021,
+            Virtual Event, June 6–10, 2021, Proceedings 18'
+        publisher: Springer International Publishing
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: 'kgbench: A collection of knowledge graph datasets for evaluating relational
+            and multimodal machine learning'
+        url: ''
+        version: 253
+        volume: ''
+    key: JCDFA2BU
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/JCDFA2BU
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/JCDFA2BU
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: Bloem et al.
+        numChildren: 0
+        parsedDate: '2021'
+    version: 253
+-   data:
+        DOI: ''
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        date: '2021'
+        dateAdded: '2023-03-27T15:48:35Z'
+        dateModified: '2023-03-27T15:48:35Z'
+        extra: ''
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: 3C7CIPL8
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        publicationTitle: arXiv preprint arXiv:2104.08163
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: Finding Motifs in Knowledge Graphs using Compression
+        url: ''
+        version: 250
+        volume: ''
+    key: 3C7CIPL8
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/3C7CIPL8
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/3C7CIPL8
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: Bloem
+        numChildren: 0
+        parsedDate: '2021'
+    version: 250
+-   data:
+        DOI: ''
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: WX
+            lastName: Wilcke
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        -   creatorType: author
+            firstName: Victor
+            lastName: de Boer
+        -   creatorType: author
+            firstName: RH
+            lastName: van’t Veer
+        date: '2021'
+        dateAdded: '2023-03-27T15:48:35Z'
+        dateModified: '2023-03-27T15:48:35Z'
+        extra: ''
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: 8T4WKTVL
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        publicationTitle: Under Submission
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: End-to-End Learning on Multimodal Knowledge Graphs
+        url: ''
+        version: 247
+        volume: ''
+    key: 8T4WKTVL
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/8T4WKTVL
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/8T4WKTVL
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: Wilcke et al.
+        numChildren: 0
+        parsedDate: '2021'
+    version: 247
+-   data:
+        DOI: ''
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Tijs
+            lastName: Maas
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        date: '2020'
+        dateAdded: '2023-03-27T15:48:35Z'
+        dateModified: '2023-03-27T15:48:35Z'
+        extra: ''
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: RLYKNFNC
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        publicationTitle: arXiv preprint arXiv:2012.05207
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: Uncertainty intervals for graph-based spatio-temporal traffic prediction
+        url: ''
+        version: 236
+        volume: ''
+    key: RLYKNFNC
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/RLYKNFNC
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/RLYKNFNC
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: Maas and Bloem
+        numChildren: 0
+        parsedDate: '2020'
+    version: 236
+-   data:
+        DOI: ''
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Floris
+            lastName: Hermsen
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        -   creatorType: author
+            firstName: Fabian
+            lastName: Jansen
+        -   creatorType: author
+            firstName: Wolf
+            lastName: Vos
+        date: '2019'
+        dateAdded: '2023-03-27T15:48:34Z'
+        dateModified: '2023-03-27T15:48:34Z'
+        extra: ''
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: 29RIAWSX
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        publicationTitle: arXiv preprint arXiv:1908.05365
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: End-to-End Learning from Complex Multigraphs with Latent-Graph Convolutional
+            Networks
+        url: ''
+        version: 246
+        volume: ''
+    key: 29RIAWSX
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/29RIAWSX
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/29RIAWSX
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: Hermsen et al.
+        numChildren: 0
+        parsedDate: '2019'
+    version: 246
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
             firstName: Taewoon
             lastName: Kim
         -   creatorType: author
@@ -639,78 +2864,6 @@
         creatorSummary: Wang et al.
         numChildren: 0
         parsedDate: '2020-05-01'
-    version: 171
--   data:
-        DOI: ''
-        ISSN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Emile van
-            lastName: Krieken
-        -   creatorType: author
-            firstName: Erman
-            lastName: Acar
-        -   creatorType: author
-            firstName: Frank van
-            lastName: Harmelen
-        date: '2019'
-        dateAdded: '2023-03-24T12:41:24Z'
-        dateModified: '2023-03-24T12:46:59Z'
-        extra: ''
-        issue: '4'
-        itemType: journalArticle
-        journalAbbreviation: ''
-        key: 5JETFDV9
-        language: ''
-        libraryCatalog: ''
-        pages: 633–652
-        publicationTitle: FLAP
-        relations:
-            dc:replaces: http://zotero.org/groups/4989916/items/V7V684RD
-        rights: ''
-        series: ''
-        seriesText: ''
-        seriesTitle: ''
-        shortTitle: ''
-        tags: []
-        title: Semi-supervised Learning using Differentiable Reasoning
-        url: https://collegepublications.co.uk/ifcolog/?00033
-        version: 171
-        volume: '6'
-    key: 5JETFDV9
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/5JETFDV9
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/5JETFDV9
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Krieken et al.
-        numChildren: 1
-        parsedDate: '2019'
     version: 171
 -   data:
         DOI: ''
@@ -2219,78 +4372,6 @@
         numChildren: 1
         parsedDate: '2021'
     version: 165
--   data:
-        DOI: ''
-        ISSN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Emile van
-            lastName: Krieken
-        -   creatorType: author
-            firstName: Erman
-            lastName: Acar
-        -   creatorType: author
-            firstName: Frank van
-            lastName: Harmelen
-        date: '2020'
-        dateAdded: '2023-03-24T12:41:24Z'
-        dateModified: '2023-03-24T12:46:30Z'
-        extra: '_eprint: 2002.06100'
-        issue: ''
-        itemType: journalArticle
-        journalAbbreviation: ''
-        key: A8ISCQMU
-        language: ''
-        libraryCatalog: ''
-        pages: ''
-        publicationTitle: CoRR
-        relations:
-            dc:replaces: http://zotero.org/groups/4989916/items/W48NGEA4
-        rights: ''
-        series: ''
-        seriesText: ''
-        seriesTitle: ''
-        shortTitle: ''
-        tags: []
-        title: Analyzing Differentiable Fuzzy Logic Operators
-        url: https://arxiv.org/abs/2002.06100
-        version: 164
-        volume: abs/2002.06100
-    key: A8ISCQMU
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/A8ISCQMU
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/A8ISCQMU
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Krieken et al.
-        numChildren: 0
-        parsedDate: '2020'
-    version: 164
 -   data:
         DOI: 10.4230/DagRep.8.9.29
         ISSN: 2192-5283
@@ -14057,87 +16138,6 @@
         parsedDate: '2020-01-20'
     version: 136
 -   data:
-        DOI: 10.24963/kr.2020/92
-        ISBN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        conferenceName: ''
-        creators:
-        -   creatorType: author
-            firstName: Emile van
-            lastName: Krieken
-        -   creatorType: author
-            firstName: Erman
-            lastName: Acar
-        -   creatorType: author
-            firstName: Frank van
-            lastName: Harmelen
-        -   creatorType: editor
-            firstName: Diego
-            lastName: Calvanese
-        -   creatorType: editor
-            firstName: Esra
-            lastName: Erdem
-        -   creatorType: editor
-            firstName: Michael
-            lastName: Thielscher
-        date: '2020'
-        dateAdded: '2023-03-24T12:41:25Z'
-        dateModified: '2023-03-24T12:41:25Z'
-        extra: ''
-        itemType: conferencePaper
-        key: IX68BXEA
-        language: ''
-        libraryCatalog: ''
-        pages: 893–903
-        place: ''
-        proceedingsTitle: Proceedings of the 17th International Conference on Principles
-            of Knowledge Representation and Reasoning, KR 2020, Rhodes, Greece, September
-            12-18, 2020
-        publisher: ''
-        relations: {}
-        rights: ''
-        series: ''
-        shortTitle: ''
-        tags: []
-        title: Analyzing Differentiable Fuzzy Implications
-        url: https://doi.org/10.24963/kr.2020/92
-        version: 136
-        volume: ''
-    key: IX68BXEA
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/IX68BXEA
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/IX68BXEA
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Krieken et al.
-        numChildren: 0
-        parsedDate: '2020'
-    version: 136
--   data:
         DOI: 10.1145/3442381.3450141
         ISBN: 978-1-4503-8312-7
         abstractNote: ''
@@ -17313,77 +19313,6 @@
     version: 130
 -   data:
         DOI: ''
-        ISSN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Emile van
-            lastName: Krieken
-        -   creatorType: author
-            firstName: Jakub M.
-            lastName: Tomczak
-        -   creatorType: author
-            firstName: Annette ten
-            lastName: Teije
-        date: '2021'
-        dateAdded: '2023-03-24T12:41:24Z'
-        dateModified: '2023-03-24T12:41:24Z'
-        extra: '_eprint: 2104.00428'
-        issue: ''
-        itemType: journalArticle
-        journalAbbreviation: ''
-        key: ZTNPKQ6J
-        language: ''
-        libraryCatalog: ''
-        pages: ''
-        publicationTitle: CoRR
-        relations: {}
-        rights: ''
-        series: ''
-        seriesText: ''
-        seriesTitle: ''
-        shortTitle: ''
-        tags: []
-        title: 'Storchastic: A Framework for General Stochastic Automatic Differentiation'
-        url: https://arxiv.org/abs/2104.00428
-        version: 130
-        volume: abs/2104.00428
-    key: ZTNPKQ6J
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/ZTNPKQ6J
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/ZTNPKQ6J
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Krieken et al.
-        numChildren: 1
-        parsedDate: '2021'
-    version: 130
--   data:
-        DOI: ''
         ISBN: ''
         abstractNote: ''
         accessDate: ''
@@ -18892,77 +20821,6 @@
         collections: []
         creators:
         -   creatorType: author
-            firstName: Emile van
-            lastName: Krieken
-        -   creatorType: author
-            firstName: Erman
-            lastName: Acar
-        -   creatorType: author
-            firstName: Frank van
-            lastName: Harmelen
-        date: '2020'
-        dateAdded: '2023-03-24T12:41:24Z'
-        dateModified: '2023-03-24T12:41:24Z'
-        extra: '_eprint: 2006.03472'
-        issue: ''
-        itemType: journalArticle
-        journalAbbreviation: ''
-        key: ZMN7VK38
-        language: ''
-        libraryCatalog: ''
-        pages: ''
-        publicationTitle: CoRR
-        relations: {}
-        rights: ''
-        series: ''
-        seriesText: ''
-        seriesTitle: ''
-        shortTitle: ''
-        tags: []
-        title: Analyzing Differentiable Fuzzy Implications
-        url: https://arxiv.org/abs/2006.03472
-        version: 128
-        volume: abs/2006.03472
-    key: ZMN7VK38
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/ZMN7VK38
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/ZMN7VK38
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Krieken et al.
-        numChildren: 0
-        parsedDate: '2020'
-    version: 128
--   data:
-        DOI: ''
-        ISSN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        creators:
-        -   creatorType: author
             firstName: W. X.
             lastName: Wilcke
         -   creatorType: author
@@ -19110,87 +20968,6 @@
             name: Michael Cochez
             username: michaelcochez
         creatorSummary: Martin et al.
-        numChildren: 0
-        parsedDate: '2020'
-    version: 127
--   data:
-        DOI: 10.24963/kr.2020/92
-        ISBN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        conferenceName: ''
-        creators:
-        -   creatorType: author
-            firstName: Emile van
-            lastName: Krieken
-        -   creatorType: author
-            firstName: Erman
-            lastName: Acar
-        -   creatorType: author
-            firstName: Frank van
-            lastName: Harmelen
-        -   creatorType: editor
-            firstName: Diego
-            lastName: Calvanese
-        -   creatorType: editor
-            firstName: Esra
-            lastName: Erdem
-        -   creatorType: editor
-            firstName: Michael
-            lastName: Thielscher
-        date: '2020'
-        dateAdded: '2023-03-24T12:41:24Z'
-        dateModified: '2023-03-24T12:41:24Z'
-        extra: ''
-        itemType: conferencePaper
-        key: 26KMT284
-        language: ''
-        libraryCatalog: ''
-        pages: 893–903
-        place: ''
-        proceedingsTitle: Proceedings of the 17th International Conference on Principles
-            of Knowledge Representation and Reasoning, KR 2020, Rhodes, Greece, September
-            12-18, 2020
-        publisher: ''
-        relations: {}
-        rights: ''
-        series: ''
-        shortTitle: ''
-        tags: []
-        title: Analyzing Differentiable Fuzzy Implications
-        url: https://doi.org/10.24963/kr.2020/92
-        version: 127
-        volume: ''
-    key: 26KMT284
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/26KMT284
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/26KMT284
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Krieken et al.
         numChildren: 0
         parsedDate: '2020'
     version: 127
