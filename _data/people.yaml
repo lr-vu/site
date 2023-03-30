@@ -170,16 +170,25 @@
     website: https://research.vu.nl/en/persons/majeed-mohammadi/
     image: /images/people/Majid.png
     role: postdoc
+    
 -   name: Mani Tajaddini
     orderby: Tajaddini
     website: https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/interactive-intelligence/people/current-group-members/mani-tajaddini/
     image: /images/people/Mani.png
     role: guest
+    
 -   name: Nikos Kondylidis
     orderby: Kondylidis
+    keywords:
+    - Multi-Agent Communication
+    - Establishing Shared Understanding
+    - Human-Hybrid Artificial Intelligence
+    scholar: https://scholar.google.com/citations?user=ZX7iR4QAAAAJ&hl=en
+    linkedin: https://www.linkedin.com/in/nikolaos-kondylidis-b28b3b168/
     website: https://research.vu.nl/en/persons/nikolaos-kondylidis/
     image: /images/people/Nikos.png
     role: phd
+    
 -   name: Romy Vos
     keywords: 
       - neurosymbolic AI
