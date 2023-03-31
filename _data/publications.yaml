@@ -6,6 +6,77 @@
         archive: ''
         archiveLocation: ''
         callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Simone
+            lastName: Colombo
+        -   creatorType: author
+            firstName: Dimitrios
+            lastName: Alivanistos
+        -   creatorType: author
+            firstName: Michael
+            lastName: Cochez
+        date: '2022'
+        dateAdded: '2023-03-24T12:41:58Z'
+        dateModified: '2023-03-31T15:45:31Z'
+        extra: 'Issue: 3121'
+        itemType: conferencePaper
+        key: 7HAUSPSY
+        language: ''
+        libraryCatalog: ''
+        pages: 1–9
+        place: ''
+        proceedingsTitle: 'AAAI Spring Symposium: MAKE'
+        publisher: ''
+        relations: {}
+        rights: ''
+        series: CEUR Workshop Proceedings
+        shortTitle: ''
+        tags: []
+        title: Potential Energy to Improve Link Prediction With Relational Graph Neural
+            Networks.
+        url: https://ceur-ws.org/Vol-3121/short2.pdf
+        version: 318
+        volume: ''
+    key: 7HAUSPSY
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/7HAUSPSY
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/7HAUSPSY
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: Colombo et al.
+        numChildren: 0
+        parsedDate: '2022'
+    version: 318
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
         collections:
         - VSP3MV9F
         conferenceName: ''
@@ -5263,77 +5334,6 @@
             username: michaelcochez
         creatorSummary: Generale et al.
         numChildren: 1
-        parsedDate: '2022'
-    version: 156
--   data:
-        DOI: ''
-        ISBN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        conferenceName: ''
-        creators:
-        -   creatorType: author
-            firstName: Simone
-            lastName: Colombo
-        -   creatorType: author
-            firstName: Dimitrios
-            lastName: Alivanistos
-        -   creatorType: author
-            firstName: Michael
-            lastName: Cochez
-        date: '2022'
-        dateAdded: '2023-03-24T12:41:58Z'
-        dateModified: '2023-03-24T12:41:58Z'
-        extra: 'Issue: 3121'
-        itemType: conferencePaper
-        key: 7HAUSPSY
-        language: ''
-        libraryCatalog: ''
-        pages: 1–9
-        place: ''
-        proceedingsTitle: 'AAAI Spring Symposium: MAKE'
-        publisher: ''
-        relations: {}
-        rights: ''
-        series: CEUR Workshop Proceedings
-        shortTitle: ''
-        tags: []
-        title: Potential Energy to Improve Link Prediction With Relational Graph Neural
-            Networks.
-        url: ''
-        version: 156
-        volume: ''
-    key: 7HAUSPSY
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/7HAUSPSY
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/7HAUSPSY
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Colombo et al.
-        numChildren: 0
         parsedDate: '2022'
     version: 156
 -   data:
