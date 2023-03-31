@@ -22,7 +22,7 @@ jobs:
   update_bibliography:
     runs-on: ubuntu-latest
     outputs:
-      bibliography_changes: ${{ env.BIBLIOGRAPHY_CHANGES }}
+      bibliography_changes: ${{ steps.download_and_check.outputs.BIBLIOGRAPHY_CHANGES }}
     steps:
       - name: clone
         uses: actions/checkout@v1
@@ -55,5 +55,5 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
   update_pages:
     needs: update_bibliography
-    if: needs.update_bibliography.bibliography_changes != '0'
+    if: needs.update_bibliography.outputs.bibliography_changes != '0'
     uses: ./.github/workflows/jekyll.yml
