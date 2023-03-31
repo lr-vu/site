@@ -6,6 +6,389 @@
         archive: ''
         archiveLocation: ''
         callNumber: ''
+        collections:
+        - VSP3MV9F
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Shuai
+            lastName: Wang
+        -   creatorType: author
+            firstName: Joe
+            lastName: Raad
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        -   creatorType: author
+            firstName: Frank Van
+            lastName: Harmelen
+        date: '2021'
+        dateAdded: '2023-03-27T15:48:35Z'
+        dateModified: '2023-03-31T11:43:01Z'
+        extra: ''
+        itemType: conferencePaper
+        key: ULWZBP9Y
+        language: ''
+        libraryCatalog: ''
+        pages: 249–264
+        place: ''
+        proceedingsTitle: 'The Semantic Web: 18th International Conference, ESWC 2021,
+            Virtual Event, June 6–10, 2021, Proceedings 18'
+        publisher: Springer International Publishing
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags:
+        -   tag: linked open data
+        -   tag: semantic web
+        title: Refining transitive and pseudo-transitive relations at web scale
+        url: https://link.springer.com/content/pdf/10.1007/978-3-030-77385-4_15.pdf
+        version: 313
+        volume: ''
+    key: ULWZBP9Y
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/ULWZBP9Y
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/ULWZBP9Y
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: Wang et al.
+        numChildren: 0
+        parsedDate: '2021'
+    version: 313
+-   data:
+        DOI: ''
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections:
+        - VSP3MV9F
+        creators:
+        -   creatorType: author
+            firstName: Thiviyan
+            lastName: Thanapalasingam
+        -   creatorType: author
+            firstName: Lucas
+            lastName: van Berkel
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        -   creatorType: author
+            firstName: Paul
+            lastName: Groth
+        date: '2022'
+        dateAdded: '2023-03-27T15:48:35Z'
+        dateModified: '2023-03-31T11:41:58Z'
+        extra: 'Publisher: PeerJ Inc.'
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: QEMI9V22
+        language: ''
+        libraryCatalog: ''
+        pages: e1073
+        publicationTitle: PeerJ Computer Science
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags:
+        -   tag: graph learning
+        title: 'Relational graph convolutional networks: a closer look'
+        url: https://peerj.com/articles/cs-1073/
+        version: 312
+        volume: '8'
+    key: QEMI9V22
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/QEMI9V22
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/QEMI9V22
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: Thanapalasingam et al.
+        numChildren: 0
+        parsedDate: '2022'
+    version: 312
+-   data:
+        DOI: 10.3233/DS-170007
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections:
+        - VSP3MV9F
+        creators:
+        -   creatorType: author
+            firstName: Xander
+            lastName: Wilcke
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        -   creatorType: author
+            firstName: Victor
+            lastName: De Boer
+        date: '2017'
+        dateAdded: '2023-03-27T15:48:34Z'
+        dateModified: '2023-03-31T11:41:32Z'
+        extra: 'Publisher: IOS Press'
+        issue: 1-2
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: 3LI8PZBP
+        language: ''
+        libraryCatalog: ''
+        pages: 39–57
+        publicationTitle: Data Science
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags:
+        -   tag: knowledge graphs
+        -   tag: machine learning
+        -   tag: multimodal learning
+        -   tag: position paper
+        -   tag: semantic web
+        title: The knowledge graph as the default data model for learning on heterogeneous
+            knowledge
+        url: https://datasciencehub.net/system/files/ds-paper-439.pdf
+        version: 311
+        volume: '1'
+    key: 3LI8PZBP
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/3LI8PZBP
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/3LI8PZBP
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: Wilcke et al.
+        numChildren: 0
+        parsedDate: '2017'
+    version: 311
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections:
+        - VSP3MV9F
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Koen Lennart
+            lastName: van der Veen
+        -   creatorType: author
+            firstName: Ruben
+            lastName: Seggers
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        -   creatorType: author
+            firstName: Giorgio
+            lastName: Patrini
+        date: '2018'
+        dateAdded: '2023-03-27T15:48:34Z'
+        dateModified: '2023-03-31T11:40:27Z'
+        extra: ''
+        itemType: conferencePaper
+        key: GPALI7LF
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        place: ''
+        proceedingsTitle: Privacy Preserving Machine Learning Workshop
+        publisher: ''
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags:
+        -   tag: differential privacy
+        -   tag: machine learning
+        title: Three tools for practical differential privacy
+        url: https://ppml-workshop.github.io/ppml18/papers/29.pdf
+        version: 308
+        volume: ''
+    key: GPALI7LF
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/GPALI7LF
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/GPALI7LF
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: van der Veen et al.
+        numChildren: 0
+        parsedDate: '2018'
+    version: 308
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections:
+        - VSP3MV9F
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Shuai
+            lastName: Wang
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        -   creatorType: author
+            firstName: Joe
+            lastName: Raad
+        -   creatorType: author
+            firstName: Frank
+            lastName: van Harmelen
+        date: '2020'
+        dateAdded: '2023-03-27T15:48:35Z'
+        dateModified: '2023-03-31T11:40:06Z'
+        extra: ''
+        itemType: conferencePaper
+        key: CPNQNC38
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        place: ''
+        proceedingsTitle: Workshop on Large Scale RDF Analytics
+        publisher: ''
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags:
+        -   tag: linked open data
+        -   tag: semantic web
+        title: 'SUBMASSIVE: Resolving subclass cycles in very large knowledge graphs'
+        url: http://lascar.sda.tech/assets/accepted-papers/LASCAR20_paper_1.pdf
+        version: 307
+        volume: ''
+    key: CPNQNC38
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/CPNQNC38
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/CPNQNC38
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: Wang et al.
+        numChildren: 0
+        parsedDate: '2020'
+    version: 307
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
         collections: []
         conferenceName: ''
         creators:
@@ -749,82 +1132,6 @@
         conferenceName: ''
         creators:
         -   creatorType: author
-            firstName: Koen Lennart
-            lastName: van der Veen
-        -   creatorType: author
-            firstName: Ruben
-            lastName: Seggers
-        -   creatorType: author
-            firstName: Peter
-            lastName: Bloem
-        -   creatorType: author
-            firstName: Giorgio
-            lastName: Patrini
-        date: '2018'
-        dateAdded: '2023-03-27T15:48:34Z'
-        dateModified: '2023-03-27T15:53:39Z'
-        extra: ''
-        itemType: conferencePaper
-        key: GPALI7LF
-        language: ''
-        libraryCatalog: ''
-        pages: ''
-        place: ''
-        proceedingsTitle: Privacy Preserving Machine Learning Workshop
-        publisher: ''
-        relations: {}
-        rights: ''
-        series: ''
-        shortTitle: ''
-        tags:
-        -   tag: differential privacy
-        -   tag: machine learning
-        title: Three tools for practical differential privacy
-        url: ''
-        version: 269
-        volume: ''
-    key: GPALI7LF
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/GPALI7LF
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/GPALI7LF
-            type: application/json
-    meta:
-        createdByUser:
-            id: 11362521
-            links:
-                alternate:
-                    href: https://www.zotero.org/pbloemesquire
-                    type: text/html
-            name: ''
-            username: pbloemesquire
-        creatorSummary: van der Veen et al.
-        numChildren: 0
-        parsedDate: '2018'
-    version: 269
--   data:
-        DOI: ''
-        ISBN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections:
-        - VSP3MV9F
-        conferenceName: ''
-        creators:
-        -   creatorType: author
             firstName: Albert
             lastName: Meroño-Peñuela
         -   creatorType: author
@@ -911,312 +1218,6 @@
         numChildren: 0
         parsedDate: '2017'
     version: 267
--   data:
-        DOI: ''
-        ISSN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections:
-        - VSP3MV9F
-        creators:
-        -   creatorType: author
-            firstName: Xander
-            lastName: Wilcke
-        -   creatorType: author
-            firstName: Peter
-            lastName: Bloem
-        -   creatorType: author
-            firstName: Victor
-            lastName: De Boer
-        date: '2017'
-        dateAdded: '2023-03-27T15:48:34Z'
-        dateModified: '2023-03-27T15:53:18Z'
-        extra: 'Publisher: IOS Press'
-        issue: 1-2
-        itemType: journalArticle
-        journalAbbreviation: ''
-        key: 3LI8PZBP
-        language: ''
-        libraryCatalog: ''
-        pages: 39–57
-        publicationTitle: Data Science
-        relations: {}
-        rights: ''
-        series: ''
-        seriesText: ''
-        seriesTitle: ''
-        shortTitle: ''
-        tags:
-        -   tag: knowledge graphs
-        -   tag: machine learning
-        -   tag: position paper
-        -   tag: semantic web
-        title: The knowledge graph as the default data model for learning on heterogeneous
-            knowledge
-        url: ''
-        version: 265
-        volume: '1'
-    key: 3LI8PZBP
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/3LI8PZBP
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/3LI8PZBP
-            type: application/json
-    meta:
-        createdByUser:
-            id: 11362521
-            links:
-                alternate:
-                    href: https://www.zotero.org/pbloemesquire
-                    type: text/html
-            name: ''
-            username: pbloemesquire
-        creatorSummary: Wilcke et al.
-        numChildren: 0
-        parsedDate: '2017'
-    version: 265
--   data:
-        DOI: ''
-        ISBN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections:
-        - VSP3MV9F
-        conferenceName: ''
-        creators:
-        -   creatorType: author
-            firstName: Shuai
-            lastName: Wang
-        -   creatorType: author
-            firstName: Peter
-            lastName: Bloem
-        -   creatorType: author
-            firstName: Joe
-            lastName: Raad
-        -   creatorType: author
-            firstName: Frank
-            lastName: van Harmelen
-        date: '2020'
-        dateAdded: '2023-03-27T15:48:35Z'
-        dateModified: '2023-03-27T15:53:00Z'
-        extra: ''
-        itemType: conferencePaper
-        key: CPNQNC38
-        language: ''
-        libraryCatalog: ''
-        pages: ''
-        place: ''
-        proceedingsTitle: Workshop on Large Scale RDF Analytics
-        publisher: ''
-        relations: {}
-        rights: ''
-        series: ''
-        shortTitle: ''
-        tags:
-        -   tag: linked open data
-        -   tag: semantic web
-        title: 'SUBMASSIVE: Resolving subclass cycles in very large knowledge graphs'
-        url: ''
-        version: 263
-        volume: ''
-    key: CPNQNC38
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/CPNQNC38
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/CPNQNC38
-            type: application/json
-    meta:
-        createdByUser:
-            id: 11362521
-            links:
-                alternate:
-                    href: https://www.zotero.org/pbloemesquire
-                    type: text/html
-            name: ''
-            username: pbloemesquire
-        creatorSummary: Wang et al.
-        numChildren: 0
-        parsedDate: '2020'
-    version: 263
--   data:
-        DOI: ''
-        ISSN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections:
-        - VSP3MV9F
-        creators:
-        -   creatorType: author
-            firstName: Thiviyan
-            lastName: Thanapalasingam
-        -   creatorType: author
-            firstName: Lucas
-            lastName: van Berkel
-        -   creatorType: author
-            firstName: Peter
-            lastName: Bloem
-        -   creatorType: author
-            firstName: Paul
-            lastName: Groth
-        date: '2022'
-        dateAdded: '2023-03-27T15:48:35Z'
-        dateModified: '2023-03-27T15:52:41Z'
-        extra: 'Publisher: PeerJ Inc.'
-        issue: ''
-        itemType: journalArticle
-        journalAbbreviation: ''
-        key: QEMI9V22
-        language: ''
-        libraryCatalog: ''
-        pages: e1073
-        publicationTitle: PeerJ Computer Science
-        relations: {}
-        rights: ''
-        series: ''
-        seriesText: ''
-        seriesTitle: ''
-        shortTitle: ''
-        tags:
-        -   tag: graph learning
-        title: 'Relational graph convolutional networks: a closer look'
-        url: ''
-        version: 261
-        volume: '8'
-    key: QEMI9V22
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/QEMI9V22
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/QEMI9V22
-            type: application/json
-    meta:
-        createdByUser:
-            id: 11362521
-            links:
-                alternate:
-                    href: https://www.zotero.org/pbloemesquire
-                    type: text/html
-            name: ''
-            username: pbloemesquire
-        creatorSummary: Thanapalasingam et al.
-        numChildren: 0
-        parsedDate: '2022'
-    version: 261
--   data:
-        DOI: ''
-        ISBN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections:
-        - VSP3MV9F
-        conferenceName: ''
-        creators:
-        -   creatorType: author
-            firstName: Shuai
-            lastName: Wang
-        -   creatorType: author
-            firstName: Joe
-            lastName: Raad
-        -   creatorType: author
-            firstName: Peter
-            lastName: Bloem
-        -   creatorType: author
-            firstName: Frank
-            lastName: Van Harmelen
-        date: '2021'
-        dateAdded: '2023-03-27T15:48:35Z'
-        dateModified: '2023-03-27T15:52:35Z'
-        extra: ''
-        itemType: conferencePaper
-        key: ULWZBP9Y
-        language: ''
-        libraryCatalog: ''
-        pages: 249–264
-        place: ''
-        proceedingsTitle: 'The Semantic Web: 18th International Conference, ESWC 2021,
-            Virtual Event, June 6–10, 2021, Proceedings 18'
-        publisher: Springer International Publishing
-        relations: {}
-        rights: ''
-        series: ''
-        shortTitle: ''
-        tags:
-        -   tag: linked open data
-        -   tag: semantic web
-        title: Refining transitive and pseudo-transitive relations at web scale
-        url: ''
-        version: 260
-        volume: ''
-    key: ULWZBP9Y
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/ULWZBP9Y
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/ULWZBP9Y
-            type: application/json
-    meta:
-        createdByUser:
-            id: 11362521
-            links:
-                alternate:
-                    href: https://www.zotero.org/pbloemesquire
-                    type: text/html
-            name: ''
-            username: pbloemesquire
-        creatorSummary: Wang et al.
-        numChildren: 0
-        parsedDate: '2021'
-    version: 260
 -   data:
         DOI: ''
         ISSN: ''
@@ -1696,86 +1697,6 @@
         numChildren: 0
         parsedDate: '2019'
     version: 249
--   data:
-        DOI: ''
-        ISSN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections:
-        - VSP3MV9F
-        creators:
-        -   creatorType: author
-            firstName: WX
-            lastName: Wilcke
-        -   creatorType: author
-            firstName: Peter
-            lastName: Bloem
-        -   creatorType: author
-            firstName: Victor
-            lastName: de Boer
-        -   creatorType: author
-            firstName: RH
-            lastName: van t Veer
-        -   creatorType: author
-            firstName: FAH
-            lastName: van Harmelen
-        date: '2020'
-        dateAdded: '2023-03-27T15:48:35Z'
-        dateModified: '2023-03-27T15:50:11Z'
-        extra: ''
-        issue: ''
-        itemType: journalArticle
-        journalAbbreviation: ''
-        key: 2KIHF8WF
-        language: ''
-        libraryCatalog: ''
-        pages: ''
-        publicationTitle: arXiv preprint arXiv:2003.12383
-        relations: {}
-        rights: ''
-        series: ''
-        seriesText: ''
-        seriesTitle: ''
-        shortTitle: ''
-        tags:
-        -   tag: graph learning
-        -   tag: multimodal knowledge graphs
-        title: End-to-end entity classification on multimodal knowledge graphs
-        url: ''
-        version: 245
-        volume: ''
-    key: 2KIHF8WF
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/2KIHF8WF
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/2KIHF8WF
-            type: application/json
-    meta:
-        createdByUser:
-            id: 11362521
-            links:
-                alternate:
-                    href: https://www.zotero.org/pbloemesquire
-                    type: text/html
-            name: ''
-            username: pbloemesquire
-        creatorSummary: Wilcke et al.
-        numChildren: 0
-        parsedDate: '2020'
-    version: 245
 -   data:
         DOI: ''
         ISBN: ''
