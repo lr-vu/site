@@ -22,7 +22,7 @@ jobs:
   update_bibliography:
     runs-on: ubuntu-latest
     outputs:
-      bibliography_changes: ${{ steps.download_and_check.outputs.BIBLIOGRAPHY_CHANGES }}
+      bibliography_changes: ${{ env.BIBLIOGRAPHY_CHANGES }}
     steps:
       - name: clone
         uses: actions/checkout@v1
