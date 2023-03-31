@@ -11,6 +11,231 @@
         conferenceName: ''
         creators:
         -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        -   creatorType: author
+            firstName: Francisco
+            lastName: Mota
+        -   creatorType: author
+            firstName: Steven
+            lastName: de Rooij
+        -   creatorType: author
+            firstName: Luís
+            lastName: Antunes
+        -   creatorType: author
+            firstName: Pieter
+            lastName: Adriaans
+        date: '2014'
+        dateAdded: '2023-03-27T15:48:34Z'
+        dateModified: '2023-03-31T11:46:44Z'
+        extra: ''
+        itemType: conferencePaper
+        key: DWD6FD46
+        language: ''
+        libraryCatalog: ''
+        pages: 336–350
+        place: ''
+        proceedingsTitle: International Conference on Algorithmic Learning Theory
+        publisher: Springer International Publishing
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags:
+        -   tag: kolmogorov complexity
+        -   tag: minimium description length
+        -   tag: theoretical computer science
+        title: A safe approximation for Kolmogorov complexity
+        url: https://peterbloem.nl/files/a-safe-approximation-of-kolmogorov-complexity.pdf
+        version: 317
+        volume: ''
+    key: DWD6FD46
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/DWD6FD46
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/DWD6FD46
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: Bloem et al.
+        numChildren: 0
+        parsedDate: '2014'
+    version: 317
+-   data:
+        DOI: ''
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections:
+        - VSP3MV9F
+        creators:
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        -   creatorType: author
+            firstName: Steven
+            lastName: de Rooij
+        date: '2020'
+        dateAdded: '2023-03-27T15:48:34Z'
+        dateModified: '2023-03-31T11:46:28Z'
+        extra: 'Publisher: Springer'
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: ZVVMKZDU
+        language: ''
+        libraryCatalog: ''
+        pages: 1421–1453
+        publicationTitle: Data Mining and Knowledge Discovery, 2020
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags:
+        -   tag: graph learning
+        -   tag: motif analysis
+        title: Large-scale network motif analysis using compression
+        url: https://peterbloem.nl/publications/compression-for-motifs
+        version: 316
+        volume: '34'
+    key: ZVVMKZDU
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/ZVVMKZDU
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/ZVVMKZDU
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: Bloem and de Rooij
+        numChildren: 0
+        parsedDate: '2020'
+    version: 316
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections:
+        - VSP3MV9F
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        -   creatorType: author
+            firstName: Steven
+            lastName: de Rooij
+        -   creatorType: author
+            firstName: Pieter
+            lastName: Adriaans
+        date: '2015'
+        dateAdded: '2023-03-27T15:48:34Z'
+        dateModified: '2023-03-31T11:46:12Z'
+        extra: ''
+        itemType: conferencePaper
+        key: WPWLEIPE
+        language: ''
+        libraryCatalog: ''
+        pages: 379–394
+        place: ''
+        proceedingsTitle: 'Algorithmic Learning Theory: 26th International Conference,
+            ALT 2015, Banff, AB, Canada, October 4-6, 2015, Proceedings 26'
+        publisher: Springer International Publishing
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags:
+        -   tag: kolmogorov complexity
+        -   tag: theoretical computer science
+        title: Two problems for sophistication
+        url: https://peterbloem.nl/publications/two-problems
+        version: 315
+        volume: ''
+    key: WPWLEIPE
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/WPWLEIPE
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/WPWLEIPE
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: Bloem et al.
+        numChildren: 0
+        parsedDate: '2015'
+    version: 315
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections:
+        - VSP3MV9F
+        conferenceName: ''
+        creators:
+        -   creatorType: author
             firstName: Shuai
             lastName: Wang
         -   creatorType: author
@@ -1058,80 +1283,6 @@
         conferenceName: ''
         creators:
         -   creatorType: author
-            firstName: Peter
-            lastName: Bloem
-        -   creatorType: author
-            firstName: Steven
-            lastName: de Rooij
-        -   creatorType: author
-            firstName: Pieter
-            lastName: Adriaans
-        date: '2015'
-        dateAdded: '2023-03-27T15:48:34Z'
-        dateModified: '2023-03-27T15:53:53Z'
-        extra: ''
-        itemType: conferencePaper
-        key: WPWLEIPE
-        language: ''
-        libraryCatalog: ''
-        pages: 379–394
-        place: ''
-        proceedingsTitle: 'Algorithmic Learning Theory: 26th International Conference,
-            ALT 2015, Banff, AB, Canada, October 4-6, 2015, Proceedings 26'
-        publisher: Springer International Publishing
-        relations: {}
-        rights: ''
-        series: ''
-        shortTitle: ''
-        tags:
-        -   tag: kolmogorov complexity
-        -   tag: theoretical computer science
-        title: Two problems for sophistication
-        url: ''
-        version: 271
-        volume: ''
-    key: WPWLEIPE
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/WPWLEIPE
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/WPWLEIPE
-            type: application/json
-    meta:
-        createdByUser:
-            id: 11362521
-            links:
-                alternate:
-                    href: https://www.zotero.org/pbloemesquire
-                    type: text/html
-            name: ''
-            username: pbloemesquire
-        creatorSummary: Bloem et al.
-        numChildren: 0
-        parsedDate: '2015'
-    version: 271
--   data:
-        DOI: ''
-        ISBN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections:
-        - VSP3MV9F
-        conferenceName: ''
-        creators:
-        -   creatorType: author
             firstName: Albert
             lastName: Meroño-Peñuela
         -   creatorType: author
@@ -1466,77 +1617,6 @@
         - VSP3MV9F
         creators:
         -   creatorType: author
-            firstName: Peter
-            lastName: Bloem
-        -   creatorType: author
-            firstName: Steven
-            lastName: de Rooij
-        date: '2020'
-        dateAdded: '2023-03-27T15:48:34Z'
-        dateModified: '2023-03-27T15:51:35Z'
-        extra: 'Publisher: Springer'
-        issue: ''
-        itemType: journalArticle
-        journalAbbreviation: ''
-        key: ZVVMKZDU
-        language: ''
-        libraryCatalog: ''
-        pages: 1421–1453
-        publicationTitle: Data Mining and Knowledge Discovery, 2020
-        relations: {}
-        rights: ''
-        series: ''
-        seriesText: ''
-        seriesTitle: ''
-        shortTitle: ''
-        tags:
-        -   tag: graph learning
-        -   tag: motif analysis
-        title: Large-scale network motif analysis using compression
-        url: ''
-        version: 255
-        volume: '34'
-    key: ZVVMKZDU
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/ZVVMKZDU
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/ZVVMKZDU
-            type: application/json
-    meta:
-        createdByUser:
-            id: 11362521
-            links:
-                alternate:
-                    href: https://www.zotero.org/pbloemesquire
-                    type: text/html
-            name: ''
-            username: pbloemesquire
-        creatorSummary: Bloem and de Rooij
-        numChildren: 0
-        parsedDate: '2020'
-    version: 255
--   data:
-        DOI: ''
-        ISSN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections:
-        - VSP3MV9F
-        creators:
-        -   creatorType: author
             firstName: Marina
             lastName: Diachenko
         -   creatorType: author
@@ -1777,86 +1857,6 @@
         numChildren: 0
         parsedDate: '2016'
     version: 242
--   data:
-        DOI: ''
-        ISBN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections:
-        - VSP3MV9F
-        conferenceName: ''
-        creators:
-        -   creatorType: author
-            firstName: Peter
-            lastName: Bloem
-        -   creatorType: author
-            firstName: Francisco
-            lastName: Mota
-        -   creatorType: author
-            firstName: Steven
-            lastName: de Rooij
-        -   creatorType: author
-            firstName: Luís
-            lastName: Antunes
-        -   creatorType: author
-            firstName: Pieter
-            lastName: Adriaans
-        date: '2014'
-        dateAdded: '2023-03-27T15:48:34Z'
-        dateModified: '2023-03-27T15:49:46Z'
-        extra: ''
-        itemType: conferencePaper
-        key: DWD6FD46
-        language: ''
-        libraryCatalog: ''
-        pages: 336–350
-        place: ''
-        proceedingsTitle: International Conference on Algorithmic Learning Theory
-        publisher: Springer International Publishing
-        relations: {}
-        rights: ''
-        series: ''
-        shortTitle: ''
-        tags:
-        -   tag: kolmogorov complexity
-        -   tag: minimium description length
-        -   tag: theoretical computer science
-        title: A safe approximation for Kolmogorov complexity
-        url: ''
-        version: 241
-        volume: ''
-    key: DWD6FD46
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/DWD6FD46
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/DWD6FD46
-            type: application/json
-    meta:
-        createdByUser:
-            id: 11362521
-            links:
-                alternate:
-                    href: https://www.zotero.org/pbloemesquire
-                    type: text/html
-            name: ''
-            username: pbloemesquire
-        creatorSummary: Bloem et al.
-        numChildren: 0
-        parsedDate: '2014'
-    version: 241
 -   data:
         DOI: ''
         ISBN: ''
