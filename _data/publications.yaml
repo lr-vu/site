@@ -1,6 +1,86 @@
 -   data:
         DOI: ''
         ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: AAAI
+        creators:
+        -   creatorType: author
+            firstName: Taewoon
+            lastName: Kim
+        -   creatorType: author
+            firstName: Michael
+            lastName: Cochez
+        -   creatorType: author
+            firstName: Vincent
+            lastName: François-Lavet
+        -   creatorType: author
+            firstName: Mark
+            lastName: Neerincx
+        -   creatorType: author
+            firstName: Piek
+            lastName: Vossen
+        date: 2023-02
+        dateAdded: '2023-03-24T14:38:13Z'
+        dateModified: '2023-03-31T09:11:38Z'
+        extra: ''
+        itemType: conferencePaper
+        key: F7TWQF6C
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        place: ''
+        proceedingsTitle: AAAI 2023
+        publisher: ''
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags:
+        -   tag: human memory
+        -   tag: knowledge graph
+        -   tag: machine learning
+        -   tag: reinforcement learning
+        title: A Machine with Short-Term, Episodic, and Semantic Memory Systems
+        url: https://arxiv.org/abs/2212.02098
+        version: 301
+        volume: ''
+    key: F7TWQF6C
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/F7TWQF6C
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/F7TWQF6C
+            type: application/json
+    meta:
+        createdByUser:
+            id: 7009178
+            links:
+                alternate:
+                    href: https://www.zotero.org/tae898
+                    type: text/html
+            name: Taewoon Kim
+            username: tae898
+        creatorSummary: Kim et al.
+        numChildren: 0
+        parsedDate: 2023-02
+    version: 301
+-   data:
+        DOI: ''
+        ISBN: ''
         abstractNote: Large-scale, algorithmic access to LOD Cloud data has been hampered
             by the absence of queryable endpoints for many datasets, a plethora of
             serialization formats, and an abundance of idiosyncrasies such as syntax
@@ -2299,86 +2379,6 @@
         numChildren: 0
         parsedDate: '2019'
     version: 246
--   data:
-        DOI: ''
-        ISBN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        conferenceName: ''
-        creators:
-        -   creatorType: author
-            firstName: Taewoon
-            lastName: Kim
-        -   creatorType: author
-            firstName: Michael
-            lastName: Cochez
-        -   creatorType: author
-            firstName: Vincent
-            lastName: François-Lavet
-        -   creatorType: author
-            firstName: Mark
-            lastName: Neerincx
-        -   creatorType: author
-            firstName: Piek
-            lastName: Vossen
-        date: 2023-02
-        dateAdded: '2023-03-24T14:38:13Z'
-        dateModified: '2023-03-24T14:39:53Z'
-        extra: ''
-        itemType: conferencePaper
-        key: F7TWQF6C
-        language: ''
-        libraryCatalog: ''
-        pages: ''
-        place: ''
-        proceedingsTitle: AAAI 2023
-        publisher: ''
-        relations: {}
-        rights: ''
-        series: ''
-        shortTitle: ''
-        tags:
-        -   tag: human memory
-        -   tag: knowledge graph
-        -   tag: machine learning
-        -   tag: reinforcement learning
-        title: A Machine with Short-Term, Episodic, and Semantic Memory Systems
-        url: https://arxiv.org/abs/2212.02098
-        version: 221
-        volume: ''
-    key: F7TWQF6C
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/F7TWQF6C
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/F7TWQF6C
-            type: application/json
-    meta:
-        createdByUser:
-            id: 7009178
-            links:
-                alternate:
-                    href: https://www.zotero.org/tae898
-                    type: text/html
-            name: Taewoon Kim
-            username: tae898
-        creatorSummary: Kim et al.
-        numChildren: 0
-        parsedDate: 2023-02
-    version: 221
 -   data:
         DOI: ''
         ISBN: ''
