@@ -20,7 +20,7 @@
             lastName: Cochez
         date: '2022'
         dateAdded: '2023-03-24T12:41:58Z'
-        dateModified: '2023-03-31T15:56:15Z'
+        dateModified: '2023-03-31T16:01:53Z'
         extra: 'Issue: 3121'
         itemType: conferencePaper
         key: 7HAUSPSY
@@ -37,8 +37,8 @@
         tags: []
         title: Potential Energy to Improve Link Prediction With Relational Graph Neural
             Networks.
-        url: ''
-        version: 319
+        url: https://ceur-ws.org/Vol-3121/short2.pdf
+        version: 320
         volume: ''
     key: 7HAUSPSY
     library:
@@ -68,7 +68,7 @@
         creatorSummary: Colombo et al.
         numChildren: 0
         parsedDate: '2022'
-    version: 319
+    version: 320
 -   data:
         DOI: ''
         ISBN: ''
