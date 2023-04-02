@@ -21,14 +21,7 @@
 
 - name: Frank van Harmelen
   orderby: Harmelen
-  keywords:
-    - approximate reasoning
-    - formalisation of medical knowledge
-    - diagnosis
   website: frankvanharmelen.nl
-  twitter: fvanharmelen
-  github: fvanharmelen
-  mastodon: fvanharmelen
   role: staff
   title: professor
   image: /images/people/frank.png
