@@ -7,7 +7,7 @@
         archiveLocation: ''
         callNumber: ''
         collections: []
-        conferenceName: AAAI
+        conferenceName: foo bar
         creators:
         -   creatorType: author
             firstName: Taewoon
@@ -26,7 +26,7 @@
             lastName: Vossen
         date: 2023-02
         dateAdded: '2023-03-24T14:38:13Z'
-        dateModified: '2023-04-03T10:56:32Z'
+        dateModified: '2023-04-03T11:13:42Z'
         extra: ''
         itemType: conferencePaper
         key: F7TWQF6C
@@ -47,7 +47,7 @@
         -   tag: reinforcement learning
         title: A Machine with Short-Term, Episodic, and Semantic Memory Systems
         url: https://arxiv.org/abs/2212.02098
-        version: 326
+        version: 328
         volume: ''
     key: F7TWQF6C
     library:
@@ -77,7 +77,7 @@
         creatorSummary: Kim et al.
         numChildren: 0
         parsedDate: 2023-02
-    version: 326
+    version: 328
 -   data:
         DOI: ''
         ISBN: ''
