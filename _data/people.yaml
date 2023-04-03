@@ -21,10 +21,17 @@
 
 - name: Frank van Harmelen
   orderby: Harmelen
-  website: frankvanharmelen.nl
+  website: https://cs.vu.nl/~frankh/
   role: staff
   title: professor
   image: /images/people/frank.png
+  keywords:
+    - knowledge representation
+    - neuro-symbolic AI
+    - semantic web
+  scholar: https://scholar.google.com/citations?user=LCyfDi8AAAAJ
+  github: https://github.com/frankvanharmelen
+  twitter: https://twitter.com/frankvanharmele
 
 - name: Annette ten Teije
   orderby: Teije
