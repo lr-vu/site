@@ -55,5 +55,5 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
   update_pages:
     needs: update_bibliography
-    if: needs.update_bibliography.outputs.bibliography_changes != '0'
+    if: env.BIBLIOGRAPHY_CHANGES != '0'
     uses: ./.github/workflows/jekyll.yml
