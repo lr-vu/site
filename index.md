@@ -28,7 +28,7 @@ dark: true
             <dd>Congratulations to <a href="https://liacs.leidenuniv.nl/~storkl/">Lise Stork</a>, <a href="https://kmitd.github.io/ilaria/">Ilaria Tiddi</a>, René Spijker, and <a href="https://cs.vu.nl/~annette/">Annette ten Teije</a>, for their ESWC 2023 accepted paper <i>"Explainable Drug Repurposing in Context via Deep Reinforcement Learning"</i>.</dd>
 
         <dt>Feb 13, 2023</dt>
-            <dd>Frank van Harmelen gave a keynote on <i>"Combining knowledge graphs with machine learning, with examples from healthcare and life sciences"</i>, at <a href="https://www.swat4ls.org/workshops/basel2023/keynotes/">SWAT4HCLS</a> in Basel</dd>
+            <dd><a href="https://www.cs.vu.nl/~frankh/">Frank van Harmelen</a> gave a keynote on <i>"Combining knowledge graphs with machine learning, with examples from healthcare and life sciences"</i>, at <a href="https://www.swat4ls.org/workshops/basel2023/keynotes/">SWAT4HCLS</a> in Basel</dd>
 
         <dt>Jan 15, 2023</dt>
             <dd>We are pleased to welcome <a href="https://research.vu.nl/en/persons/ruud-van-bakel">Ruud van Bakel</a>
