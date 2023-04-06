@@ -45,7 +45,7 @@ dark: true
             <dd>We joined the GraphMassivizer project.</dd>
 
         <dt>Dec 16, 2022</dt>
-            <dd>Congratulations to Thiviyan and Emile for the acceptance of their ICLR workshop proposal. The workshop will
+            <dd>Congratulations to <a href="https://thiviyansingam.com/">Thiviyan</a> and <a href="https://emilevankrieken.com/">Emile</a> for the acceptance of their ICLR workshop proposal. The workshop will
                 focus on neurosymbolic generative models. Have a look at <a href="https://nesygems.github.io/">the website
                 </a> or <a href="https://twitter.com/NeSy_GeMs">its twitter feed</a> for more information. </dd>
 
