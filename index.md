@@ -22,13 +22,22 @@ dark: true
 
     <dl>
         <dt>Apr 5, 2023</dt>
-            <dd>We are pleased to announce that Xu Wang has successfully defended his PhD.</dd>
+            <dd>We are pleased to announce that Xu has successfully defended his PhD.</dd>
 
         <dt>Mar 28, 2023</dt>
-            <dd>Congratulations to Lise, Ilaria, René, and Annette, for their ESWC 2023 accepted paper <i>"Explainable Drug Repurposing in Context via Deep Reinforcement Learning"</i>.</dd>
+            <dd>Congratulations to Lise and Annette, for their ESWC accepted paper <i>"Explainable Drug Repurposing in Context via Deep Reinforcement Learning"</i>.</dd>
+
+        <dt>Mar 24, 2023</dt>
+            <dd>Congratulations to Shuai, Peter, and Frank, for their ESWC accepted paper <i>"Refining Large Integrated Identity Graphs using the Unique Name Assumption"</i>.</dd>
+
+        <dt>Mar 13, 2023</dt>
+            <dd>Congratulations to Annette and Frank, for their ACM Computing Surveys accepted paper <i>"Combining Machine Learning and Semantic Web: A Systematic Mapping Study"</i>.</dd>            
 
         <dt>Feb 13, 2023</dt>
             <dd>Frank gave a keynote on <i>"Combining knowledge graphs with machine learning, with examples from healthcare and life sciences"</i>, at <a href="https://www.swat4ls.org/workshops/basel2023/keynotes/">SWAT4HCLS</a> in Basel</dd>
+
+        <dt>Jan 18, 2023</dt>
+            <dd>Congratulations to Andreas, for their CLEAR accepted paper <i>"A Meta-Reinforcement Learning Algorithm for Causal Discovery"</i>.</dd>              
 
         <dt>Jan 15, 2023</dt>
             <dd>We are pleased to welcome <a href="https://research.vu.nl/en/persons/ruud-van-bakel">Ruud van Bakel</a>
@@ -36,7 +45,7 @@ dark: true
                 project, studying how to scale up knowledge graph learning methods. </dd>
 
         <dt>Jan 4, 2023</dt>
-            <dd>Congratulations to Nikos, Ilaria, and Annette, for their AAMAS 2023 accepted paper <i>"Establishing Shared Query Understanding in an Open Multi-Agent System"</i>.</dd>
+            <dd>Congratulations to Nikos and Annette, for their AAMAS accepted paper <i>"Establishing Shared Query Understanding in an Open Multi-Agent System"</i>.</dd>
 
         <dt>Jan 1, 2023</dt>
             <dd>We joined the LEMUR project.</dd>
@@ -45,12 +54,12 @@ dark: true
             <dd>We joined the GraphMassivizer project.</dd>
 
         <dt>Dec 16, 2022</dt>
-            <dd>Congratulations to Thiviyan and Emile for the acceptance of their ICLR workshop proposal. The workshop will
+            <dd>Congratulations to Thiviyan and Emile, for the acceptance of their ICLR workshop proposal. The workshop will
                 focus on neurosymbolic generative models. Have a look at <a href="https://nesygems.github.io/">the website
                 </a> or <a href="https://twitter.com/NeSy_GeMs">its twitter feed</a> for more information. </dd>
 
         <dt>Nov 21, 2022</dt>
-            <dd>Congratulations to Tae, Michael, Vincent, Mark, and Piek for their AAAI 2023 accepted paper <i>"A Machine with Short-Term, Episodic, and Semantic Memory Systems"</i>.</dd>
+            <dd>Congratulations to Tae and Michael, for their AAAI accepted paper <i>"A Machine with Short-Term, Episodic, and Semantic Memory Systems"</i>.</dd>          
 
         <dt>Nov 1, 2022</dt>
             <dd>We are pleased to welcome <a href="https://research.vu.nl/en/persons/romy-vos"><em>Romy Vos</em></a> to the team. She will join us as a PhD student on <a href="https://www.pharmacoinformaticslab.nl/leapfrog/">the LeapFrog project</a>,
