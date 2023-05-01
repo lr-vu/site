@@ -21,6 +21,15 @@ dark: true
     {% endcomment %}
 
     <dl>
+        <dt>May 4, 2023</dt>
+            <dd>Thiviyan and Emile are hosting a NeSy-GeMs (Neurosymbolic Generative Models) workshop at ICLR 2023. Take a look at <a href="https://nesygems.github.io/">the website.</a></dd>
+
+        <dt>May 1, 2023</dt>
+            <dd><a href="https://2023.semanticwebschool.org/keynote-speakers/">Frank is invited as a keynote speaker at the ISWS 2023 summer school, held from the 11th to 17th of June.</a></dd>
+
+        <dt>Apr 27, 2023</dt>
+            <dd><a href="https://peterbloem.nl/blog/transformers">Peter's work on Transformers, e.g., ChatGPT</a>, has been featured in <a href="https://www.nytimes.com/interactive/2023/04/26/upshot/gpt-from-scratch.html">a NYT article.</a></dd>
+
         <dt>Apr 5, 2023</dt>
             <dd>We are pleased to announce that Xu has successfully defended his PhD.</dd>
 
