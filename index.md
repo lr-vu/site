@@ -25,7 +25,7 @@ dark: true
             <dd>Thiviyan and Emile are hosting a NeSy-GeMs (Neurosymbolic Generative Models) workshop at ICLR 2023. Take a look at <a href="https://nesygems.github.io/">the website.</a></dd>
         
         <dt>May 2</dt>
-        <dd>Frank is <a href="https://nos.nl/artikel/2473634-godfather-van-kunstmatige-intelligentie-verlaat-google-en-waarschuwt-voor-ai">quoted on the NOS website</a>, following Geoffrey Hinton's departure from Google, and subsequent comments about the future of AI.
+        <dd>Frank is <a href="https://nos.nl/artikel/2473634-godfather-van-kunstmatige-intelligentie-verlaat-google-en-waarschuwt-voor-ai">quoted on the NOS website</a>, following Geoffrey Hinton's departure from Google, and his comments about the future of AI.
         </dd>
         
         <dt>May 1, 2023</dt>
