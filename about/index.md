@@ -33,7 +33,7 @@ AlphaGo shared some principles with Deep Blue, notably the idea of searching the
 
 <figure class="embed">
 <iframe  src="https://www.youtube.com/embed/HT-UZkiOLv8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<figcaption>A clip from the documentary <a href="https://en.wikipedia.org/wiki/AlphaGo_(film)">AlphaGo</a>. It focuses on the now-famous &ldquo;move 37&lrquo;a particularly unusual move, which AlphaGo played in the second game.</figcaption>
+<figcaption>A clip from the documentary <a href="https://en.wikipedia.org/wiki/AlphaGo_(film)">AlphaGo</a>. It focuses on the now-famous &ldquo;move 37&rdquo;a particularly unusual move, which AlphaGo played in the second game.</figcaption>
 </figure>
 
 These two highlights show some of the strengths and benefits of both approaches. In the case of Go, for instance, the available knowledge about the game was insufficient to allow the approach of Deep Blue to work. Where knowledge is unavailable, and we can build on best-effort guesswork, learning cand be a powerful way to bridge the gap.
