@@ -216,6 +216,19 @@
     github: https://github.com/R-van-Bakel
     youtube: https://www.youtube.com/@ruudvanbakel
     linkedin: https://www.linkedin.com/in/ruud-v-942425128/
+
+-   name: Yannick Brunink
+    orderby: Brunink
+    keywords:
+      - Probabilistic Databases
+      - Complex Logical Query Answering
+      - Knowledge Graph Embeddings
+      - Neuro-symbolic AI
+    image: /images/people/Yannick.png
+    role: phd
+    title: PhD student
+
+    
 -   name: Taewoon Kim
     orderby: Kim
     keywords:
