@@ -1,4 +1,291 @@
 -   data:
+        DOI: 10.1007/978-3-031-33455-9_4
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections:
+        - VSP3MV9F
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Shuai
+            lastName: Wang
+        -   creatorType: author
+            firstName: Joe
+            lastName: Raad
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        -   creatorType: author
+            firstName: Frank van
+            lastName: Harmelen
+        -   creatorType: editor
+            firstName: Catia
+            lastName: Pesquita
+        -   creatorType: editor
+            firstName: Ernesto
+            lastName: Jiménez-Ruiz
+        -   creatorType: editor
+            firstName: Jamie P.
+            lastName: McCusker
+        -   creatorType: editor
+            firstName: Daniel
+            lastName: Faria
+        -   creatorType: editor
+            firstName: Mauro
+            lastName: Dragoni
+        -   creatorType: editor
+            firstName: Anastasia
+            lastName: Dimou
+        -   creatorType: editor
+            firstName: Raphaël
+            lastName: Troncy
+        -   creatorType: editor
+            firstName: Sven
+            lastName: Hertling
+        date: '2023'
+        dateAdded: '2023-07-17T15:35:47Z'
+        dateModified: '2023-07-17T15:42:21Z'
+        extra: ''
+        itemType: conferencePaper
+        key: 34G3BJI6
+        language: ''
+        libraryCatalog: ''
+        pages: 55–71
+        place: ''
+        proceedingsTitle: The Semantic Web - 20th International Conference, ESWC 2023,
+            Hersonissos, Crete, Greece, May 28 - June 1, 2023, Proceedings
+        publisher: Springer
+        relations: {}
+        rights: ''
+        series: Lecture Notes in Computer Science
+        shortTitle: ''
+        tags:
+        -   tag: Knowledge graphs
+        -   tag: identity graphs
+        -   tag: linked open data
+        -   tag: semantic web
+        title: Refining Large Integrated Identity Graphs Using the Unique Name Assumption
+        url: https://doi.org/10.1007/978-3-031-33455-9\_4
+        version: 370
+        volume: '13870'
+    key: 34G3BJI6
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/34G3BJI6
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/34G3BJI6
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: Wang et al.
+        numChildren: 0
+        parsedDate: '2023'
+    version: 370
+-   data:
+        accessDate: ''
+        charset: windows-1252
+        collections: []
+        contentType: text/plain
+        dateAdded: '2023-07-17T15:35:14Z'
+        dateModified: '2023-07-17T15:35:15Z'
+        filename: WangRBH23.bib
+        itemType: attachment
+        key: DJFV2JGJ
+        linkMode: imported_file
+        md5: bda8f355c19c3fdc9a83cb8c2867c66e
+        mtime: 1689608115000
+        note: ''
+        relations: {}
+        tags: []
+        title: WangRBH23.bib
+        url: ''
+        version: 365
+    key: DJFV2JGJ
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/DJFV2JGJ
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/DJFV2JGJ
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+    version: 365
+-   data:
+        DOI: ''
+        ISBN: 978-1-4503-9432-1
+        abstractNote: We propose a method that allows to develop shared understanding
+            between two agents for the purpose of performing a task that requires
+            cooperation. Our method focuses on efficiently establishing successful
+            task-oriented communication in an open multi-agent system, where the agents
+            do not know anything about each other and can only communicate via grounded
+            interaction. The method aims to assist researchers that work on human-machine
+            interaction or scenarios that require a human-in-the-loop, by defining
+            interaction restrictions and efficiency metrics. To that end, we point
+            out the challenges and limitations of such a (diverse) setup, while also
+            restrictions and requirements which aim to ensure that high task performance
+            truthfully reflects the extent to which the agents correctly understand
+            each other. Furthermore, we demonstrate a use-case where our method can
+            be applied for the task of cooperative query answering. We design the
+            experiments by modifying an established ontology alignment benchmark.
+            In this example, the agents want to query each other, while representing
+            different databases, defined in their own ontologies that contain different
+            and incomplete knowledge. Grounded interaction here has the form of examples
+            that consists of common instances, for which the agents are expected to
+            have similar knowledge. Our experiments demonstrate successful communication
+            establishment under the required restrictions, and compare different agent
+            policies that aim to solve the task in an efficient manner.
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Nikolaos
+            lastName: Kondylidis
+        -   creatorType: author
+            firstName: Ilaria
+            lastName: Tiddi
+        -   creatorType: author
+            firstName: Annette
+            lastName: ten Teije
+        date: '2023'
+        dateAdded: '2023-07-17T15:35:12Z'
+        dateModified: '2023-07-17T15:35:12Z'
+        extra: 'event-place: London, United Kingdom'
+        itemType: conferencePaper
+        key: PSR7PEB7
+        language: ''
+        libraryCatalog: ''
+        pages: 281–289
+        place: Richland, SC
+        proceedingsTitle: Proceedings of the 2023 International Conference on Autonomous
+            Agents and Multiagent Systems
+        publisher: International Foundation for Autonomous Agents and Multiagent Systems
+        relations: {}
+        rights: ''
+        series: AAMAS '23
+        shortTitle: ''
+        tags:
+        -   tag: collaborative query answering
+        -   tag: open multi-agent systems
+        -   tag: task-oriented communication establishment
+        title: Establishing Shared Query Understanding in an Open Multi-Agent System
+        url: ''
+        version: 362
+        volume: ''
+    key: PSR7PEB7
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/PSR7PEB7
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/PSR7PEB7
+            type: application/json
+    meta:
+        createdByUser:
+            id: 8033258
+            links:
+                alternate:
+                    href: https://www.zotero.org/kondilidisn
+                    type: text/html
+            name: ''
+            username: kondilidisn
+        creatorSummary: Kondylidis et al.
+        numChildren: 0
+        parsedDate: '2023'
+    version: 362
+-   data:
+        accessDate: ''
+        charset: windows-1252
+        collections: []
+        contentType: text/plain
+        dateAdded: '2023-07-17T15:32:39Z'
+        dateModified: '2023-07-17T15:32:39Z'
+        filename: acm_3545946.3598649.bib
+        itemType: attachment
+        key: SX8G8RJL
+        linkMode: imported_file
+        md5: 9c83f3925a9198a9b954086f74ec6522
+        mtime: 1689607959000
+        note: ''
+        relations: {}
+        tags: []
+        title: acm_3545946.3598649.bib
+        url: ''
+        version: 353
+    key: SX8G8RJL
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/SX8G8RJL
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/SX8G8RJL
+            type: application/json
+    meta:
+        createdByUser:
+            id: 8033258
+            links:
+                alternate:
+                    href: https://www.zotero.org/kondilidisn
+                    type: text/html
+            name: ''
+            username: kondilidisn
+    version: 353
+-   data:
         DOI: 10.1609/aaai.v37i1.25075
         ISSN: 2374-3468, 2159-5399
         abstractNote: Inspired by the cognitive science theory of the explicit human
