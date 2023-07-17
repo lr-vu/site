@@ -1,4 +1,171 @@
 -   data:
+        DOI: 10.1109/CloudSummit54781.2022.00010
+        ISBN: '9781665451130'
+        abstractNote: ''
+        accessDate: '2023-07-17T17:36:19Z'
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: 2022 IEEE Cloud Summit
+        creators:
+        -   creatorType: author
+            firstName: Radu
+            lastName: Prodan
+        -   creatorType: author
+            firstName: Dragi
+            lastName: Kimovski
+        -   creatorType: author
+            firstName: Andrea
+            lastName: Bartolini
+        -   creatorType: author
+            firstName: Michael
+            lastName: Cochez
+        -   creatorType: author
+            firstName: Alexandru
+            lastName: Iosup
+        -   creatorType: author
+            firstName: Evgeny
+            lastName: Kharlamov
+        -   creatorType: author
+            firstName: Joze
+            lastName: Rozanec
+        -   creatorType: author
+            firstName: Laurentiu
+            lastName: Vasiliu
+        -   creatorType: author
+            firstName: Ana Lucia
+            lastName: Varbanescu
+        date: 10/2022
+        dateAdded: '2023-07-17T17:36:20Z'
+        dateModified: '2023-07-17T17:36:20Z'
+        extra: ''
+        itemType: conferencePaper
+        key: DKC9HVBQ
+        language: ''
+        libraryCatalog: DOI.org (Crossref)
+        pages: 23-30
+        place: Fairfax, VA, USA
+        proceedingsTitle: 2022 IEEE Cloud Summit
+        publisher: IEEE
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: Towards Extreme and Sustainable Graph Processing for Urgent Societal
+            Challenges in Europe
+        url: https://ieeexplore.ieee.org/document/9973125/
+        version: 372
+        volume: ''
+    key: DKC9HVBQ
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/DKC9HVBQ
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/DKC9HVBQ
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: Prodan et al.
+        numChildren: 0
+        parsedDate: '2022'
+    version: 372
+-   data:
+        DOI: 10.1145/3578245.3585338
+        ISBN: '9798400700729'
+        abstractNote: ''
+        accessDate: '2023-07-17T17:35:39Z'
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: 'ICPE ''23: ACM/SPEC International Conference on Performance
+            Engineering'
+        creators:
+        -   creatorType: author
+            firstName: Joze
+            lastName: Rozanec
+        -   creatorType: author
+            firstName: Michael
+            lastName: Cochez
+        -   creatorType: author
+            firstName: Ruud
+            lastName: Van Bakel
+        -   creatorType: author
+            firstName: Brian
+            lastName: Elvesæter
+        -   creatorType: author
+            firstName: Dumitru
+            lastName: Roman
+        date: '2023-04-15'
+        dateAdded: '2023-07-17T17:35:40Z'
+        dateModified: '2023-07-17T17:35:40Z'
+        extra: ''
+        itemType: conferencePaper
+        key: R863DBK3
+        language: en
+        libraryCatalog: DOI.org (Crossref)
+        pages: 251-252
+        place: Coimbra Portugal
+        proceedingsTitle: Companion of the 2023 ACM/SPEC International Conference
+            on Performance Engineering
+        publisher: ACM
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: Graph-Scrutinizer
+        tags: []
+        title: 'Graph-Scrutinizer: Towards Massive Graph Analytics and Reasoning'
+        url: https://dl.acm.org/doi/10.1145/3578245.3585338
+        version: 371
+        volume: ''
+    key: R863DBK3
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/R863DBK3
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/R863DBK3
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: Rozanec et al.
+        numChildren: 0
+        parsedDate: '2023-04-15'
+    version: 371
+-   data:
         DOI: 10.1007/978-3-031-33455-9_4
         ISBN: ''
         abstractNote: ''
