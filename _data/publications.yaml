@@ -36,9 +36,9 @@
         -   creatorType: author
             firstName: Ana Lucia
             lastName: Varbanescu
-        date: 10/2022
+        date: 2022-10
         dateAdded: '2023-07-17T17:36:20Z'
-        dateModified: '2023-07-17T17:36:20Z'
+        dateModified: '2023-07-17T17:56:20Z'
         extra: ''
         itemType: conferencePaper
         key: DKC9HVBQ
@@ -56,7 +56,7 @@
         title: Towards Extreme and Sustainable Graph Processing for Urgent Societal
             Challenges in Europe
         url: https://ieeexplore.ieee.org/document/9973125/
-        version: 372
+        version: 373
         volume: ''
     key: DKC9HVBQ
     library:
@@ -85,8 +85,8 @@
             username: michaelcochez
         creatorSummary: Prodan et al.
         numChildren: 0
-        parsedDate: '2022'
-    version: 372
+        parsedDate: 2022-10
+    version: 373
 -   data:
         DOI: 10.1145/3578245.3585338
         ISBN: '9798400700729'
