@@ -298,7 +298,15 @@
     scholar: https://scholar.google.com/citations?user=4xjZkV4AAAAJ
     title: PhD student
     image: /images/people/selene.png
-    role: guest    
+    role: guest 
+
+-   name: Francesco Manigrasso 
+    orderby: Manigrasso
+    keywords:
+      - Neurosymbolic methods
+    website: https://www.polito.it/en/staff?p=francesco.manigrasso
+    role: guest   
+    
 
 # Alumni
 
