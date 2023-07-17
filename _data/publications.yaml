@@ -1,6 +1,6 @@
 -   data:
-        DOI: https://doi.org/10.1609/aaai.v37i1.25075
-        ISBN: ''
+        DOI: 10.1609/aaai.v37i1.25075
+        ISSN: 2374-3468, 2159-5399
         abstractNote: Inspired by the cognitive science theory of the explicit human
             memory systems, we have modeled an agent with short-term, episodic, and
             semantic memory systems, each of which is modeled with a knowledge graph.
@@ -12,12 +12,11 @@
             forgotten, or rather be stored in the episodic or semantic memory systems.
             Our experiments indicate that an agent with human-like memory systems
             can outperform an agent without this memory structure in the environment.
-        accessDate: ''
+        accessDate: '2023-07-17T14:40:17Z'
         archive: ''
         archiveLocation: ''
         callNumber: ''
         collections: []
-        conferenceName: Proceedings of the AAAI Conference on Artificial Intelligence
         creators:
         -   creatorType: author
             firstName: Taewoon
@@ -27,39 +26,37 @@
             lastName: Cochez
         -   creatorType: author
             firstName: Vincent
-            lastName: François-Lavet
+            lastName: Francois-Lavet
         -   creatorType: author
             firstName: Mark
             lastName: Neerincx
         -   creatorType: author
             firstName: Piek
             lastName: Vossen
-        date: 2023-06
-        dateAdded: '2023-03-24T14:38:13Z'
-        dateModified: '2023-07-17T14:35:46Z'
+        date: '2023-06-26'
+        dateAdded: '2023-07-17T14:40:18Z'
+        dateModified: '2023-07-17T14:40:18Z'
         extra: ''
-        itemType: conferencePaper
-        key: F7TWQF6C
+        issue: '1'
+        itemType: journalArticle
+        journalAbbreviation: AAAI
+        key: 8KHN4QJZ
         language: ''
-        libraryCatalog: ''
-        pages: 48 - 56
-        place: ''
-        proceedingsTitle: AAAI 2023
-        publisher: ''
+        libraryCatalog: DOI.org (Crossref)
+        pages: 48-56
+        publicationTitle: Proceedings of the AAAI Conference on Artificial Intelligence
         relations: {}
         rights: ''
         series: ''
+        seriesText: ''
+        seriesTitle: ''
         shortTitle: ''
-        tags:
-        -   tag: human memory
-        -   tag: knowledge graph
-        -   tag: machine learning
-        -   tag: reinforcement learning
+        tags: []
         title: A Machine with Short-Term, Episodic, and Semantic Memory Systems
-        url: https://doi.org/10.1609/aaai.v37i1.25075
-        version: 338
+        url: https://ojs.aaai.org/index.php/AAAI/article/view/25075
+        version: 341
         volume: '37'
-    key: F7TWQF6C
+    key: 8KHN4QJZ
     library:
         id: 4989916
         links:
@@ -70,10 +67,10 @@
         type: group
     links:
         alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/F7TWQF6C
+            href: https://www.zotero.org/groups/lrvu-publications/items/8KHN4QJZ
             type: text/html
         self:
-            href: https://api.zotero.org/groups/4989916/items/F7TWQF6C
+            href: https://api.zotero.org/groups/4989916/items/8KHN4QJZ
             type: application/json
     meta:
         createdByUser:
@@ -86,8 +83,8 @@
             username: tae898
         creatorSummary: Kim et al.
         numChildren: 0
-        parsedDate: 2023-06
-    version: 338
+        parsedDate: '2023-06-26'
+    version: 341
 -   data:
         DOI: ''
         ISBN: ''
