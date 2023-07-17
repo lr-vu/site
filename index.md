@@ -21,6 +21,10 @@ dark: true
     {% endcomment %}
 
     <dl>
+
+        <dt>June 15, 2023</dt>
+            <dd markdown="1">We are happy to welcome [Francesco Manigrasso](https://www.polito.it/en/staff?p=francesco.manigrasso) to the group for a 3 month visit. We will use his time with us to work on using Real Logic and Logic Tensor Networks to probe large language models for logical knowledge and inference.</dd>
+    
         <dt>May 4, 2023</dt>
             <dd>Thiviyan and Emile are hosting a NeSy-GeMs (Neurosymbolic Generative Models) workshop at ICLR 2023. Take a look at <a href="https://nesygems.github.io/">the website.</a></dd>
         
