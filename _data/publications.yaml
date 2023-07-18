@@ -1,4 +1,114 @@
 -   data:
+        DOI: 10.1007/978-3-030-77385-4_15
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections:
+        - VSP3MV9F
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Shuai
+            lastName: Wang
+        -   creatorType: author
+            firstName: Joe
+            lastName: Raad
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        -   creatorType: author
+            firstName: Frank van
+            lastName: Harmelen
+        -   creatorType: editor
+            firstName: Ruben
+            lastName: Verborgh
+        -   creatorType: editor
+            firstName: Katja
+            lastName: Hose
+        -   creatorType: editor
+            firstName: Heiko
+            lastName: Paulheim
+        -   creatorType: editor
+            firstName: Pierre-Antoine
+            lastName: Champin
+        -   creatorType: editor
+            firstName: Maria
+            lastName: Maleshkova
+        -   creatorType: editor
+            firstName: Óscar
+            lastName: Corcho
+        -   creatorType: editor
+            firstName: Petar
+            lastName: Ristoski
+        -   creatorType: editor
+            firstName: Mehwish
+            lastName: Alam
+        date: '2021'
+        dateAdded: '2023-03-24T12:41:24Z'
+        dateModified: '2023-07-18T16:34:59Z'
+        extra: ''
+        itemType: conferencePaper
+        key: A9MB95FZ
+        language: ''
+        libraryCatalog: ''
+        pages: 249–264
+        place: ''
+        proceedingsTitle: The Semantic Web - 18th International Conference, ESWC 2021,
+            Virtual Event, June 6-10, 2021, Proceedings
+        publisher: Springer
+        relations:
+            dc:replaces: http://zotero.org/groups/4989916/items/ULWZBP9Y
+        rights: ''
+        series: Lecture Notes in Computer Science
+        shortTitle: ''
+        tags:
+        -   tag: linked open data
+        -   tag: semantic web
+        title: Refining Transitive and Pseudo-Transitive Relations at Web Scale
+        url: https://doi.org/10.1007/978-3-030-77385-4\_15
+        version: 399
+        volume: '12731'
+    key: A9MB95FZ
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/A9MB95FZ
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/A9MB95FZ
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: Wang et al.
+        lastModifiedByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        numChildren: 0
+        parsedDate: '2021'
+    version: 399
+-   data:
         DOI: ''
         abstractNote: Causal discovery is a major task with the utmost importance
             for machine learning since causal structures can enable models to go beyond
@@ -456,51 +566,6 @@
         charset: windows-1252
         collections: []
         contentType: text/plain
-        dateAdded: '2023-07-17T15:35:14Z'
-        dateModified: '2023-07-17T15:35:15Z'
-        filename: WangRBH23.bib
-        itemType: attachment
-        key: DJFV2JGJ
-        linkMode: imported_file
-        md5: bda8f355c19c3fdc9a83cb8c2867c66e
-        mtime: 1689608115000
-        note: ''
-        relations: {}
-        tags: []
-        title: WangRBH23.bib
-        url: ''
-        version: 365
-    key: DJFV2JGJ
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/DJFV2JGJ
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/DJFV2JGJ
-            type: application/json
-    meta:
-        createdByUser:
-            id: 11362521
-            links:
-                alternate:
-                    href: https://www.zotero.org/pbloemesquire
-                    type: text/html
-            name: ''
-            username: pbloemesquire
-    version: 365
--   data:
-        accessDate: ''
-        charset: windows-1252
-        collections: []
-        contentType: text/plain
         dateAdded: '2023-07-17T15:32:39Z'
         dateModified: '2023-07-17T15:32:39Z'
         filename: acm_3545946.3598649.bib
@@ -926,83 +991,6 @@
     version: 315
 -   data:
         DOI: ''
-        ISBN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections:
-        - VSP3MV9F
-        conferenceName: ''
-        creators:
-        -   creatorType: author
-            firstName: Shuai
-            lastName: Wang
-        -   creatorType: author
-            firstName: Joe
-            lastName: Raad
-        -   creatorType: author
-            firstName: Peter
-            lastName: Bloem
-        -   creatorType: author
-            firstName: Frank Van
-            lastName: Harmelen
-        date: '2021'
-        dateAdded: '2023-03-27T15:48:35Z'
-        dateModified: '2023-03-31T11:43:01Z'
-        extra: ''
-        itemType: conferencePaper
-        key: ULWZBP9Y
-        language: ''
-        libraryCatalog: ''
-        pages: 249–264
-        place: ''
-        proceedingsTitle: 'The Semantic Web: 18th International Conference, ESWC 2021,
-            Virtual Event, June 6–10, 2021, Proceedings 18'
-        publisher: Springer International Publishing
-        relations: {}
-        rights: ''
-        series: ''
-        shortTitle: ''
-        tags:
-        -   tag: linked open data
-        -   tag: semantic web
-        title: Refining transitive and pseudo-transitive relations at web scale
-        url: https://link.springer.com/content/pdf/10.1007/978-3-030-77385-4_15.pdf
-        version: 313
-        volume: ''
-    key: ULWZBP9Y
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/ULWZBP9Y
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/ULWZBP9Y
-            type: application/json
-    meta:
-        createdByUser:
-            id: 11362521
-            links:
-                alternate:
-                    href: https://www.zotero.org/pbloemesquire
-                    type: text/html
-            name: ''
-            username: pbloemesquire
-        creatorSummary: Wang et al.
-        numChildren: 0
-        parsedDate: '2021'
-    version: 313
--   data:
-        DOI: ''
         ISSN: ''
         abstractNote: ''
         accessDate: ''
@@ -1077,84 +1065,6 @@
         numChildren: 0
         parsedDate: '2022'
     version: 312
--   data:
-        DOI: 10.3233/DS-170007
-        ISSN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections:
-        - VSP3MV9F
-        creators:
-        -   creatorType: author
-            firstName: Xander
-            lastName: Wilcke
-        -   creatorType: author
-            firstName: Peter
-            lastName: Bloem
-        -   creatorType: author
-            firstName: Victor
-            lastName: De Boer
-        date: '2017'
-        dateAdded: '2023-03-27T15:48:34Z'
-        dateModified: '2023-03-31T11:41:32Z'
-        extra: 'Publisher: IOS Press'
-        issue: 1-2
-        itemType: journalArticle
-        journalAbbreviation: ''
-        key: 3LI8PZBP
-        language: ''
-        libraryCatalog: ''
-        pages: 39–57
-        publicationTitle: Data Science
-        relations: {}
-        rights: ''
-        series: ''
-        seriesText: ''
-        seriesTitle: ''
-        shortTitle: ''
-        tags:
-        -   tag: knowledge graphs
-        -   tag: machine learning
-        -   tag: multimodal learning
-        -   tag: position paper
-        -   tag: semantic web
-        title: The knowledge graph as the default data model for learning on heterogeneous
-            knowledge
-        url: https://datasciencehub.net/system/files/ds-paper-439.pdf
-        version: 311
-        volume: '1'
-    key: 3LI8PZBP
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/3LI8PZBP
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/3LI8PZBP
-            type: application/json
-    meta:
-        createdByUser:
-            id: 11362521
-            links:
-                alternate:
-                    href: https://www.zotero.org/pbloemesquire
-                    type: text/html
-            name: ''
-            username: pbloemesquire
-        creatorSummary: Wilcke et al.
-        numChildren: 0
-        parsedDate: '2017'
-    version: 311
 -   data:
         DOI: ''
         ISBN: ''
@@ -2398,86 +2308,6 @@
         numChildren: 0
         parsedDate: '2019'
     version: 249
--   data:
-        DOI: ''
-        ISBN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections:
-        - VSP3MV9F
-        conferenceName: ''
-        creators:
-        -   creatorType: author
-            firstName: Steven
-            lastName: de Rooij
-        -   creatorType: author
-            firstName: Wouter
-            lastName: Beek
-        -   creatorType: author
-            firstName: Peter
-            lastName: Bloem
-        -   creatorType: author
-            firstName: Frank
-            lastName: van Harmelen
-        -   creatorType: author
-            firstName: Stefan
-            lastName: Schlobach
-        date: '2016'
-        dateAdded: '2023-03-27T15:48:34Z'
-        dateModified: '2023-03-27T15:49:51Z'
-        extra: ''
-        itemType: conferencePaper
-        key: 656SKI8N
-        language: ''
-        libraryCatalog: ''
-        pages: 184–199
-        place: ''
-        proceedingsTitle: 'The Semantic Web–ISWC 2016: 15th International Semantic
-            Web Conference, Kobe, Japan, October 17–21, 2016, Proceedings, Part I
-            15'
-        publisher: Springer International Publishing
-        relations: {}
-        rights: ''
-        series: ''
-        shortTitle: ''
-        tags:
-        -   tag: semantic web
-        title: Are names meaningful? Quantifying social meaning on the semantic web
-        url: ''
-        version: 242
-        volume: ''
-    key: 656SKI8N
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/656SKI8N
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/656SKI8N
-            type: application/json
-    meta:
-        createdByUser:
-            id: 11362521
-            links:
-                alternate:
-                    href: https://www.zotero.org/pbloemesquire
-                    type: text/html
-            name: ''
-            username: pbloemesquire
-        creatorSummary: de Rooij et al.
-        numChildren: 0
-        parsedDate: '2016'
-    version: 242
 -   data:
         DOI: ''
         ISBN: ''
@@ -3939,85 +3769,6 @@
         creatorSummary: Hallawa et al.
         numChildren: 0
         parsedDate: '2020'
-    version: 168
--   data:
-        DOI: ''
-        ISSN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Michael van
-            lastName: Bekkum
-        -   creatorType: author
-            firstName: Maaike de
-            lastName: Boer
-        -   creatorType: author
-            firstName: Frank van
-            lastName: Harmelen
-        -   creatorType: author
-            firstName: André
-            lastName: Meyer-Vitali
-        -   creatorType: author
-            firstName: Annette ten
-            lastName: Teije
-        date: '2021'
-        dateAdded: '2023-03-24T12:41:24Z'
-        dateModified: '2023-03-24T12:46:49Z'
-        extra: '_eprint: 2102.11965'
-        issue: ''
-        itemType: journalArticle
-        journalAbbreviation: ''
-        key: Z2SREZE2
-        language: ''
-        libraryCatalog: ''
-        pages: ''
-        publicationTitle: CoRR
-        relations:
-            dc:replaces: http://zotero.org/groups/4989916/items/QNZGQDBM
-        rights: ''
-        series: ''
-        seriesText: ''
-        seriesTitle: ''
-        shortTitle: ''
-        tags: []
-        title: 'Modular Design Patterns for Hybrid Learning and Reasoning Systems:
-            a taxonomy, patterns and use cases'
-        url: https://arxiv.org/abs/2102.11965
-        version: 168
-        volume: abs/2102.11965
-    key: Z2SREZE2
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/Z2SREZE2
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/Z2SREZE2
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Bekkum et al.
-        numChildren: 0
-        parsedDate: '2021'
     version: 168
 -   data:
         DOI: 10.1007/s10489-021-02394-3
@@ -6329,84 +6080,6 @@
         parsedDate: '2020'
     version: 155
 -   data:
-        DOI: ''
-        ISSN: 1570-0844
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: V.
-            lastName: Zamborlini
-        -   creatorType: author
-            firstName: Rinke
-            lastName: Hoekstra
-        -   creatorType: author
-            firstName: M.
-            lastName: da Silveira
-        -   creatorType: author
-            firstName: C.
-            lastName: Pruski
-        -   creatorType: author
-            firstName: A.C.M.
-            lastName: ten Teije
-        date: '2015'
-        dateAdded: '2023-03-24T12:41:27Z'
-        dateModified: '2023-03-24T12:41:27Z'
-        extra: 'Publisher: IOS Press'
-        issue: ''
-        itemType: journalArticle
-        journalAbbreviation: ''
-        key: TB9KTI5Z
-        language: ''
-        libraryCatalog: ''
-        pages: ''
-        publicationTitle: Semantic Web
-        relations: {}
-        rights: ''
-        series: ''
-        seriesText: ''
-        seriesTitle: ''
-        shortTitle: ''
-        tags: []
-        title: 'Inferring Recommendation Interactions in Clinical Guidelines: Case-studies
-            on Multimorbidity'
-        url: ''
-        version: 149
-        volume: ''
-    key: TB9KTI5Z
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/TB9KTI5Z
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/TB9KTI5Z
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Zamborlini et al.
-        numChildren: 0
-        parsedDate: '2015'
-    version: 149
--   data:
         ISBN: 978-3-319-26584-1
         abstractNote: ''
         accessDate: ''
@@ -6599,81 +6272,6 @@
             name: Michael Cochez
             username: michaelcochez
         creatorSummary: Koning et al.
-        numChildren: 0
-        parsedDate: '2015'
-    version: 148
--   data:
-        ISBN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        bookTitle: Proceedings of International Joint WorkshopKR4HC 2015 - ProHealth
-            2015
-        callNumber: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Z.
-            lastName: Huang
-        -   creatorType: author
-            firstName: Q.
-            lastName: Hu
-        -   creatorType: author
-            firstName: A.
-            lastName: ten Teije
-        -   creatorType: author
-            firstName: F.
-            lastName: van Harmelen
-        date: '2015'
-        dateAdded: '2023-03-24T12:41:27Z'
-        dateModified: '2023-03-24T12:41:27Z'
-        edition: ''
-        extra: ''
-        itemType: bookSection
-        key: 48P3GFK5
-        language: ''
-        libraryCatalog: ''
-        numberOfVolumes: ''
-        pages: ''
-        place: ''
-        publisher: ''
-        relations: {}
-        rights: ''
-        series: ''
-        seriesNumber: ''
-        shortTitle: ''
-        tags: []
-        title: Identifying Evidence Quality for Updating Evidence-based Medical Guideline
-        url: ''
-        version: 148
-        volume: ''
-    key: 48P3GFK5
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/48P3GFK5
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/48P3GFK5
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Huang et al.
         numChildren: 0
         parsedDate: '2015'
     version: 148
@@ -9302,74 +8900,6 @@
         parsedDate: '2016'
     version: 145
 -   data:
-        DOI: ''
-        ISSN: 1613-0073
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Wouter
-            lastName: Beek
-        -   creatorType: author
-            firstName: Jan
-            lastName: Wielemaker
-        date: '2016'
-        dateAdded: '2023-03-24T12:41:26Z'
-        dateModified: '2023-03-24T12:41:26Z'
-        extra: 'Publisher: CEUR Workshop Proceedings'
-        issue: ''
-        itemType: journalArticle
-        journalAbbreviation: ''
-        key: JLXHNSCZ
-        language: ''
-        libraryCatalog: ''
-        pages: ''
-        publicationTitle: CEUR workshop proceedings
-        relations: {}
-        rights: ''
-        series: ''
-        seriesText: ''
-        seriesTitle: ''
-        shortTitle: ''
-        tags: []
-        title: 'SWISH: An integrated semantic web notebook'
-        url: ''
-        version: 145
-        volume: '1690'
-    key: JLXHNSCZ
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/JLXHNSCZ
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/JLXHNSCZ
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Beek and Wielemaker
-        numChildren: 0
-        parsedDate: '2016'
-    version: 145
--   data:
         ISBN: ''
         abstractNote: ''
         accessDate: ''
@@ -9858,74 +9388,6 @@
             type: text/html
         self:
             href: https://api.zotero.org/groups/4989916/items/VQBY4PCW
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Ilievski et al.
-        numChildren: 0
-        parsedDate: '2016'
-    version: 144
--   data:
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: F.
-            lastName: Ilievski
-        -   creatorType: author
-            firstName: W. G. J.
-            lastName: Beek
-        -   creatorType: author
-            firstName: M.G.J.
-            lastName: van Erp
-        -   creatorType: author
-            firstName: L. J.
-            lastName: Rietveld
-        -   creatorType: author
-            firstName: K. S.
-            lastName: Schlobach
-        date: '2016'
-        dateAdded: '2023-03-24T12:41:26Z'
-        dateModified: '2023-03-24T12:41:26Z'
-        extra: ''
-        itemType: document
-        key: WC3ZVD46
-        language: ''
-        libraryCatalog: ''
-        publisher: ''
-        relations: {}
-        rights: ''
-        shortTitle: ''
-        tags: []
-        title: 'LOTUS: Adaptive Search for Big Linked Data'
-        url: ''
-        version: 144
-    key: WC3ZVD46
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/WC3ZVD46
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/WC3ZVD46
             type: application/json
     meta:
         createdByUser:
@@ -11380,88 +10842,6 @@
             name: Michael Cochez
             username: michaelcochez
         creatorSummary: Khalili and van den Besselaar
-        numChildren: 0
-        parsedDate: '2016'
-    version: 142
--   data:
-        DOI: 10.1007/978-3-319-47602-5_48
-        ISSN: 1613-0073
-        abstractNote: Building Web APIs on top of SPARQL endpoints is becoming a common
-            practice to enable universal access to the integration favorable dataspace
-            of Linked Data. However, the Linked Data community cannot expect users
-            to learn SPARQL to query this dataspace, and Web APIs are the most common
-            way of enabling programmatic access to data on the Web. However, the implementation
-            of Web APIs around Linked Data is often a tedious and repetitive process.
-            Recent work speeds up thisLinked Data API construction by wrapping it
-            around SPARQL queries, which carry out the API functionality under the
-            hood. Inspired by this, in this paper we present grlc, a lightweight server
-            that translates SPARQL queries curated in GitHub repositories to Linked
-            Data APIs on the fly.
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Albert
-            lastName: Meroño-Peñuela
-        -   creatorType: author
-            firstName: Rinke
-            lastName: Hoekstra
-        date: '2016'
-        dateAdded: '2023-03-24T12:41:26Z'
-        dateModified: '2023-03-24T12:41:26Z'
-        extra: 'Publisher: CEUR Workshop Proceedings'
-        issue: ''
-        itemType: journalArticle
-        journalAbbreviation: ''
-        key: 79J7PFF7
-        language: ''
-        libraryCatalog: ''
-        pages: ''
-        publicationTitle: CEUR workshop proceedings
-        relations: {}
-        rights: ''
-        series: ''
-        seriesText: ''
-        seriesTitle: ''
-        shortTitle: ''
-        tags:
-        -   tag: Git
-        -   tag: GitHub
-        -   tag: Linked data APIs
-        -   tag: SPARQL
-        title: grlc Makes GitHub Taste Like Linked Data APIs
-        url: ''
-        version: 142
-        volume: '1629'
-    key: 79J7PFF7
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/79J7PFF7
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/79J7PFF7
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Meroño-Peñuela and Hoekstra
         numChildren: 0
         parsedDate: '2016'
     version: 142
@@ -16542,228 +15922,6 @@
         parsedDate: '2020-01-20'
     version: 136
 -   data:
-        DOI: 10.1145/3442381.3450141
-        ISBN: 978-1-4503-8312-7
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        conferenceName: ''
-        creators:
-        -   creatorType: author
-            firstName: Daniel
-            lastName: Daza
-        -   creatorType: author
-            firstName: Michael
-            lastName: Cochez
-        -   creatorType: author
-            firstName: Paul
-            lastName: Groth
-        date: '2021'
-        dateAdded: '2023-03-24T12:41:25Z'
-        dateModified: '2023-03-24T12:41:25Z'
-        extra: 'event-place: Ljubljana, Slovenia'
-        itemType: conferencePaper
-        key: XUQ3SZIZ
-        language: ''
-        libraryCatalog: ''
-        pages: ''
-        place: New York, NY, USA
-        proceedingsTitle: Proceedings of The Web Conference 2021
-        publisher: Association for Computing Machinery
-        relations: {}
-        rights: ''
-        series: WWW '21
-        shortTitle: ''
-        tags: []
-        title: Inductive Entity Representations from Text via Link Prediction
-        url: https://doi.org/10.1145/3442381.3450141
-        version: 135
-        volume: ''
-    key: XUQ3SZIZ
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/XUQ3SZIZ
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/XUQ3SZIZ
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Daza et al.
-        numChildren: 0
-        parsedDate: '2021'
-    version: 135
--   data:
-        DOI: ''
-        ISSN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Dimitrios
-            lastName: Alivanistos
-        -   creatorType: author
-            firstName: Max
-            lastName: Berrendorf
-        -   creatorType: author
-            firstName: Michael
-            lastName: Cochez
-        -   creatorType: author
-            firstName: Mikhail
-            lastName: Galkin
-        date: '2021'
-        dateAdded: '2023-03-24T12:41:25Z'
-        dateModified: '2023-03-24T12:41:25Z'
-        extra: '_eprint: 2106.08166'
-        issue: ''
-        itemType: journalArticle
-        journalAbbreviation: ''
-        key: FUW4ZFWZ
-        language: ''
-        libraryCatalog: ''
-        pages: ''
-        publicationTitle: CoRR
-        relations: {}
-        rights: ''
-        series: ''
-        seriesText: ''
-        seriesTitle: ''
-        shortTitle: ''
-        tags: []
-        title: Query Embedding on Hyper-relational Knowledge Graphs
-        url: https://arxiv.org/abs/2106.08166
-        version: 135
-        volume: abs/2106.08166
-    key: FUW4ZFWZ
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/FUW4ZFWZ
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/FUW4ZFWZ
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Alivanistos et al.
-        numChildren: 0
-        parsedDate: '2021'
-    version: 135
--   data:
-        DOI: ''
-        ISSN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Ruud van
-            lastName: Bakel
-        -   creatorType: author
-            firstName: Teodor
-            lastName: Aleksiev
-        -   creatorType: author
-            firstName: Daniel
-            lastName: Daza
-        -   creatorType: author
-            firstName: Dimitrios
-            lastName: Alivanistos
-        -   creatorType: author
-            firstName: Michael
-            lastName: Cochez
-        date: '2021'
-        dateAdded: '2023-03-24T12:41:25Z'
-        dateModified: '2023-03-24T12:41:25Z'
-        extra: '_eprint: 2102.11389'
-        issue: ''
-        itemType: journalArticle
-        journalAbbreviation: ''
-        key: 4SZMNEZJ
-        language: ''
-        libraryCatalog: ''
-        pages: ''
-        publicationTitle: CoRR
-        relations: {}
-        rights: ''
-        series: ''
-        seriesText: ''
-        seriesTitle: ''
-        shortTitle: ''
-        tags: []
-        title: 'Approximate Knowledge Graph Query Answering: From Ranking to Binary
-            Classification'
-        url: https://arxiv.org/abs/2102.11389
-        version: 135
-        volume: abs/2102.11389
-    key: 4SZMNEZJ
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/4SZMNEZJ
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/4SZMNEZJ
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Bakel et al.
-        numChildren: 0
-        parsedDate: '2021'
-    version: 135
--   data:
         ISBN: 978-1-64368-080-4
         abstractNote: ''
         accessDate: ''
@@ -19367,74 +18525,6 @@
         parsedDate: '2021'
     version: 131
 -   data:
-        DOI: ''
-        ISSN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Frank van
-            lastName: Harmelen
-        -   creatorType: author
-            firstName: Annette ten
-            lastName: Teije
-        date: '2019'
-        dateAdded: '2023-03-24T12:41:24Z'
-        dateModified: '2023-03-24T12:41:24Z'
-        extra: '_eprint: 1905.12389'
-        issue: ''
-        itemType: journalArticle
-        journalAbbreviation: ''
-        key: RL4GZD24
-        language: ''
-        libraryCatalog: ''
-        pages: ''
-        publicationTitle: CoRR
-        relations: {}
-        rights: ''
-        series: ''
-        seriesText: ''
-        seriesTitle: ''
-        shortTitle: ''
-        tags: []
-        title: A Boxology of Design Patterns for Hybrid Learning and Reasoning Systems
-        url: http://arxiv.org/abs/1905.12389
-        version: 131
-        volume: abs/1905.12389
-    key: RL4GZD24
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/RL4GZD24
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/RL4GZD24
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Harmelen and Teije
-        numChildren: 0
-        parsedDate: '2019'
-    version: 131
--   data:
         ISBN: 978-3-030-12737-4
         abstractNote: ''
         accessDate: ''
@@ -19966,80 +19056,6 @@
         collections: []
         creators:
         -   creatorType: author
-            firstName: Floris den
-            lastName: Hengst
-        -   creatorType: author
-            firstName: Mark
-            lastName: Hoogendoorn
-        -   creatorType: author
-            firstName: Frank van
-            lastName: Harmelen
-        -   creatorType: author
-            firstName: Joost
-            lastName: Bosman
-        date: '2019'
-        dateAdded: '2023-03-24T12:41:24Z'
-        dateModified: '2023-03-24T12:41:24Z'
-        extra: '_eprint: 1908.00286'
-        issue: ''
-        itemType: journalArticle
-        journalAbbreviation: ''
-        key: XLWXFKCI
-        language: ''
-        libraryCatalog: ''
-        pages: ''
-        publicationTitle: CoRR
-        relations: {}
-        rights: ''
-        series: ''
-        seriesText: ''
-        seriesTitle: ''
-        shortTitle: ''
-        tags: []
-        title: Reinforcement Learning for Personalized Dialogue Management
-        url: http://arxiv.org/abs/1908.00286
-        version: 129
-        volume: abs/1908.00286
-    key: XLWXFKCI
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/XLWXFKCI
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/XLWXFKCI
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Hengst et al.
-        numChildren: 0
-        parsedDate: '2019'
-    version: 129
--   data:
-        DOI: ''
-        ISSN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        creators:
-        -   creatorType: author
             firstName: Joe
             lastName: Raad
         -   creatorType: author
@@ -20371,74 +19387,6 @@
             name: Michael Cochez
             username: michaelcochez
         creatorSummary: Pan et al.
-        numChildren: 0
-        parsedDate: '2019'
-    version: 129
--   data:
-        DOI: ''
-        ISSN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Frank van
-            lastName: Harmelen
-        -   creatorType: author
-            firstName: Annette ten
-            lastName: Teije
-        date: '2019'
-        dateAdded: '2023-03-24T12:41:24Z'
-        dateModified: '2023-03-24T12:41:24Z'
-        extra: '_eprint: 1905.12389'
-        issue: ''
-        itemType: journalArticle
-        journalAbbreviation: ''
-        key: MBNAPXA8
-        language: ''
-        libraryCatalog: ''
-        pages: ''
-        publicationTitle: CoRR
-        relations: {}
-        rights: ''
-        series: ''
-        seriesText: ''
-        seriesTitle: ''
-        shortTitle: ''
-        tags: []
-        title: A Boxology of Design Patterns for Hybrid Learning and Reasoning Systems
-        url: http://arxiv.org/abs/1905.12389
-        version: 129
-        volume: abs/1905.12389
-    key: MBNAPXA8
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/MBNAPXA8
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/MBNAPXA8
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Harmelen and Teije
         numChildren: 0
         parsedDate: '2019'
     version: 129
@@ -20968,102 +19916,6 @@
             name: Michael Cochez
             username: michaelcochez
         creatorSummary: Harmelen
-        numChildren: 0
-        parsedDate: '2019'
-    version: 128
--   data:
-        DOI: ''
-        ISBN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        conferenceName: ''
-        creators:
-        -   creatorType: author
-            firstName: Frank van
-            lastName: Harmelen
-        -   creatorType: author
-            firstName: Annette ten
-            lastName: Teije
-        -   creatorType: editor
-            firstName: Katrien
-            lastName: Beuls
-        -   creatorType: editor
-            firstName: Bart
-            lastName: Bogaerts
-        -   creatorType: editor
-            firstName: Gianluca
-            lastName: Bontempi
-        -   creatorType: editor
-            firstName: Pierre
-            lastName: Geurts
-        -   creatorType: editor
-            firstName: Nick
-            lastName: Harley
-        -   creatorType: editor
-            firstName: Bertrand
-            lastName: Lebichot
-        -   creatorType: editor
-            firstName: Tom
-            lastName: Lenaerts
-        -   creatorType: editor
-            firstName: Gilles
-            lastName: Louppe
-        -   creatorType: editor
-            firstName: Paul Van
-            lastName: Eecke
-        date: '2019'
-        dateAdded: '2023-03-24T12:41:24Z'
-        dateModified: '2023-03-24T12:41:24Z'
-        extra: ''
-        itemType: conferencePaper
-        key: G6GZPCWU
-        language: ''
-        libraryCatalog: ''
-        pages: ''
-        place: ''
-        proceedingsTitle: Proceedings of the 31st Benelux Conference on Artificial
-            Intelligence (BNAIC 2019) and the 28th Belgian Dutch Conference on Machine
-            Learning (Benelearn 2019), Brussels, Belgium, November 6-8, 2019
-        publisher: CEUR-WS.org
-        relations: {}
-        rights: ''
-        series: CEUR Workshop Proceedings
-        shortTitle: ''
-        tags: []
-        title: A Boxology of Design Patterns for Hybrid Learning and Reasoning Systems
-        url: http://ceur-ws.org/Vol-2491/abstract63.pdf
-        version: 128
-        volume: '2491'
-    key: G6GZPCWU
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/G6GZPCWU
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/G6GZPCWU
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Harmelen and Teije
         numChildren: 0
         parsedDate: '2019'
     version: 128
@@ -21878,104 +20730,6 @@
         parsedDate: '2021'
     version: 126
 -   data:
-        DOI: 10.1007/978-3-030-77385-4_15
-        ISBN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        conferenceName: ''
-        creators:
-        -   creatorType: author
-            firstName: Shuai
-            lastName: Wang
-        -   creatorType: author
-            firstName: Joe
-            lastName: Raad
-        -   creatorType: author
-            firstName: Peter
-            lastName: Bloem
-        -   creatorType: author
-            firstName: Frank van
-            lastName: Harmelen
-        -   creatorType: editor
-            firstName: Ruben
-            lastName: Verborgh
-        -   creatorType: editor
-            firstName: Katja
-            lastName: Hose
-        -   creatorType: editor
-            firstName: Heiko
-            lastName: Paulheim
-        -   creatorType: editor
-            firstName: Pierre-Antoine
-            lastName: Champin
-        -   creatorType: editor
-            firstName: Maria
-            lastName: Maleshkova
-        -   creatorType: editor
-            firstName: Óscar
-            lastName: Corcho
-        -   creatorType: editor
-            firstName: Petar
-            lastName: Ristoski
-        -   creatorType: editor
-            firstName: Mehwish
-            lastName: Alam
-        date: '2021'
-        dateAdded: '2023-03-24T12:41:24Z'
-        dateModified: '2023-03-24T12:41:24Z'
-        extra: ''
-        itemType: conferencePaper
-        key: A9MB95FZ
-        language: ''
-        libraryCatalog: ''
-        pages: 249–264
-        place: ''
-        proceedingsTitle: The Semantic Web - 18th International Conference, ESWC 2021,
-            Virtual Event, June 6-10, 2021, Proceedings
-        publisher: Springer
-        relations: {}
-        rights: ''
-        series: Lecture Notes in Computer Science
-        shortTitle: ''
-        tags: []
-        title: Refining Transitive and Pseudo-Transitive Relations at Web Scale
-        url: https://doi.org/10.1007/978-3-030-77385-4\_15
-        version: 126
-        volume: '12731'
-    key: A9MB95FZ
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/A9MB95FZ
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/A9MB95FZ
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Wang et al.
-        numChildren: 0
-        parsedDate: '2021'
-    version: 126
--   data:
         DOI: 10.3233/SW-200410
         ISSN: ''
         abstractNote: ''
@@ -22047,77 +20801,3 @@
         numChildren: 0
         parsedDate: '2021'
     version: 126
--   data:
-        DOI: ''
-        ISSN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Dimitrios
-            lastName: Alivanistos
-        -   creatorType: author
-            firstName: Max
-            lastName: Berrendorf
-        -   creatorType: author
-            firstName: Michael
-            lastName: Cochez
-        -   creatorType: author
-            firstName: Mikhail
-            lastName: Galkin
-        date: '2021'
-        dateAdded: '2023-03-24T12:41:23Z'
-        dateModified: '2023-03-24T12:41:23Z'
-        extra: '_eprint: 2106.08166'
-        issue: ''
-        itemType: journalArticle
-        journalAbbreviation: ''
-        key: DJPZRYVX
-        language: ''
-        libraryCatalog: ''
-        pages: ''
-        publicationTitle: CoRR
-        relations: {}
-        rights: ''
-        series: ''
-        seriesText: ''
-        seriesTitle: ''
-        shortTitle: ''
-        tags: []
-        title: Query Embedding on Hyper-relational Knowledge Graphs
-        url: https://arxiv.org/abs/2106.08166
-        version: 125
-        volume: abs/2106.08166
-    key: DJPZRYVX
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/DJPZRYVX
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/DJPZRYVX
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Alivanistos et al.
-        numChildren: 0
-        parsedDate: '2021'
-    version: 125
