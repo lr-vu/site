@@ -1,4 +1,479 @@
 -   data:
+        DOI: 10.1145/3586163
+        ISSN: 0360-0300
+        abstractNote: In line with the general trend in artificial intelligence research
+            to create intelligent systems that combine learning and symbolic components,
+            a new sub-area has emerged that focuses on combining Machine Learning
+            components with techniques developed by the Semantic Web community—Semantic
+            Web Machine Learning (SWeML). Due to its rapid growth and impact on several
+            communities in thepast two decades, there is a need to better understand
+            the space of these SWeML Systems, their characteristics, and trends. Yet,
+            surveys that adopt principled and unbiased approaches are missing. To
+            fill this gap, we performed a systematic study and analyzed nearly 500
+            papers published in the past decade in this area, where we focused on
+            evaluating architectural and application-specific features. Our analysis
+            identified a rapidly growing interest in SWeML Systems, with a high impact
+            on several application domains and tasks. Catalysts for this rapid growth
+            are the increased application of deep learning and knowledge graph technologies.
+            By leveraging the in-depth understanding of this area acquired through
+            this study, a further key contribution of this article is a classification
+            system for SWeML Systems that we publish as ontology.
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Anna
+            lastName: Breit
+        -   creatorType: author
+            firstName: Laura
+            lastName: Waltersdorfer
+        -   creatorType: author
+            firstName: Fajar J.
+            lastName: Ekaputra
+        -   creatorType: author
+            firstName: Marta
+            lastName: Sabou
+        -   creatorType: author
+            firstName: Andreas
+            lastName: Ekelhart
+        -   creatorType: author
+            firstName: Andreea
+            lastName: Iana
+        -   creatorType: author
+            firstName: Heiko
+            lastName: Paulheim
+        -   creatorType: author
+            firstName: Jan
+            lastName: Portisch
+        -   creatorType: author
+            firstName: Artem
+            lastName: Revenko
+        -   creatorType: author
+            firstName: Annette Ten
+            lastName: Teije
+        -   creatorType: author
+            firstName: Frank
+            lastName: Van Harmelen
+        date: 2023-07
+        dateAdded: '2023-07-18T18:12:03Z'
+        dateModified: '2023-07-18T18:12:03Z'
+        extra: 'Place: New York, NY, USA
+
+            Publisher: Association for Computing Machinery'
+        issue: 14s
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: LW3NRZVY
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        publicationTitle: ACM Comput. Surv.
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags:
+        -   tag: Artificial Intelligence
+        -   tag: Knowledge Representation and Reasoning
+        -   tag: Machine Learning
+        -   tag: Semantic Web
+        -   tag: Systematic Mapping Study
+        -   tag: knowledge graph
+        -   tag: neuro-symbolic integration
+        title: 'Combining Machine Learning and Semantic Web: A Systematic Mapping
+            Study'
+        url: https://doi-org.vu-nl.idm.oclc.org/10.1145/3586163
+        version: 403
+        volume: '55'
+    key: LW3NRZVY
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/LW3NRZVY
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/LW3NRZVY
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Breit et al.
+        numChildren: 0
+        parsedDate: 2023-07
+    version: 403
+-   data:
+        DOI: 10.1007/978-3-031-33455-9_1
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Lise
+            lastName: Stork
+        -   creatorType: author
+            firstName: Ilaria
+            lastName: Tiddi
+        -   creatorType: author
+            firstName: René
+            lastName: Spijker
+        -   creatorType: author
+            firstName: Annette ten
+            lastName: Teije
+        -   creatorType: editor
+            firstName: Catia
+            lastName: Pesquita
+        -   creatorType: editor
+            firstName: Ernesto
+            lastName: Jiménez-Ruiz
+        -   creatorType: editor
+            firstName: Jamie P.
+            lastName: McCusker
+        -   creatorType: editor
+            firstName: Daniel
+            lastName: Faria
+        -   creatorType: editor
+            firstName: Mauro
+            lastName: Dragoni
+        -   creatorType: editor
+            firstName: Anastasia
+            lastName: Dimou
+        -   creatorType: editor
+            firstName: Raphaël
+            lastName: Troncy
+        -   creatorType: editor
+            firstName: Sven
+            lastName: Hertling
+        date: '2023'
+        dateAdded: '2023-07-18T18:08:31Z'
+        dateModified: '2023-07-18T18:08:31Z'
+        extra: ''
+        itemType: conferencePaper
+        key: XA8PYFQ6
+        language: ''
+        libraryCatalog: ''
+        pages: 3–20
+        place: ''
+        proceedingsTitle: The Semantic Web - 20th International Conference, ESWC 2023,
+            Hersonissos, Crete, Greece, May 28 - June 1, 2023, Proceedings
+        publisher: Springer
+        relations: {}
+        rights: ''
+        series: Lecture Notes in Computer Science
+        shortTitle: ''
+        tags: []
+        title: Explainable Drug Repurposing in Context via Deep Reinforcement Learning
+        url: https://doi.org/10.1007/978-3-031-33455-9\_1
+        version: 400
+        volume: '13870'
+    key: XA8PYFQ6
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/XA8PYFQ6
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/XA8PYFQ6
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Stork et al.
+        numChildren: 0
+        parsedDate: '2023'
+    version: 400
+-   data:
+        DOI: 10.48550/arXiv.2212.12393
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Emile van
+            lastName: Krieken
+        -   creatorType: author
+            firstName: Thiviyan
+            lastName: Thanapalasingam
+        -   creatorType: author
+            firstName: Jakub M.
+            lastName: Tomczak
+        -   creatorType: author
+            firstName: Frank van
+            lastName: Harmelen
+        -   creatorType: author
+            firstName: Annette ten
+            lastName: Teije
+        date: '2022'
+        dateAdded: '2023-07-18T18:08:31Z'
+        dateModified: '2023-07-18T18:08:31Z'
+        extra: 'arXiv: 2212.12393'
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: 2Q4XBFX3
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        publicationTitle: CoRR
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: 'A-NeSI: A Scalable Approximate Method for Probabilistic Neurosymbolic
+            Inference'
+        url: https://doi.org/10.48550/arXiv.2212.12393
+        version: 400
+        volume: abs/2212.12393
+    key: 2Q4XBFX3
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/2Q4XBFX3
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/2Q4XBFX3
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Krieken et al.
+        numChildren: 0
+        parsedDate: '2022'
+    version: 400
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Roderick van der
+            lastName: Weerdt
+        -   creatorType: author
+            firstName: Victor de
+            lastName: Boer
+        -   creatorType: author
+            firstName: Laura
+            lastName: Daniele
+        -   creatorType: author
+            firstName: Ronald
+            lastName: Siebes
+        -   creatorType: author
+            firstName: Frank van
+            lastName: Harmelen
+        -   creatorType: editor
+            firstName: Ghislain Auguste
+            lastName: Atemezing
+        -   creatorType: editor
+            firstName: Lionel
+            lastName: Médini
+        -   creatorType: editor
+            firstName: Frédérique
+            lastName: Laforest
+        date: '2023'
+        dateAdded: '2023-07-18T18:08:31Z'
+        dateModified: '2023-07-18T18:08:31Z'
+        extra: ''
+        itemType: conferencePaper
+        key: 64CP43BE
+        language: ''
+        libraryCatalog: ''
+        pages: 61–73
+        place: ''
+        proceedingsTitle: Proceedings of the First International Workshop on Semantic
+            Web on Constrained Things co-located with 20th Extended Semantic Web Conference,
+            SWoCoT@ESWC 2023, Hersonissos, Greece, May 28, 2023
+        publisher: CEUR-WS.org
+        relations: {}
+        rights: ''
+        series: CEUR Workshop Proceedings
+        shortTitle: ''
+        tags: []
+        title: Evaluating the Effect of Semantic Enrichment on Entity Embeddings of
+            IoT Knowledge Graphs
+        url: https://ceur-ws.org/Vol-3412/paper5.pdf
+        version: 400
+        volume: '3412'
+    key: 64CP43BE
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/64CP43BE
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/64CP43BE
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Weerdt et al.
+        numChildren: 0
+        parsedDate: '2023'
+    version: 400
+-   data:
+        DOI: 10.5220/0010982000003123
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Edeline
+            lastName: Contempré
+        -   creatorType: author
+            firstName: Zoltán
+            lastName: Szlávik
+        -   creatorType: author
+            firstName: Majid
+            lastName: Mohammadi
+        -   creatorType: author
+            firstName: Erick Velazquez
+            lastName: Godinez
+        -   creatorType: author
+            firstName: Annette ten
+            lastName: Teije
+        -   creatorType: author
+            firstName: Ilaria
+            lastName: Tiddi
+        -   creatorType: editor
+            firstName: Nathalie
+            lastName: Bier
+        -   creatorType: editor
+            firstName: Ana L. N.
+            lastName: Fred
+        -   creatorType: editor
+            firstName: Hugo
+            lastName: Gamboa
+        date: '2022'
+        dateAdded: '2023-07-18T18:08:31Z'
+        dateModified: '2023-07-18T18:08:31Z'
+        extra: ''
+        itemType: conferencePaper
+        key: TZY5EPHJ
+        language: ''
+        libraryCatalog: ''
+        pages: 735–742
+        place: ''
+        proceedingsTitle: 'Proceedings of the 15th International Joint Conference
+            on Biomedical Engineering Systems and Technologies, BIOSTEC 2022, Volume
+            5: HEALTHINF, Online Streaming, February 9-11, 2022'
+        publisher: SCITEPRESS
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: Local Explanations for Clinical Search Engine Results
+        url: https://doi.org/10.5220/0010982000003123
+        version: 400
+        volume: ''
+    key: TZY5EPHJ
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/TZY5EPHJ
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/TZY5EPHJ
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Contempré et al.
+        numChildren: 0
+        parsedDate: '2022'
+    version: 400
+-   data:
         DOI: 10.1007/978-3-030-77385-4_15
         ISBN: ''
         abstractNote: ''
