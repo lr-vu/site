@@ -1,4 +1,100 @@
 -   data:
+        DOI: ''
+        ISBN: 978-1-4503-9432-1
+        abstractNote: We propose a method that allows to develop shared understanding
+            between two agents for the purpose of performing a task that requires
+            cooperation. Our method focuses on efficiently establishing successful
+            task-oriented communication in an open multi-agent system, where the agents
+            do not know anything about each other and can only communicate via grounded
+            interaction. The method aims to assist researchers that work on human-machine
+            interaction or scenarios that require a human-in-the-loop, by defining
+            interaction restrictions and efficiency metrics. To that end, we point
+            out the challenges and limitations of such a (diverse) setup, while also
+            restrictions and requirements which aim to ensure that high task performance
+            truthfully reflects the extent to which the agents correctly understand
+            each other. Furthermore, we demonstrate a use-case where our method can
+            be applied for the task of cooperative query answering. We design the
+            experiments by modifying an established ontology alignment benchmark.
+            In this example, the agents want to query each other, while representing
+            different databases, defined in their own ontologies that contain different
+            and incomplete knowledge. Grounded interaction here has the form of examples
+            that consists of common instances, for which the agents are expected to
+            have similar knowledge. Our experiments demonstrate successful communication
+            establishment under the required restrictions, and compare different agent
+            policies that aim to solve the task in an efficient manner.
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Nikolaos
+            lastName: Kondylidis
+        -   creatorType: author
+            firstName: Ilaria
+            lastName: Tiddi
+        -   creatorType: author
+            firstName: Annette
+            lastName: ten Teije
+        date: '2023'
+        dateAdded: '2023-07-17T15:35:12Z'
+        dateModified: '2023-07-18T00:34:53Z'
+        extra: 'event-place: London, United Kingdom'
+        itemType: conferencePaper
+        key: PSR7PEB7
+        language: ''
+        libraryCatalog: ''
+        pages: 281–289
+        place: Richland, SC
+        proceedingsTitle: Proceedings of the 2023 International Conference on Autonomous
+            Agents and Multiagent Systems
+        publisher: International Foundation for Autonomous Agents and Multiagent Systems
+        relations: {}
+        rights: ''
+        series: AAMAS '23
+        shortTitle: ''
+        tags:
+        -   tag: collaborative query answering
+        -   tag: cross-ontology query answering
+        -   tag: open multi-agent systems
+        -   tag: shared understanding establishment via interaction
+        -   tag: task-oriented communication establishment
+        title: Establishing Shared Query Understanding in an Open Multi-Agent System
+        url: ''
+        version: 376
+        volume: ''
+    key: PSR7PEB7
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/PSR7PEB7
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/PSR7PEB7
+            type: application/json
+    meta:
+        createdByUser:
+            id: 8033258
+            links:
+                alternate:
+                    href: https://www.zotero.org/kondilidisn
+                    type: text/html
+            name: ''
+            username: kondilidisn
+        creatorSummary: Kondylidis et al.
+        numChildren: 0
+        parsedDate: '2023'
+    version: 376
+-   data:
         DOI: 10.1109/CloudSummit54781.2022.00010
         ISBN: '9781665451130'
         abstractNote: ''
@@ -313,100 +409,6 @@
             name: ''
             username: pbloemesquire
     version: 365
--   data:
-        DOI: ''
-        ISBN: 978-1-4503-9432-1
-        abstractNote: We propose a method that allows to develop shared understanding
-            between two agents for the purpose of performing a task that requires
-            cooperation. Our method focuses on efficiently establishing successful
-            task-oriented communication in an open multi-agent system, where the agents
-            do not know anything about each other and can only communicate via grounded
-            interaction. The method aims to assist researchers that work on human-machine
-            interaction or scenarios that require a human-in-the-loop, by defining
-            interaction restrictions and efficiency metrics. To that end, we point
-            out the challenges and limitations of such a (diverse) setup, while also
-            restrictions and requirements which aim to ensure that high task performance
-            truthfully reflects the extent to which the agents correctly understand
-            each other. Furthermore, we demonstrate a use-case where our method can
-            be applied for the task of cooperative query answering. We design the
-            experiments by modifying an established ontology alignment benchmark.
-            In this example, the agents want to query each other, while representing
-            different databases, defined in their own ontologies that contain different
-            and incomplete knowledge. Grounded interaction here has the form of examples
-            that consists of common instances, for which the agents are expected to
-            have similar knowledge. Our experiments demonstrate successful communication
-            establishment under the required restrictions, and compare different agent
-            policies that aim to solve the task in an efficient manner.
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        conferenceName: ''
-        creators:
-        -   creatorType: author
-            firstName: Nikolaos
-            lastName: Kondylidis
-        -   creatorType: author
-            firstName: Ilaria
-            lastName: Tiddi
-        -   creatorType: author
-            firstName: Annette
-            lastName: ten Teije
-        date: '2023'
-        dateAdded: '2023-07-17T15:35:12Z'
-        dateModified: '2023-07-17T15:35:12Z'
-        extra: 'event-place: London, United Kingdom'
-        itemType: conferencePaper
-        key: PSR7PEB7
-        language: ''
-        libraryCatalog: ''
-        pages: 281–289
-        place: Richland, SC
-        proceedingsTitle: Proceedings of the 2023 International Conference on Autonomous
-            Agents and Multiagent Systems
-        publisher: International Foundation for Autonomous Agents and Multiagent Systems
-        relations: {}
-        rights: ''
-        series: AAMAS '23
-        shortTitle: ''
-        tags:
-        -   tag: collaborative query answering
-        -   tag: open multi-agent systems
-        -   tag: task-oriented communication establishment
-        title: Establishing Shared Query Understanding in an Open Multi-Agent System
-        url: ''
-        version: 362
-        volume: ''
-    key: PSR7PEB7
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/PSR7PEB7
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/PSR7PEB7
-            type: application/json
-    meta:
-        createdByUser:
-            id: 8033258
-            links:
-                alternate:
-                    href: https://www.zotero.org/kondilidisn
-                    type: text/html
-            name: ''
-            username: kondilidisn
-        creatorSummary: Kondylidis et al.
-        numChildren: 0
-        parsedDate: '2023'
-    version: 362
 -   data:
         accessDate: ''
         charset: windows-1252
