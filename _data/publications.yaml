@@ -1,5 +1,95 @@
 -   data:
         DOI: ''
+        abstractNote: Causal discovery is a major task with the utmost importance
+            for machine learning since causal structures can enable models to go beyond
+            pure correlation-based inference and significantly boost their performance.
+            However, finding causal structures from data poses a significant challenge
+            both in computational effort and accuracy, let alone its impossibility
+            without interventions in general. In this paper, we develop a meta-reinforcement
+            learning algorithm that performs causal discovery by learning to perform
+            interventions such that it can construct an explicit causal graph. Apart
+            from being useful for possible downstream applications, the estimated
+            causal graph also provides an explanation for the data-generating process.
+            In this article, we show that our algorithm estimates a good graph compared
+            to the SOTA approaches, even in environments whose underlying causal structure
+            is previously unseen. Further, we make an ablation study that shows how
+            learning interventions contribute to the overall performance of our approach.
+            We conclude that interventions indeed help boost the performance, efficiently
+            yielding an accurate estimate of the causal structure of a possibly unseen
+            environment.
+        accessDate: '2023-07-18T09:36:38Z'
+        archive: ''
+        archiveID: arXiv:2207.08457
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Andreas
+            lastName: Sauter
+        -   creatorType: author
+            firstName: Erman
+            lastName: Acar
+        -   creatorType: author
+            firstName: Vincent
+            lastName: François-Lavet
+        date: '2023-02-21'
+        dateAdded: '2023-07-18T09:36:38Z'
+        dateModified: '2023-07-18T09:36:38Z'
+        extra: arXiv:2207.08457 [cs, stat]
+        genre: ''
+        itemType: preprint
+        key: WDBTN63L
+        language: ''
+        libraryCatalog: arXiv.org
+        place: ''
+        relations: {}
+        repository: arXiv
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags:
+        -   tag: Causal Discovery
+        -   tag: Computer Science - Artificial Intelligence
+        -   tag: Computer Science - Machine Learning
+        -   tag: Reinforcement Learning
+        -   tag: Statistics - Methodology
+        title: A Meta-Reinforcement Learning Algorithm for Causal Discovery
+        url: http://arxiv.org/abs/2207.08457
+        version: 379
+    key: WDBTN63L
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/WDBTN63L
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/WDBTN63L
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11640050
+            links:
+                alternate:
+                    href: https://www.zotero.org/andreassauter
+                    type: text/html
+            name: ''
+            username: andreassauter
+        creatorSummary: Sauter et al.
+        numChildren: 0
+        parsedDate: '2023-02-21'
+    version: 379
+-   data:
+        DOI: ''
         ISBN: 978-1-4503-9432-1
         abstractNote: We propose a method that allows to develop shared understanding
             between two agents for the purpose of performing a task that requires
