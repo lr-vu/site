@@ -1,4 +1,412 @@
 -   data:
+        DOI: 10.1016/j.neucom.2023.01.021
+        ISSN: 0925-2312
+        abstractNote: ℓ1 regularization has been used for logistic regression to circumvent
+            the overfitting and use the estimated sparse coefficient for feature selection.
+            However, the challenge of such regularization is that the ℓ1 regularization
+            is not differentiable, making the standard convex optimization algorithm
+            not applicable to this problem. This paper presents a simple projection
+            neural network for ℓ1-regularized logistics regression. In contrast to
+            many available solvers in the literature, the proposed neural network
+            does not require any extra auxiliary variable nor smooth approximation,
+            and its complexity is almost identical to that of the gradient descent
+            for logistic regression without ℓ1 regularization, thanks to the projection
+            operator. We also investigate the convergence of the proposed neural network
+            by using the Lyapunov theory and show that it converges to a solution
+            of the problem with any arbitrary initial value. The proposed neural solution
+            significantly outperforms state-of-the-art methods concerning the execution
+            time and is competitive in terms of accuracy and AUROC.
+        accessDate: '2023-07-19T14:31:29Z'
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Majid
+            lastName: Mohammadi
+        -   creatorType: author
+            firstName: Amir Ahooye
+            lastName: Atashin
+        -   creatorType: author
+            firstName: Damian A.
+            lastName: Tamburri
+        date: '2023-03-14'
+        dateAdded: '2023-07-19T14:31:30Z'
+        dateModified: '2023-07-19T14:31:30Z'
+        extra: ''
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: Neurocomputing
+        key: C2K4276R
+        language: en
+        libraryCatalog: ScienceDirect
+        pages: 30-38
+        publicationTitle: Neurocomputing
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: From ℓ1 subgradient to projection
+        tags:
+        -   tag: Lyapunov
+        -   tag: machine learning
+        -   tag: regularization
+        title: 'From ℓ1 subgradient to projection: A compact neural network for ℓ1-regularized
+            logistic regression'
+        url: https://www.sciencedirect.com/science/article/pii/S0925231223000310
+        version: 518
+        volume: '526'
+    key: C2K4276R
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/C2K4276R
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/C2K4276R
+            type: application/json
+    meta:
+        createdByUser:
+            id: 12058277
+            links:
+                alternate:
+                    href: https://www.zotero.org/majidmohammadi
+                    type: text/html
+            name: ''
+            username: majidmohammadi
+        creatorSummary: Mohammadi et al.
+        numChildren: 0
+        parsedDate: '2023-03-14'
+    version: 518
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: AI in Medicine (AIME) 2023
+        creators:
+        -   creatorType: author
+            firstName: Majid
+            lastName: Mohammadi
+        -   creatorType: author
+            firstName: Annette
+            lastName: ten Teije
+        -   creatorType: author
+            firstName: Tim
+            lastName: Christen
+        -   creatorType: author
+            firstName: Janke
+            lastName: de Groot
+        -   creatorType: author
+            firstName: Marlies
+            lastName: Verhoeff
+        date: '2023'
+        dateAdded: '2023-07-19T14:07:13Z'
+        dateModified: '2023-07-19T14:18:53Z'
+        extra: ''
+        itemType: conferencePaper
+        key: 54QGRAMA
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        place: ''
+        proceedingsTitle: Knowledge Representation for Health Care (KR4HC)
+        publisher: ''
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags:
+        -   tag: Clinical Guidelines
+        -   tag: Comorbidity
+        -   tag: Multimorbidity
+        title: 'Linking Clinical Practice Guidelines for
+
+            Multimorbidity'
+        url: ''
+        version: 507
+        volume: ''
+    key: 54QGRAMA
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/54QGRAMA
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/54QGRAMA
+            type: application/json
+    meta:
+        createdByUser:
+            id: 12058277
+            links:
+                alternate:
+                    href: https://www.zotero.org/majidmohammadi
+                    type: text/html
+            name: ''
+            username: majidmohammadi
+        creatorSummary: Mohammadi et al.
+        numChildren: 0
+        parsedDate: '2023'
+    version: 507
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: Guideline International Network Hybrid Conference
+        creators:
+        -   creatorType: author
+            firstName: Marlies
+            lastName: Verhoeff
+        -   creatorType: author
+            firstName: Tim
+            lastName: Christen
+        -   creatorType: author
+            firstName: Majid
+            lastName: Mohammadi
+        -   creatorType: author
+            firstName: Annette
+            lastName: ten Teije
+        -   creatorType: author
+            firstName: Janke
+            lastName: de Groot
+        date: '2023'
+        dateAdded: '2023-07-19T14:15:26Z'
+        dateModified: '2023-07-19T14:18:16Z'
+        extra: ''
+        itemType: conferencePaper
+        key: G9XXMADA
+        language: ''
+        libraryCatalog: ''
+        pages: '121'
+        place: Glasgow
+        proceedingsTitle: ''
+        publisher: ''
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags:
+        -   tag: Clinical Guidelines
+        -   tag: Multimorbidity
+        title: 'Linking guidelines for multimorbidity: the development of Webofguidelines.nl,
+            a digital guideline-linking tool'
+        url: ''
+        version: 505
+        volume: ''
+    key: G9XXMADA
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/G9XXMADA
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/G9XXMADA
+            type: application/json
+    meta:
+        createdByUser:
+            id: 12058277
+            links:
+                alternate:
+                    href: https://www.zotero.org/majidmohammadi
+                    type: text/html
+            name: ''
+            username: majidmohammadi
+        creatorSummary: Verhoeff et al.
+        numChildren: 0
+        parsedDate: '2023'
+    version: 505
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Majid
+            lastName: Mohammadi
+        -   creatorType: author
+            firstName: Ilaria
+            lastName: Tiddi
+        -   creatorType: author
+            firstName: Annette
+            lastName: ten Teije
+        date: '2023'
+        dateAdded: '2023-07-19T14:00:10Z'
+        dateModified: '2023-07-19T14:01:33Z'
+        extra: ''
+        itemType: conferencePaper
+        key: EMM2MB3V
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        place: Krakow
+        proceedingsTitle: European Conference on Artificial Intelligence
+        publisher: ''
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags:
+        -   tag: Explainability
+        -   tag: Feature extraction
+        title: 'A Local Non-additive Framework for Explaining
+
+            Black-box Predictive Models'
+        url: ''
+        version: 481
+        volume: ''
+    key: EMM2MB3V
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/EMM2MB3V
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/EMM2MB3V
+            type: application/json
+    meta:
+        createdByUser:
+            id: 12058277
+            links:
+                alternate:
+                    href: https://www.zotero.org/majidmohammadi
+                    type: text/html
+            name: ''
+            username: majidmohammadi
+        creatorSummary: Mohammadi et al.
+        numChildren: 0
+        parsedDate: '2023'
+    version: 481
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Mojtaba
+            lastName: Nayyeri
+        -   creatorType: author
+            firstName: Bo
+            lastName: Xiong
+        -   creatorType: author
+            firstName: Majid
+            lastName: Mohammadi
+        -   creatorType: author
+            firstName: Mahfuja
+            lastName: Akter
+        -   creatorType: author
+            firstName: Mirza
+            lastName: Mohtasham Alam
+        -   creatorType: author
+            firstName: Jens
+            lastName: Lehmann
+        -   creatorType: author
+            firstName: Steffen
+            lastName: Staab
+        date: '2023'
+        dateAdded: '2023-07-19T13:51:50Z'
+        dateModified: '2023-07-19T13:58:28Z'
+        extra: ''
+        itemType: conferencePaper
+        key: VMC64744
+        language: English
+        libraryCatalog: ''
+        pages: 7165-7179
+        place: ''
+        proceedingsTitle: 'Association for Computational Linguistics: ACL 2023'
+        publisher: ACL
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags:
+        -   tag: Knowledge graphs
+        -   tag: embeddings
+        title: 'Knowledge Graph Embeddings using Neural Ito Process: From Multiple
+            Walks to Stochastic Trajectories'
+        url: https://aclanthology.org/2023.findings-acl.448/
+        version: 483
+        volume: ''
+    key: VMC64744
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/VMC64744
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/VMC64744
+            type: application/json
+    meta:
+        createdByUser:
+            id: 12058277
+            links:
+                alternate:
+                    href: https://www.zotero.org/majidmohammadi
+                    type: text/html
+            name: ''
+            username: majidmohammadi
+        creatorSummary: Nayyeri et al.
+        numChildren: 0
+        parsedDate: '2023'
+    version: 483
+-   data:
         DOI: 10.1145/3586163
         ISSN: 0360-0300
         abstractNote: In line with the general trend in artificial intelligence research
