@@ -311,7 +311,19 @@
     linkedin: https://www.linkedin.com/in/francesco-manigrasso-4b3424134/
     image: /images/people/francesco.jpg
     role: guest   
-    
+
+-   name: Fabian Hoppe
+    orderby: Hoppe
+    keywords:
+        - neuro-symbolic AI
+        - language modelling
+        - knowledge graphs
+    image: /images/people/Fabian.jpg
+    role: phd
+    title: PhD student
+    github: https://github.com/Fab-Hop
+    scholar: https://scholar.google.com/citations?user=8N_u7TcAAAAJ
+    mastodon: https://mathstodon.xyz/@fab
 
 # Alumni
 
