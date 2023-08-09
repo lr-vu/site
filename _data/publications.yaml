@@ -1,4 +1,264 @@
 -   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Daniel
+            lastName: Daza
+        -   creatorType: author
+            firstName: Michael
+            lastName: Cochez
+        -   creatorType: author
+            firstName: Paul
+            lastName: Groth
+        date: '2022'
+        dateAdded: '2023-03-24T12:41:58Z'
+        dateModified: '2023-08-09T09:31:43Z'
+        extra: ''
+        itemType: conferencePaper
+        key: VFDUQBIN
+        language: ''
+        libraryCatalog: ''
+        pages: 32–39
+        place: ''
+        proceedingsTitle: Proceedings of the ACL 2022 Workshop on Structured Prediction
+            for NLP
+        publisher: ''
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: 'SlotGAN: Detecting Mentions in Text via Adversarial Distant Learning'
+        url: https://aclanthology.org/2022.spnlp-1.4/
+        version: 526
+        volume: ''
+    key: VFDUQBIN
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/VFDUQBIN
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/VFDUQBIN
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: Daza et al.
+        lastModifiedByUser:
+            id: 10460453
+            links:
+                alternate:
+                    href: https://www.zotero.org/dfdazac
+                    type: text/html
+            name: ''
+            username: dfdazac
+        numChildren: 0
+        parsedDate: '2022'
+    version: 526
+-   data:
+        DOI: ''
+        ISBN: 978-1-4503-8312-7
+        abstractNote: Knowledge Graphs (KG) are of vital importance for multiple applications
+            on the web, including information retrieval, recommender systems, and
+            metadata annotation. Regardless of whether they are built manually by
+            domain experts or with automatic pipelines, KGs are often incomplete.
+            To address this problem, there is a large amount of work that proposes
+            using machine learning to complete these graphs by predicting new links.
+            Recent work has begun to explore the use of textual descriptions available
+            in knowledge graphs to learn vector representations of entities in order
+            to preform link prediction. However, the extent to which these representations
+            learned for link prediction generalize to other tasks is unclear. This
+            is important given the cost of learning such representations. Ideally,
+            we would prefer representations that do not need to be trained again when
+            transferring to a different task, while retaining reasonable performance.
+            Therefore, in this work, we propose a holistic evaluation protocol for
+            entity representations learned via a link prediction objective. We consider
+            the inductive link prediction and entity classification tasks, which involve
+            entities not seen during training. We also consider an information retrieval
+            task for entity-oriented search. We evaluate an architecture based on
+            a pretrained language model, that exhibits strong generalization to entities
+            not observed during training, and outperforms related state-of-the-art
+            methods (22% MRR improvement in link prediction on average). We further
+            provide evidence that the learned representations transfer well to other
+            tasks without fine-tuning. In the entity classification task we obtain
+            an average improvement of 16% in accuracy compared with baselines that
+            also employ pre-trained models. In the information retrieval task, we
+            obtain significant improvements of up to 8.8% in NDCG@10 for natural language
+            queries. We thus show that the learned representations are not limited
+            KG-specific tasks, and have greater generalization properties than evaluated
+            in previous work.
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Daniel
+            lastName: Daza
+        -   creatorType: author
+            firstName: Michael
+            lastName: Cochez
+        -   creatorType: author
+            firstName: Paul
+            lastName: Groth
+        date: '2021'
+        dateAdded: '2023-03-24T12:41:57Z'
+        dateModified: '2023-08-09T09:31:06Z'
+        extra: ''
+        itemType: conferencePaper
+        key: R9UH4NJH
+        language: ''
+        libraryCatalog: ''
+        pages: 798–808
+        place: New York, NY, USA
+        proceedingsTitle: Proceedings of the Web Conference 2021
+        publisher: Association for Computing Machinery
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: Inductive Entity Representations from Text via Link Prediction
+        url: https://arxiv.org/abs/2010.03496
+        version: 525
+        volume: ''
+    key: R9UH4NJH
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/R9UH4NJH
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/R9UH4NJH
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: Daza et al.
+        lastModifiedByUser:
+            id: 10460453
+            links:
+                alternate:
+                    href: https://www.zotero.org/dfdazac
+                    type: text/html
+            name: ''
+            username: dfdazac
+        numChildren: 0
+        parsedDate: '2021'
+    version: 525
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ICML 2020 Workshop on Graph Representation Learning
+        creators:
+        -   creatorType: author
+            firstName: Daniel
+            lastName: Daza
+        -   creatorType: author
+            firstName: Michael
+            lastName: Cochez
+        date: '2020'
+        dateAdded: '2023-03-24T12:41:57Z'
+        dateModified: '2023-08-09T09:29:46Z'
+        extra: '_eprint: 2002.02406'
+        itemType: conferencePaper
+        key: C767BSUV
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        place: ''
+        proceedingsTitle: ''
+        publisher: ''
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: Message Passing Query Embedding
+        url: https://arxiv.org/abs/2002.02406
+        version: 522
+        volume: ''
+    key: C767BSUV
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/C767BSUV
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/C767BSUV
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: Daza and Cochez
+        lastModifiedByUser:
+            id: 10460453
+            links:
+                alternate:
+                    href: https://www.zotero.org/dfdazac
+                    type: text/html
+            name: ''
+            username: dfdazac
+        numChildren: 0
+        parsedDate: '2020'
+    version: 522
+-   data:
         DOI: 10.1016/j.neucom.2023.01.021
         ISSN: 0925-2312
         abstractNote: ℓ1 regularization has been used for logistic regression to circumvent
@@ -6275,77 +6535,6 @@
     version: 157
 -   data:
         DOI: ''
-        ISBN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        conferenceName: ''
-        creators:
-        -   creatorType: author
-            firstName: Daniel
-            lastName: Daza
-        -   creatorType: author
-            firstName: Michael
-            lastName: Cochez
-        -   creatorType: author
-            firstName: Paul
-            lastName: Groth
-        date: '2022'
-        dateAdded: '2023-03-24T12:41:58Z'
-        dateModified: '2023-03-24T12:41:58Z'
-        extra: ''
-        itemType: conferencePaper
-        key: VFDUQBIN
-        language: ''
-        libraryCatalog: ''
-        pages: 32–39
-        place: ''
-        proceedingsTitle: Proceedings of the Sixth Workshop on Structured Prediction
-            for NLP
-        publisher: ''
-        relations: {}
-        rights: ''
-        series: ''
-        shortTitle: ''
-        tags: []
-        title: 'SlotGAN: Detecting Mentions in Text via Adversarial Distant Learning'
-        url: ''
-        version: 156
-        volume: ''
-    key: VFDUQBIN
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/VFDUQBIN
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/VFDUQBIN
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Daza et al.
-        numChildren: 0
-        parsedDate: '2022'
-    version: 156
--   data:
-        DOI: ''
         ISSN: ''
         abstractNote: ''
         accessDate: ''
@@ -6685,165 +6874,6 @@
         creatorSummary: van Bakel et al.
         numChildren: 0
         parsedDate: '2021'
-    version: 155
--   data:
-        ISBN: 978-1-4503-8312-7
-        abstractNote: Knowledge Graphs (KG) are of vital importance for multiple applications
-            on the web, including information retrieval, recommender systems, and
-            metadata annotation. Regardless of whether they are built manually by
-            domain experts or with automatic pipelines, KGs are often incomplete.
-            To address this problem, there is a large amount of work that proposes
-            using machine learning to complete these graphs by predicting new links.
-            Recent work has begun to explore the use of textual descriptions available
-            in knowledge graphs to learn vector representations of entities in order
-            to preform link prediction. However, the extent to which these representations
-            learned for link prediction generalize to other tasks is unclear. This
-            is important given the cost of learning such representations. Ideally,
-            we would prefer representations that do not need to be trained again when
-            transferring to a different task, while retaining reasonable performance.
-            Therefore, in this work, we propose a holistic evaluation protocol for
-            entity representations learned via a link prediction objective. We consider
-            the inductive link prediction and entity classification tasks, which involve
-            entities not seen during training. We also consider an information retrieval
-            task for entity-oriented search. We evaluate an architecture based on
-            a pretrained language model, that exhibits strong generalization to entities
-            not observed during training, and outperforms related state-of-the-art
-            methods (22% MRR improvement in link prediction on average). We further
-            provide evidence that the learned representations transfer well to other
-            tasks without fine-tuning. In the entity classification task we obtain
-            an average improvement of 16% in accuracy compared with baselines that
-            also employ pre-trained models. In the information retrieval task, we
-            obtain significant improvements of up to 8.8% in NDCG@10 for natural language
-            queries. We thus show that the learned representations are not limited
-            KG-specific tasks, and have greater generalization properties than evaluated
-            in previous work.
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        bookTitle: Proceedings of the Web Conference 2021
-        callNumber: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Daniel
-            lastName: Daza
-        -   creatorType: author
-            firstName: Michael
-            lastName: Cochez
-        -   creatorType: author
-            firstName: Paul
-            lastName: Groth
-        date: '2021'
-        dateAdded: '2023-03-24T12:41:57Z'
-        dateModified: '2023-03-24T12:41:57Z'
-        edition: ''
-        extra: ''
-        itemType: bookSection
-        key: R9UH4NJH
-        language: ''
-        libraryCatalog: ''
-        numberOfVolumes: ''
-        pages: 798–808
-        place: New York, NY, USA
-        publisher: Association for Computing Machinery
-        relations: {}
-        rights: ''
-        series: ''
-        seriesNumber: ''
-        shortTitle: ''
-        tags: []
-        title: Inductive Entity Representations from Text via Link Prediction
-        url: https://arxiv.org/abs/2010.03496
-        version: 155
-        volume: ''
-    key: R9UH4NJH
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/R9UH4NJH
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/R9UH4NJH
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Daza et al.
-        numChildren: 0
-        parsedDate: '2021'
-    version: 155
--   data:
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Daniel
-            lastName: Daza
-        -   creatorType: author
-            firstName: Michael
-            lastName: Cochez
-        date: '2020'
-        dateAdded: '2023-03-24T12:41:57Z'
-        dateModified: '2023-03-24T12:41:57Z'
-        extra: '_eprint: 2002.02406'
-        itemType: document
-        key: C767BSUV
-        language: ''
-        libraryCatalog: ''
-        publisher: ''
-        relations: {}
-        rights: ''
-        shortTitle: ''
-        tags: []
-        title: Message Passing Query Embedding. Presented at Presented at the GRL+
-            ICML workshop https://grlplus.github.io/
-        url: https://arxiv.org/abs/2002.02406
-        version: 155
-    key: C767BSUV
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/C767BSUV
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/C767BSUV
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Daza and Cochez
-        numChildren: 0
-        parsedDate: '2020'
     version: 155
 -   data:
         DOI: ''
