@@ -325,6 +325,19 @@
     scholar: https://scholar.google.com/citations?user=8N_u7TcAAAAJ
     mastodon: https://mathstodon.xyz/@fab
 
+-   name: Floris den Hengst
+    orderby: Hengst
+    keywords:
+        - reinforcement learning
+        - goal specification
+        - alignment
+    image: /images/people/floris.jpg
+    role: postdoc
+    title: researcher
+    github: https://github.com/florisdenhengst/
+    scholar: https://scholar.google.nl/citations?user=8I8iSHkAAAAJ
+    website: https://florisdh.nl/
+
 # Alumni
 
 -   name: Albert Merono
