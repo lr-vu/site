@@ -21,13 +21,16 @@ dark: true
     {% endcomment %}
 
     <dl>
-
+        <dt>September 1, 2023</dt>
+            <dd>We are pleased to have <a href="https://florisdh.nl/">Floris</a> in our team.</dd>
+        <dt>September 1, 2023</dt>
+            <dd>We are pleased to have <a href="https://scholar.google.com/citations?user=8N_u7TcAAAAJ">Fabian</a> in our team.</dd>
         <dt>June 15, 2023</dt>
             <dd>We are happy to welcome <a href="https://www.polito.it/en/staff?p=francesco.manigrasso">Francesco Manigrasso</a> to the group for a 3 month visit. We will use his time with us to work on using Real Logic and Logic Tensor Networks to probe large language models for logical knowledge and inference.</dd>
     <dt>June 15, 2023</dt>
     <dd>
     Michael was teaching and acted as a tutor at the <a href="https://datathon2023.jezik.hr/">5th Summer Datathon on Linguistic Linked Open Data</a>.
-    <dd>
+    </dd>
         <dt>May 4, 2023</dt>
             <dd>Thiviyan and Emile are hosting a NeSy-GeMs (Neurosymbolic Generative Models) workshop at ICLR 2023. Take a look at <a href="https://nesygems.github.io/">the website.</a></dd>
         
