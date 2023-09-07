@@ -22,7 +22,7 @@ dark: true
 
     <dl>
         <dt>September 1, 2023</dt>
-            <dd>We are pleased to have <a href="https://florisdh.nl/">Floris</a> in our team.</dd>
+            <dd>We are pleased to have <a href="https://florisdh.nl/">Floris</a> in our team. Floris will be working on an RL-based assistant for patient-centric decision making within the <a href="https://www.hybrid-intelligence-centre.nl/">Hybrid Intelligence centre</a>.</dd>
         <dt>September 1, 2023</dt>
             <dd>We are pleased to have <a href="https://scholar.google.com/citations?user=8N_u7TcAAAAJ">Fabian</a> in our team.</dd>
         <dt>June 15, 2023</dt>
