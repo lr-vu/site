@@ -21,7 +21,9 @@ dark: true
     {% endcomment %}
 
     <dl>
-        <dt>September 1, 2023</dt>
+        <dt>September 13, 2023</dt>
+            <dd>Michael Cochez gave a keynote talk at the <a href="http://dl4ld2023.mruni.eu/">3rd Workshop DL4LD: Addressing Deep Learning, Relation Extraction, and Linguistic Data</a> </dd>
+            <dt>September 1, 2023</dt>
             <dd>We are pleased to have <a href="https://florisdh.nl/">Floris</a> in our team. Floris will be working on an RL-based assistant for patient-centric decision making within the <a href="https://www.hybrid-intelligence-centre.nl/">Hybrid Intelligence centre</a>.</dd>
         <dt>September 1, 2023</dt>
             <dd>We are pleased to have <a href="https://scholar.google.com/citations?user=8N_u7TcAAAAJ">Fabian</a> in our team.</dd>
