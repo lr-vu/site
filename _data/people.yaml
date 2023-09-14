@@ -75,12 +75,6 @@
   role: phd
   title: PhD student
   image: /images/people/taraneh.png
-
--   name: Al Idrizou
-    orderby: Idrizou
-    website: https://www.illc.uva.nl/People/person/4927/Al-Idrissou/
-    image: /images/people/Al.png
-    role: postdoc
     
 -   name: Andreas Sauter
     orderby: Sauter
@@ -324,6 +318,12 @@
     website: https://florisdh.nl/
 
 # Alumni
+-   name: Al Idrissou
+    orderby: Idrissou
+    website: https://www.illc.uva.nl/People/person/4927/Al-Idrissou/
+    image: /images/people/Al.png
+    role: postdoc
+    bio: 
 
 -   name: Jan Christoph Kalo
     website: https://research.vu.nl/en/persons/jan-christoph-kalo
