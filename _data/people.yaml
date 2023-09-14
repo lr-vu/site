@@ -62,21 +62,6 @@
   image: /images/people/peter.jpg
   mail: p.bloem@vu.nl
 
-- name: Jan Christoph Kalo
-  orderby: Kalo
-  keywords:
-   - machine learning
-   - information theory
-   - MDL
-   - Kolmogorov complexity
-  website: https://research.vu.nl/en/persons/jan-christoph-kalo
-  twitter: JanCKalo
-  github: janckalo
-  scholar: zVntAfQAAAAJ
-  role: postdoc
-  title: researcher
-  image: /images/people/jc.png
-
 - name: Taraneh Younesian
   orderby: Younesian
   keywords:
@@ -340,6 +325,10 @@
 
 # Alumni
 
+-   name: Jan Christoph Kalo
+    website: https://research.vu.nl/en/persons/jan-christoph-kalo
+    bio: now assist. prof at [INDElab](https://indelab.org/)
+    role: alumnus
 -   name: Albert Merono
     website: https://www.albertmeronyo.org/
     bio: now assist. prof. at Kings College London
