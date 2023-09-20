@@ -62,6 +62,22 @@
   image: /images/people/peter.jpg
   mail: p.bloem@vu.nl
 
+- name: Filip Ilievski
+  orderby: Ilievski
+  keywords:
+    - commonsense reasoning
+    - adaptive AI
+    - explainable AI 
+    - knowledge graphs
+    - AI for social good
+  role: staff
+  title: assistant professor
+  website: http://www.ilievski.info
+  scholar: https://scholar.google.com/citations?user=4ZScBc0AAAAJ
+  linkedin: https://www.linkedin.com/in/filipilievski91
+  image: /images/people/Filip.png
+  mail: f.ilievski@vu.nl
+
 - name: Taraneh Younesian
   orderby: Younesian
   keywords:
