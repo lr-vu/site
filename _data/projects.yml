@@ -1,22 +1,25 @@
 current_projects:
--   name: CLARIAH
-    website: http://www.clariah.nl/
-    image: /images/projects/Clariah-300x83.png
--   name: Discovery Lab
-    website: https://www.discoverylab.ai/
-    image: /images/projects/discobery_lab.png
--   name: HumaneA
-    website: https://www.humane-ai.eu/
-    image: /images/projects/humane_ai.svg
 -   name: Hybrid Intelligence
     website: https://www.hybrid-intelligence-centre.nl/
     image: /images/projects/hybrid_intelligence.jpg
+-   name: Discovery Lab
+    website: https://www.discoverylab.ai/
+    image: /images/projects/discobery_lab.png
 -   name: LEAPfROG
     website: https://www.pharmacoinformaticslab.nl/leapfrog/
     image: /images/projects/leapfrog.png
 -   name: MUHAI
     website: https://muhai.univiu.org/
     image: /images/projects/muhai.png
+-   name: GraphMassivizer
+    website: https://graph-massivizer.eu/
+    image: /images/projects/Graph-Massivizer.png
+-   name: CLARIAH
+    website: http://www.clariah.nl/
+    image: /images/projects/Clariah-300x83.png
+-   name: HumaneA
+    website: https://www.humane-ai.eu/
+    image: /images/projects/humane_ai.svg
 -   name: The DReAMS Lab
     website: https://krr.cs.vu.nl/dreams-lab/
     image: /images/projects/huawei.svg.png
