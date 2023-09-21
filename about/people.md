@@ -50,7 +50,7 @@ or they won't show up.
                 {% if person.mastodon %}
                     <li><a href="{{person.mastodon}}">mastodon</a></li>{% endif %}
                 {% if person.linkedin %}
-                    <li><a href="{{person.mastodon}}">linkedin</a></li>{% endif %}
+                    <li><a href="{{person.linkedin}}">linkedin</a></li>{% endif %}
                 {% if person.github %}
                     <li><a href="{{person.github}}">github</a></li>{% endif %}
 
