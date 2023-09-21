@@ -331,6 +331,15 @@
     scholar: https://scholar.google.nl/citations?user=8I8iSHkAAAAJ
     website: https://florisdh.nl/
 
+-   name: Chaohui Guo
+  	orderby: Guo
+    keywords:
+        - Chatbots
+  	image: /images/people/ChaohuiGuo.jpg
+  	role: phd
+  	title: PhD student
+
+
 # Alumni
 -   name: Al Idrissou
     orderby: Idrissou
