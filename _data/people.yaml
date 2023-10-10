@@ -79,17 +79,16 @@
 - name: Syed Ihtesham Shah
   orderby: Shah
   website: https://research.vu.nl/en/persons/syed-shah/
-  role: Postdoc
-  title: Postdoc
+  role: postdoc
+  title: postdoc
   image: /images/people/Ihtesham.png
   keywords:
     - Inverse Reinforcement Learning
     - Reinforcement Learning
-    - Explainability and Trustworthy Machine Learning Models
+    - Explainable and Trustworthy ML Models
   scholar: https://scholar.google.com/citations?user=5CUEp38AAAAJ
-  researchgate: https://www.researchgate.net/profile/Syed-Ihtesham-Hussain-Shah
   github: https://github.com/IhteshamShah
-  linkedin: https://www.linkedin.com/in/ihtesham-shah-b0758765/
+
 
 - name: Taraneh Younesian
   orderby: Younesian
