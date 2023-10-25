@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap" rel="stylesheet">
+
+    {% comment %} This shouldn't be necessary
+    <style> @import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap'); </style>
+    {% endcomment %}
+
+    <link rel="stylesheet" href="/screen.lnr.css">
+    <link rel="icon" href="/images/logo/favicon.png" />
+
+    <title>L&R | {{page.title}}</title>
+
+    {% if jekyll.environment == "production" %}
+    <!-- Analytics   -->
+    <script data-goatcounter="https://lrvu.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+  
+    {% else if %}
+    <!-- For design purposes, only load locally -->
+	<script src="/baseliner/baseliner.js"></script>
+	<script>
+      window.onload = function() {
+          baseliner = new Baseliner({'gridHeight': 27});
+      }
+	</script>
+    {% endif %}
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+    <meta name="twitter:site"    content="@pbloemesquire">
+    <meta name="twitter:title"   content="{{site.title}}">
+    <meta name="twitter:description" content="{{site.description}}">
+    <meta name="twitter:card"  content="summary">
+    <meta name="twitter:image" content="https://www.vu.nl/nl/Images/VUlogo_NL_530px_tcm289-201740.png">
+
+    {% if page.js%}
+    <script src="/script.lnr.js"></script>
+    {% endif %}
+
+  </head>
+  <body id="body" class="body {{page.class}}">
+    <header class="{% if page.dark %}dark{% else %}light{% endif %}">
+
+        {% assign cur = page.url | split:'/' %}
+        <!-- <ul class="menu">
+            <li class="home"><a href="/">Learning <span>and</span>&nbsp;Reasoning</a></li>
+            <li class="{% if cur[1] == 'about' %}current{% endif %}"><a href="/about">about us</a></li>
+            <li class="{% if cur[1] == 'research' %}current{% endif %}"><a href="/research">research</a></li>
+            <li class="{% if cur[1] == 'contact' %}current{% endif %}"><a href="/contact">contact</a></li>
+        </ul> -->
+
+        {% if page.highlight == 0%}
+          <div class=>
+              <h2>The next big question in AI.</h2>
+              <p>How do we build models that learn <em>and</em> reason? Read about our
+              mission statement and our research themes. <a href="/about">more</a>
+              </p>
+          </div>
+        {% endif %}
+
+    </header>
+
+        {% comment %}
+            Load the submenu, based on the start of the page URL. The submenu content can be found under /_includes/
+        {% endcomment %}
+
+        {% assign tokens = page.url | split:'/' %}
+        {% if tokens.size > 1 %}
+            {% if tokens[1] == 'about'%}
+                {% include _about.md %}
+            {% elsif tokens[1] == 'research' %}
+                {% include _research.md %}
+            {% elsif tokens[1] == 'contact' %}
+                {% include _contact.md %}
+            {% endif %}
+        {% endif %}
+
+
+    {% if page.article %}
+    <article>
+      {{content}}
+    </article>
+    {% else %}
+    <main>
+      {{content}}
+    </main>
+    {% endif %}
+
+  </body>
+</html>

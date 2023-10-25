@@ -1,3 +1,6 @@
+---
+layout: no_menu
+---
 # Special Issue of Artificial Intelligence in Medicine on Large language Models for Medicine
 
 ## 1. AIMS AND SCOPE
