@@ -22,6 +22,12 @@ dark: true
 
     <dl>
         <dt>September 13, 2023</dt>
+            <dd>Daniel Daza and Michael Cochez gave a tutorial at the <a href="https://uobevents.eventsair.com/cikm2023/">CIKM 2023</a> conference on 
+            Reasoning beyond Triples: Recent Advances in Knowledge Graph Embeddings
+            https://kg-beyond-triple.github.io/
+            </dd>
+
+        <dt>September 13, 2023</dt>
             <dd>Michael Cochez gave a keynote talk at the <a href="http://dl4ld2023.mruni.eu/">3rd Workshop DL4LD: Addressing Deep Learning, Relation Extraction, and Linguistic Data</a> </dd>
             <dt>September 1, 2023</dt>
             <dd>We are pleased to have <a href="https://florisdh.nl/">Floris</a> in our team. Floris will be working on an RL-based assistant for patient-centric decision making within the <a href="https://www.hybrid-intelligence-centre.nl/">Hybrid Intelligence centre</a>.</dd>
