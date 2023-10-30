@@ -21,7 +21,7 @@ dark: true
     {% endcomment %}
 
     <dl>
-        <dt>September 13, 2023</dt>
+        <dt>October 23, 2023</dt>
             <dd>Daniel Daza and Michael Cochez gave a tutorial at the <a href="https://uobevents.eventsair.com/cikm2023/">CIKM 2023</a> conference on 
             Reasoning beyond Triples: Recent Advances in Knowledge Graph Embeddings
             <a href="https://kg-beyond-triple.github.io/">https://kg-beyond-triple.github.io/</a>
