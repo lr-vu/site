@@ -1,4 +1,1338 @@
 -   data:
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Tiansi
+            lastName: Dong
+        -   creatorType: author
+            firstName: Achim
+            lastName: Rettinger
+        -   creatorType: author
+            firstName: Jie
+            lastName: Tang
+        -   creatorType: author
+            firstName: Barbara
+            lastName: Tversky
+        -   creatorType: author
+            firstName: Frank van
+            lastName: Harmelen
+        date: '2021'
+        dateAdded: '2023-11-30T09:43:05Z'
+        dateModified: '2023-11-30T09:43:13Z'
+        extra: ''
+        institution: ''
+        itemType: report
+        key: KZRVUHNJ
+        language: ''
+        libraryCatalog: ''
+        pages: 11–34
+        place: ''
+        relations: {}
+        reportNumber: ''
+        reportType: ''
+        rights: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: Structure and Learning (Dagstuhl Seminar 21362)
+        url: https://doi.org/10.4230/DagRep.11.8.11
+        version: 550
+    key: KZRVUHNJ
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/KZRVUHNJ
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/KZRVUHNJ
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Dong et al.
+        numChildren: 0
+        parsedDate: '2021'
+    version: 550
+-   data:
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: editor
+            firstName: Andreas
+            lastName: Martin
+        -   creatorType: editor
+            firstName: Knut
+            lastName: Hinkelmann
+        -   creatorType: editor
+            firstName: Hans-Georg
+            lastName: Fill
+        -   creatorType: editor
+            firstName: Aurona
+            lastName: Gerber
+        -   creatorType: editor
+            firstName: Doug
+            lastName: Lenat
+        -   creatorType: editor
+            firstName: Reinhard
+            lastName: Stolle
+        -   creatorType: editor
+            firstName: Frank van
+            lastName: Harmelen
+        date: '2021'
+        dateAdded: '2023-11-30T09:42:40Z'
+        dateModified: '2023-11-30T09:42:40Z'
+        edition: ''
+        extra: ''
+        itemType: book
+        key: P9I7TW65
+        language: ''
+        libraryCatalog: ''
+        numPages: ''
+        numberOfVolumes: ''
+        place: ''
+        publisher: CEUR-WS.org
+        relations: {}
+        rights: ''
+        series: CEUR Workshop Proceedings
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: Proceedings of the AAAI 2021 Spring Symposium on Combining Machine
+            Learning and Knowledge Engineering (AAAI-MAKE 2021), Stanford University,
+            Palo Alto, California, USA, March 22-24, 2021
+        url: https://ceur-ws.org/Vol-2846
+        version: 548
+        volume: '2846'
+    key: P9I7TW65
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/P9I7TW65
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/P9I7TW65
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Martin et al.
+        numChildren: 0
+        parsedDate: '2021'
+    version: 548
+-   data:
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Wendy E.
+            lastName: Mackay
+        -   creatorType: author
+            firstName: John
+            lastName: Shawe-Taylor
+        -   creatorType: author
+            firstName: Frank van
+            lastName: Harmelen
+        date: '2022'
+        dateAdded: '2023-11-30T09:40:37Z'
+        dateModified: '2023-11-30T09:41:43Z'
+        extra: ''
+        institution: ''
+        itemType: report
+        key: TRQ6LCDI
+        language: ''
+        libraryCatalog: ''
+        pages: 112–117
+        place: ''
+        relations: {}
+        reportNumber: ''
+        reportType: ''
+        rights: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: Human-Centered Artificial Intelligence (Dagstuhl Seminar 22262)
+        url: https://doi.org/10.4230/DagRep.12.6.112
+        version: 547
+    key: TRQ6LCDI
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/TRQ6LCDI
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/TRQ6LCDI
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Mackay et al.
+        numChildren: 0
+        parsedDate: '2022'
+    version: 547
+-   data:
+        DOI: 10.48550/arXiv.2212.12393
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveID: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Emile van
+            lastName: Krieken
+        -   creatorType: author
+            firstName: Thiviyan
+            lastName: Thanapalasingam
+        -   creatorType: author
+            firstName: Jakub M.
+            lastName: Tomczak
+        -   creatorType: author
+            firstName: Frank van
+            lastName: Harmelen
+        -   creatorType: author
+            firstName: Annette ten
+            lastName: Teije
+        date: '2022'
+        dateAdded: '2023-07-18T18:08:31Z'
+        dateModified: '2023-11-30T09:40:13Z'
+        extra: 'arXiv: 2212.12393'
+        genre: ''
+        itemType: preprint
+        key: 2Q4XBFX3
+        language: ''
+        libraryCatalog: ''
+        place: ''
+        relations: {}
+        repository: ''
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: 'A-NeSI: A Scalable Approximate Method for Probabilistic Neurosymbolic
+            Inference'
+        url: https://doi.org/10.48550/arXiv.2212.12393
+        version: 545
+    key: 2Q4XBFX3
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/2Q4XBFX3
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/2Q4XBFX3
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Krieken et al.
+        numChildren: 0
+        parsedDate: '2022'
+    version: 545
+-   data:
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: editor
+            firstName: Andreas
+            lastName: Martin
+        -   creatorType: editor
+            firstName: Knut
+            lastName: Hinkelmann
+        -   creatorType: editor
+            firstName: Hans-Georg
+            lastName: Fill
+        -   creatorType: editor
+            firstName: Aurona
+            lastName: Gerber
+        -   creatorType: editor
+            firstName: Doug
+            lastName: Lenat
+        -   creatorType: editor
+            firstName: Reinhard
+            lastName: Stolle
+        -   creatorType: editor
+            firstName: Frank van
+            lastName: Harmelen
+        date: '2022'
+        dateAdded: '2023-11-30T09:38:56Z'
+        dateModified: '2023-11-30T09:38:56Z'
+        edition: ''
+        extra: ''
+        itemType: book
+        key: CLDXBG7E
+        language: ''
+        libraryCatalog: ''
+        numPages: ''
+        numberOfVolumes: ''
+        place: ''
+        publisher: CEUR-WS.org
+        relations: {}
+        rights: ''
+        series: CEUR Workshop Proceedings
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: Proceedings of the AAAI 2022 Spring Symposium on Machine Learning and
+            Knowledge Engineering for Hybrid Intelligence (AAAI-MAKE 2022), Stanford
+            University, Palo Alto, California, USA, March 21-23, 2022
+        url: https://ceur-ws.org/Vol-3121
+        version: 544
+        volume: '3121'
+    key: CLDXBG7E
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/CLDXBG7E
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/CLDXBG7E
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Martin et al.
+        numChildren: 0
+        parsedDate: '2022'
+    version: 544
+-   data:
+        abstractNote: Reinforcement learning (RL) has recently attracted significant
+            attention with applications such as improving microchip designs, predicting
+            the behaviour of protein structures and beating humanity’s best in the
+            games of go, chess and Starcraft-II. These impressive and inspring successes
+            show how RL can improve our lives, however, they have so far been seen
+            mostly in settings that involve humans to a very limited extend. This
+            thesis looks into the usage of RL in human contexts. First, we provide
+            a systematic literature review of the usage of RL for personalisation,
+            i.e. the adaptation of systems to individuals. Next, we show how RL can
+            be used to personalise a conversational recommender system and find that
+            it outperforms existing approaches, including a gold-standard and task-specific
+            solutions in a simulation-based study. Since simulators may not be available
+            for all conversational systems that could benefit from personalisation,
+            we next look into the collection of user satisfaction ratings for dialogue
+            data. We consolidate best practices in a UI for user satisfaction annotation
+            and show that high-quality ratings can be obtained. Next, we look into
+            the usage of RL for strategic workforce planning. Here, we find that RL
+            is robust to the uncertainties that are an inherent part of this problem
+            and that RL enables the specification of goals intuitive to domain experts.
+            Having looked into these use-cases, we then turn toward the inclusion
+            of safety constraints in RL. We propose how safety constraints from a
+            medical guideline can be taken into account in an observational study
+            on the optimisation of ventilator settings for ICU patients. Next, we
+            look into safety constraints that contain a temporal component, we find
+            that these may make the learning problem infeasible and propose a solution
+            based on reward shaping to address this issue. Finally, we propose how
+            RL can benefit from instructions that break a full task into smaller pieces
+            based on the option framework and propose an approach for learning reusable
+            behaviours from instructions to greatly reduce data requirements.
+        accessDate: '2023-11-30T09:38:11Z'
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Floris
+            lastName: Den Hengst
+        date: '2023-10-19'
+        dateAdded: '2023-11-30T09:38:12Z'
+        dateModified: '2023-11-30T09:38:12Z'
+        extra: 'DOI: 10.5463/thesis.390'
+        itemType: thesis
+        key: 65M89DVE
+        language: en
+        libraryCatalog: DOI.org (Crossref)
+        numPages: ''
+        place: ''
+        relations: {}
+        rights: ''
+        shortTitle: Learning to Behave
+        tags: []
+        thesisType: PhD
+        title: 'Learning to Behave: Reinforcement Learning in Human Contexts'
+        university: Vrije Universiteit Amsterdam
+        url: https://hdl.handle.net/1871.1/0f1e1ca1-08e9-4970-8094-be02a85180e5
+        version: 543
+    key: 65M89DVE
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/65M89DVE
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/65M89DVE
+            type: application/json
+    meta:
+        createdByUser:
+            id: 12590531
+            links:
+                alternate:
+                    href: https://www.zotero.org/florisdenhengst
+                    type: text/html
+            name: ''
+            username: florisdenhengst
+        creatorSummary: Den Hengst
+        numChildren: 0
+        parsedDate: '2023-10-19'
+    version: 543
+-   data:
+        DOI: 10.24963/IJCAI.2022/403
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Floris den
+            lastName: Hengst
+        -   creatorType: author
+            firstName: Vincent
+            lastName: François-Lavet
+        -   creatorType: author
+            firstName: Mark
+            lastName: Hoogendoorn
+        -   creatorType: author
+            firstName: Frank van
+            lastName: Harmelen
+        -   creatorType: editor
+            firstName: Luc De
+            lastName: Raedt
+        date: '2022'
+        dateAdded: '2023-11-30T09:38:03Z'
+        dateModified: '2023-11-30T09:38:03Z'
+        extra: ''
+        itemType: conferencePaper
+        key: D9HLNTHN
+        language: ''
+        libraryCatalog: ''
+        pages: 2909–2915
+        place: ''
+        proceedingsTitle: Proceedings of the Thirty-First International Joint Conference
+            on Artificial Intelligence, IJCAI 2022, Vienna, Austria, 23-29 July 2022
+        publisher: ijcai.org
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: Reinforcement Learning with Option Machines
+        url: https://doi.org/10.24963/ijcai.2022/403
+        version: 542
+        volume: ''
+    key: D9HLNTHN
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/D9HLNTHN
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/D9HLNTHN
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Hengst et al.
+        numChildren: 0
+        parsedDate: '2022'
+    version: 542
+-   data:
+        DOI: 10.1097/CCM.0000000000006100
+        ISSN: 0090-3493
+        abstractNote: "Objective: \n              Reinforcement learning (RL) is a\
+            \ machine learning technique uniquely effective at sequential decision-making,\
+            \ which makes it potentially relevant to ICU treatment challenges. We\
+            \ set out to systematically review, assess level-of-readiness and meta-analyze\
+            \ the effect of RL on outcomes for critically ill patients. \n       \
+            \      \n             \n              Data Sources: \n              A\
+            \ systematic search was performed in PubMed, Embase.com, Clarivate Analytics/Web\
+            \ of Science Core Collection, Elsevier/SCOPUS and the Institute of Electrical\
+            \ and Electronics Engineers Xplore Digital Library from inception to March\
+            \ 25, 2022, with subsequent citation tracking. \n             \n     \
+            \        \n              Data Extraction: \n              Journal articles\
+            \ that used an RL technique in an ICU population and reported on patient\
+            \ health-related outcomes were included for full analysis. Conference\
+            \ papers were included for level-of-readiness assessment only. Descriptive\
+            \ statistics, characteristics of the models, outcome compared with clinician’s\
+            \ policy and level-of-readiness were collected. RL-health risk of bias\
+            \ and applicability assessment was performed. \n             \n      \
+            \       \n              Data Synthesis: \n              A total of 1,033\
+            \ articles were screened, of which 18 journal articles and 18 conference\
+            \ papers, were included. Thirty of those were prototyping or modeling\
+            \ articles and six were validation articles. All articles reported RL\
+            \ algorithms to outperform clinical decision-making by ICU professionals,\
+            \ but only in retrospective data. The modeling techniques for the state-space,\
+            \ action-space, reward function, RL model training, and evaluation varied\
+            \ widely. The risk of bias was high in all articles, mainly due to the\
+            \ evaluation procedure. \n             \n             \n             \
+            \ Conclusion: \n              In this first systematic review on the application\
+            \ of RL in intensive care medicine we found no studies that demonstrated\
+            \ improved patient outcomes from RL-based technologies. All studies reported\
+            \ that RL-agent policies outperformed clinician policies, but such assessments\
+            \ were all based on retrospective off-policy evaluation."
+        accessDate: '2023-11-30T09:37:37Z'
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Martijn
+            lastName: Otten
+        -   creatorType: author
+            firstName: Ameet R.
+            lastName: Jagesar
+        -   creatorType: author
+            firstName: Tariq A.
+            lastName: Dam
+        -   creatorType: author
+            firstName: Laurens A.
+            lastName: Biesheuvel
+        -   creatorType: author
+            firstName: Floris
+            lastName: Den Hengst
+        -   creatorType: author
+            firstName: Kirsten A.
+            lastName: Ziesemer
+        -   creatorType: author
+            firstName: Patrick J.
+            lastName: Thoral
+        -   creatorType: author
+            firstName: Harm-Jan
+            lastName: De Grooth
+        -   creatorType: author
+            firstName: Armand R.J.
+            lastName: Girbes
+        -   creatorType: author
+            firstName: Vincent
+            lastName: François-Lavet
+        -   creatorType: author
+            firstName: Mark
+            lastName: Hoogendoorn
+        -   creatorType: author
+            firstName: Paul W.G.
+            lastName: Elbers
+        date: '2023-11-08'
+        dateAdded: '2023-11-30T09:37:37Z'
+        dateModified: '2023-11-30T09:37:37Z'
+        extra: ''
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: J7CGF229
+        language: en
+        libraryCatalog: DOI.org (Crossref)
+        pages: ''
+        publicationTitle: Critical Care Medicine
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: Does Reinforcement Learning Improve Outcomes for Critically Ill
+            Patients?
+        tags: []
+        title: Does Reinforcement Learning Improve Outcomes for Critically Ill Patients?
+            A Systematic Review and Level-of-Readiness Assessment
+        url: https://journals.lww.com/10.1097/CCM.0000000000006100
+        version: 541
+        volume: ''
+    key: J7CGF229
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/J7CGF229
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/J7CGF229
+            type: application/json
+    meta:
+        createdByUser:
+            id: 12590531
+            links:
+                alternate:
+                    href: https://www.zotero.org/florisdenhengst
+                    type: text/html
+            name: ''
+            username: florisdenhengst
+        creatorSummary: Otten et al.
+        numChildren: 0
+        parsedDate: '2023-11-08'
+    version: 541
+-   data:
+        DOI: 10.1007/978-3-031-20627-6_22
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Chengcheng
+            lastName: Fu
+        -   creatorType: author
+            firstName: Zhisheng
+            lastName: Huang
+        -   creatorType: author
+            firstName: Frank van
+            lastName: Harmelen
+        -   creatorType: author
+            firstName: Tingting
+            lastName: He
+        -   creatorType: author
+            firstName: Xingpeng
+            lastName: Jiang
+        -   creatorType: editor
+            firstName: Agma J. M.
+            lastName: Traina
+        -   creatorType: editor
+            firstName: Hua
+            lastName: Wang
+        -   creatorType: editor
+            firstName: Yong
+            lastName: Zhang
+        -   creatorType: editor
+            firstName: Siuly
+            lastName: Siuly
+        -   creatorType: editor
+            firstName: Rui
+            lastName: Zhou
+        -   creatorType: editor
+            firstName: Lu
+            lastName: Chen
+        date: '2022'
+        dateAdded: '2023-11-30T09:37:06Z'
+        dateModified: '2023-11-30T09:37:06Z'
+        extra: ''
+        itemType: conferencePaper
+        key: S3EPAENC
+        language: ''
+        libraryCatalog: ''
+        pages: 231–242
+        place: ''
+        proceedingsTitle: Health Information Science - 11th International Conference,
+            HIS 2022, Virtual Event, October 28-30, 2022, Proceedings
+        publisher: Springer
+        relations: {}
+        rights: ''
+        series: Lecture Notes in Computer Science
+        shortTitle: ''
+        tags: []
+        title: Food Recommendation for Mental Health by Using Knowledge Graph Approach
+        url: https://doi.org/10.1007/978-3-031-20627-6\_22
+        version: 540
+        volume: '13705'
+    key: S3EPAENC
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/S3EPAENC
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/S3EPAENC
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Fu et al.
+        numChildren: 0
+        parsedDate: '2022'
+    version: 540
+-   data:
+        DOI: 10.1007/S10994-022-06143-6
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Floris den
+            lastName: Hengst
+        -   creatorType: author
+            firstName: Vincent
+            lastName: François-Lavet
+        -   creatorType: author
+            firstName: Mark
+            lastName: Hoogendoorn
+        -   creatorType: author
+            firstName: Frank van
+            lastName: Harmelen
+        date: '2022'
+        dateAdded: '2023-11-30T09:36:37Z'
+        dateModified: '2023-11-30T09:36:37Z'
+        extra: ''
+        issue: '6'
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: JV33T2ZU
+        language: ''
+        libraryCatalog: ''
+        pages: 2255–2274
+        publicationTitle: Mach. Learn.
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: 'Planning for potential: efficient safe reinforcement learning'
+        url: https://doi.org/10.1007/s10994-022-06143-6
+        version: 539
+        volume: '111'
+    key: JV33T2ZU
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/JV33T2ZU
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/JV33T2ZU
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Hengst et al.
+        numChildren: 0
+        parsedDate: '2022'
+    version: 539
+-   data:
+        DOI: 10.3233/DS-220056
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Xu
+            lastName: Wang
+        -   creatorType: author
+            firstName: Frank van
+            lastName: Harmelen
+        -   creatorType: author
+            firstName: Zhisheng
+            lastName: Huang
+        date: '2022'
+        dateAdded: '2023-11-30T09:36:13Z'
+        dateModified: '2023-11-30T09:36:13Z'
+        extra: ''
+        issue: '2'
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: QP5V5P2X
+        language: ''
+        libraryCatalog: ''
+        pages: 167–193
+        publicationTitle: Data Sci.
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: Recommending scientific datasets using author networks in ensemble
+            methods
+        url: https://doi.org/10.3233/ds-220056
+        version: 538
+        volume: '5'
+    key: QP5V5P2X
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/QP5V5P2X
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/QP5V5P2X
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Wang et al.
+        numChildren: 0
+        parsedDate: '2022'
+    version: 538
+-   data:
+        DOI: ''
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Mehwish
+            lastName: Alam
+        -   creatorType: author
+            firstName: Frank van
+            lastName: Harmelen
+        -   creatorType: author
+            firstName: Maribel
+            lastName: Acosta
+        date: '2024'
+        dateAdded: '2023-11-30T09:34:48Z'
+        dateModified: '2023-11-30T09:34:48Z'
+        extra: 'Publisher: IOS Press'
+        issue: '1'
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: KYSWKELC
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        publicationTitle: Neurosymbolic AI
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: Towards Semantically Enriched Embeddings for Knowledge Graph Completion
+        url: ''
+        version: 537
+        volume: '1'
+    key: KYSWKELC
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/KYSWKELC
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/KYSWKELC
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Alam et al.
+        numChildren: 0
+        parsedDate: '2024'
+    version: 537
+-   data:
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: editor
+            firstName: Andreas
+            lastName: Martin
+        -   creatorType: editor
+            firstName: Hans-Georg
+            lastName: Fill
+        -   creatorType: editor
+            firstName: Aurona
+            lastName: Gerber
+        -   creatorType: editor
+            firstName: Knut
+            lastName: Hinkelmann
+        -   creatorType: editor
+            firstName: Doug
+            lastName: Lenat
+        -   creatorType: editor
+            firstName: Reinhard
+            lastName: Stolle
+        -   creatorType: editor
+            firstName: Frank van
+            lastName: Harmelen
+        date: '2023'
+        dateAdded: '2023-11-30T09:30:20Z'
+        dateModified: '2023-11-30T09:30:20Z'
+        edition: ''
+        extra: ''
+        itemType: book
+        key: 2T8U352D
+        language: ''
+        libraryCatalog: ''
+        numPages: ''
+        numberOfVolumes: ''
+        place: ''
+        publisher: CEUR-WS.org
+        relations: {}
+        rights: ''
+        series: CEUR Workshop Proceedings
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: Proceedings of the AAAI 2023 Spring Symposium on Challenges Requiring
+            the Combination of Machine Learning and Knowledge Engineering (AAAI-MAKE
+            2023), Hyatt Regency, San Francisco Airport, California, USA, March 27-29,
+            2023
+        url: https://ceur-ws.org/Vol-3433
+        version: 536
+        volume: '3433'
+    key: 2T8U352D
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/2T8U352D
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/2T8U352D
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Martin et al.
+        numChildren: 0
+        parsedDate: '2023'
+    version: 536
+-   data:
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        bookTitle: Compendium of Neurosymbolic Artificial Intelligence
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Laura
+            lastName: Waltersdorfer
+        -   creatorType: author
+            firstName: Anna
+            lastName: Breit
+        -   creatorType: author
+            firstName: Fajar J.
+            lastName: Ekaputra
+        -   creatorType: author
+            firstName: Marta
+            lastName: Sabou
+        -   creatorType: author
+            firstName: Andreas
+            lastName: Ekelhart
+        -   creatorType: author
+            firstName: Andreea
+            lastName: Iana
+        -   creatorType: author
+            firstName: Heiko
+            lastName: Paulheim
+        -   creatorType: author
+            firstName: Jan
+            lastName: Portisch
+        -   creatorType: author
+            firstName: Artem
+            lastName: Revenko
+        -   creatorType: author
+            firstName: Annette ten
+            lastName: Teije
+        -   creatorType: author
+            firstName: Frank van
+            lastName: Harmelen
+        -   creatorType: editor
+            firstName: Pascal
+            lastName: Hitzler
+        -   creatorType: editor
+            firstName: Md Kamruzzaman
+            lastName: Sarker
+        -   creatorType: editor
+            firstName: Aaron
+            lastName: Eberhart
+        date: '2023'
+        dateAdded: '2023-11-30T09:29:20Z'
+        dateModified: '2023-11-30T09:29:20Z'
+        edition: ''
+        extra: 'DOI: 10.3233/FAIA230136'
+        itemType: bookSection
+        key: KL533LNN
+        language: ''
+        libraryCatalog: ''
+        numberOfVolumes: ''
+        pages: 77–99
+        place: ''
+        publisher: IOS Press
+        relations: {}
+        rights: ''
+        series: Frontiers in Artificial Intelligence and Applications
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: 'Semantic Web Machine Learning Systems: An Analysis of System Patterns'
+        url: https://doi.org/10.3233/FAIA230136
+        version: 535
+        volume: '369'
+    key: KL533LNN
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/KL533LNN
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/KL533LNN
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Waltersdorfer et al.
+        numChildren: 0
+        parsedDate: '2023'
+    version: 535
+-   data:
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        bookTitle: Compendium of Neurosymbolic Artificial Intelligence
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Annette ten
+            lastName: Teije
+        -   creatorType: author
+            firstName: Frank van
+            lastName: Harmelen
+        -   creatorType: editor
+            firstName: Pascal
+            lastName: Hitzler
+        -   creatorType: editor
+            firstName: Md Kamruzzaman
+            lastName: Sarker
+        -   creatorType: editor
+            firstName: Aaron
+            lastName: Eberhart
+        date: '2023'
+        dateAdded: '2023-11-30T09:28:03Z'
+        dateModified: '2023-11-30T09:28:03Z'
+        edition: ''
+        extra: 'DOI: 10.3233/FAIA230135'
+        itemType: bookSection
+        key: LYGMGAVM
+        language: ''
+        libraryCatalog: ''
+        numberOfVolumes: ''
+        pages: 64–76
+        place: ''
+        publisher: IOS Press
+        relations: {}
+        rights: ''
+        series: Frontiers in Artificial Intelligence and Applications
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: Architectural Patterns for Neuro-Symbolic AI
+        url: https://doi.org/10.3233/FAIA230135
+        version: 534
+        volume: '369'
+    key: LYGMGAVM
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/LYGMGAVM
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/LYGMGAVM
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Teije and Harmelen
+        numChildren: 0
+        parsedDate: '2023'
+    version: 534
+-   data:
+        DOI: 10.1016/J.ARTMED.2023.102677
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Chengcheng
+            lastName: Fu
+        -   creatorType: author
+            firstName: Zhisheng
+            lastName: Huang
+        -   creatorType: author
+            firstName: Frank van
+            lastName: Harmelen
+        -   creatorType: author
+            firstName: Tingting
+            lastName: He
+        -   creatorType: author
+            firstName: Xingpeng
+            lastName: Jiang
+        date: '2023'
+        dateAdded: '2023-11-30T09:26:28Z'
+        dateModified: '2023-11-30T09:26:28Z'
+        extra: ''
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: X8SSVTP2
+        language: ''
+        libraryCatalog: ''
+        pages: '102677'
+        publicationTitle: Artif. Intell. Medicine
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: 'Food4healthKG: Knowledge graphs for food recommendations based on
+            gut microbiota and mental health'
+        url: https://doi.org/10.1016/j.artmed.2023.102677
+        version: 533
+        volume: '145'
+    key: X8SSVTP2
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/X8SSVTP2
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/X8SSVTP2
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Fu et al.
+        numChildren: 0
+        parsedDate: '2023'
+    version: 533
+-   data:
         DOI: ''
         ISBN: ''
         abstractNote: Uncovering the underlying causal structure of a phenomenon,
@@ -974,84 +2308,6 @@
         creatorSummary: Stork et al.
         numChildren: 0
         parsedDate: '2023'
-    version: 400
--   data:
-        DOI: 10.48550/arXiv.2212.12393
-        ISSN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Emile van
-            lastName: Krieken
-        -   creatorType: author
-            firstName: Thiviyan
-            lastName: Thanapalasingam
-        -   creatorType: author
-            firstName: Jakub M.
-            lastName: Tomczak
-        -   creatorType: author
-            firstName: Frank van
-            lastName: Harmelen
-        -   creatorType: author
-            firstName: Annette ten
-            lastName: Teije
-        date: '2022'
-        dateAdded: '2023-07-18T18:08:31Z'
-        dateModified: '2023-07-18T18:08:31Z'
-        extra: 'arXiv: 2212.12393'
-        issue: ''
-        itemType: journalArticle
-        journalAbbreviation: ''
-        key: 2Q4XBFX3
-        language: ''
-        libraryCatalog: ''
-        pages: ''
-        publicationTitle: CoRR
-        relations: {}
-        rights: ''
-        series: ''
-        seriesText: ''
-        seriesTitle: ''
-        shortTitle: ''
-        tags: []
-        title: 'A-NeSI: A Scalable Approximate Method for Probabilistic Neurosymbolic
-            Inference'
-        url: https://doi.org/10.48550/arXiv.2212.12393
-        version: 400
-        volume: abs/2212.12393
-    key: 2Q4XBFX3
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/2Q4XBFX3
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/2Q4XBFX3
-            type: application/json
-    meta:
-        createdByUser:
-            id: 11114839
-            links:
-                alternate:
-                    href: https://www.zotero.org/frank.van.harmelen
-                    type: text/html
-            name: Frank van Harmelen
-            username: Frank.van.Harmelen
-        creatorSummary: Krieken et al.
-        numChildren: 0
-        parsedDate: '2022'
     version: 400
 -   data:
         DOI: ''
@@ -16497,97 +17753,6 @@
         creatorSummary: Beek et al.
         numChildren: 0
         parsedDate: '2018'
-    version: 136
--   data:
-        DOI: 10.24963/kr.2020/2
-        ISBN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        conferenceName: ''
-        creators:
-        -   creatorType: author
-            firstName: Erman
-            lastName: Acar
-        -   creatorType: author
-            firstName: Rafael
-            lastName: Peñaloza
-        -   creatorType: editor
-            firstName: Diego
-            lastName: Calvanese
-        -   creatorType: editor
-            firstName: Esra
-            lastName: Erdem
-        -   creatorType: editor
-            firstName: Michael
-            lastName: Thielscher
-        -   creatorType: author
-            firstName: Wouter
-            lastName: Beek
-        -   creatorType: author
-            firstName: Joe
-            lastName: Raad
-        -   creatorType: author
-            firstName: Erman
-            lastName: Acar
-        -   creatorType: author
-            firstName: Frank
-            lastName: van Harmelen
-        date: '2020'
-        dateAdded: '2023-03-24T12:41:25Z'
-        dateModified: '2023-03-24T12:41:25Z'
-        extra: 'Journal Abbreviation: Proceedings of the 17th European Semantic Web
-            Conference 2020'
-        itemType: conferencePaper
-        key: 3UE56K5I
-        language: English
-        libraryCatalog: ''
-        pages: 12–21
-        place: ''
-        proceedingsTitle: Proceedings of the 17th International Conference on Principles
-            of Knowledge Representation and Reasoning, KR 2020, Rhodes, Greece, September
-            12-18, 2020
-        publisher: ''
-        relations: {}
-        rights: ''
-        series: ''
-        shortTitle: ''
-        tags: []
-        title: 'MetaLink: A Travel Guide to the LOD Cloud'
-        url: https://doi.org/10.24963/kr.2020/2
-        version: 136
-        volume: ''
-    key: 3UE56K5I
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/3UE56K5I
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/3UE56K5I
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Acar et al.
-        numChildren: 0
-        parsedDate: '2020'
     version: 136
 -   data:
         DOI: 10.24963/kr.2020/37
