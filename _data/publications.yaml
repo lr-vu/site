@@ -7,6 +7,772 @@
         archiveLocation: ''
         callNumber: ''
         collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Jiarui
+            lastName: Zhang
+        -   creatorType: author
+            firstName: Mahyar
+            lastName: Khayatkhoei
+        -   creatorType: author
+            firstName: Prateek
+            lastName: Chhikara
+        -   creatorType: author
+            firstName: Filip
+            lastName: Ilievski
+        date: '2023'
+        dateAdded: '2023-11-30T13:20:18Z'
+        dateModified: '2023-11-30T13:25:21Z'
+        extra: ''
+        itemType: conferencePaper
+        key: 2GL3H8RC
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        place: ''
+        proceedingsTitle: NeurIPS 2023 R0-FoMo Workshop
+        publisher: ''
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: Visual Cropping Improves Zero-Shot Question Answering of Multimodal
+            Large Language Models
+        url: https://openreview.net/forum?id=YrYcoV2dAk
+        version: 624
+        volume: ''
+    key: 2GL3H8RC
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/2GL3H8RC
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/2GL3H8RC
+            type: application/json
+    meta:
+        createdByUser:
+            id: 13135791
+            links:
+                alternate:
+                    href: https://www.zotero.org/filipilievski
+                    type: text/html
+            name: ''
+            username: filipilievski
+        creatorSummary: Zhang et al.
+        numChildren: 0
+        parsedDate: '2023'
+    version: 624
+-   data:
+        DOI: 10.48550/ARXIV.2304.13867
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveID: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Yifan
+            lastName: Jiang
+        -   creatorType: author
+            firstName: Filip
+            lastName: Ilievski
+        -   creatorType: author
+            firstName: Kaixin
+            lastName: Ma
+        date: '2023'
+        dateAdded: '2023-11-30T13:20:18Z'
+        dateModified: '2023-11-30T13:25:00Z'
+        extra: 'arXiv: 2304.13867'
+        genre: ''
+        itemType: preprint
+        key: H8N9HAHJ
+        language: ''
+        libraryCatalog: ''
+        place: ''
+        relations: {}
+        repository: ''
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: Transferring Procedural Knowledge across Commonsense Tasks
+        url: https://doi.org/10.48550/arXiv.2304.13867
+        version: 623
+    key: H8N9HAHJ
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/H8N9HAHJ
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/H8N9HAHJ
+            type: application/json
+    meta:
+        createdByUser:
+            id: 13135791
+            links:
+                alternate:
+                    href: https://www.zotero.org/filipilievski
+                    type: text/html
+            name: ''
+            username: filipilievski
+        creatorSummary: Jiang et al.
+        numChildren: 0
+        parsedDate: '2023'
+    version: 623
+-   data:
+        DOI: 10.48550/ARXIV.2311.06647
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveID: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Zhivar
+            lastName: Sourati
+        -   creatorType: author
+            firstName: Darshan
+            lastName: Deshpande
+        -   creatorType: author
+            firstName: Filip
+            lastName: Ilievski
+        -   creatorType: author
+            firstName: Kiril
+            lastName: Gashteovski
+        -   creatorType: author
+            firstName: Sascha
+            lastName: Saralajew
+        date: '2023'
+        dateAdded: '2023-11-30T13:20:18Z'
+        dateModified: '2023-11-30T13:24:47Z'
+        extra: 'arXiv: 2311.06647'
+        genre: ''
+        itemType: preprint
+        key: 8YC4VNI7
+        language: ''
+        libraryCatalog: ''
+        place: ''
+        relations: {}
+        repository: ''
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: 'Robust Text Classification: Analyzing Prototype-Based Networks'
+        url: https://doi.org/10.48550/arXiv.2311.06647
+        version: 622
+    key: 8YC4VNI7
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/8YC4VNI7
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/8YC4VNI7
+            type: application/json
+    meta:
+        createdByUser:
+            id: 13135791
+            links:
+                alternate:
+                    href: https://www.zotero.org/filipilievski
+                    type: text/html
+            name: ''
+            username: filipilievski
+        creatorSummary: Sourati et al.
+        numChildren: 0
+        parsedDate: '2023'
+    version: 622
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Saurav
+            lastName: Joshi
+        -   creatorType: author
+            firstName: Filip
+            lastName: Ilievski
+        -   creatorType: author
+            firstName: Jay
+            lastName: Pujara
+        date: '2024'
+        dateAdded: '2023-11-30T13:20:18Z'
+        dateModified: '2023-11-30T13:24:16Z'
+        extra: ''
+        itemType: conferencePaper
+        key: 99HY59JT
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        place: ''
+        proceedingsTitle: AAAI demonstration program
+        publisher: ''
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: Knowledge-powered recommendation for an improved diet water footprint
+        url: ''
+        version: 621
+        volume: ''
+    key: 99HY59JT
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/99HY59JT
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/99HY59JT
+            type: application/json
+    meta:
+        createdByUser:
+            id: 13135791
+            links:
+                alternate:
+                    href: https://www.zotero.org/filipilievski
+                    type: text/html
+            name: ''
+            username: filipilievski
+        creatorSummary: Joshi et al.
+        numChildren: 0
+        parsedDate: '2024'
+    version: 621
+-   data:
+        DOI: 10.48550/ARXIV.2310.05057
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: EMNLP
+        creators:
+        -   creatorType: author
+            firstName: Yifan
+            lastName: Jiang
+        -   creatorType: author
+            firstName: Filip
+            lastName: Ilievski
+        -   creatorType: author
+            firstName: Kaixin
+            lastName: Ma
+        -   creatorType: author
+            firstName: Zhivar
+            lastName: Sourati
+        date: '2023'
+        dateAdded: '2023-11-30T13:20:18Z'
+        dateModified: '2023-11-30T13:23:30Z'
+        extra: 'arXiv: 2310.05057'
+        itemType: conferencePaper
+        key: S3Q64X68
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        place: ''
+        proceedingsTitle: ''
+        publisher: ''
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: 'BRAINTEASER: Lateral Thinking Puzzles for Large Language Models'
+        url: https://doi.org/10.48550/arXiv.2310.05057
+        version: 620
+        volume: ''
+    key: S3Q64X68
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/S3Q64X68
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/S3Q64X68
+            type: application/json
+    meta:
+        createdByUser:
+            id: 13135791
+            links:
+                alternate:
+                    href: https://www.zotero.org/filipilievski
+                    type: text/html
+            name: ''
+            username: filipilievski
+        creatorSummary: Jiang et al.
+        numChildren: 0
+        parsedDate: '2023'
+    version: 620
+-   data:
+        DOI: 10.48550/ARXIV.2310.00996
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveID: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Zhivar
+            lastName: Sourati
+        -   creatorType: author
+            firstName: Filip
+            lastName: Ilievski
+        -   creatorType: author
+            firstName: Pia
+            lastName: Sommerauer
+        date: '2023'
+        dateAdded: '2023-11-30T13:20:18Z'
+        dateModified: '2023-11-30T13:23:02Z'
+        extra: 'arXiv: 2310.00996'
+        genre: ''
+        itemType: preprint
+        key: F3858PP2
+        language: ''
+        libraryCatalog: ''
+        place: ''
+        relations: {}
+        repository: ''
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: 'ARN: A Comprehensive Framework and Dataset for Analogical Reasoning
+            on Narratives'
+        url: https://doi.org/10.48550/arXiv.2310.00996
+        version: 617
+    key: F3858PP2
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/F3858PP2
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/F3858PP2
+            type: application/json
+    meta:
+        createdByUser:
+            id: 13135791
+            links:
+                alternate:
+                    href: https://www.zotero.org/filipilievski
+                    type: text/html
+            name: ''
+            username: filipilievski
+        creatorSummary: Sourati et al.
+        numChildren: 0
+        parsedDate: '2023'
+    version: 617
+-   data:
+        DOI: 10.48550/ARXIV.2311.11157
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveID: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Saurav
+            lastName: Joshi
+        -   creatorType: author
+            firstName: Filip
+            lastName: Ilievski
+        -   creatorType: author
+            firstName: Luca
+            lastName: Luceri
+        date: '2023'
+        dateAdded: '2023-11-30T13:20:18Z'
+        dateModified: '2023-11-30T13:22:33Z'
+        extra: 'arXiv: 2311.11157'
+        genre: ''
+        itemType: preprint
+        key: 7FAT8VFE
+        language: ''
+        libraryCatalog: ''
+        place: ''
+        relations: {}
+        repository: ''
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: Contextualizing Internet Memes Across Social Media Platforms
+        url: https://doi.org/10.48550/arXiv.2311.11157
+        version: 616
+    key: 7FAT8VFE
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/7FAT8VFE
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/7FAT8VFE
+            type: application/json
+    meta:
+        createdByUser:
+            id: 13135791
+            links:
+                alternate:
+                    href: https://www.zotero.org/filipilievski
+                    type: text/html
+            name: ''
+            username: filipilievski
+        creatorSummary: Joshi et al.
+        numChildren: 0
+        parsedDate: '2023'
+    version: 616
+-   data:
+        DOI: 10.48550/ARXIV.2305.12280
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveID: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Darshan
+            lastName: Deshpande
+        -   creatorType: author
+            firstName: Zhivar
+            lastName: Sourati
+        -   creatorType: author
+            firstName: Filip
+            lastName: Ilievski
+        -   creatorType: author
+            firstName: Fred
+            lastName: Morstatter
+        date: '2023'
+        dateAdded: '2023-11-30T13:20:18Z'
+        dateModified: '2023-11-30T13:22:21Z'
+        extra: 'arXiv: 2305.12280'
+        genre: ''
+        itemType: preprint
+        key: 73SH62E7
+        language: ''
+        libraryCatalog: ''
+        place: ''
+        relations: {}
+        repository: ''
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: Contextualizing Argument Quality Assessment with Relevant Knowledge
+        url: https://doi.org/10.48550/arXiv.2305.12280
+        version: 615
+    key: 73SH62E7
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/73SH62E7
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/73SH62E7
+            type: application/json
+    meta:
+        createdByUser:
+            id: 13135791
+            links:
+                alternate:
+                    href: https://www.zotero.org/filipilievski
+                    type: text/html
+            name: ''
+            username: filipilievski
+        creatorSummary: Deshpande et al.
+        numChildren: 0
+        parsedDate: '2023'
+    version: 615
+-   data:
+        DOI: 10.3233/DS-200028
+        ISSN: 24518492, 24518484
+        abstractNote: 'The major application areas of reinforcement learning (RL)
+            have traditionally been game playing and continuous control. In recent
+            years, however, RL has been increasingly applied in systems that interact
+            with humans. RL can personalize digital systems to make them more relevant
+            to individual users. Challenges in personalization settings may be different
+            from challenges found in traditional application areas of RL. An overview
+            of work that uses RL for personalization, however, is lacking. In this
+            work, we introduce a framework of personalization settings and use it
+            in a systematic literature review. Besides setting, we review solutions
+            and evaluation strategies. Results show that RL has been increasingly
+            applied to personalization problems and realistic evaluations have become
+            more prevalent. RL has become sufficiently robust to apply in contexts
+            that involve humans and the field as a whole is growing. However, it seems
+            not to be maturing: the ratios of studies that include a comparison or
+            a realistic evaluation are not showing upward trends and the vast majority
+            of algorithms are used only once. This review can be used to find related
+            work across domains, provides insights into the state of the field and
+            identifies opportunities for future work.'
+        accessDate: '2023-11-30T13:00:15Z'
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Floris
+            lastName: Den Hengst
+        -   creatorType: author
+            firstName: Eoin Martino
+            lastName: Grua
+        -   creatorType: author
+            firstName: Ali
+            lastName: El Hassouni
+        -   creatorType: author
+            firstName: Mark
+            lastName: Hoogendoorn
+        -   creatorType: editor
+            firstName: Izabela
+            lastName: Moise
+        date: '2020-11-11'
+        dateAdded: '2023-11-30T13:00:15Z'
+        dateModified: '2023-11-30T13:00:47Z'
+        extra: ''
+        issue: '2'
+        itemType: journalArticle
+        journalAbbreviation: DS
+        key: AX8ZAGW5
+        language: ''
+        libraryCatalog: DOI.org (Crossref)
+        pages: 107-147
+        publicationTitle: Data Science
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: Reinforcement learning for personalization
+        tags:
+        -   tag: reinforcement learning
+        title: 'Reinforcement learning for personalization: A systematic literature
+            review'
+        url: https://www.medra.org/servlet/aliasResolver?alias=iospress&doi=10.3233/DS-200028
+        version: 608
+        volume: '3'
+    key: AX8ZAGW5
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/AX8ZAGW5
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/AX8ZAGW5
+            type: application/json
+    meta:
+        createdByUser:
+            id: 12590531
+            links:
+                alternate:
+                    href: https://www.zotero.org/florisdenhengst
+                    type: text/html
+            name: ''
+            username: florisdenhengst
+        creatorSummary: Den Hengst et al.
+        numChildren: 0
+        parsedDate: '2020-11-11'
+    version: 608
+-   data:
+        ISBN: 9783031258909 9783031258916
+        abstractNote: ''
+        accessDate: '2023-11-30T12:59:35Z'
+        archive: ''
+        archiveLocation: ''
+        bookTitle: Machine Learning, Optimization, and Data Science
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: editor
+            firstName: Giuseppe
+            lastName: Nicosia
+        -   creatorType: editor
+            firstName: Varun
+            lastName: Ojha
+        -   creatorType: editor
+            firstName: Emanuele
+            lastName: La Malfa
+        -   creatorType: editor
+            firstName: Gabriele
+            lastName: La Malfa
+        -   creatorType: editor
+            firstName: Panos
+            lastName: Pardalos
+        -   creatorType: editor
+            firstName: Giuseppe
+            lastName: Di Fatta
+        -   creatorType: editor
+            firstName: Giovanni
+            lastName: Giuffrida
+        -   creatorType: editor
+            firstName: Renato
+            lastName: Umeton
+        -   creatorType: author
+            firstName: Yannick
+            lastName: Smit
+        -   creatorType: author
+            firstName: Floris
+            lastName: Den Hengst
+        -   creatorType: author
+            firstName: Sandjai
+            lastName: Bhulai
+        -   creatorType: author
+            firstName: Ehsan
+            lastName: Mehdad
+        date: '2023'
+        dateAdded: '2023-11-30T12:59:35Z'
+        dateModified: '2023-11-30T12:59:35Z'
+        edition: ''
+        extra: 'DOI: 10.1007/978-3-031-25891-6_9'
+        itemType: bookSection
+        key: GHMQAUYQ
+        language: en
+        libraryCatalog: DOI.org (Crossref)
+        numberOfVolumes: ''
+        pages: 108-122
+        place: Cham
+        publisher: Springer Nature Switzerland
+        relations: {}
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: Strategic Workforce Planning with Deep Reinforcement Learning
+        url: https://link.springer.com/10.1007/978-3-031-25891-6_9
+        version: 606
+        volume: '13811'
+    key: GHMQAUYQ
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/GHMQAUYQ
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/GHMQAUYQ
+            type: application/json
+    meta:
+        createdByUser:
+            id: 12590531
+            links:
+                alternate:
+                    href: https://www.zotero.org/florisdenhengst
+                    type: text/html
+            name: ''
+            username: florisdenhengst
+        creatorSummary: Smit et al.
+        numChildren: 0
+        parsedDate: '2023'
+    version: 606
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
         conferenceName: NeurIPS
         creators:
         -   creatorType: author
