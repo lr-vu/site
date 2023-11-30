@@ -1,4 +1,2095 @@
 -   data:
+        DOI: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveID: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Joe
+            lastName: Raad
+        -   creatorType: author
+            firstName: Nathalie
+            lastName: Pernelle
+        -   creatorType: author
+            firstName: Fatiha
+            lastName: Saïs
+        -   creatorType: author
+            firstName: Wouter
+            lastName: Beek
+        -   creatorType: author
+            firstName: Frank van
+            lastName: Harmelen
+        date: '2019'
+        dateAdded: '2023-03-24T12:41:24Z'
+        dateModified: '2023-11-30T10:25:26Z'
+        extra: '_eprint: 1907.10528'
+        genre: ''
+        itemType: preprint
+        key: XC56BVTT
+        language: ''
+        libraryCatalog: ''
+        place: ''
+        relations: {}
+        repository: ''
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: 'The sameAs Problem: A Survey on Identity Management in the Web of
+            Data'
+        url: http://arxiv.org/abs/1907.10528
+        version: 589
+    key: XC56BVTT
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/XC56BVTT
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/XC56BVTT
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: Raad et al.
+        lastModifiedByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        numChildren: 0
+        parsedDate: '2019'
+    version: 589
+-   data:
+        DOI: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveID: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Luigi
+            lastName: Asprino
+        -   creatorType: author
+            firstName: Wouter
+            lastName: Beek
+        -   creatorType: author
+            firstName: Paolo
+            lastName: Ciancarini
+        -   creatorType: author
+            firstName: Frank van
+            lastName: Harmelen
+        -   creatorType: author
+            firstName: Valentina
+            lastName: Presutti
+        date: '2019'
+        dateAdded: '2023-03-24T12:41:24Z'
+        dateModified: '2023-11-30T10:25:01Z'
+        extra: '_eprint: 1906.08097'
+        genre: ''
+        itemType: preprint
+        key: RKDSG696
+        language: ''
+        libraryCatalog: ''
+        place: ''
+        relations: {}
+        repository: ''
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: The Linked Open Data cloud is more abstract, flatter and less linked
+            than you may think!
+        url: http://arxiv.org/abs/1906.08097
+        version: 588
+    key: RKDSG696
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/RKDSG696
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/RKDSG696
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: Asprino et al.
+        lastModifiedByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        numChildren: 0
+        parsedDate: '2019'
+    version: 588
+-   data:
+        DOI: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveID: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Leandro
+            lastName: Eichenberger
+        -   creatorType: author
+            firstName: Michael
+            lastName: Cochez
+        -   creatorType: author
+            firstName: Benjamin
+            lastName: Heitmann
+        -   creatorType: author
+            firstName: Stefan
+            lastName: Decker
+        date: '2021'
+        dateAdded: '2023-03-24T12:41:25Z'
+        dateModified: '2023-11-30T10:24:34Z'
+        extra: '_eprint: 2103.00082'
+        genre: ''
+        itemType: preprint
+        key: XJUH5JGU
+        language: ''
+        libraryCatalog: ''
+        place: ''
+        relations:
+            dc:replaces: http://zotero.org/groups/4989916/items/K8JN8X8H
+        repository: ''
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: Secure Evaluation of Knowledge Graph Merging Gain
+        url: https://arxiv.org/abs/2103.00082
+        version: 587
+    key: XJUH5JGU
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/XJUH5JGU
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/XJUH5JGU
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: Eichenberger et al.
+        lastModifiedByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        numChildren: 0
+        parsedDate: '2021'
+    version: 587
+-   data:
+        DOI: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveID: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: W. X.
+            lastName: Wilcke
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        -   creatorType: author
+            firstName: Victor de
+            lastName: Boer
+        -   creatorType: author
+            firstName: R. H. van t
+            lastName: Veer
+        -   creatorType: author
+            firstName: F. A. H. van
+            lastName: Harmelen
+        date: '2020'
+        dateAdded: '2023-03-24T12:41:24Z'
+        dateModified: '2023-11-30T10:24:06Z'
+        extra: '_eprint: 2003.12383'
+        genre: ''
+        itemType: preprint
+        key: EEEV2NL9
+        language: ''
+        libraryCatalog: ''
+        place: ''
+        relations: {}
+        repository: ''
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: End-to-End Entity Classification on Multimodal Knowledge Graphs
+        url: https://arxiv.org/abs/2003.12383
+        version: 586
+    key: EEEV2NL9
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/EEEV2NL9
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/EEEV2NL9
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: Wilcke et al.
+        lastModifiedByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        numChildren: 0
+        parsedDate: '2020'
+    version: 586
+-   data:
+        ISBN: 978-3-319-26584-1
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: editor
+            firstName: David
+            lastName: Riaño
+        -   creatorType: editor
+            firstName: Richard
+            lastName: Lenz
+        -   creatorType: editor
+            firstName: Silvia
+            lastName: Miksch
+        -   creatorType: editor
+            firstName: Mor
+            lastName: Peleg
+        -   creatorType: editor
+            firstName: Manfred
+            lastName: Reichert
+        -   creatorType: editor
+            firstName: Annette ten
+            lastName: Teije
+        date: '2015'
+        dateAdded: '2023-11-30T10:12:15Z'
+        dateModified: '2023-11-30T10:12:15Z'
+        edition: ''
+        extra: 'DOI: 10.1007/978-3-319-26585-8'
+        itemType: book
+        key: 8PKAP645
+        language: ''
+        libraryCatalog: ''
+        numPages: ''
+        numberOfVolumes: ''
+        place: ''
+        publisher: Springer
+        relations: {}
+        rights: ''
+        series: Lecture Notes in Computer Science
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: Knowledge Representation for Health Care - AIME 2015 International
+            Joint Workshop, KR4HC/ProHealth 2015, Pavia, Italy, June 20, 2015, Revised
+            Selected Papers
+        url: https://doi.org/10.1007/978-3-319-26585-8
+        version: 584
+        volume: '9485'
+    key: 8PKAP645
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/8PKAP645
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/8PKAP645
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Riaño et al.
+        numChildren: 0
+        parsedDate: '2015'
+    version: 584
+-   data:
+        DOI: 10.1007/978-3-319-19551-3_16
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Reinier
+            lastName: Kop
+        -   creatorType: author
+            firstName: Mark
+            lastName: Hoogendoorn
+        -   creatorType: author
+            firstName: Leon M. G.
+            lastName: Moons
+        -   creatorType: author
+            firstName: Mattijs E.
+            lastName: Numans
+        -   creatorType: author
+            firstName: Annette ten
+            lastName: Teije
+        -   creatorType: editor
+            firstName: John H.
+            lastName: Holmes
+        -   creatorType: editor
+            firstName: Riccardo
+            lastName: Bellazzi
+        -   creatorType: editor
+            firstName: Lucia
+            lastName: Sacchi
+        -   creatorType: editor
+            firstName: Niels
+            lastName: Peek
+        date: '2015'
+        dateAdded: '2023-11-30T10:11:45Z'
+        dateModified: '2023-11-30T10:11:45Z'
+        extra: ''
+        itemType: conferencePaper
+        key: TAVUNTGM
+        language: ''
+        libraryCatalog: ''
+        pages: 133–142
+        place: ''
+        proceedingsTitle: Artificial Intelligence in Medicine - 15th Conference on
+            Artificial Intelligence in Medicine, AIME 2015, Pavia, Italy, June 17-20,
+            2015. Proceedings
+        publisher: Springer
+        relations: {}
+        rights: ''
+        series: Lecture Notes in Computer Science
+        shortTitle: ''
+        tags: []
+        title: On the Advantage of Using Dedicated Data Mining Techniques to Predict
+            Colorectal Cancer
+        url: https://doi.org/10.1007/978-3-319-19551-3\_16
+        version: 583
+        volume: '9105'
+    key: TAVUNTGM
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/TAVUNTGM
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/TAVUNTGM
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Kop et al.
+        numChildren: 0
+        parsedDate: '2015'
+    version: 583
+-   data:
+        ISBN: 978-3-319-59757-7
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: editor
+            firstName: Annette ten
+            lastName: Teije
+        -   creatorType: editor
+            firstName: Christian
+            lastName: Popow
+        -   creatorType: editor
+            firstName: John H.
+            lastName: Holmes
+        -   creatorType: editor
+            firstName: Lucia
+            lastName: Sacchi
+        date: '2017'
+        dateAdded: '2023-11-30T10:10:18Z'
+        dateModified: '2023-11-30T10:10:18Z'
+        edition: ''
+        extra: 'DOI: 10.1007/978-3-319-59758-4'
+        itemType: book
+        key: UJXW8EZY
+        language: ''
+        libraryCatalog: ''
+        numPages: ''
+        numberOfVolumes: ''
+        place: ''
+        publisher: Springer
+        relations: {}
+        rights: ''
+        series: Lecture Notes in Computer Science
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: Artificial Intelligence in Medicine - 16th Conference on Artificial
+            Intelligence in Medicine, AIME 2017, Vienna, Austria, June 21-24, 2017,
+            Proceedings
+        url: https://doi.org/10.1007/978-3-319-59758-4
+        version: 582
+        volume: '10259'
+    key: UJXW8EZY
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/UJXW8EZY
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/UJXW8EZY
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Teije et al.
+        numChildren: 0
+        parsedDate: '2017'
+    version: 582
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Veruska
+            lastName: Zamborlini
+        -   creatorType: author
+            firstName: Roelof van der
+            lastName: Heijden
+        -   creatorType: author
+            firstName: Annette ten
+            lastName: Teije
+        -   creatorType: editor
+            firstName: Kristijonas
+            lastName: Cyras
+        -   creatorType: editor
+            firstName: Tiago
+            lastName: Oliveira
+        -   creatorType: editor
+            firstName: Matthew
+            lastName: Williams
+        -   creatorType: editor
+            firstName: Loris
+            lastName: Bozzato
+        -   creatorType: editor
+            firstName: Martin
+            lastName: Homola
+        -   creatorType: editor
+            firstName: Till
+            lastName: Mossakowski
+        -   creatorType: editor
+            firstName: Antoine
+            lastName: Zimmermann
+        date: '2018'
+        dateAdded: '2023-11-30T10:09:27Z'
+        dateModified: '2023-11-30T10:09:27Z'
+        extra: ''
+        itemType: conferencePaper
+        key: R9EFC36Z
+        language: ''
+        libraryCatalog: ''
+        pages: 29–36
+        place: ''
+        proceedingsTitle: Proceedings of the Joint Proceedings of Reasoning with Ambiguous
+            and Conflicting Evidence and Recommendations in Medicine (MedRACER 2018)
+            and the 3rd International Workshop on Ontology Modularity, Contextuality,
+            and Evolution (WOMoCoE 2018) co-located with the 16th International Conference
+            on Principles of Knowledge Representation and Reasoning (KR 2018), Tempe,
+            Arizona, USA, October 29th, 2018
+        publisher: CEUR-WS.org
+        relations: {}
+        rights: ''
+        series: CEUR Workshop Proceedings
+        shortTitle: ''
+        tags: []
+        title: 'Filtering Clinical Guideline Interactions with Pre-Conditions: A Case
+            Study on Diabetes Guideline'
+        url: https://ceur-ws.org/Vol-2237/medracer-paper-4.pdf
+        version: 581
+        volume: '2237'
+    key: R9EFC36Z
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/R9EFC36Z
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/R9EFC36Z
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Zamborlini et al.
+        numChildren: 0
+        parsedDate: '2018'
+    version: 581
+-   data:
+        DOI: 10.1016/J.ARTMED.2018.10.005
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Annette ten
+            lastName: Teije
+        -   creatorType: author
+            firstName: Christian
+            lastName: Popow
+        -   creatorType: author
+            firstName: John H.
+            lastName: Holmes
+        -   creatorType: author
+            firstName: Lucia
+            lastName: Sacchi
+        date: '2018'
+        dateAdded: '2023-11-30T10:08:53Z'
+        dateModified: '2023-11-30T10:08:53Z'
+        extra: ''
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: 99YY6KC7
+        language: ''
+        libraryCatalog: ''
+        pages: 1–2
+        publicationTitle: Artif. Intell. Medicine
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: 'Preface: AIME 2017'
+        url: https://doi.org/10.1016/j.artmed.2018.10.005
+        version: 580
+        volume: '91'
+    key: 99YY6KC7
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/99YY6KC7
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/99YY6KC7
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Teije et al.
+        numChildren: 0
+        parsedDate: '2018'
+    version: 580
+-   data:
+        DOI: 10.1016/J.ARTMED.2023.102631
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Francesca
+            lastName: Zerbato
+        -   creatorType: author
+            firstName: Luise
+            lastName: Pufahl
+        -   creatorType: author
+            firstName: Annette ten
+            lastName: Teije
+        date: '2023'
+        dateAdded: '2023-11-30T10:03:07Z'
+        dateModified: '2023-11-30T10:03:07Z'
+        extra: ''
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: ET92JJ4A
+        language: ''
+        libraryCatalog: ''
+        pages: '102631'
+        publicationTitle: Artif. Intell. Medicine
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: 'Preface: Special Issue on Knowledge Representation and Reasoning for
+            Healthcare Processes'
+        url: https://doi.org/10.1016/j.artmed.2023.102631
+        version: 578
+        volume: '143'
+    key: ET92JJ4A
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/ET92JJ4A
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/ET92JJ4A
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Zerbato et al.
+        numChildren: 0
+        parsedDate: '2023'
+    version: 578
+-   data:
+        DOI: 10.1016/J.ARTMED.2023.102623
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Annette ten
+            lastName: Teije
+        -   creatorType: author
+            firstName: Mar
+            lastName: Marcos
+        -   creatorType: author
+            firstName: Jose M.
+            lastName: Juarez
+        date: '2023'
+        dateAdded: '2023-11-30T10:02:50Z'
+        dateModified: '2023-11-30T10:02:50Z'
+        extra: ''
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: JUSLACDJ
+        language: ''
+        libraryCatalog: ''
+        pages: '102623'
+        publicationTitle: Artif. Intell. Medicine
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: In Memoriam David Riaño, 1968-2022
+        url: https://doi.org/10.1016/j.artmed.2023.102623
+        version: 577
+        volume: '143'
+    key: JUSLACDJ
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/JUSLACDJ
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/JUSLACDJ
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Teije et al.
+        numChildren: 0
+        parsedDate: '2023'
+    version: 577
+-   data:
+        abstractNote: Recent years have witnessed a growing interest from archaeological
+            communities in Linked Data. ARIADNE, the AdvancedResearch Infrastructure
+            for Archaeological Data set Networking in Europe, facilitates a central
+            web portal that providesaccess to archaeological data from various sources.
+            Parts of these data have been being published as Linked Data, andare currently
+            available in the Linked Open Data cloud. With it, the nature of these
+            data has shifted from unstructuredto structured. This presents new opportunities
+            for data mining. In this work, we investigate to what extend data mining
+            can contribute to the understanding of linked archaeological data, and
+            which form would best meet the communities' needs.
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: W. X.
+            lastName: Wilcke
+        -   creatorType: author
+            firstName: Viktor
+            lastName: de Boer
+        -   creatorType: author
+            firstName: F.A.H.
+            lastName: van Harmelen
+        -   creatorType: author
+            firstName: Mauritius
+            lastName: de Kleijn
+        -   creatorType: author
+            firstName: M.
+            lastName: Wansleeben
+        date: '2015'
+        dateAdded: '2023-03-24T12:41:26Z'
+        dateModified: '2023-11-30T09:55:23Z'
+        extra: ''
+        institution: Ariadne
+        itemType: report
+        key: ULGRF7W8
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        place: ''
+        relations: {}
+        reportNumber: ''
+        reportType: ''
+        rights: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: 'ARIADNE: First Report on Data Mining'
+        url: ''
+        version: 574
+    key: ULGRF7W8
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/ULGRF7W8
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/ULGRF7W8
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: Wilcke et al.
+        lastModifiedByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        numChildren: 0
+        parsedDate: '2015'
+    version: 574
+-   data:
+        abstractNote: 'Recent years have witnessed a growing interest from archaeological
+            communities in Linked Data. ARIADNE, the AdvancedResearch Infrastructure
+            for Archaeological Data set Networking in Europe, facilitates a central
+            web portal that providesaccess to archaeological data from various sources.
+            Parts of these data have been being published as Linked Data, andare currently
+            available in the Linked Open Data cloud. With it, the nature of these
+            data has shifted from unstructuredto structured. This presents new opportunities
+            for data mining. While general-purpose software exists, recent studieshave
+            revealed the importance of two domain-specific requirements: 1) produce
+            interpretable results, and 2) allow trustin the underlying model. In this
+            work, we investigate to what extend interpretable data mining can contribute
+            to theunderstanding of linked archaeological data. A case study washeld,
+            which involved the mining of semantic association rules over data sets
+            of increasing levels of knowledgegranularity, followed by the qualitative
+            evaluation of these rules by domain experts. Experiments have shown that
+            theapproach yielded mostly plausible patterns, some of which were seen
+            as highly relevant.'
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: W. X.
+            lastName: Wilcke
+        -   creatorType: author
+            firstName: V.
+            lastName: de Boer
+        -   creatorType: author
+            firstName: F.A.H.
+            lastName: van Harmelen
+        -   creatorType: author
+            firstName: M.T.M.
+            lastName: de Kleijn
+        -   creatorType: author
+            firstName: M.
+            lastName: Wansleeben
+        -   creatorType: author
+            firstName: Harry
+            lastName: Dimitropoulos
+        -   creatorType: author
+            firstName: Holly
+            lastName: Wright
+        date: '2017'
+        dateAdded: '2023-03-24T12:41:25Z'
+        dateModified: '2023-11-30T09:55:15Z'
+        extra: ''
+        institution: Ariadne
+        itemType: report
+        key: MHUZJB6A
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        place: ''
+        relations: {}
+        reportNumber: ''
+        reportType: ''
+        rights: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: 'ARIADNE: Final Report on Data Mining'
+        url: ''
+        version: 573
+    key: MHUZJB6A
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/MHUZJB6A
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/MHUZJB6A
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: Wilcke et al.
+        lastModifiedByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        numChildren: 0
+        parsedDate: '2017'
+    version: 573
+-   data:
+        DOI: 10.3233/SW-140158
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Albert
+            lastName: Meroño-Peñuela
+        -   creatorType: author
+            firstName: Ashkan
+            lastName: Ashkpour
+        -   creatorType: author
+            firstName: Marieke van
+            lastName: Erp
+        -   creatorType: author
+            firstName: Kees
+            lastName: Mandemakers
+        -   creatorType: author
+            firstName: Leen
+            lastName: Breure
+        -   creatorType: author
+            firstName: Andrea
+            lastName: Scharnhorst
+        -   creatorType: author
+            firstName: Stefan
+            lastName: Schlobach
+        -   creatorType: author
+            firstName: Frank van
+            lastName: Harmelen
+        date: '2015'
+        dateAdded: '2023-11-30T09:53:51Z'
+        dateModified: '2023-11-30T09:53:51Z'
+        extra: ''
+        issue: '6'
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: 4PUWH5S7
+        language: ''
+        libraryCatalog: ''
+        pages: 539–564
+        publicationTitle: Semantic Web
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: 'Semantic technologies for historical research: A survey'
+        url: https://doi.org/10.3233/SW-140158
+        version: 572
+        volume: '6'
+    key: 4PUWH5S7
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/4PUWH5S7
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/4PUWH5S7
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Meroño-Peñuela et al.
+        numChildren: 0
+        parsedDate: '2015'
+    version: 572
+-   data:
+        DOI: 10.1609/AIMAG.V36I1.2559
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Frank van
+            lastName: Harmelen
+        -   creatorType: author
+            firstName: James A.
+            lastName: Hendler
+        -   creatorType: author
+            firstName: Pascal
+            lastName: Hitzler
+        -   creatorType: author
+            firstName: Krzysztof
+            lastName: Janowicz
+        date: '2015'
+        dateAdded: '2023-11-30T09:53:23Z'
+        dateModified: '2023-11-30T09:53:23Z'
+        extra: ''
+        issue: '1'
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: 8IS73J36
+        language: ''
+        libraryCatalog: ''
+        pages: 3–4
+        publicationTitle: AI Mag.
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: Semantics for Big Data
+        url: https://doi.org/10.1609/aimag.v36i1.2559
+        version: 571
+        volume: '36'
+    key: 8IS73J36
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/8IS73J36
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/8IS73J36
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Harmelen et al.
+        numChildren: 0
+        parsedDate: '2015'
+    version: 571
+-   data:
+        ISBN: 978-1-61499-671-2
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: editor
+            firstName: Gal A.
+            lastName: Kaminka
+        -   creatorType: editor
+            firstName: Maria
+            lastName: Fox
+        -   creatorType: editor
+            firstName: Paolo
+            lastName: Bouquet
+        -   creatorType: editor
+            firstName: Eyke
+            lastName: Hüllermeier
+        -   creatorType: editor
+            firstName: Virginia
+            lastName: Dignum
+        -   creatorType: editor
+            firstName: Frank
+            lastName: Dignum
+        -   creatorType: editor
+            firstName: Frank van
+            lastName: Harmelen
+        date: '2016'
+        dateAdded: '2023-11-30T09:52:48Z'
+        dateModified: '2023-11-30T09:52:48Z'
+        edition: ''
+        extra: ''
+        itemType: book
+        key: NHBW3ETR
+        language: ''
+        libraryCatalog: ''
+        numPages: ''
+        numberOfVolumes: ''
+        place: ''
+        publisher: IOS Press
+        relations: {}
+        rights: ''
+        series: Frontiers in Artificial Intelligence and Applications
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: ECAI 2016 - 22nd European Conference on Artificial Intelligence, 29
+            August-2 September 2016, The Hague, The Netherlands - Including Prestigious
+            Applications of Artificial Intelligence (PAIS 2016)
+        url: ''
+        version: 570
+        volume: '285'
+    key: NHBW3ETR
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/NHBW3ETR
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/NHBW3ETR
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Kaminka et al.
+        numChildren: 0
+        parsedDate: '2016'
+    version: 570
+-   data:
+        ISBN: 978-3-319-55734-2
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: editor
+            firstName: Hannes
+            lastName: Werthner
+        -   creatorType: editor
+            firstName: Frank van
+            lastName: Harmelen
+        date: '2017'
+        dateAdded: '2023-11-30T09:51:18Z'
+        dateModified: '2023-11-30T09:51:18Z'
+        edition: ''
+        extra: 'DOI: 10.1007/978-3-319-55735-9'
+        itemType: book
+        key: P6KBFVIS
+        language: ''
+        libraryCatalog: ''
+        numPages: ''
+        numberOfVolumes: ''
+        place: ''
+        publisher: Springer
+        relations: {}
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: Informatics in the Future - Proceedings of the 11th European Computer
+            Science Summit, ECSS 2015, Vienna, Austria, October 2015
+        url: https://doi.org/10.1007/978-3-319-55735-9
+        version: 569
+        volume: ''
+    key: P6KBFVIS
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/P6KBFVIS
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/P6KBFVIS
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Werthner and Harmelen
+        numChildren: 0
+        parsedDate: '2017'
+    version: 569
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Xu
+            lastName: Lei
+        -   creatorType: author
+            firstName: Albert
+            lastName: Meroño-Peñuela
+        -   creatorType: author
+            firstName: Zhisheng
+            lastName: Huang
+        -   creatorType: author
+            firstName: Frank van
+            lastName: Harmelen
+        -   creatorType: editor
+            firstName: Alessandro
+            lastName: Adamou
+        -   creatorType: editor
+            firstName: Enrico
+            lastName: Daga
+        -   creatorType: editor
+            firstName: Leif
+            lastName: Isaksen
+        date: '2017'
+        dateAdded: '2023-11-30T09:50:53Z'
+        dateModified: '2023-11-30T09:50:53Z'
+        extra: ''
+        itemType: conferencePaper
+        key: 5Q7VT89H
+        language: ''
+        libraryCatalog: ''
+        pages: 117–122
+        place: ''
+        proceedingsTitle: Proceedings of the Second Workshop on Humanities in the
+            Semantic Web (WHiSe II) co-located with 16th International Semantic Web
+            Conference (ISWC 2017), Vienna, Austria, October 22, 2017
+        publisher: CEUR-WS.org
+        relations: {}
+        rights: ''
+        series: CEUR Workshop Proceedings
+        shortTitle: ''
+        tags: []
+        title: An Ontology Model for Narrative Image Annotation in the Field of Cultural
+            Heritage
+        url: https://ceur-ws.org/Vol-2014/paper-13.pdf
+        version: 568
+        volume: '2014'
+    key: 5Q7VT89H
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/5Q7VT89H
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/5Q7VT89H
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Lei et al.
+        numChildren: 0
+        parsedDate: '2017'
+    version: 568
+-   data:
+        DOI: 10.3233/DS-170006
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Daniele
+            lastName: Dell'Aglio
+        -   creatorType: author
+            firstName: Emanuele Della
+            lastName: Valle
+        -   creatorType: author
+            firstName: Frank van
+            lastName: Harmelen
+        -   creatorType: author
+            firstName: Abraham
+            lastName: Bernstein
+        date: '2017'
+        dateAdded: '2023-11-30T09:50:13Z'
+        dateModified: '2023-11-30T09:50:13Z'
+        extra: ''
+        issue: 1-2
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: T5AXFW8Z
+        language: ''
+        libraryCatalog: ''
+        pages: 59–83
+        publicationTitle: Data Sci.
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: 'Stream reasoning: A survey and outlook'
+        url: https://doi.org/10.3233/DS-170006
+        version: 567
+        volume: '1'
+    key: T5AXFW8Z
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/T5AXFW8Z
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/T5AXFW8Z
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Dell'Aglio et al.
+        numChildren: 0
+        parsedDate: '2017'
+    version: 567
+-   data:
+        DOI: 10.1007/978-3-030-00671-6_23
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Joe
+            lastName: Raad
+        -   creatorType: author
+            firstName: Wouter
+            lastName: Beek
+        -   creatorType: author
+            firstName: Frank van
+            lastName: Harmelen
+        -   creatorType: author
+            firstName: Nathalie
+            lastName: Pernelle
+        -   creatorType: author
+            firstName: Fatiha
+            lastName: Saïs
+        -   creatorType: editor
+            firstName: Denny
+            lastName: Vrandecic
+        -   creatorType: editor
+            firstName: Kalina
+            lastName: Bontcheva
+        -   creatorType: editor
+            firstName: Mari Carmen
+            lastName: Suárez-Figueroa
+        -   creatorType: editor
+            firstName: Valentina
+            lastName: Presutti
+        -   creatorType: editor
+            firstName: Irene
+            lastName: Celino
+        -   creatorType: editor
+            firstName: Marta
+            lastName: Sabou
+        -   creatorType: editor
+            firstName: Lucie-Aimée
+            lastName: Kaffee
+        -   creatorType: editor
+            firstName: Elena
+            lastName: Simperl
+        date: '2018'
+        dateAdded: '2023-11-30T09:49:34Z'
+        dateModified: '2023-11-30T09:49:34Z'
+        extra: ''
+        itemType: conferencePaper
+        key: 4I6PNWJX
+        language: ''
+        libraryCatalog: ''
+        pages: 391–407
+        place: ''
+        proceedingsTitle: The Semantic Web - ISWC 2018 - 17th International Semantic
+            Web Conference, Monterey, CA, USA, October 8-12, 2018, Proceedings, Part
+            I
+        publisher: Springer
+        relations: {}
+        rights: ''
+        series: Lecture Notes in Computer Science
+        shortTitle: ''
+        tags: []
+        title: Detecting Erroneous Identity Links on the Web Using Network Metrics
+        url: https://doi.org/10.1007/978-3-030-00671-6\_23
+        version: 566
+        volume: '11136'
+    key: 4I6PNWJX
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/4I6PNWJX
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/4I6PNWJX
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Raad et al.
+        numChildren: 0
+        parsedDate: '2018'
+    version: 566
+-   data:
+        DOI: 10.1007/978-3-319-93417-4_5
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Wouter
+            lastName: Beek
+        -   creatorType: author
+            firstName: Joe
+            lastName: Raad
+        -   creatorType: author
+            firstName: Jan
+            lastName: Wielemaker
+        -   creatorType: author
+            firstName: Frank van
+            lastName: Harmelen
+        -   creatorType: editor
+            firstName: Aldo
+            lastName: Gangemi
+        -   creatorType: editor
+            firstName: Roberto
+            lastName: Navigli
+        -   creatorType: editor
+            firstName: Maria-Esther
+            lastName: Vidal
+        -   creatorType: editor
+            firstName: Pascal
+            lastName: Hitzler
+        -   creatorType: editor
+            firstName: Raphaël
+            lastName: Troncy
+        -   creatorType: editor
+            firstName: Laura
+            lastName: Hollink
+        -   creatorType: editor
+            firstName: Anna
+            lastName: Tordai
+        -   creatorType: editor
+            firstName: Mehwish
+            lastName: Alam
+        date: '2018'
+        dateAdded: '2023-11-30T09:49:11Z'
+        dateModified: '2023-11-30T09:49:11Z'
+        extra: ''
+        itemType: conferencePaper
+        key: ZNZZ4UA3
+        language: ''
+        libraryCatalog: ''
+        pages: 65–80
+        place: ''
+        proceedingsTitle: The Semantic Web - 15th International Conference, ESWC 2018,
+            Heraklion, Crete, Greece, June 3-7, 2018, Proceedings
+        publisher: Springer
+        relations: {}
+        rights: ''
+        series: Lecture Notes in Computer Science
+        shortTitle: ''
+        tags: []
+        title: 'sameAs.cc: The Closure of 500M owl: sameAs Statements'
+        url: https://doi.org/10.1007/978-3-319-93417-4\_5
+        version: 565
+        volume: '10843'
+    key: ZNZZ4UA3
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/ZNZZ4UA3
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/ZNZZ4UA3
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Beek et al.
+        numChildren: 0
+        parsedDate: '2018'
+    version: 565
+-   data:
+        DOI: 10.1007/978-3-030-03667-6_10
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Al Koudous
+            lastName: Idrissou
+        -   creatorType: author
+            firstName: Frank van
+            lastName: Harmelen
+        -   creatorType: author
+            firstName: Peter van den
+            lastName: Besselaar
+        -   creatorType: editor
+            firstName: Catherine
+            lastName: Faron-Zucker
+        -   creatorType: editor
+            firstName: Chiara
+            lastName: Ghidini
+        -   creatorType: editor
+            firstName: Amedeo
+            lastName: Napoli
+        -   creatorType: editor
+            firstName: Yannick
+            lastName: Toussaint
+        date: '2018'
+        dateAdded: '2023-11-30T09:48:47Z'
+        dateModified: '2023-11-30T09:48:47Z'
+        extra: ''
+        itemType: conferencePaper
+        key: AR6BMJ4S
+        language: ''
+        libraryCatalog: ''
+        pages: 147–162
+        place: ''
+        proceedingsTitle: Knowledge Engineering and Knowledge Management - 21st International
+            Conference, EKAW 2018, Nancy, France, November 12-16, 2018, Proceedings
+        publisher: Springer
+        relations: {}
+        rights: ''
+        series: Lecture Notes in Computer Science
+        shortTitle: ''
+        tags: []
+        title: Network Metrics for Assessing the Quality of Entity Resolution Between
+            Multiple Datasets
+        url: https://doi.org/10.1007/978-3-030-03667-6\_10
+        version: 564
+        volume: '11313'
+    key: AR6BMJ4S
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/AR6BMJ4S
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/AR6BMJ4S
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Idrissou et al.
+        numChildren: 0
+        parsedDate: '2018'
+    version: 564
+-   data:
+        DOI: 10.3166/ISI.23.3-4.61-88
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Joe
+            lastName: Raad
+        -   creatorType: author
+            firstName: Wouter
+            lastName: Beek
+        -   creatorType: author
+            firstName: Nathalie
+            lastName: Pernelle
+        -   creatorType: author
+            firstName: Fatiha
+            lastName: Saïs
+        -   creatorType: author
+            firstName: Frank van
+            lastName: Harmelen
+        date: '2018'
+        dateAdded: '2023-11-30T09:48:19Z'
+        dateModified: '2023-11-30T09:48:19Z'
+        extra: ''
+        issue: 3-4
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: RCZ3KKYK
+        language: ''
+        libraryCatalog: ''
+        pages: 61–88
+        publicationTitle: Ingénierie des Systèmes d Inf.
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: Détection de liens d'identité erronés en utilisant la détection de
+            communautés dans les graphes d'identité
+        url: https://doi.org/10.3166/isi.23.3-4.61-88
+        version: 563
+        volume: '23'
+    key: RCZ3KKYK
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/RCZ3KKYK
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/RCZ3KKYK
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Raad et al.
+        numChildren: 0
+        parsedDate: '2018'
+    version: 563
+-   data:
+        abstractNote: Reinforcement learning (RL) has recently attracted significant
+            attention with applications such as improving microchip designs, predicting
+            the behaviour of protein structures and beating humanity’s best in the
+            games of go, chess and Starcraft-II. These impressive and inspring successes
+            show how RL can improve our lives, however, they have so far been seen
+            mostly in settings that involve humans to a very limited extend. This
+            thesis looks into the usage of RL in human contexts. First, we provide
+            a systematic literature review of the usage of RL for personalisation,
+            i.e. the adaptation of systems to individuals. Next, we show how RL can
+            be used to personalise a conversational recommender system and find that
+            it outperforms existing approaches, including a gold-standard and task-specific
+            solutions in a simulation-based study. Since simulators may not be available
+            for all conversational systems that could benefit from personalisation,
+            we next look into the collection of user satisfaction ratings for dialogue
+            data. We consolidate best practices in a UI for user satisfaction annotation
+            and show that high-quality ratings can be obtained. Next, we look into
+            the usage of RL for strategic workforce planning. Here, we find that RL
+            is robust to the uncertainties that are an inherent part of this problem
+            and that RL enables the specification of goals intuitive to domain experts.
+            Having looked into these use-cases, we then turn toward the inclusion
+            of safety constraints in RL. We propose how safety constraints from a
+            medical guideline can be taken into account in an observational study
+            on the optimisation of ventilator settings for ICU patients. Next, we
+            look into safety constraints that contain a temporal component, we find
+            that these may make the learning problem infeasible and propose a solution
+            based on reward shaping to address this issue. Finally, we propose how
+            RL can benefit from instructions that break a full task into smaller pieces
+            based on the option framework and propose an approach for learning reusable
+            behaviours from instructions to greatly reduce data requirements.
+        accessDate: '2023-11-30T09:38:11Z'
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Floris
+            lastName: Den Hengst
+        date: '2023-10-19'
+        dateAdded: '2023-11-30T09:38:12Z'
+        dateModified: '2023-11-30T09:48:00Z'
+        extra: 'DOI: 10.5463/thesis.390'
+        itemType: thesis
+        key: 65M89DVE
+        language: en
+        libraryCatalog: DOI.org (Crossref)
+        numPages: ''
+        place: ''
+        relations: {}
+        rights: ''
+        shortTitle: Learning to Behave
+        tags:
+        -   tag: health
+        -   tag: machine learning
+        -   tag: reinforcement learning
+        thesisType: PhD
+        title: 'Learning to Behave: Reinforcement Learning in Human Contexts'
+        university: Vrije Universiteit Amsterdam
+        url: https://hdl.handle.net/1871.1/0f1e1ca1-08e9-4970-8094-be02a85180e5
+        version: 558
+    key: 65M89DVE
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/65M89DVE
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/65M89DVE
+            type: application/json
+    meta:
+        createdByUser:
+            id: 12590531
+            links:
+                alternate:
+                    href: https://www.zotero.org/florisdenhengst
+                    type: text/html
+            name: ''
+            username: florisdenhengst
+        creatorSummary: Den Hengst
+        numChildren: 0
+        parsedDate: '2023-10-19'
+    version: 558
+-   data:
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: editor
+            firstName: Andreas
+            lastName: Martin
+        -   creatorType: editor
+            firstName: Knut
+            lastName: Hinkelmann
+        -   creatorType: editor
+            firstName: Aurona
+            lastName: Gerber
+        -   creatorType: editor
+            firstName: Doug
+            lastName: Lenat
+        -   creatorType: editor
+            firstName: Frank van
+            lastName: Harmelen
+        -   creatorType: editor
+            firstName: Peter
+            lastName: Clark
+        date: '2019'
+        dateAdded: '2023-11-30T09:46:34Z'
+        dateModified: '2023-11-30T09:46:34Z'
+        edition: ''
+        extra: ''
+        itemType: book
+        key: UTFY3JV9
+        language: ''
+        libraryCatalog: ''
+        numPages: ''
+        numberOfVolumes: ''
+        place: ''
+        publisher: CEUR-WS.org
+        relations: {}
+        rights: ''
+        series: CEUR Workshop Proceedings
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: Proceedings of the AAAI 2019 Spring Symposium on Combining Machine
+            Learning with Knowledge Engineering (AAAI-MAKE 2019) Stanford University,
+            Palo Alto, California, USA, March 25-27, 2019., Stanford University, Palo
+            Alto, California, USA, March 25-27, 2019
+        url: https://ceur-ws.org/Vol-2350
+        version: 552
+        volume: '2350'
+    key: UTFY3JV9
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/UTFY3JV9
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/UTFY3JV9
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Martin et al.
+        numChildren: 0
+        parsedDate: '2019'
+    version: 552
+-   data:
         abstractNote: ''
         accessDate: ''
         archive: ''
@@ -383,93 +2474,6 @@
         parsedDate: '2022'
     version: 544
 -   data:
-        abstractNote: Reinforcement learning (RL) has recently attracted significant
-            attention with applications such as improving microchip designs, predicting
-            the behaviour of protein structures and beating humanity’s best in the
-            games of go, chess and Starcraft-II. These impressive and inspring successes
-            show how RL can improve our lives, however, they have so far been seen
-            mostly in settings that involve humans to a very limited extend. This
-            thesis looks into the usage of RL in human contexts. First, we provide
-            a systematic literature review of the usage of RL for personalisation,
-            i.e. the adaptation of systems to individuals. Next, we show how RL can
-            be used to personalise a conversational recommender system and find that
-            it outperforms existing approaches, including a gold-standard and task-specific
-            solutions in a simulation-based study. Since simulators may not be available
-            for all conversational systems that could benefit from personalisation,
-            we next look into the collection of user satisfaction ratings for dialogue
-            data. We consolidate best practices in a UI for user satisfaction annotation
-            and show that high-quality ratings can be obtained. Next, we look into
-            the usage of RL for strategic workforce planning. Here, we find that RL
-            is robust to the uncertainties that are an inherent part of this problem
-            and that RL enables the specification of goals intuitive to domain experts.
-            Having looked into these use-cases, we then turn toward the inclusion
-            of safety constraints in RL. We propose how safety constraints from a
-            medical guideline can be taken into account in an observational study
-            on the optimisation of ventilator settings for ICU patients. Next, we
-            look into safety constraints that contain a temporal component, we find
-            that these may make the learning problem infeasible and propose a solution
-            based on reward shaping to address this issue. Finally, we propose how
-            RL can benefit from instructions that break a full task into smaller pieces
-            based on the option framework and propose an approach for learning reusable
-            behaviours from instructions to greatly reduce data requirements.
-        accessDate: '2023-11-30T09:38:11Z'
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Floris
-            lastName: Den Hengst
-        date: '2023-10-19'
-        dateAdded: '2023-11-30T09:38:12Z'
-        dateModified: '2023-11-30T09:38:12Z'
-        extra: 'DOI: 10.5463/thesis.390'
-        itemType: thesis
-        key: 65M89DVE
-        language: en
-        libraryCatalog: DOI.org (Crossref)
-        numPages: ''
-        place: ''
-        relations: {}
-        rights: ''
-        shortTitle: Learning to Behave
-        tags: []
-        thesisType: PhD
-        title: 'Learning to Behave: Reinforcement Learning in Human Contexts'
-        university: Vrije Universiteit Amsterdam
-        url: https://hdl.handle.net/1871.1/0f1e1ca1-08e9-4970-8094-be02a85180e5
-        version: 543
-    key: 65M89DVE
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/65M89DVE
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/65M89DVE
-            type: application/json
-    meta:
-        createdByUser:
-            id: 12590531
-            links:
-                alternate:
-                    href: https://www.zotero.org/florisdenhengst
-                    type: text/html
-            name: ''
-            username: florisdenhengst
-        creatorSummary: Den Hengst
-        numChildren: 0
-        parsedDate: '2023-10-19'
-    version: 543
--   data:
         DOI: 10.24963/IJCAI.2022/403
         ISBN: ''
         abstractNote: ''
@@ -512,10 +2516,11 @@
         rights: ''
         series: ''
         shortTitle: ''
-        tags: []
+        tags:
+        -   tag: reinforcement learning
         title: Reinforcement Learning with Option Machines
         url: https://doi.org/10.24963/ijcai.2022/403
-        version: 542
+        version: 562
         volume: ''
     key: D9HLNTHN
     library:
@@ -543,9 +2548,17 @@
             name: Frank van Harmelen
             username: Frank.van.Harmelen
         creatorSummary: Hengst et al.
+        lastModifiedByUser:
+            id: 12590531
+            links:
+                alternate:
+                    href: https://www.zotero.org/florisdenhengst
+                    type: text/html
+            name: ''
+            username: florisdenhengst
         numChildren: 0
         parsedDate: '2022'
-    version: 542
+    version: 562
 -   data:
         DOI: 10.1097/CCM.0000000000006100
         ISSN: 0090-3493
@@ -641,11 +2654,13 @@
         seriesTitle: ''
         shortTitle: Does Reinforcement Learning Improve Outcomes for Critically Ill
             Patients?
-        tags: []
+        tags:
+        -   tag: health
+        -   tag: reinforcement learning
         title: Does Reinforcement Learning Improve Outcomes for Critically Ill Patients?
             A Systematic Review and Level-of-Readiness Assessment
         url: https://journals.lww.com/10.1097/CCM.0000000000006100
-        version: 541
+        version: 555
         volume: ''
     key: J7CGF229
     library:
@@ -675,7 +2690,7 @@
         creatorSummary: Otten et al.
         numChildren: 0
         parsedDate: '2023-11-08'
-    version: 541
+    version: 555
 -   data:
         DOI: 10.1007/978-3-031-20627-6_22
         ISBN: ''
@@ -811,10 +2826,11 @@
         seriesText: ''
         seriesTitle: ''
         shortTitle: ''
-        tags: []
+        tags:
+        -   tag: reinforcement learning
         title: 'Planning for potential: efficient safe reinforcement learning'
         url: https://doi.org/10.1007/s10994-022-06143-6
-        version: 539
+        version: 560
         volume: '111'
     key: JV33T2ZU
     library:
@@ -842,9 +2858,17 @@
             name: Frank van Harmelen
             username: Frank.van.Harmelen
         creatorSummary: Hengst et al.
+        lastModifiedByUser:
+            id: 12590531
+            links:
+                alternate:
+                    href: https://www.zotero.org/florisdenhengst
+                    type: text/html
+            name: ''
+            username: florisdenhengst
         numChildren: 0
         parsedDate: '2022'
-    version: 539
+    version: 560
 -   data:
         DOI: 10.3233/DS-220056
         ISSN: ''
@@ -5717,81 +7741,6 @@
     version: 171
 -   data:
         DOI: ''
-        ISSN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Leandro
-            lastName: Eichenberger
-        -   creatorType: author
-            firstName: Michael
-            lastName: Cochez
-        -   creatorType: author
-            firstName: Benjamin
-            lastName: Heitmann
-        -   creatorType: author
-            firstName: Stefan
-            lastName: Decker
-        date: '2021'
-        dateAdded: '2023-03-24T12:41:25Z'
-        dateModified: '2023-03-24T12:46:58Z'
-        extra: '_eprint: 2103.00082'
-        issue: ''
-        itemType: journalArticle
-        journalAbbreviation: ''
-        key: XJUH5JGU
-        language: ''
-        libraryCatalog: ''
-        pages: ''
-        publicationTitle: CoRR
-        relations:
-            dc:replaces: http://zotero.org/groups/4989916/items/K8JN8X8H
-        rights: ''
-        series: ''
-        seriesText: ''
-        seriesTitle: ''
-        shortTitle: ''
-        tags: []
-        title: Secure Evaluation of Knowledge Graph Merging Gain
-        url: https://arxiv.org/abs/2103.00082
-        version: 171
-        volume: abs/2103.00082
-    key: XJUH5JGU
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/XJUH5JGU
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/XJUH5JGU
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Eichenberger et al.
-        numChildren: 0
-        parsedDate: '2021'
-    version: 171
--   data:
-        DOI: ''
         ISBN: 978-3-030-49461-2
         abstractNote: Wikidata is a free and open knowledge base which can be read
             and edited by both humans and machines. It acts as a central storage for
@@ -9046,91 +10995,6 @@
             name: Michael Cochez
             username: michaelcochez
         creatorSummary: Li et al.
-        numChildren: 0
-        parsedDate: '2015'
-    version: 147
--   data:
-        ISBN: ''
-        abstractNote: Recent years have witnessed a growing interest from archaeological
-            communities in Linked Data. ARIADNE, the AdvancedResearch Infrastructure
-            for Archaeological Data set Networking in Europe, facilitates a central
-            web portal that providesaccess to archaeological data from various sources.
-            Parts of these data have been being published as Linked Data, andare currently
-            available in the Linked Open Data cloud. With it, the nature of these
-            data has shifted from unstructuredto structured. This presents new opportunities
-            for data mining. In this work, we investigate to what extend data mining
-            can contribute to the understanding of linked archaeological data, and
-            which form would best meet the communities' needs.
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: W. X.
-            lastName: Wilcke
-        -   creatorType: author
-            firstName: Viktor
-            lastName: de Boer
-        -   creatorType: author
-            firstName: F.A.H.
-            lastName: van Harmelen
-        -   creatorType: author
-            firstName: Mauritius
-            lastName: de Kleijn
-        -   creatorType: author
-            firstName: M.
-            lastName: Wansleeben
-        date: '2015'
-        dateAdded: '2023-03-24T12:41:26Z'
-        dateModified: '2023-03-24T12:41:26Z'
-        edition: ''
-        extra: ''
-        itemType: book
-        key: ULGRF7W8
-        language: ''
-        libraryCatalog: ''
-        numPages: ''
-        numberOfVolumes: ''
-        place: ''
-        publisher: Ariadne
-        relations: {}
-        rights: ''
-        series: Ariadne
-        seriesNumber: D16.1
-        shortTitle: ''
-        tags: []
-        title: 'ARIADNE: First Report on Data Mining'
-        url: ''
-        version: 147
-        volume: ''
-    key: ULGRF7W8
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/ULGRF7W8
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/ULGRF7W8
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Wilcke et al.
         numChildren: 0
         parsedDate: '2015'
     version: 147
@@ -17114,104 +18978,6 @@
         parsedDate: '2017'
     version: 137
 -   data:
-        ISBN: ''
-        abstractNote: 'Recent years have witnessed a growing interest from archaeological
-            communities in Linked Data. ARIADNE, the AdvancedResearch Infrastructure
-            for Archaeological Data set Networking in Europe, facilitates a central
-            web portal that providesaccess to archaeological data from various sources.
-            Parts of these data have been being published as Linked Data, andare currently
-            available in the Linked Open Data cloud. With it, the nature of these
-            data has shifted from unstructuredto structured. This presents new opportunities
-            for data mining. While general-purpose software exists, recent studieshave
-            revealed the importance of two domain-specific requirements: 1) produce
-            interpretable results, and 2) allow trustin the underlying model. In this
-            work, we investigate to what extend interpretable data mining can contribute
-            to theunderstanding of linked archaeological data. A case study washeld,
-            which involved the mining of semantic association rules over data sets
-            of increasing levels of knowledgegranularity, followed by the qualitative
-            evaluation of these rules by domain experts. Experiments have shown that
-            theapproach yielded mostly plausible patterns, some of which were seen
-            as highly relevant.'
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: W. X.
-            lastName: Wilcke
-        -   creatorType: author
-            firstName: V.
-            lastName: de Boer
-        -   creatorType: author
-            firstName: F.A.H.
-            lastName: van Harmelen
-        -   creatorType: author
-            firstName: M.T.M.
-            lastName: de Kleijn
-        -   creatorType: author
-            firstName: M.
-            lastName: Wansleeben
-        -   creatorType: author
-            firstName: Harry
-            lastName: Dimitropoulos
-        -   creatorType: author
-            firstName: Holly
-            lastName: Wright
-        date: '2017'
-        dateAdded: '2023-03-24T12:41:25Z'
-        dateModified: '2023-03-24T12:41:25Z'
-        edition: ''
-        extra: ''
-        itemType: book
-        key: MHUZJB6A
-        language: ''
-        libraryCatalog: ''
-        numPages: ''
-        numberOfVolumes: ''
-        place: ''
-        publisher: Ariadne
-        relations: {}
-        rights: ''
-        series: ARIADNE
-        seriesNumber: D16.3
-        shortTitle: ''
-        tags: []
-        title: 'ARIADNE: Final Report on Data Mining'
-        url: ''
-        version: 137
-        volume: ''
-    key: MHUZJB6A
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/MHUZJB6A
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/MHUZJB6A
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Wilcke et al.
-        numChildren: 0
-        parsedDate: '2017'
-    version: 137
--   data:
         ISBN: 978-3-319-68287-7
         abstractNote: The Web of Data is an inherently distributed environment where
             ontologies are located in (physically) remote locations and are subject
@@ -20194,6 +21960,104 @@
         parsedDate: '2020'
     version: 132
 -   data:
+        DOI: 10.1145/3350546.3352501
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Floris den
+            lastName: Hengst
+        -   creatorType: author
+            firstName: Mark
+            lastName: Hoogendoorn
+        -   creatorType: author
+            firstName: Frank van
+            lastName: Harmelen
+        -   creatorType: author
+            firstName: Joost
+            lastName: Bosman
+        -   creatorType: editor
+            firstName: Payam M.
+            lastName: Barnaghi
+        -   creatorType: editor
+            firstName: Georg
+            lastName: Gottlob
+        -   creatorType: editor
+            firstName: Yannis
+            lastName: Manolopoulos
+        -   creatorType: editor
+            firstName: Theodoros
+            lastName: Tzouramanis
+        -   creatorType: editor
+            firstName: Athena
+            lastName: Vakali
+        date: '2019'
+        dateAdded: '2023-03-24T12:41:24Z'
+        dateModified: '2023-03-24T12:41:24Z'
+        extra: ''
+        itemType: conferencePaper
+        key: 8LPESXIL
+        language: ''
+        libraryCatalog: ''
+        pages: 59–67
+        place: ''
+        proceedingsTitle: 2019 IEEE/WIC/ACM International Conference on Web Intelligence,
+            WI 2019, Thessaloniki, Greece, October 14-17, 2019
+        publisher: ACM
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags:
+        -   tag: reinforcement learning
+        title: Reinforcement Learning for Personalized Dialogue Management
+        url: https://doi.org/10.1145/3350546.3352501
+        version: 561
+        volume: ''
+    key: 8LPESXIL
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/8LPESXIL
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/8LPESXIL
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: Hengst et al.
+        lastModifiedByUser:
+            id: 12590531
+            links:
+                alternate:
+                    href: https://www.zotero.org/florisdenhengst
+                    type: text/html
+            name: ''
+            username: florisdenhengst
+        numChildren: 0
+        parsedDate: '2019'
+    version: 561
+-   data:
         DOI: 10.1007/978-3-030-61951-0_3
         ISBN: ''
         abstractNote: ''
@@ -21127,162 +22991,6 @@
         parsedDate: '2021'
     version: 130
 -   data:
-        DOI: ''
-        ISSN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Joe
-            lastName: Raad
-        -   creatorType: author
-            firstName: Nathalie
-            lastName: Pernelle
-        -   creatorType: author
-            firstName: Fatiha
-            lastName: Saïs
-        -   creatorType: author
-            firstName: Wouter
-            lastName: Beek
-        -   creatorType: author
-            firstName: Frank van
-            lastName: Harmelen
-        date: '2019'
-        dateAdded: '2023-03-24T12:41:24Z'
-        dateModified: '2023-03-24T12:41:24Z'
-        extra: '_eprint: 1907.10528'
-        issue: ''
-        itemType: journalArticle
-        journalAbbreviation: ''
-        key: XC56BVTT
-        language: ''
-        libraryCatalog: ''
-        pages: ''
-        publicationTitle: CoRR
-        relations: {}
-        rights: ''
-        series: ''
-        seriesText: ''
-        seriesTitle: ''
-        shortTitle: ''
-        tags: []
-        title: 'The sameAs Problem: A Survey on Identity Management in the Web of
-            Data'
-        url: http://arxiv.org/abs/1907.10528
-        version: 129
-        volume: abs/1907.10528
-    key: XC56BVTT
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/XC56BVTT
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/XC56BVTT
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Raad et al.
-        numChildren: 0
-        parsedDate: '2019'
-    version: 129
--   data:
-        DOI: ''
-        ISSN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Luigi
-            lastName: Asprino
-        -   creatorType: author
-            firstName: Wouter
-            lastName: Beek
-        -   creatorType: author
-            firstName: Paolo
-            lastName: Ciancarini
-        -   creatorType: author
-            firstName: Frank van
-            lastName: Harmelen
-        -   creatorType: author
-            firstName: Valentina
-            lastName: Presutti
-        date: '2019'
-        dateAdded: '2023-03-24T12:41:24Z'
-        dateModified: '2023-03-24T12:41:24Z'
-        extra: '_eprint: 1906.08097'
-        issue: ''
-        itemType: journalArticle
-        journalAbbreviation: ''
-        key: RKDSG696
-        language: ''
-        libraryCatalog: ''
-        pages: ''
-        publicationTitle: CoRR
-        relations: {}
-        rights: ''
-        series: ''
-        seriesText: ''
-        seriesTitle: ''
-        shortTitle: ''
-        tags: []
-        title: The Linked Open Data cloud is more abstract, flatter and less linked
-            than you may think!
-        url: http://arxiv.org/abs/1906.08097
-        version: 129
-        volume: abs/1906.08097
-    key: RKDSG696
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/RKDSG696
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/RKDSG696
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Asprino et al.
-        numChildren: 0
-        parsedDate: '2019'
-    version: 129
--   data:
         ISBN: 978-981-13-3145-9
         abstractNote: ''
         accessDate: ''
@@ -21468,177 +23176,6 @@
             name: Michael Cochez
             username: michaelcochez
         creatorSummary: Pan et al.
-        numChildren: 0
-        parsedDate: '2019'
-    version: 129
--   data:
-        ISBN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        creators:
-        -   creatorType: editor
-            firstName: Andreas
-            lastName: Martin
-        -   creatorType: editor
-            firstName: Knut
-            lastName: Hinkelmann
-        -   creatorType: editor
-            firstName: Aurona
-            lastName: Gerber
-        -   creatorType: editor
-            firstName: Doug
-            lastName: Lenat
-        -   creatorType: editor
-            firstName: Frank van
-            lastName: Harmelen
-        -   creatorType: editor
-            firstName: Peter
-            lastName: Clark
-        date: '2019'
-        dateAdded: '2023-03-24T12:41:24Z'
-        dateModified: '2023-03-24T12:41:24Z'
-        edition: ''
-        extra: ''
-        itemType: book
-        key: CEGS6P28
-        language: ''
-        libraryCatalog: ''
-        numPages: ''
-        numberOfVolumes: ''
-        place: ''
-        publisher: CEUR-WS.org
-        relations: {}
-        rights: ''
-        series: CEUR Workshop Proceedings
-        seriesNumber: ''
-        shortTitle: ''
-        tags: []
-        title: Proceedings of the AAAI 2019 Spring Symposium on Combining Machine
-            Learning with Knowledge Engineering (AAAI-MAKE 2019) Stanford University,
-            Palo Alto, California, USA, March 25-27, 2019., Stanford University, Palo
-            Alto, California, USA, March 25-27, 2019
-        url: http://ceur-ws.org/Vol-2350
-        version: 129
-        volume: '2350'
-    key: CEGS6P28
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/CEGS6P28
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/CEGS6P28
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Martin et al.
-        numChildren: 0
-        parsedDate: '2019'
-    version: 129
--   data:
-        DOI: 10.1145/3350546.3352501
-        ISBN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        conferenceName: ''
-        creators:
-        -   creatorType: author
-            firstName: Floris den
-            lastName: Hengst
-        -   creatorType: author
-            firstName: Mark
-            lastName: Hoogendoorn
-        -   creatorType: author
-            firstName: Frank van
-            lastName: Harmelen
-        -   creatorType: author
-            firstName: Joost
-            lastName: Bosman
-        -   creatorType: editor
-            firstName: Payam M.
-            lastName: Barnaghi
-        -   creatorType: editor
-            firstName: Georg
-            lastName: Gottlob
-        -   creatorType: editor
-            firstName: Yannis
-            lastName: Manolopoulos
-        -   creatorType: editor
-            firstName: Theodoros
-            lastName: Tzouramanis
-        -   creatorType: editor
-            firstName: Athena
-            lastName: Vakali
-        date: '2019'
-        dateAdded: '2023-03-24T12:41:24Z'
-        dateModified: '2023-03-24T12:41:24Z'
-        extra: ''
-        itemType: conferencePaper
-        key: 8LPESXIL
-        language: ''
-        libraryCatalog: ''
-        pages: 59–67
-        place: ''
-        proceedingsTitle: 2019 IEEE/WIC/ACM International Conference on Web Intelligence,
-            WI 2019, Thessaloniki, Greece, October 14-17, 2019
-        publisher: ACM
-        relations: {}
-        rights: ''
-        series: ''
-        shortTitle: ''
-        tags: []
-        title: Reinforcement Learning for Personalized Dialogue Management
-        url: https://doi.org/10.1145/3350546.3352501
-        version: 129
-        volume: ''
-    key: 8LPESXIL
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/8LPESXIL
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/8LPESXIL
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Hengst et al.
         numChildren: 0
         parsedDate: '2019'
     version: 129
@@ -22148,83 +23685,6 @@
         parsedDate: '2019'
     version: 128
 -   data:
-        DOI: ''
-        ISSN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: W. X.
-            lastName: Wilcke
-        -   creatorType: author
-            firstName: Peter
-            lastName: Bloem
-        -   creatorType: author
-            firstName: Victor de
-            lastName: Boer
-        -   creatorType: author
-            firstName: R. H. van t
-            lastName: Veer
-        -   creatorType: author
-            firstName: F. A. H. van
-            lastName: Harmelen
-        date: '2020'
-        dateAdded: '2023-03-24T12:41:24Z'
-        dateModified: '2023-03-24T12:41:24Z'
-        extra: '_eprint: 2003.12383'
-        issue: ''
-        itemType: journalArticle
-        journalAbbreviation: ''
-        key: EEEV2NL9
-        language: ''
-        libraryCatalog: ''
-        pages: ''
-        publicationTitle: CoRR
-        relations: {}
-        rights: ''
-        series: ''
-        seriesText: ''
-        seriesTitle: ''
-        shortTitle: ''
-        tags: []
-        title: End-to-End Entity Classification on Multimodal Knowledge Graphs
-        url: https://arxiv.org/abs/2003.12383
-        version: 127
-        volume: abs/2003.12383
-    key: EEEV2NL9
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/EEEV2NL9
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/EEEV2NL9
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Wilcke et al.
-        numChildren: 0
-        parsedDate: '2020'
-    version: 127
--   data:
         ISBN: ''
         abstractNote: ''
         accessDate: ''
@@ -22725,90 +24185,6 @@
         creatorSummary: Akata et al.
         numChildren: 0
         parsedDate: '2020'
-    version: 126
--   data:
-        ISBN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        creators:
-        -   creatorType: editor
-            firstName: Andreas
-            lastName: Martin
-        -   creatorType: editor
-            firstName: Knut
-            lastName: Hinkelmann
-        -   creatorType: editor
-            firstName: Hans-Georg
-            lastName: Fill
-        -   creatorType: editor
-            firstName: Aurona
-            lastName: Gerber
-        -   creatorType: editor
-            firstName: Doug
-            lastName: Lenat
-        -   creatorType: editor
-            firstName: Reinhard
-            lastName: Stolle
-        -   creatorType: editor
-            firstName: Frank van
-            lastName: Harmelen
-        date: '2021'
-        dateAdded: '2023-03-24T12:41:24Z'
-        dateModified: '2023-03-24T12:41:24Z'
-        edition: ''
-        extra: ''
-        itemType: book
-        key: 5BKSK399
-        language: ''
-        libraryCatalog: ''
-        numPages: ''
-        numberOfVolumes: ''
-        place: ''
-        publisher: CEUR-WS.org
-        relations: {}
-        rights: ''
-        series: CEUR Workshop Proceedings
-        seriesNumber: ''
-        shortTitle: ''
-        tags: []
-        title: Proceedings of the AAAI 2021 Spring Symposium on Combining Machine
-            Learning and Knowledge Engineering (AAAI-MAKE 2021), Stanford University,
-            Palo Alto, California, USA, March 22-24, 2021
-        url: http://ceur-ws.org/Vol-2846
-        version: 126
-        volume: '2846'
-    key: 5BKSK399
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/5BKSK399
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/5BKSK399
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Martin et al.
-        numChildren: 0
-        parsedDate: '2021'
     version: 126
 -   data:
         DOI: 10.3233/SW-200410
