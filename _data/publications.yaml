@@ -10,6 +10,286 @@
         conferenceName: ''
         creators:
         -   creatorType: author
+            firstName: Samantha
+            lastName: Visbeek
+        -   creatorType: author
+            firstName: Erman
+            lastName: Acar
+        -   creatorType: author
+            firstName: Floris
+            lastName: den Hengst
+        date: '2023'
+        dateAdded: '2023-11-30T14:21:27Z'
+        dateModified: '2023-11-30T14:27:51Z'
+        extra: ''
+        itemType: conferencePaper
+        key: RA2AFXAJ
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        place: New York
+        proceedingsTitle: Proceedings of the Workshop on Explainable AI in Finance
+            (XAIFIN-23), New York City, November 27, 2023, New York City
+        publisher: ''
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: Explainable Fraud Detection with Deep Symbolic Classification
+        url: http://florisdh.nl/publications/xaifin23.pdf
+        version: 650
+        volume: ''
+    key: RA2AFXAJ
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/RA2AFXAJ
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/RA2AFXAJ
+            type: application/json
+    meta:
+        createdByUser:
+            id: 12590531
+            links:
+                alternate:
+                    href: https://www.zotero.org/florisdenhengst
+                    type: text/html
+            name: ''
+            username: florisdenhengst
+        creatorSummary: Visbeek et al.
+        numChildren: 0
+        parsedDate: '2023'
+    version: 650
+-   data:
+        DOI: 10.48550/ARXIV.2309.01169
+        abstractNote: ''
+        accessDate: '2023-11-30T13:51:28Z'
+        archive: ''
+        archiveID: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: W. X.
+            lastName: Wilcke
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        -   creatorType: author
+            firstName: Victor de
+            lastName: Boer
+        -   creatorType: author
+            firstName: R. H. van t
+            lastName: Veer
+        date: '2023'
+        dateAdded: '2023-11-30T14:27:07Z'
+        dateModified: '2023-11-30T14:27:07Z'
+        extra: 'arXiv: 2309.01169'
+        genre: ''
+        itemType: preprint
+        key: 38BQ4PN2
+        language: ''
+        libraryCatalog: DBLP Computer Science Bibliography
+        place: ''
+        relations: {}
+        repository: ''
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: End-to-End Learning on Multimodal Knowledge Graphs
+        url: https://doi.org/10.48550/arXiv.2309.01169
+        version: 648
+    key: 38BQ4PN2
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/38BQ4PN2
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/38BQ4PN2
+            type: application/json
+    meta:
+        createdByUser:
+            id: 2233210
+            links:
+                alternate:
+                    href: https://www.zotero.org/wxwilcke
+                    type: text/html
+            name: ''
+            username: wxwilcke
+        creatorSummary: Wilcke et al.
+        numChildren: 0
+        parsedDate: '2023'
+    version: 648
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Xander
+            lastName: Wilcke
+        -   creatorType: author
+            firstName: Tobias
+            lastName: Kuhn
+        date: '2023'
+        dateAdded: '2023-11-30T14:26:55Z'
+        dateModified: '2023-11-30T14:26:55Z'
+        extra: ''
+        itemType: conferencePaper
+        key: 6845TZ96
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        place: ''
+        proceedingsTitle: Proceedings of the 5th Symposium on Multidisciplinary International
+            Symposium on Disinformation in Open Online Media
+        publisher: ''
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: Analysing Political Bias of News Outlets by Deep Clustering Social
+            Media Posts
+        url: ''
+        version: 647
+        volume: ''
+    key: 6845TZ96
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/6845TZ96
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/6845TZ96
+            type: application/json
+    meta:
+        createdByUser:
+            id: 2233210
+            links:
+                alternate:
+                    href: https://www.zotero.org/wxwilcke
+                    type: text/html
+            name: ''
+            username: wxwilcke
+        creatorSummary: Wilcke and Kuhn
+        numChildren: 0
+        parsedDate: '2023'
+    version: 647
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Gideon
+            lastName: Rouwendaal
+        -   creatorType: author
+            firstName: Xander
+            lastName: Wilcke
+        date: '2023'
+        dateAdded: '2023-11-30T14:26:25Z'
+        dateModified: '2023-11-30T14:26:25Z'
+        extra: ''
+        itemType: conferencePaper
+        key: XSI5TH5Z
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        place: ''
+        proceedingsTitle: Proceedings of the Belgium Netherlands Artificial Intelligence
+            Conference
+        publisher: ''
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: 'Time2vec: A Generative Model for Timestamps Representation Learning'
+        url: ''
+        version: 646
+        volume: ''
+    key: XSI5TH5Z
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/XSI5TH5Z
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/XSI5TH5Z
+            type: application/json
+    meta:
+        createdByUser:
+            id: 2233210
+            links:
+                alternate:
+                    href: https://www.zotero.org/wxwilcke
+                    type: text/html
+            name: ''
+            username: wxwilcke
+        creatorSummary: Rouwendaal and Wilcke
+        numChildren: 0
+        parsedDate: '2023'
+    version: 646
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
             firstName: Jiarui
             lastName: Zhang
         -   creatorType: author
