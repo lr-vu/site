@@ -1,5 +1,247 @@
 -   data:
         DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: NeurIPS
+        creators:
+        -   creatorType: author
+            firstName: Emile van
+            lastName: Krieken
+        -   creatorType: author
+            firstName: Thiviyan
+            lastName: Thanapalasingam
+        -   creatorType: author
+            firstName: Jakub M.
+            lastName: Tomczak
+        -   creatorType: author
+            firstName: Frank van
+            lastName: Harmelen
+        -   creatorType: author
+            firstName: Annette ten
+            lastName: Teije
+        date: '2023'
+        dateAdded: '2023-11-30T10:59:58Z'
+        dateModified: '2023-11-30T11:02:33Z'
+        extra: ''
+        itemType: conferencePaper
+        key: AD7HX877
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        place: New Orleans
+        proceedingsTitle: 'Advances in Neural Information Processing Systems 35: Annual
+            Conference on Neural Information Processing Systems 2023, NeurIPS 2023'
+        publisher: ''
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: 'A-NeSI: A Scalable Approximate Method for Probabilistic Neurosymbolic
+            Inference'
+        url: ''
+        version: 605
+        volume: ''
+    key: AD7HX877
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/AD7HX877
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/AD7HX877
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Krieken et al.
+        numChildren: 0
+        parsedDate: '2023'
+    version: 605
+-   data:
+        DOI: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveID: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Nikolaos
+            lastName: Kondylidis
+        -   creatorType: author
+            firstName: Jie
+            lastName: Zou
+        -   creatorType: author
+            firstName: Evangelos
+            lastName: Kanoulas
+        date: '2021'
+        dateAdded: '2023-11-30T10:51:23Z'
+        dateModified: '2023-11-30T10:51:49Z'
+        extra: 'arXiv: 2103.08733'
+        genre: ''
+        itemType: preprint
+        key: V8JWE7G3
+        language: ''
+        libraryCatalog: ''
+        place: ''
+        relations: {}
+        repository: ''
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: Category Aware Explainable Conversational Recommendation
+        url: https://arxiv.org/abs/2103.08733
+        version: 592
+    key: V8JWE7G3
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/V8JWE7G3
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/V8JWE7G3
+            type: application/json
+    meta:
+        createdByUser:
+            id: 8033258
+            links:
+                alternate:
+                    href: https://www.zotero.org/kondilidisn
+                    type: text/html
+            name: ''
+            username: kondilidisn
+        creatorSummary: Kondylidis et al.
+        numChildren: 0
+        parsedDate: '2021'
+    version: 592
+-   data:
+        DOI: 10.1007/978-3-031-11609-4_39
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Nikolaos
+            lastName: Kondylidis
+        -   creatorType: editor
+            firstName: Paul
+            lastName: Groth
+        -   creatorType: editor
+            firstName: Anisa
+            lastName: Rula
+        -   creatorType: editor
+            firstName: Jodi
+            lastName: Schneider
+        -   creatorType: editor
+            firstName: Ilaria
+            lastName: Tiddi
+        -   creatorType: editor
+            firstName: Elena
+            lastName: Simperl
+        -   creatorType: editor
+            firstName: Panos
+            lastName: Alexopoulos
+        -   creatorType: editor
+            firstName: Rinke
+            lastName: Hoekstra
+        -   creatorType: editor
+            firstName: Mehwish
+            lastName: Alam
+        -   creatorType: editor
+            firstName: Anastasia
+            lastName: Dimou
+        -   creatorType: editor
+            firstName: Minna
+            lastName: Tamper
+        date: '2022'
+        dateAdded: '2023-11-30T10:46:04Z'
+        dateModified: '2023-11-30T10:46:04Z'
+        extra: ''
+        itemType: conferencePaper
+        key: UGJ7M2A4
+        language: ''
+        libraryCatalog: ''
+        pages: 252–263
+        place: ''
+        proceedingsTitle: 'The Semantic Web: ESWC 2022 Satellite Events - Hersonissos,
+            Crete, Greece, May 29 - June 2, 2022, Proceedings'
+        publisher: Springer
+        relations: {}
+        rights: ''
+        series: Lecture Notes in Computer Science
+        shortTitle: ''
+        tags: []
+        title: Using Referential Language Games for Task-oriented Ontology Alignment
+        url: https://doi.org/10.1007/978-3-031-11609-4\_39
+        version: 590
+        volume: '13384'
+    key: UGJ7M2A4
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/UGJ7M2A4
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/UGJ7M2A4
+            type: application/json
+    meta:
+        createdByUser:
+            id: 8033258
+            links:
+                alternate:
+                    href: https://www.zotero.org/kondilidisn
+                    type: text/html
+            name: ''
+            username: kondilidisn
+        creatorSummary: Kondylidis
+        numChildren: 0
+        parsedDate: '2022'
+    version: 590
+-   data:
+        DOI: ''
         abstractNote: ''
         accessDate: ''
         archive: ''
