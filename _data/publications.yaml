@@ -1,4 +1,175 @@
 -   data:
+        DOI: 10.1145/3587259.3627557
+        ISBN: '9798400701412'
+        abstractNote: ''
+        accessDate: '2023-11-30T22:54:57Z'
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: 'K-CAP ''23: Knowledge Capture Conference 2023'
+        creators:
+        -   creatorType: author
+            firstName: Inès
+            lastName: Blin
+        -   creatorType: author
+            firstName: Lise
+            lastName: Stork
+        -   creatorType: author
+            firstName: Laura
+            lastName: Spillner
+        -   creatorType: author
+            firstName: Carlo
+            lastName: Santagiustina
+        date: '2023-12-05'
+        dateAdded: '2023-11-30T23:28:16Z'
+        dateModified: '2023-11-30T23:28:16Z'
+        extra: ''
+        itemType: conferencePaper
+        key: IK2CMHJW
+        language: en
+        libraryCatalog: DOI.org (Crossref)
+        pages: 166-174
+        place: Pensacola FL USA
+        proceedingsTitle: Proceedings of the 12th Knowledge Capture Conference 2023
+        publisher: ACM
+        relations: {}
+        rights: All rights reserved
+        series: ''
+        shortTitle: OKG
+        tags: []
+        title: 'OKG: A Knowledge Graph for Fine-grained Understanding of Social Media
+            Discourse on Inequality'
+        url: https://dl.acm.org/doi/10.1145/3587259.3627557
+        version: 653
+        volume: ''
+    key: IK2CMHJW
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/IK2CMHJW
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/IK2CMHJW
+            type: application/json
+    meta:
+        createdByUser:
+            id: 7770939
+            links:
+                alternate:
+                    href: https://www.zotero.org/inesblin
+                    type: text/html
+            name: ''
+            username: inesblin
+        creatorSummary: Blin et al.
+        numChildren: 0
+        parsedDate: '2023-12-05'
+    version: 653
+-   data:
+        ISBN: 978-3-031-11608-7 978-3-031-11609-4
+        abstractNote: ''
+        accessDate: '2023-11-30T22:54:06Z'
+        archive: ''
+        archiveLocation: ''
+        bookTitle: 'The Semantic Web: ESWC 2022 Satellite Events'
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: editor
+            firstName: Paul
+            lastName: Groth
+        -   creatorType: editor
+            firstName: Anisa
+            lastName: Rula
+        -   creatorType: editor
+            firstName: Jodi
+            lastName: Schneider
+        -   creatorType: editor
+            firstName: Ilaria
+            lastName: Tiddi
+        -   creatorType: editor
+            firstName: Elena
+            lastName: Simperl
+        -   creatorType: editor
+            firstName: Panos
+            lastName: Alexopoulos
+        -   creatorType: editor
+            firstName: Rinke
+            lastName: Hoekstra
+        -   creatorType: editor
+            firstName: Mehwish
+            lastName: Alam
+        -   creatorType: editor
+            firstName: Anastasia
+            lastName: Dimou
+        -   creatorType: editor
+            firstName: Minna
+            lastName: Tamper
+        -   creatorType: author
+            firstName: Inès
+            lastName: Blin
+        date: '2022'
+        dateAdded: '2023-11-30T23:28:13Z'
+        dateModified: '2023-11-30T23:28:13Z'
+        edition: ''
+        extra: 'Series Title: Lecture Notes in Computer Science
+
+            DOI: 10.1007/978-3-031-11609-4_38'
+        itemType: bookSection
+        key: SD2Q7EU5
+        language: en
+        libraryCatalog: DOI.org (Crossref)
+        numberOfVolumes: ''
+        pages: 234-251
+        place: Cham
+        publisher: Springer International Publishing
+        relations: {}
+        rights: All rights reserved
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: Building Narrative Structures from Knowledge Graphs
+        url: https://link.springer.com/10.1007/978-3-031-11609-4_38
+        version: 651
+        volume: '13384'
+    key: SD2Q7EU5
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/SD2Q7EU5
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/SD2Q7EU5
+            type: application/json
+    meta:
+        createdByUser:
+            id: 7770939
+            links:
+                alternate:
+                    href: https://www.zotero.org/inesblin
+                    type: text/html
+            name: ''
+            username: inesblin
+        creatorSummary: Blin
+        numChildren: 1
+        parsedDate: '2022'
+    version: 651
+-   data:
         DOI: ''
         ISBN: ''
         abstractNote: ''
