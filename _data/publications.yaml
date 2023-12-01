@@ -1,4 +1,79 @@
 -   data:
+        DOI: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveID: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Taraneh
+            lastName: Younesian
+        -   creatorType: author
+            firstName: Thiviyan
+            lastName: Thanapalasingam
+        -   creatorType: author
+            firstName: Emile
+            lastName: van Krieken
+        -   creatorType: author
+            firstName: Daniel
+            lastName: Daza
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        date: '2023'
+        dateAdded: '2023-12-01T09:37:11Z'
+        dateModified: '2023-12-01T09:43:45Z'
+        extra: arXiv:2310.03399
+        genre: ''
+        itemType: preprint
+        key: VRJFKGT5
+        language: ''
+        libraryCatalog: ''
+        place: ''
+        relations: {}
+        repository: ''
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: 'GRAPES: Learning to Sample Graphs for Scalable Graph Neural Networks'
+        url: https://arxiv.org/abs/2310.03399
+        version: 668
+    key: VRJFKGT5
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/VRJFKGT5
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/VRJFKGT5
+            type: application/json
+    meta:
+        createdByUser:
+            id: 13137047
+            links:
+                alternate:
+                    href: https://www.zotero.org/tyounesian
+                    type: text/html
+            name: ''
+            username: tyounesian
+        creatorSummary: Younesian et al.
+        numChildren: 0
+        parsedDate: '2023'
+    version: 668
+-   data:
         DOI: 10.1145/3587259.3627557
         ISBN: '9798400701412'
         abstractNote: ''
