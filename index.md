@@ -21,12 +21,17 @@ dark: true
     {% endcomment %}
 
     <dl>
+        <dt>November 29-30, 2023</dt>
+            <dd> Dimitrios Alivanistos, Daniel Daza, Xander Wilcke, Ruud van Bakel, Taewoon Kim, Yannick Brunink, and Michael Cochez of the L&R group, together with Shujian Yu from the CQD group, and Thom Pijnenburg
+                from Elsevier  hosted the  <a href="https://logams.github.io/">Learning on Graphs Amsterdam meet-up</a>.
+                The event took place in the Elsevier office in Amsterdam with help of the <a href="https://discoverylab.ai/">Discovery Lab</a>. 
+                It included talks and posters by Taraneh Younesian, Selene Baez Santamaria, and Daniel Daza. 
+            </dd>
         <dt>October 23, 2023</dt>
             <dd>Daniel Daza and Michael Cochez gave a tutorial at the <a href="https://uobevents.eventsair.com/cikm2023/">CIKM 2023</a> conference on 
             Reasoning beyond Triples: Recent Advances in Knowledge Graph Embeddings
             <a href="https://kg-beyond-triple.github.io/">https://kg-beyond-triple.github.io/</a>
             </dd>
-
         <dt>September 13, 2023</dt>
             <dd>Michael Cochez gave a keynote talk at the <a href="http://dl4ld2023.mruni.eu/">3rd Workshop DL4LD: Addressing Deep Learning, Relation Extraction, and Linguistic Data</a> </dd>
             <dt>September 1, 2023</dt>
