@@ -28,7 +28,7 @@
             lastName: Hoogendoorn
         date: 12/2023
         dateAdded: '2023-12-02T13:36:42Z'
-        dateModified: '2023-12-02T13:36:50Z'
+        dateModified: '2023-12-04T07:43:52Z'
         extra: ''
         issue: ''
         itemType: journalArticle
@@ -45,12 +45,13 @@
         seriesTitle: ''
         shortTitle: ''
         tags:
+        -   tag: clinical guidelines
         -   tag: health
         -   tag: reinforcement learning
         title: Guideline-informed reinforcement learning for mechanical ventilation
             in critical care
         url: https://linkinghub.elsevier.com/retrieve/pii/S0933365723002567
-        version: 671
+        version: 673
         volume: ''
     key: LP5U4DBG
     library:
@@ -80,7 +81,78 @@
         creatorSummary: Den Hengst et al.
         numChildren: 0
         parsedDate: '2023'
-    version: 671
+    version: 673
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Samantha
+            lastName: Visbeek
+        -   creatorType: author
+            firstName: Erman
+            lastName: Acar
+        -   creatorType: author
+            firstName: Floris
+            lastName: den Hengst
+        date: '2023'
+        dateAdded: '2023-11-30T14:21:27Z'
+        dateModified: '2023-12-04T07:42:27Z'
+        extra: ''
+        itemType: conferencePaper
+        key: RA2AFXAJ
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        place: New York
+        proceedingsTitle: Proceedings of the Workshop on Explainable AI in Finance
+            (XAIFIN-23), New York City, November 27, 2023, New York City
+        publisher: ''
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: Explainable Fraud Detection with Deep Symbolic Classification
+        url: https://arxiv.org/pdf/2312.00586.pdf
+        version: 672
+        volume: ''
+    key: RA2AFXAJ
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/RA2AFXAJ
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/RA2AFXAJ
+            type: application/json
+    meta:
+        createdByUser:
+            id: 12590531
+            links:
+                alternate:
+                    href: https://www.zotero.org/florisdenhengst
+                    type: text/html
+            name: ''
+            username: florisdenhengst
+        creatorSummary: Visbeek et al.
+        numChildren: 0
+        parsedDate: '2023'
+    version: 672
 -   data:
         DOI: ''
         abstractNote: ''
@@ -327,77 +399,6 @@
         numChildren: 1
         parsedDate: '2022'
     version: 651
--   data:
-        DOI: ''
-        ISBN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        conferenceName: ''
-        creators:
-        -   creatorType: author
-            firstName: Samantha
-            lastName: Visbeek
-        -   creatorType: author
-            firstName: Erman
-            lastName: Acar
-        -   creatorType: author
-            firstName: Floris
-            lastName: den Hengst
-        date: '2023'
-        dateAdded: '2023-11-30T14:21:27Z'
-        dateModified: '2023-11-30T14:27:51Z'
-        extra: ''
-        itemType: conferencePaper
-        key: RA2AFXAJ
-        language: ''
-        libraryCatalog: ''
-        pages: ''
-        place: New York
-        proceedingsTitle: Proceedings of the Workshop on Explainable AI in Finance
-            (XAIFIN-23), New York City, November 27, 2023, New York City
-        publisher: ''
-        relations: {}
-        rights: ''
-        series: ''
-        shortTitle: ''
-        tags: []
-        title: Explainable Fraud Detection with Deep Symbolic Classification
-        url: http://florisdh.nl/publications/xaifin23.pdf
-        version: 650
-        volume: ''
-    key: RA2AFXAJ
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/RA2AFXAJ
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/RA2AFXAJ
-            type: application/json
-    meta:
-        createdByUser:
-            id: 12590531
-            links:
-                alternate:
-                    href: https://www.zotero.org/florisdenhengst
-                    type: text/html
-            name: ''
-            username: florisdenhengst
-        creatorSummary: Visbeek et al.
-        numChildren: 0
-        parsedDate: '2023'
-    version: 650
 -   data:
         DOI: 10.48550/ARXIV.2309.01169
         abstractNote: ''
