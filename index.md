@@ -27,6 +27,8 @@ dark: true
                 The event took place in the Elsevier office in Amsterdam with help of the <a href="https://discoverylab.ai/">Discovery Lab</a>. 
                 It included talks and posters by Taraneh Younesian, Selene Baez Santamaria, and Daniel Daza. 
             </dd>
+        <dt>November 24, 2023</dt>
+            <dd>Andreas gave an invited talk for the <a href="https://iis.uibk.ac.at/"> Intelligent and Interactive Systems group </a> at the University of Innsbruck.</dd>
         <dt>October 23, 2023</dt>
             <dd>Daniel Daza and Michael Cochez gave a tutorial at the <a href="https://uobevents.eventsair.com/cikm2023/">CIKM 2023</a> conference on 
             Reasoning beyond Triples: Recent Advances in Knowledge Graph Embeddings
