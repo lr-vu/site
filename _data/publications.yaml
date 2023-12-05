@@ -1,4 +1,252 @@
 -   data:
+        DOI: 10.3389/FNINF.2022.1025847
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Robin
+            lastName: Weiler
+        -   creatorType: author
+            firstName: Marina
+            lastName: Diachenko
+        -   creatorType: author
+            firstName: Erika L.
+            lastName: Juarez-Martinez
+        -   creatorType: author
+            firstName: Arthur Ervin
+            lastName: Avramiea
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        -   creatorType: author
+            firstName: Klaus
+            lastName: Linkenkaer-Hansen
+        date: '2022'
+        dateAdded: '2023-12-05T14:47:54Z'
+        dateModified: '2023-12-05T14:48:07Z'
+        extra: ''
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: 5GUVF4GE
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        publicationTitle: Frontiers Neuroinformatics
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags:
+        -   tag: eeg
+        -   tag: neuroimaging
+        -   tag: tools
+        title: 'Robin''s Viewer: Using deep-learning predictions to assist EEG annotation'
+        url: https://doi.org/10.3389/fninf.2022.1025847
+        version: 713
+        volume: '16'
+    key: 5GUVF4GE
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/5GUVF4GE
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/5GUVF4GE
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: Weiler et al.
+        numChildren: 0
+        parsedDate: '2022'
+    version: 713
+-   data:
+        DOI: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveID: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Taraneh
+            lastName: Younesian
+        -   creatorType: author
+            firstName: Thiviyan
+            lastName: Thanapalasingam
+        -   creatorType: author
+            firstName: Emile
+            lastName: van Krieken
+        -   creatorType: author
+            firstName: Daniel
+            lastName: Daza
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        date: '2023'
+        dateAdded: '2023-12-01T09:37:11Z'
+        dateModified: '2023-12-05T14:46:33Z'
+        extra: arXiv:2310.03399
+        genre: ''
+        itemType: preprint
+        key: VRJFKGT5
+        language: ''
+        libraryCatalog: ''
+        place: ''
+        relations: {}
+        repository: ''
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags:
+        -   tag: gflownets
+        -   tag: graph learning
+        -   tag: learning
+        -   tag: sampling
+        title: 'GRAPES: Learning to Sample Graphs for Scalable Graph Neural Networks'
+        url: https://arxiv.org/abs/2310.03399
+        version: 710
+    key: VRJFKGT5
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/VRJFKGT5
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/VRJFKGT5
+            type: application/json
+    meta:
+        createdByUser:
+            id: 13137047
+            links:
+                alternate:
+                    href: https://www.zotero.org/tyounesian
+                    type: text/html
+            name: ''
+            username: tyounesian
+        creatorSummary: Younesian et al.
+        lastModifiedByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        numChildren: 0
+        parsedDate: '2023'
+    version: 710
+-   data:
+        DOI: ''
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Thiviyan
+            lastName: Thanapalasingam
+        -   creatorType: author
+            firstName: Emile van
+            lastName: Krieken
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        -   creatorType: author
+            firstName: Paul
+            lastName: Groth
+        date: '2023'
+        dateAdded: '2023-12-05T14:45:06Z'
+        dateModified: '2023-12-05T14:45:42Z'
+        extra: ''
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: PIP6ZAHZ
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        publicationTitle: preprint
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags:
+        -   tag: datasets
+        -   tag: generative modeling
+        -   tag: graph learning
+        -   tag: tasks
+        title: 'IntelliGraphs: Datasets for Benchmarking Knowledge Graph Generation'
+        url: https://doi.org/10.48550/arXiv.2307.06698
+        version: 709
+        volume: ''
+    key: PIP6ZAHZ
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/PIP6ZAHZ
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/PIP6ZAHZ
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: Thanapalasingam et al.
+        numChildren: 0
+        parsedDate: '2023'
+    version: 709
+-   data:
         DOI: 10.48550/ARXIV.2310.14657
         ISSN: ''
         abstractNote: ''
@@ -667,81 +915,6 @@
         numChildren: 0
         parsedDate: '2023'
     version: 673
--   data:
-        DOI: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveID: ''
-        archiveLocation: ''
-        callNumber: ''
-        citationKey: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Taraneh
-            lastName: Younesian
-        -   creatorType: author
-            firstName: Thiviyan
-            lastName: Thanapalasingam
-        -   creatorType: author
-            firstName: Emile
-            lastName: van Krieken
-        -   creatorType: author
-            firstName: Daniel
-            lastName: Daza
-        -   creatorType: author
-            firstName: Peter
-            lastName: Bloem
-        date: '2023'
-        dateAdded: '2023-12-01T09:37:11Z'
-        dateModified: '2023-12-01T09:43:45Z'
-        extra: arXiv:2310.03399
-        genre: ''
-        itemType: preprint
-        key: VRJFKGT5
-        language: ''
-        libraryCatalog: ''
-        place: ''
-        relations: {}
-        repository: ''
-        rights: ''
-        series: ''
-        seriesNumber: ''
-        shortTitle: ''
-        tags: []
-        title: 'GRAPES: Learning to Sample Graphs for Scalable Graph Neural Networks'
-        url: https://arxiv.org/abs/2310.03399
-        version: 668
-    key: VRJFKGT5
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/VRJFKGT5
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/VRJFKGT5
-            type: application/json
-    meta:
-        createdByUser:
-            id: 13137047
-            links:
-                alternate:
-                    href: https://www.zotero.org/tyounesian
-                    type: text/html
-            name: ''
-            username: tyounesian
-        creatorSummary: Younesian et al.
-        numChildren: 0
-        parsedDate: '2023'
-    version: 668
 -   data:
         DOI: 10.1145/3587259.3627557
         ISBN: '9798400701412'
