@@ -1,4 +1,82 @@
 -   data:
+        DOI: 10.48550/ARXIV.2310.14657
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Stefan F.
+            lastName: Schouten
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        -   creatorType: author
+            firstName: Ilia
+            lastName: Markov
+        -   creatorType: author
+            firstName: Piek
+            lastName: Vossen
+        date: '2023'
+        dateAdded: '2023-12-05T14:42:59Z'
+        dateModified: '2023-12-05T14:43:59Z'
+        extra: ''
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: 8Y35LRBG
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        publicationTitle: EMNLP
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags:
+        -   tag: datasets
+        -   tag: large language models
+        -   tag: nlp
+        -   tag: tasks
+        title: Reasoning about Ambiguous Definite Descriptions
+        url: https://doi.org/10.48550/arXiv.2310.14657
+        version: 705
+        volume: '2024'
+    key: 8Y35LRBG
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/8Y35LRBG
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/8Y35LRBG
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: Schouten et al.
+        numChildren: 0
+        parsedDate: '2023'
+    version: 705
+-   data:
         DOI: ''
         abstractNote: Due to the empirical success of reinforcement learning, an increasing
             number of students study the subject. However, from our practical teaching
