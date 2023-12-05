@@ -1,4 +1,116 @@
 -   data:
+        DOI: ''
+        abstractNote: Due to the empirical success of reinforcement learning, an increasing
+            number of students study the subject. However, from our practical teaching
+            experience, we see students entering the field (bachelor, master and early
+            PhD) often struggle. On the one hand, textbooks and (online) lectures
+            provide the fundamentals, but students find it hard to translate between
+            equations and code. On the other hand, public codebases do provide practical
+            examples, but the implemented algorithms tend to be complex, and the underlying
+            test environments contain multiple reinforcement learning challenges at
+            once. Although this is realistic from a research perspective, it often
+            hinders educational conceptual understanding. To solve this issue we introduce
+            EduGym, a set of educational reinforcement learning environments and associated
+            interactive notebooks tailored for education. Each EduGym environment
+            is specifically designed to illustrate a certain aspect/challenge of reinforcement
+            learning (e.g., exploration, partial observability, stochasticity, etc.),
+            while the associated interactive notebook explains the challenge and its
+            possible solution approaches, connecting equations and code in a single
+            document. An evaluation among RL students and researchers shows 86% of
+            them think EduGym is a useful tool for reinforcement learning education.
+            All notebooks are available from https://sites.google.com/view/edu-gym/home,
+            while the full software package can be installed from https://github.com/RLG-Leiden/edugym.
+        accessDate: '2023-12-05T09:56:09Z'
+        archive: ''
+        archiveID: arXiv:2311.10590
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Thomas M.
+            lastName: Moerland
+        -   creatorType: author
+            firstName: Matthias
+            lastName: Müller-Brockhausen
+        -   creatorType: author
+            firstName: Zhao
+            lastName: Yang
+        -   creatorType: author
+            firstName: Andrius
+            lastName: Bernatavicius
+        -   creatorType: author
+            firstName: Koen
+            lastName: Ponse
+        -   creatorType: author
+            firstName: Tom
+            lastName: Kouwenhoven
+        -   creatorType: author
+            firstName: Andreas
+            lastName: Sauter
+        -   creatorType: author
+            firstName: Michiel
+            lastName: van der Meer
+        -   creatorType: author
+            firstName: Bram
+            lastName: Renting
+        -   creatorType: author
+            firstName: Aske
+            lastName: Plaat
+        date: '2023-11-17'
+        dateAdded: '2023-12-05T09:56:09Z'
+        dateModified: '2023-12-05T09:58:39Z'
+        extra: arXiv:2311.10590 [cs, stat]
+        genre: ''
+        itemType: preprint
+        key: 6RQUZEDZ
+        language: ''
+        libraryCatalog: arXiv.org
+        place: ''
+        relations: {}
+        repository: arXiv
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: EduGym
+        tags:
+        -   tag: machine learning
+        -   tag: preprint
+        -   tag: reinforcement learning
+        title: 'EduGym: An Environment Suite for Reinforcement Learning Education'
+        url: http://arxiv.org/abs/2311.10590
+        version: 699
+    key: 6RQUZEDZ
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/6RQUZEDZ
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/6RQUZEDZ
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11640050
+            links:
+                alternate:
+                    href: https://www.zotero.org/andreassauter
+                    type: text/html
+            name: ''
+            username: andreassauter
+        creatorSummary: Moerland et al.
+        numChildren: 0
+        parsedDate: '2023-11-17'
+    version: 699
+-   data:
         DOI: 10.48550/arXiv.2301.12313
         abstractNote: Answering complex queries on incomplete knowledge graphs is
             a challenging task where a model needs to answer complex logical queries
