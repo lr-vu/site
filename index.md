@@ -22,7 +22,7 @@ dark: true
 
     <dl>
         <dt>November 29-30, 2023</dt>
-            <dd> Dimitrios Alivanistos, Daniel Daza, Xander Wilcke, Ruud van Bakel, Taewoon Kim, Yannick Brunink, and Michael Cochez of the L&R group, together with Shujian Yu from the CQD group, and Thom Pijnenburg
+            <dd> Dimitrios Alivanistos, Daniel Daza, Xander Wilcke, Ruud van Bakel, Taewoon Kim, Yannick Brunink, and Michael Cochez of the L&R group, together with Shujian Yu from the [QDA](https://vu-qda.github.io/) group, and Thom Pijnenburg
                 from Elsevier  hosted the  <a href="https://logams.github.io/">Learning on Graphs Amsterdam meet-up</a>.
                 The event took place in the Elsevier office in Amsterdam with help of the <a href="https://discoverylab.ai/">Discovery Lab</a>. 
                 It included talks and posters by Taraneh Younesian, Selene Baez Santamaria, and Daniel Daza. 
