@@ -1,4 +1,77 @@
 -   data:
+        DOI: https://doi.org/10.48550/arXiv.2312.02317
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveID: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Ruijie
+            lastName: Wang
+        -   creatorType: author
+            firstName: Luca
+            lastName: Rossetto
+        -   creatorType: author
+            firstName: Michael
+            lastName: Cochez
+        -   creatorType: author
+            firstName: Abraham
+            lastName: Bernstein
+        date: '2023'
+        dateAdded: '2023-12-06T09:16:12Z'
+        dateModified: '2023-12-06T09:16:58Z'
+        extra: '_eprint: 2312.02317'
+        genre: ''
+        itemType: preprint
+        key: QYDD5KAV
+        language: ''
+        libraryCatalog: ''
+        place: ''
+        relations: {}
+        repository: ''
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: 'GNN2R: Weakly-Supervised Rationale-Providing Question Answering over
+            Knowledge Graphs'
+        url: ''
+        version: 808
+    key: QYDD5KAV
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/QYDD5KAV
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/QYDD5KAV
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: Wang et al.
+        numChildren: 0
+        parsedDate: '2023'
+    version: 808
+-   data:
         DOI: ''
         ISSN: ''
         abstractNote: "Graph summarization is the process of computing a compact version\
