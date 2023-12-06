@@ -23,6 +23,16 @@ The [Discovery Lab](https://www.discoverylab.ai/)&mdash;a collaboration between 
 
 Discovery lab researchers at L&R have been involved with developing new query embedding methods, representation learning of multimodal data, and building large scale biomedical knowledge graphs.
 
+## Graph-Massivizer
+
+<a class="logo alt" href="https://www.discoverylab.ai/"><img src="/images/projects/Graph-Massivizer.png" title="The logo of the Graph-Massivizer project"></a>
+
+[Graph-Massivizer](https://graph-massivizer.eu/) researches and develops a high-performance, scalable, and sustainable platform for graph processing and reasoning. 
+In the project, the KRR group works on graph machine learning for large graphs, using techniques like distributed graph sampling and summarization.
+We also contribute to graph querying and reasoning, where some correcteness is traded for a large gain in scalability.
+Besides, we investigates ways to work learn on graph streams without re-training the machine learning model.
+All of this is part of a larger whole in which performance modelling, and environmental sustainability tradeoffs are considered across the computing continuum.
+
 ## Humane AI
 
 <a class="logo" href="https://www.humane-ai.eu/"><img src="/images/projects/humane_ai.svg" title="The logo of the Humane AI project"></a>
