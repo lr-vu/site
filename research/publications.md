@@ -33,12 +33,9 @@ to these links.
         </h3>
         <span class="issued {% if current_issued == last_issued %}hidden{% endif%}">{{current_issued}}</span>
         {% if publication.data.creators %}
-        <ul class="authors">
-            {% for author in publication.data.creators %}
-                {% if author.creatorType == 'author' %}
-                    <li>{{author.firstName}} {{author.lastName}}</li>
-                {% endif %}
-            {% endfor %}</ul>
+            <ul class="authors">
+                {% for author in publication.data.creators %}{% if author.creatorType == 'author' %}<li>{{author.firstName}} {{author.lastName}}</li>{% endif %}{% endfor %}
+            </ul>
         {% endif %}
         {% if publication.data.proceedingsTitle %}
         <span class="venue">Published at {{publication.data.proceedingsTitle}}.</span>
