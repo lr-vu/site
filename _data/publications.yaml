@@ -1,4 +1,181 @@
 -   data:
+        DOI: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveID: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Ruijie
+            lastName: Wang
+        -   creatorType: author
+            firstName: Luca
+            lastName: Rossetto
+        -   creatorType: author
+            firstName: Michael
+            lastName: Cochez
+        -   creatorType: author
+            firstName: Abraham
+            lastName: Bernstein
+        date: '2022'
+        dateAdded: '2023-03-24T12:41:58Z'
+        dateModified: '2023-12-06T13:08:05Z'
+        extra: ''
+        genre: ''
+        itemType: preprint
+        key: H8KQQQ3Z
+        language: ''
+        libraryCatalog: ''
+        place: ''
+        relations: {}
+        repository: ''
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: 'QAGCN: A Graph Convolutional Network-based Multi-Relation Question
+            Answering System'
+        url: https://arxiv.org/abs/2206.01818
+        version: 820
+    key: H8KQQQ3Z
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/H8KQQQ3Z
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/H8KQQQ3Z
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: Wang et al.
+        lastModifiedByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        numChildren: 0
+        parsedDate: '2022'
+    version: 820
+-   data:
+        DOI: 10.1145/3487553.3524719
+        ISBN: 978-1-4503-9130-6
+        abstractNote: Training of Relational Graph Convolutional Networks (R-GCN)
+            is a memory intense task. The amount of gradient information that needs
+            to be stored during training for real-world graphs is often too large
+            for the amount of memory available on most GPUs. In this work, we experiment
+            with the use of graph summarization techniques to compress the graph and
+            hence reduce the amount of memory needed. After training the R-GCN on
+            the graph summary, we transfer the weights back to the original graph
+            and attempt to perform inference on it. We obtain reasonable results on
+            the AIFB, MUTAG and AM datasets. Our experiments show that training on
+            the graph summary can yield a comparable or higher accuracy to training
+            on the original graphs. Furthermore, if we take the time to compute the
+            summary out of the equation, we observe that the smaller graph representations
+            obtained with graph summarization methods reduces the computational overhead.
+            However, further experiments are needed to evaluate additional graph summary
+            models and whether our findings also holds true for very large graphs.
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Alessandro
+            lastName: Generale
+        -   creatorType: author
+            firstName: Till
+            lastName: Blume
+        -   creatorType: author
+            firstName: Michael
+            lastName: Cochez
+        date: '2022'
+        dateAdded: '2023-03-24T12:41:58Z'
+        dateModified: '2023-12-06T13:03:33Z'
+        extra: 'event-place: Virtual Event, Lyon, France'
+        itemType: conferencePaper
+        key: 3D4R7SJM
+        language: ''
+        libraryCatalog: ''
+        pages: 1073–1082
+        place: New York, NY, USA
+        proceedingsTitle: International Workshop on Graph Learning at the Webconf
+            2022
+        publisher: Association for Computing Machinery
+        relations: {}
+        rights: ''
+        series: WWW '22
+        shortTitle: ''
+        tags:
+        -   tag: graph neural network
+        -   tag: graph summarization
+        -   tag: scalability
+        title: Scaling R-GCN Training with Graph Summarization
+        url: https://doi.org/10.1145/3487553.3524719
+        version: 819
+        volume: ''
+    key: 3D4R7SJM
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/3D4R7SJM
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/3D4R7SJM
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: Generale et al.
+        lastModifiedByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        numChildren: 1
+        parsedDate: '2022'
+    version: 819
+-   data:
         DOI: 10.1093/BIB/BBAD236
         ISSN: ''
         abstractNote: ''
@@ -13020,80 +13197,6 @@
         parsedDate: '2022'
     version: 157
 -   data:
-        DOI: ''
-        ISBN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        conferenceName: ''
-        creators:
-        -   creatorType: author
-            firstName: Ruijie
-            lastName: Wang
-        -   creatorType: author
-            firstName: Luca
-            lastName: Rossetto
-        -   creatorType: author
-            firstName: Michael
-            lastName: Cochez
-        -   creatorType: author
-            firstName: Abraham
-            lastName: Bernstein
-        date: '2022'
-        dateAdded: '2023-03-24T12:41:58Z'
-        dateModified: '2023-03-24T12:41:58Z'
-        extra: ''
-        itemType: conferencePaper
-        key: H8KQQQ3Z
-        language: ''
-        libraryCatalog: ''
-        pages: ''
-        place: ''
-        proceedingsTitle: arXiv
-        publisher: ''
-        relations: {}
-        rights: ''
-        series: ''
-        shortTitle: ''
-        tags: []
-        title: 'QAGCN: A Graph Convolutional Network-based Multi-Relation Question
-            Answering System'
-        url: https://arxiv.org/abs/2206.01818
-        version: 157
-        volume: ''
-    key: H8KQQQ3Z
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/H8KQQQ3Z
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/H8KQQQ3Z
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Wang et al.
-        numChildren: 0
-        parsedDate: '2022'
-    version: 157
--   data:
         abstractNote: ''
         accessDate: ''
         archive: ''
@@ -13255,93 +13358,6 @@
             username: michaelcochez
         creatorSummary: Barthelemy et al.
         numChildren: 0
-        parsedDate: '2022'
-    version: 156
--   data:
-        DOI: 10.1145/3487553.3524719
-        ISBN: 978-1-4503-9130-6
-        abstractNote: Training of Relational Graph Convolutional Networks (R-GCN)
-            is a memory intense task. The amount of gradient information that needs
-            to be stored during training for real-world graphs is often too large
-            for the amount of memory available on most GPUs. In this work, we experiment
-            with the use of graph summarization techniques to compress the graph and
-            hence reduce the amount of memory needed. After training the R-GCN on
-            the graph summary, we transfer the weights back to the original graph
-            and attempt to perform inference on it. We obtain reasonable results on
-            the AIFB, MUTAG and AM datasets. Our experiments show that training on
-            the graph summary can yield a comparable or higher accuracy to training
-            on the original graphs. Furthermore, if we take the time to compute the
-            summary out of the equation, we observe that the smaller graph representations
-            obtained with graph summarization methods reduces the computational overhead.
-            However, further experiments are needed to evaluate additional graph summary
-            models and whether our findings also holds true for very large graphs.
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        conferenceName: ''
-        creators:
-        -   creatorType: author
-            firstName: Alessandro
-            lastName: Generale
-        -   creatorType: author
-            firstName: Till
-            lastName: Blume
-        -   creatorType: author
-            firstName: Michael
-            lastName: Cochez
-        date: '2022'
-        dateAdded: '2023-03-24T12:41:58Z'
-        dateModified: '2023-03-24T12:41:58Z'
-        extra: 'event-place: Virtual Event, Lyon, France'
-        itemType: conferencePaper
-        key: 3D4R7SJM
-        language: ''
-        libraryCatalog: ''
-        pages: 1073–1082
-        place: New York, NY, USA
-        proceedingsTitle: Companion Proceedings of the Web Conference 2022
-        publisher: Association for Computing Machinery
-        relations: {}
-        rights: ''
-        series: WWW '22
-        shortTitle: ''
-        tags:
-        -   tag: graph neural network
-        -   tag: graph summarization
-        -   tag: scalability
-        title: Scaling R-GCN Training with Graph Summarization
-        url: https://doi.org/10.1145/3487553.3524719
-        version: 156
-        volume: ''
-    key: 3D4R7SJM
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/3D4R7SJM
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/3D4R7SJM
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Generale et al.
-        numChildren: 1
         parsedDate: '2022'
     version: 156
 -   data:
