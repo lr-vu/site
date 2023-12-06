@@ -1,92 +1,6 @@
 -   data:
         DOI: ''
         ISSN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            name: Russa Biswas
-        -   creatorType: author
-            name: Lucie-Aimée Kaffee
-        -   creatorType: author
-            name: Michael Cochez
-        -   creatorType: author
-            name: Stefania Dumbrava
-        -   creatorType: author
-            name: Theis Jendal
-        -   creatorType: author
-            name: Matteo Lissandrini
-        -   creatorType: author
-            name: Vanessa Lopez
-        -   creatorType: author
-            name: Eneldo Loza Menc
-        -   creatorType: author
-            name: Heiko Paulheim
-        -   creatorType: author
-            name: Harald Sack
-        -   creatorType: author
-            name: Edlira Kalemi Vakaj
-        -   creatorType: author
-            name: Gerard de Melo
-        date: 2023-12
-        dateAdded: '2023-12-06T00:25:27Z'
-        dateModified: '2023-12-06T00:29:53Z'
-        extra: ''
-        issue: '1'
-        itemType: journalArticle
-        journalAbbreviation: TGDK
-        key: EH5BMQNY
-        language: ''
-        libraryCatalog: ''
-        pages: ''
-        publicationTitle: Transactions on Graph Data and Knowledge
-        relations: {}
-        rights: ''
-        series: ''
-        seriesText: ''
-        seriesTitle: ''
-        shortTitle: ''
-        tags: []
-        title: 'Knowledge Graph Embeddings: Open Challenges and Opportunities'
-        url: ''
-        version: 800
-        volume: '1'
-    key: EH5BMQNY
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/EH5BMQNY
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/EH5BMQNY
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Russa Biswas et al.
-        numChildren: 0
-        parsedDate: 2023-12
-    version: 800
--   data:
-        DOI: ''
-        ISSN: ''
         abstractNote: "Graph summarization is the process of computing a compact version\
             \ of an input graph while preserving chosen features of its structure.\
             \ \nWe consider semantic graphs where the features include edge labels\
@@ -120,14 +34,17 @@
             firstName: David
             lastName: Richerby
         -   creatorType: author
-            name: Till Blume
+            firstName: Till
+            lastName: Blume
         -   creatorType: author
-            name: Michael Cochez
+            firstName: Michael
+            lastName: Cochez
         -   creatorType: author
-            name: Jannik Rau
+            firstName: Jannik
+            lastName: Rau
         date: 2023-12
         dateAdded: '2023-12-06T00:20:38Z'
-        dateModified: '2023-12-06T00:24:57Z'
+        dateModified: '2023-12-06T08:34:17Z'
         extra: ''
         issue: '1'
         itemType: journalArticle
@@ -146,7 +63,7 @@
         tags: []
         title: Structural Summarization of Semantic Graphs Using Quotients
         url: ''
-        version: 783
+        version: 805
         volume: '1'
     key: 5E4M9ZAE
     library:
@@ -176,7 +93,105 @@
         creatorSummary: Scherp et al.
         numChildren: 0
         parsedDate: 2023-12
-    version: 783
+    version: 805
+-   data:
+        DOI: ''
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Russa
+            lastName: Biswas
+        -   creatorType: author
+            firstName: Lucie-Aimée
+            lastName: Kaffee
+        -   creatorType: author
+            firstName: Michael
+            lastName: Cochez
+        -   creatorType: author
+            firstName: Stefania
+            lastName: Dumbrava
+        -   creatorType: author
+            firstName: Theis
+            lastName: Jendal
+        -   creatorType: author
+            firstName: Matteo
+            lastName: Lissandrini
+        -   creatorType: author
+            firstName: Vanessa
+            lastName: Lopez
+        -   creatorType: author
+            firstName: Eneldo Loza
+            lastName: Menc
+        -   creatorType: author
+            firstName: Heiko
+            lastName: Paulheim
+        -   creatorType: author
+            firstName: Harald
+            lastName: Sack
+        -   creatorType: author
+            firstName: Edlira Kalemi
+            lastName: Vakaj
+        -   creatorType: author
+            firstName: Gerard
+            lastName: de Melo
+        date: 2023-12
+        dateAdded: '2023-12-06T00:25:27Z'
+        dateModified: '2023-12-06T08:34:08Z'
+        extra: ''
+        issue: '1'
+        itemType: journalArticle
+        journalAbbreviation: TGDK
+        key: EH5BMQNY
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        publicationTitle: Transactions on Graph Data and Knowledge
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: 'Knowledge Graph Embeddings: Open Challenges and Opportunities'
+        url: ''
+        version: 804
+        volume: '1'
+    key: EH5BMQNY
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/EH5BMQNY
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/EH5BMQNY
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: Biswas et al.
+        numChildren: 0
+        parsedDate: 2023-12
+    version: 804
 -   data:
         DOI: 10.1186/S12859-023-05451-5
         ISSN: ''
