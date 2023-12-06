@@ -1,4 +1,1109 @@
 -   data:
+        DOI: ''
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            name: Russa Biswas
+        -   creatorType: author
+            name: Lucie-Aimée Kaffee
+        -   creatorType: author
+            name: Michael Cochez
+        -   creatorType: author
+            name: Stefania Dumbrava
+        -   creatorType: author
+            name: Theis Jendal
+        -   creatorType: author
+            name: Matteo Lissandrini
+        -   creatorType: author
+            name: Vanessa Lopez
+        -   creatorType: author
+            name: Eneldo Loza Menc
+        -   creatorType: author
+            name: Heiko Paulheim
+        -   creatorType: author
+            name: Harald Sack
+        -   creatorType: author
+            name: Edlira Kalemi Vakaj
+        -   creatorType: author
+            name: Gerard de Melo
+        date: 2023-12
+        dateAdded: '2023-12-06T00:25:27Z'
+        dateModified: '2023-12-06T00:29:53Z'
+        extra: ''
+        issue: '1'
+        itemType: journalArticle
+        journalAbbreviation: TGDK
+        key: EH5BMQNY
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        publicationTitle: Transactions on Graph Data and Knowledge
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: 'Knowledge Graph Embeddings: Open Challenges and Opportunities'
+        url: ''
+        version: 800
+        volume: '1'
+    key: EH5BMQNY
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/EH5BMQNY
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/EH5BMQNY
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: Russa Biswas et al.
+        numChildren: 0
+        parsedDate: 2023-12
+    version: 800
+-   data:
+        DOI: ''
+        ISSN: ''
+        abstractNote: "Graph summarization is the process of computing a compact version\
+            \ of an input graph while preserving chosen features of its structure.\
+            \ \nWe consider semantic graphs where the features include edge labels\
+            \ and label sets associated with a vertex. Graph summaries are typically\
+            \ much smaller than the original graph. Applications that depend on the\
+            \ preserved features can perform their tasks on the summary, but much\
+            \ faster or with less memory overhead, while producing the same outcome\
+            \ as if they were applied on the original graph. \n\nIn this survey, we\
+            \ focus on structural summaries based on quotients that organize vertices\
+            \ in equivalence classes of shared features.\nStructural summaries are\
+            \ particularly popular for semantic graphs and have the advantage of defining\
+            \ a precise graph-based output. We consider approaches and algorithms\
+            \ for both static and temporal graphs. A common example of quotient-based\
+            \ structural summaries is bisimulation, and we discuss this in detail.\
+            \ While there exist other surveys on graph summarization, to the best\
+            \ of our knowledge, we are the first to bring in a focused discussion\
+            \ on quotients, bisimulation, and their relation. Furthermore, structural\
+            \ summarization naturally connects well with formal logic due to the discrete\
+            \ structures considered. We complete the survey with a brief description\
+            \ of approaches beyond structural summaries."
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Ansgar
+            lastName: Scherp
+        -   creatorType: author
+            firstName: David
+            lastName: Richerby
+        -   creatorType: author
+            name: Till Blume
+        -   creatorType: author
+            name: Michael Cochez
+        -   creatorType: author
+            name: Jannik Rau
+        date: 2023-12
+        dateAdded: '2023-12-06T00:20:38Z'
+        dateModified: '2023-12-06T00:24:57Z'
+        extra: ''
+        issue: '1'
+        itemType: journalArticle
+        journalAbbreviation: TGDK
+        key: 5E4M9ZAE
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        publicationTitle: Transactions on Graph Data and Knowledge
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: Structural Summarization of Semantic Graphs Using Quotients
+        url: ''
+        version: 783
+        volume: '1'
+    key: 5E4M9ZAE
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/5E4M9ZAE
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/5E4M9ZAE
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: Scherp et al.
+        numChildren: 0
+        parsedDate: 2023-12
+    version: 783
+-   data:
+        DOI: 10.1186/S12859-023-05451-5
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Alexandre
+            lastName: Renaux
+        -   creatorType: author
+            firstName: Chloé
+            lastName: Terwagne
+        -   creatorType: author
+            firstName: Michael
+            lastName: Cochez
+        -   creatorType: author
+            firstName: Ilaria
+            lastName: Tiddi
+        -   creatorType: author
+            firstName: Ann
+            lastName: Nowé
+        -   creatorType: author
+            firstName: Tom
+            lastName: Lenaerts
+        date: '2023'
+        dateAdded: '2023-12-06T00:13:19Z'
+        dateModified: '2023-12-06T00:24:18Z'
+        extra: ''
+        issue: '1'
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: IPQYV9GR
+        language: ''
+        libraryCatalog: ''
+        pages: '324'
+        publicationTitle: BMC Bioinformatics
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: A knowledge graph approach to predict and interpret disease-causing
+            gene interactions
+        url: https://doi.org/10.1186/s12859-023-05451-5
+        version: 781
+        volume: '24'
+    key: IPQYV9GR
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/IPQYV9GR
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/IPQYV9GR
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: Renaux et al.
+        numChildren: 0
+        parsedDate: '2023'
+    version: 781
+-   data:
+        DOI: 10.1093/BIB/BBAD236
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Md Rezaul
+            lastName: Karim
+        -   creatorType: author
+            firstName: Tanhim
+            lastName: Islam
+        -   creatorType: author
+            firstName: Md
+            lastName: Shajalal
+        -   creatorType: author
+            firstName: Oya
+            lastName: Beyan
+        -   creatorType: author
+            firstName: Christoph
+            lastName: Lange
+        -   creatorType: author
+            firstName: Michael
+            lastName: Cochez
+        -   creatorType: author
+            firstName: Dietrich
+            lastName: Rebholz-Schuhmann
+        -   creatorType: author
+            firstName: Stefan
+            lastName: Decker
+        date: '2023'
+        dateAdded: '2023-12-06T00:13:37Z'
+        dateModified: '2023-12-06T00:24:12Z'
+        extra: ''
+        issue: '5'
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: 7APUT6ZG
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        publicationTitle: Briefings Bioinformatics
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: 'Explainable AI for Bioinformatics: Methods, Tools and Applications'
+        url: https://doi.org/10.1093/bib/bbad236
+        version: 780
+        volume: '24'
+    key: 7APUT6ZG
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/7APUT6ZG
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/7APUT6ZG
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: Karim et al.
+        numChildren: 0
+        parsedDate: '2023'
+    version: 780
+-   data:
+        DOI: 10.48550/arXiv.2301.12313
+        ISBN: ''
+        abstractNote: "Answering complex queries on incomplete knowledge graphs is\
+            \ a challenging task where a model needs to answer complex logical queries\
+            \ in the presence of missing knowledge. Prior work in the literature has\
+            \ proposed to address this problem by designing architectures trained\
+            \ end-to-end for the complex query answering task with a reasoning process\
+            \ that is hard to interpret while requiring data and resource-intensive\
+            \ training. Other lines of research have proposed re-using simple neural\
+            \ link predictors to answer complex queries, reducing the amount of training\
+            \ data by orders of magnitude while providing interpretable answers. The\
+            \ neural link predictor used in such approaches is not explicitly optimised\
+            \ for the complex query answering task, implying that its scores are not\
+            \ calibrated to interact together. We propose to address these problems\
+            \ via CQD\n, a parameter-efficient score \\emph{adaptation} model optimised\
+            \ to re-calibrate neural link prediction scores for the complex query\
+            \ answering task. While the neural link predictor is frozen, the adaptation\
+            \ component -- which only increases the number of model parameters by\
+            \ \n -- is trained on the downstream complex query answering task. Furthermore,\
+            \ the calibration component enables us to support reasoning over queries\
+            \ that include atomic negations, which was previously impossible with\
+            \ link predictors. In our experiments, CQD\n produces significantly more\
+            \ accurate results than current state-of-the-art methods, improving from\
+            \ \n to \n Mean Reciprocal Rank values averaged across all datasets and\
+            \ query types while using \n of the available training query types. We\
+            \ further show that CQD\n is data-efficient, achieving competitive results\
+            \ with only \n of the complex training queries and robust in out-of-domain\
+            \ evaluations. Source code and datasets are available at https://github.com/EdinburghNLP/adaptive-cqd."
+        accessDate: ''
+        archive: http://arxiv.org/abs/2301.12313
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: NeurIPS 2023
+        creators:
+        -   creatorType: author
+            firstName: Erik
+            lastName: Arakelyan
+        -   creatorType: author
+            firstName: Pasquale
+            lastName: Minervini
+        -   creatorType: author
+            firstName: Daniel
+            lastName: Daza
+        -   creatorType: author
+            firstName: Michael
+            lastName: Cochez
+        -   creatorType: author
+            firstName: Isabelle
+            lastName: Augenstein
+        date: '2023-07-11'
+        dateAdded: '2023-12-04T12:34:56Z'
+        dateModified: '2023-12-06T00:20:14Z'
+        extra: arXiv:2301.12313 [cs]
+        itemType: conferencePaper
+        key: ZSIPXSH2
+        language: ''
+        libraryCatalog: arXiv.org
+        pages: ''
+        place: New Orleans
+        proceedingsTitle: ''
+        publisher: OpenReview.net
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags:
+        -   tag: Computer Science - Artificial Intelligence
+            type: 1
+        -   tag: Computer Science - Logic in Computer Science
+            type: 1
+        -   tag: Computer Science - Machine Learning
+            type: 1
+        -   tag: Computer Science - Neural and Evolutionary Computing
+            type: 1
+        title: Adapting Neural Link Predictors for Data-Efficient Complex Query Answering
+        url: https://openreview.net/forum?id=1G7CBp8o7L
+        version: 770
+        volume: ''
+    key: ZSIPXSH2
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/ZSIPXSH2
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/ZSIPXSH2
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10460453
+            links:
+                alternate:
+                    href: https://www.zotero.org/dfdazac
+                    type: text/html
+            name: ''
+            username: dfdazac
+        creatorSummary: Arakelyan et al.
+        lastModifiedByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        numChildren: 0
+        parsedDate: '2023-07-11'
+    version: 770
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: Wikidata, a collaborative knowledge base for structured data,
+            empowers both human and machine users to contribute and access information.
+            Its main role is in supporting Wikimedia projects by acting as the central
+            storage database for the Wikimedia movement. To optimize the manual process
+            of adding new facts, Wikidata utilizes the association rule-based PropertySuggester
+            tool. However, a recent paper introduced the SchemaTree, a novel approach
+            that surpasses the state-of-the-art PropertySuggester in all performance
+            metrics. The new recommender employs a trie-based method and frequentist
+            inference to efficiently learn and represent property set probabilities
+            within RDF graphs. In this paper, we adapt that recommendation approach,
+            to recommend qualifiers. Specifically, we want to find out whether the
+            recommendation can be done using co-occurrence information of the qualifiers,
+            or whether type information of the item and the value of statements improves
+            performance. We found that the qualifier recommender that uses co-occurring
+            qualifiers and type information leads to the best performance.
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: The 4th Wikidata Workshop @ ISWC 2023
+        creators:
+        -   creatorType: author
+            firstName: Andrei Mihai
+            lastName: Ducu
+        -   creatorType: author
+            firstName: Michael
+            lastName: Cochez
+        date: '2023-11-07'
+        dateAdded: '2023-12-06T00:14:51Z'
+        dateModified: '2023-12-06T00:17:41Z'
+        extra: ''
+        itemType: conferencePaper
+        key: FUHR9V3F
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        place: Athens, Greece
+        proceedingsTitle: ''
+        publisher: ''
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: Qualifier Recommendation for Wikidata
+        url: https://wikidataworkshop.github.io/2023/#mu-sessions
+        version: 762
+        volume: ''
+    key: FUHR9V3F
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/FUHR9V3F
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/FUHR9V3F
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: Ducu and Cochez
+        numChildren: 0
+        parsedDate: '2023-11-07'
+    version: 762
+-   data:
+        DOI: 10.1145/3583780.3615294
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Bo
+            lastName: Xiong
+        -   creatorType: author
+            firstName: Mojtaba
+            lastName: Nayyeri
+        -   creatorType: author
+            firstName: Daniel
+            lastName: Daza
+        -   creatorType: author
+            firstName: Michael
+            lastName: Cochez
+        -   creatorType: editor
+            firstName: Ingo
+            lastName: Frommholz
+        -   creatorType: editor
+            firstName: Frank
+            lastName: Hopfgartner
+        -   creatorType: editor
+            firstName: Mark
+            lastName: Lee
+        -   creatorType: editor
+            firstName: Michael
+            lastName: Oakes
+        -   creatorType: editor
+            firstName: Mounia
+            lastName: Lalmas
+        -   creatorType: editor
+            firstName: Min
+            lastName: Zhang
+        -   creatorType: editor
+            firstName: Rodrygo L. T.
+            lastName: Santos
+        date: '2023'
+        dateAdded: '2023-12-06T00:12:09Z'
+        dateModified: '2023-12-06T00:12:09Z'
+        extra: ''
+        itemType: conferencePaper
+        key: CAQRS9DS
+        language: ''
+        libraryCatalog: ''
+        pages: 5228–5231
+        place: ''
+        proceedingsTitle: Proceedings of the 32nd ACM International Conference on
+            Information and Knowledge Management, CIKM 2023, Birmingham, United Kingdom,
+            October 21-25, 2023
+        publisher: ACM
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: 'Reasoning beyond Triples: Recent Advances in Knowledge Graph Embeddings'
+        url: https://doi.org/10.1145/3583780.3615294
+        version: 750
+        volume: ''
+    key: CAQRS9DS
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/CAQRS9DS
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/CAQRS9DS
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: Xiong et al.
+        numChildren: 0
+        parsedDate: '2023'
+    version: 750
+-   data:
+        DOI: 10.1109/COMPSAC57700.2023.00224
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Martin
+            lastName: Molan
+        -   creatorType: author
+            firstName: Junaid Ahmed
+            lastName: Khan
+        -   creatorType: author
+            firstName: Andrea
+            lastName: Bartolini
+        -   creatorType: author
+            firstName: Roberta
+            lastName: Turra
+        -   creatorType: author
+            firstName: Giorgio
+            lastName: Pedrazzi
+        -   creatorType: author
+            firstName: Michael
+            lastName: Cochez
+        -   creatorType: author
+            firstName: Alexandru
+            lastName: Iosup
+        -   creatorType: author
+            firstName: Dumitru
+            lastName: Roman
+        -   creatorType: author
+            firstName: Joze M.
+            lastName: Rozanec
+        -   creatorType: author
+            firstName: Ana Lucia
+            lastName: Varbanescu
+        -   creatorType: author
+            firstName: Radu
+            lastName: Prodan
+        -   creatorType: editor
+            firstName: Hossain
+            lastName: Shahriar
+        -   creatorType: editor
+            firstName: Yuuichi
+            lastName: Teranishi
+        -   creatorType: editor
+            firstName: Alfredo
+            lastName: Cuzzocrea
+        -   creatorType: editor
+            firstName: Moushumi
+            lastName: Sharmin
+        -   creatorType: editor
+            firstName: Dave
+            lastName: Towey
+        -   creatorType: editor
+            firstName: A. K. M. Jahangir Alam
+            lastName: Majumder
+        -   creatorType: editor
+            firstName: Hiroki
+            lastName: Kashiwazaki
+        -   creatorType: editor
+            firstName: Ji-Jiang
+            lastName: Yang
+        -   creatorType: editor
+            firstName: Michiharu
+            lastName: Takemoto
+        -   creatorType: editor
+            firstName: Nazmus
+            lastName: Sakib
+        -   creatorType: editor
+            firstName: Ryohei
+            lastName: Banno
+        -   creatorType: editor
+            firstName: Sheikh Iqbal
+            lastName: Ahamed
+        date: '2023'
+        dateAdded: '2023-12-06T00:11:32Z'
+        dateModified: '2023-12-06T00:11:32Z'
+        extra: ''
+        itemType: conferencePaper
+        key: E5B43QUE
+        language: ''
+        libraryCatalog: ''
+        pages: 1459–1464
+        place: ''
+        proceedingsTitle: 47th IEEE Annual Computers, Software, and Applications Conference,
+            COMPSAC 2023, Torino, Italy, June 26-30, 2023
+        publisher: IEEE
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: The Graph-Massivizer Approach Toward a European Sustainable Data Center
+            Digital Twin
+        url: https://doi.org/10.1109/COMPSAC57700.2023.00224
+        version: 749
+        volume: ''
+    key: E5B43QUE
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/E5B43QUE
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/E5B43QUE
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: Molan et al.
+        numChildren: 0
+        parsedDate: '2023'
+    version: 749
+-   data:
+        ISBN: 978-1-64368-407-9
+        abstractNote: ''
+        accessDate: ''
+        archive: https://arxiv.org/abs/2308.06585
+        archiveLocation: ''
+        bookTitle: Compendium of Neurosymbolic Artificial Intelligence
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Michael
+            lastName: Cochez
+        -   creatorType: author
+            firstName: Dimitrios
+            lastName: Alivanistos
+        -   creatorType: author
+            firstName: Erik
+            lastName: Arakelyan
+        -   creatorType: author
+            firstName: Max
+            lastName: Berrendorf
+        -   creatorType: author
+            firstName: Daniel
+            lastName: Daza
+        -   creatorType: author
+            firstName: Mikhail
+            lastName: Galkin
+        -   creatorType: author
+            firstName: Pasquale
+            lastName: Minervini
+        -   creatorType: author
+            firstName: Mathias
+            lastName: Niepert
+        -   creatorType: author
+            firstName: Hongyu
+            lastName: Ren
+        -   creatorType: editor
+            firstName: Pascal
+            lastName: Hitzler
+        -   creatorType: editor
+            firstName: Md Kamruzzaman
+            lastName: Sarker
+        -   creatorType: editor
+            firstName: Aaron
+            lastName: Eberhart
+        date: '2023'
+        dateAdded: '2023-12-06T00:09:12Z'
+        dateModified: '2023-12-06T00:09:55Z'
+        edition: ''
+        extra: 'DOI: 10.3233/FAIA230149'
+        itemType: bookSection
+        key: 4HIPIL4V
+        language: ''
+        libraryCatalog: ''
+        numberOfVolumes: ''
+        pages: 373–386
+        place: ''
+        publisher: IOS Press
+        relations: {}
+        rights: ''
+        series: Frontiers in Artificial Intelligence and Applications
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: Approximate Answering of Graph Queries
+        url: https://doi.org/10.3233/FAIA230149
+        version: 747
+        volume: '369'
+    key: 4HIPIL4V
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/4HIPIL4V
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/4HIPIL4V
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: Cochez et al.
+        numChildren: 0
+        parsedDate: '2023'
+    version: 747
+-   data:
+        DOI: 10.48550/ARXIV.2303.14617
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveID: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Hongyu
+            lastName: Ren
+        -   creatorType: author
+            firstName: Mikhail
+            lastName: Galkin
+        -   creatorType: author
+            firstName: Michael
+            lastName: Cochez
+        -   creatorType: author
+            firstName: Zhaocheng
+            lastName: Zhu
+        -   creatorType: author
+            firstName: Jure
+            lastName: Leskovec
+        date: '2023'
+        dateAdded: '2023-12-06T00:07:21Z'
+        dateModified: '2023-12-06T00:07:27Z'
+        extra: 'arXiv: 2303.14617'
+        genre: ''
+        itemType: preprint
+        key: UMT9JBR9
+        language: ''
+        libraryCatalog: ''
+        place: ''
+        relations: {}
+        repository: ''
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: 'Neural Graph Reasoning: Complex Logical Query Answering Meets Graph
+            Databases'
+        url: https://doi.org/10.48550/arXiv.2303.14617
+        version: 744
+    key: UMT9JBR9
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/UMT9JBR9
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/UMT9JBR9
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: Ren et al.
+        numChildren: 0
+        parsedDate: '2023'
+    version: 744
+-   data:
+        DOI: 10.48550/ARXIV.2304.11949
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveID: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Bo
+            lastName: Xiong
+        -   creatorType: author
+            firstName: Mojtaba
+            lastName: Nayyeri
+        -   creatorType: author
+            firstName: Ming
+            lastName: Jin
+        -   creatorType: author
+            firstName: Yunjie
+            lastName: He
+        -   creatorType: author
+            firstName: Michael
+            lastName: Cochez
+        -   creatorType: author
+            firstName: Shirui
+            lastName: Pan
+        -   creatorType: author
+            firstName: Steffen
+            lastName: Staab
+        date: '2023'
+        dateAdded: '2023-12-06T00:06:53Z'
+        dateModified: '2023-12-06T00:07:02Z'
+        extra: 'arXiv: 2304.11949'
+        genre: ''
+        itemType: preprint
+        key: 656G2C9C
+        language: ''
+        libraryCatalog: ''
+        place: ''
+        relations: {}
+        repository: ''
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: 'Geometric Relational Embeddings: A Survey'
+        url: https://doi.org/10.48550/arXiv.2304.11949
+        version: 742
+    key: 656G2C9C
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/656G2C9C
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/656G2C9C
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: Xiong et al.
+        numChildren: 0
+        parsedDate: '2023'
+    version: 742
+-   data:
+        DOI: 10.48550/ARXIV.2311.05778
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: 'Workshop on Advancing Neural Network Training: Computational
+            Efficiency, Scalability, and Resource Optimization (WANT@ NeurIPS 2023)'
+        creators:
+        -   creatorType: author
+            firstName: Azhar
+            lastName: Shaikh
+        -   creatorType: author
+            firstName: Michael
+            lastName: Cochez
+        -   creatorType: author
+            firstName: Denis
+            lastName: Diachkov
+        -   creatorType: author
+            firstName: Michiel de
+            lastName: Rijcke
+        -   creatorType: author
+            firstName: Sahar
+            lastName: Yousefi
+        date: '2023'
+        dateAdded: '2023-12-05T23:55:24Z'
+        dateModified: '2023-12-05T23:57:33Z'
+        extra: ''
+        itemType: conferencePaper
+        key: GA2FFIW5
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        place: New Orleans
+        proceedingsTitle: ''
+        publisher: ''
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: 'DONUT-hole: DONUT Sparsification by Harnessing Knowledge and Optimizing
+            Learning Efficiency'
+        url: https://doi.org/10.48550/arXiv.2311.05778
+        version: 721
+        volume: ''
+    key: GA2FFIW5
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/GA2FFIW5
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/GA2FFIW5
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: Shaikh et al.
+        numChildren: 0
+        parsedDate: '2023'
+    version: 721
+-   data:
         DOI: 10.3389/FNINF.2022.1025847
         ISSN: ''
         abstractNote: ''
@@ -436,114 +1541,6 @@
         numChildren: 0
         parsedDate: '2023-11-17'
     version: 699
--   data:
-        DOI: 10.48550/arXiv.2301.12313
-        abstractNote: Answering complex queries on incomplete knowledge graphs is
-            a challenging task where a model needs to answer complex logical queries
-            in the presence of missing knowledge. Prior work in the literature has
-            proposed to address this problem by designing architectures trained end-to-end
-            for the complex query answering task with a reasoning process that is
-            hard to interpret while requiring data and resource-intensive training.
-            Other lines of research have proposed re-using simple neural link predictors
-            to answer complex queries, reducing the amount of training data by orders
-            of magnitude while providing interpretable answers. The neural link predictor
-            used in such approaches is not explicitly optimised for the complex query
-            answering task, implying that its scores are not calibrated to interact
-            together. We propose to address these problems via CQD$^{\mathcal{A}}$,
-            a parameter-efficient score \emph{adaptation} model optimised to re-calibrate
-            neural link prediction scores for the complex query answering task. While
-            the neural link predictor is frozen, the adaptation component -- which
-            only increases the number of model parameters by $0.03\%$ -- is trained
-            on the downstream complex query answering task. Furthermore, the calibration
-            component enables us to support reasoning over queries that include atomic
-            negations, which was previously impossible with link predictors. In our
-            experiments, CQD$^{\mathcal{A}}$ produces significantly more accurate
-            results than current state-of-the-art methods, improving from $34.4$ to
-            $35.1$ Mean Reciprocal Rank values averaged across all datasets and query
-            types while using $\leq 30\%$ of the available training query types. We
-            further show that CQD$^{\mathcal{A}}$ is data-efficient, achieving competitive
-            results with only $1\%$ of the training complex queries, and robust in
-            out-of-domain evaluations.
-        accessDate: '2023-12-04T12:34:55Z'
-        archive: ''
-        archiveID: arXiv:2301.12313
-        archiveLocation: ''
-        callNumber: ''
-        citationKey: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Erik
-            lastName: Arakelyan
-        -   creatorType: author
-            firstName: Pasquale
-            lastName: Minervini
-        -   creatorType: author
-            firstName: Daniel
-            lastName: Daza
-        -   creatorType: author
-            firstName: Michael
-            lastName: Cochez
-        -   creatorType: author
-            firstName: Isabelle
-            lastName: Augenstein
-        date: '2023-07-11'
-        dateAdded: '2023-12-04T12:34:56Z'
-        dateModified: '2023-12-04T12:34:56Z'
-        extra: arXiv:2301.12313 [cs]
-        genre: ''
-        itemType: preprint
-        key: ZSIPXSH2
-        language: ''
-        libraryCatalog: arXiv.org
-        place: ''
-        relations: {}
-        repository: arXiv
-        rights: ''
-        series: ''
-        seriesNumber: ''
-        shortTitle: ''
-        tags:
-        -   tag: Computer Science - Artificial Intelligence
-            type: 1
-        -   tag: Computer Science - Logic in Computer Science
-            type: 1
-        -   tag: Computer Science - Machine Learning
-            type: 1
-        -   tag: Computer Science - Neural and Evolutionary Computing
-            type: 1
-        title: Adapting Neural Link Predictors for Data-Efficient Complex Query Answering
-        url: http://arxiv.org/abs/2301.12313
-        version: 690
-    key: ZSIPXSH2
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/ZSIPXSH2
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/ZSIPXSH2
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10460453
-            links:
-                alternate:
-                    href: https://www.zotero.org/dfdazac
-                    type: text/html
-            name: ''
-            username: dfdazac
-        creatorSummary: Arakelyan et al.
-        numChildren: 0
-        parsedDate: '2023-07-11'
-    version: 690
 -   data:
         DOI: 10.48550/arXiv.2308.02622
         ISBN: ''
