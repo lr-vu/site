@@ -1,5 +1,5 @@
 -   data:
-        DOI: https://doi.org/10.48550/arXiv.2312.02317
+        DOI: 10.48550/arXiv.2312.02317
         abstractNote: ''
         accessDate: ''
         archive: ''
@@ -21,9 +21,9 @@
         -   creatorType: author
             firstName: Abraham
             lastName: Bernstein
-        date: '2023'
+        date: 2023-12
         dateAdded: '2023-12-06T09:16:12Z'
-        dateModified: '2023-12-06T09:16:58Z'
+        dateModified: '2023-12-06T09:33:43Z'
         extra: '_eprint: 2312.02317'
         genre: ''
         itemType: preprint
@@ -40,8 +40,8 @@
         tags: []
         title: 'GNN2R: Weakly-Supervised Rationale-Providing Question Answering over
             Knowledge Graphs'
-        url: ''
-        version: 808
+        url: https://doi.org/10.48550/arXiv.2312.02317
+        version: 810
     key: QYDD5KAV
     library:
         id: 4989916
@@ -69,8 +69,8 @@
             username: michaelcochez
         creatorSummary: Wang et al.
         numChildren: 0
-        parsedDate: '2023'
-    version: 808
+        parsedDate: 2023-12
+    version: 810
 -   data:
         DOI: ''
         ISSN: ''
