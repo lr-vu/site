@@ -245,11 +245,12 @@
     website: https://taewoon.kim/
     image: /images/people/Taewoon.png
     role: phd
+    
 -   name: Ting Liu
     orderby: Liu
     website: https://scholar.google.com/citations?user=ObfjiFkAAAAJ&hl=en/
     image: /images/people/Ting.jpg
-    role: postdoc
+    role: phd
     github: https://github.com/tingcosmos
     scholar: https://scholar.google.com/citations?user=ObfjiFkAAAAJ&hl=en/
     keywords:
