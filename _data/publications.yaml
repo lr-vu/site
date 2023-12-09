@@ -1,4 +1,93 @@
 -   data:
+        DOI: 10.1186/s13326-023-00301-y
+        ISSN: 2041-1480
+        abstractNote: Knowledge graphs (KGs) are an important tool for representing
+            complex relationships between entities in the biomedical domain. Several
+            methods have been proposed for learning embeddings that can be used to
+            predict new links in such graphs. Some methods ignore valuable attribute
+            data associated with entities in biomedical KGs, such as protein sequences,
+            or molecular graphs. Other works incorporate such data, but assume that
+            entities can be represented with the same data modality. This is not always
+            the case for biomedical KGs, where entities exhibit heterogeneous modalities
+            that are central to their representation in the subject domain.
+        accessDate: ''
+        archive: http://arxiv.org/abs/2306.03606
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Daniel
+            lastName: Daza
+        -   creatorType: author
+            firstName: Dimitrios
+            lastName: Alivanistos
+        -   creatorType: author
+            firstName: Payal
+            lastName: Mitra
+        -   creatorType: author
+            firstName: Thom
+            lastName: Pijnenburg
+        -   creatorType: author
+            firstName: Michael
+            lastName: Cochez
+        -   creatorType: author
+            firstName: Paul
+            lastName: Groth
+        date: '2023-12-08'
+        dateAdded: '2023-12-09T06:54:23Z'
+        dateModified: '2023-12-09T06:55:22Z'
+        extra: ''
+        issue: '1'
+        itemType: journalArticle
+        journalAbbreviation: Journal of Biomedical Semantics
+        key: DA5DP5BQ
+        language: ''
+        libraryCatalog: ''
+        pages: '20'
+        publicationTitle: Journal of Biomedical Semantics
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: 'BioBLP: a modular framework for learning on multimodal biomedical
+            knowledge graphs'
+        url: https://doi.org/10.1186/s13326-023-00301-y
+        version: 827
+        volume: '14'
+    key: DA5DP5BQ
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/DA5DP5BQ
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/DA5DP5BQ
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: Daza et al.
+        numChildren: 0
+        parsedDate: '2023-12-08'
+    version: 827
+-   data:
         DOI: ''
         abstractNote: ''
         accessDate: ''
@@ -1953,112 +2042,6 @@
         numChildren: 0
         parsedDate: '2023-11-17'
     version: 699
--   data:
-        DOI: 10.48550/arXiv.2306.03606
-        abstractNote: Knowledge graphs (KGs) are an important tool for representing
-            complex relationships between entities in the biomedical domain. Several
-            methods have been proposed for learning embeddings that can be used to
-            predict new links in such graphs. Some methods ignore valuable attribute
-            data associated with entities in biomedical KGs, such as protein sequences,
-            or molecular graphs. Other works incorporate such data, but assume that
-            entities can be represented with the same data modality. This is not always
-            the case for biomedical KGs, where entities exhibit heterogeneous modalities
-            that are central to their representation in the subject domain. We propose
-            a modular framework for learning embeddings in KGs with entity attributes,
-            that allows encoding attribute data of different modalities while also
-            supporting entities with missing attributes. We additionally propose an
-            efficient pretraining strategy for reducing the required training runtime.
-            We train models using a biomedical KG containing approximately 2 million
-            triples, and evaluate the performance of the resulting entity embeddings
-            on the tasks of link prediction, and drug-protein interaction prediction,
-            comparing against methods that do not take attribute data into account.
-            In the standard link prediction evaluation, the proposed method results
-            in competitive, yet lower performance than baselines that do not use attribute
-            data. When evaluated in the task of drug-protein interaction prediction,
-            the method compares favorably with the baselines. We find settings involving
-            low degree entities, which make up for a substantial amount of the set
-            of entities in the KG, where our method outperforms the baselines. Our
-            proposed pretraining strategy yields significantly higher performance
-            while reducing the required training runtime. Our implementation is available
-            at https://github.com/elsevier-AI-Lab/BioBLP .
-        accessDate: '2023-12-04T12:17:39Z'
-        archive: ''
-        archiveID: arXiv:2306.03606
-        archiveLocation: ''
-        callNumber: ''
-        citationKey: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Daniel
-            lastName: Daza
-        -   creatorType: author
-            firstName: Dimitrios
-            lastName: Alivanistos
-        -   creatorType: author
-            firstName: Payal
-            lastName: Mitra
-        -   creatorType: author
-            firstName: Thom
-            lastName: Pijnenburg
-        -   creatorType: author
-            firstName: Michael
-            lastName: Cochez
-        -   creatorType: author
-            firstName: Paul
-            lastName: Groth
-        date: '2023-06-06'
-        dateAdded: '2023-12-04T12:17:40Z'
-        dateModified: '2023-12-04T12:17:40Z'
-        extra: arXiv:2306.03606 [cs]
-        genre: ''
-        itemType: preprint
-        key: 54HTV5NE
-        language: ''
-        libraryCatalog: arXiv.org
-        place: ''
-        relations: {}
-        repository: arXiv
-        rights: ''
-        series: ''
-        seriesNumber: ''
-        shortTitle: BioBLP
-        tags:
-        -   tag: Computer Science - Artificial Intelligence
-            type: 1
-        title: 'BioBLP: A Modular Framework for Learning on Multimodal Biomedical
-            Knowledge Graphs'
-        url: http://arxiv.org/abs/2306.03606
-        version: 679
-    key: 54HTV5NE
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/54HTV5NE
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/54HTV5NE
-            type: application/json
-    meta:
-        createdByUser:
-            id: 13163074
-            links:
-                alternate:
-                    href: https://www.zotero.org/dimitrisalivas
-                    type: text/html
-            name: ''
-            username: dimitrisalivas
-        creatorSummary: Daza et al.
-        numChildren: 1
-        parsedDate: '2023-06-06'
-    version: 679
 -   data:
         DOI: 10.48550/arXiv.2312.00586
         ISBN: ''
