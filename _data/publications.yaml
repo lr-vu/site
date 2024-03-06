@@ -1,4 +1,184 @@
 -   data:
+        DOI: https://doi.org/10.1016/j.jbi.2023.104395
+        ISSN: 1532-0464
+        abstractNote: 'Objective The study has dual objectives. Our first objective
+            (1) is to develop a community-of-practice-based evaluation methodology
+            for knowledge-intensive computational methods. We target a whitebox analysis
+            of the computational methods to gain insight on their functional features
+            and inner workings. In more detail, we aim to answer evaluation questions
+            on (i) support offered by computational methods for functional features
+            within the application domain; and (ii) in-depth characterizations of
+            the underlying computational processes, models, data and knowledge of
+            the computational methods. Our second objective (2) involves applying
+            the evaluation methodology to answer questions (i) and (ii) for knowledge-intensive
+            clinical decision support (CDS) methods, which operationalize clinical
+            knowledge as computer interpretable guidelines (CIG); we focus on multimorbidity
+            CIG-based clinical decision support (MGCDS) methods that target multimorbidity
+            treatment plans. Materials and methods Our methodology directly involves
+            the research community of practice in (a) identifying functional features
+            within the application domain; (b) defining exemplar case studies covering
+            these features; and (c) solving the case studies using their developed
+            computational methods—research groups detail their solutions and functional
+            feature support in solution reports. Next, the study authors (d) perform
+            a qualitative analysis of the solution reports, identifying and characterizing
+            common themes (or dimensions) among the computational methods. This methodology
+            is well suited to perform whitebox analysis, as it directly involves the
+            respective developers in studying inner workings and feature support of
+            computational methods. Moreover, the established evaluation parameters
+            (e.g., features, case studies, themes) constitute a re-usable benchmark
+            framework, which can be used to evaluate new computational methods as
+            they are developed. We applied our community-of-practice-based evaluation
+            methodology on MGCDS methods. Results Six research groups submitted comprehensive
+            solution reports for the exemplar case studies. Solutions for two of these
+            case studies were reported by all groups. We identified four evaluation
+            dimensions: detection of adverse interactions, management strategy representation,
+            implementation paradigms, and human-in-the-loop support. Based on our
+            whitebox analysis, we present answers to the evaluation questions (i)
+            and (ii) for MGCDS methods. Discussion The proposed evaluation methodology
+            includes features of illuminative and comparison-based approaches; focusing
+            on understanding rather than judging/scoring or identifying gaps in current
+            methods. It involves answering evaluation questions with direct involvement
+            of the research community of practice, who participate in setting up evaluation
+            parameters and solving exemplar case studies. Our methodology was successfully
+            applied to evaluate six MGCDS knowledge-intensive computational methods.
+            We established that, while the evaluated methods provide a multifaceted
+            set of solutions with different benefits and drawbacks, no single MGCDS
+            method currently provides a comprehensive solution for MGCDS. Conclusion
+            We posit that our evaluation methodology, applied here to gain new insights
+            into MGCDS, can be used to assess other types of knowledge-intensive computational
+            methods and answer other types of evaluation questions. Our case studies
+            can be accessed at our GitHub repository (https://github.com/william-vw/MGCDS).'
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections:
+        - IR9AD3RV
+        creators:
+        -   creatorType: author
+            firstName: William Van
+            lastName: Woensel
+        -   creatorType: author
+            firstName: Samson W.
+            lastName: Tu
+        -   creatorType: author
+            firstName: Wojtek
+            lastName: Michalowski
+        -   creatorType: author
+            firstName: Syed Sibte Raza
+            lastName: Abidi
+        -   creatorType: author
+            firstName: Samina
+            lastName: Abidi
+        -   creatorType: author
+            firstName: Jose-Ramon
+            lastName: Alonso
+        -   creatorType: author
+            firstName: Alessio
+            lastName: Bottrighi
+        -   creatorType: author
+            firstName: Marc
+            lastName: Carrier
+        -   creatorType: author
+            firstName: Ruth
+            lastName: Edry
+        -   creatorType: author
+            firstName: Irit
+            lastName: Hochberg
+        -   creatorType: author
+            firstName: Malvika
+            lastName: Rao
+        -   creatorType: author
+            firstName: Stephen
+            lastName: Kingwell
+        -   creatorType: author
+            firstName: Alexandra
+            lastName: Kogan
+        -   creatorType: author
+            firstName: Mar
+            lastName: Marcos
+        -   creatorType: author
+            firstName: Begoña Martínez
+            lastName: Salvador
+        -   creatorType: author
+            firstName: Martin
+            lastName: Michalowski
+        -   creatorType: author
+            firstName: Luca
+            lastName: Piovesan
+        -   creatorType: author
+            firstName: David
+            lastName: Riaño
+        -   creatorType: author
+            firstName: Paolo
+            lastName: Terenziani
+        -   creatorType: author
+            firstName: Szymon
+            lastName: Wilk
+        -   creatorType: author
+            firstName: Mor
+            lastName: Peleg
+        date: '2023'
+        dateAdded: '2024-03-06T21:33:24Z'
+        dateModified: '2024-03-06T21:33:24Z'
+        extra: ''
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: EI554SUV
+        language: ''
+        libraryCatalog: ''
+        pages: '104395'
+        publicationTitle: Journal of Biomedical Informatics
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags:
+        -   tag: Benchmarking
+        -   tag: Clinical
+        -   tag: Computer-interpretable clinical guidelines
+        -   tag: Decision support systems
+        -   tag: Evaluation study
+        -   tag: Multimorbidity
+        title: A community-of-practice-based evaluation methodology for knowledge
+            intensive computational methods and its application to multimorbidity
+            decision support
+        url: https://www.sciencedirect.com/science/article/pii/S1532046423001168
+        version: 835
+        volume: '142'
+    key: EI554SUV
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/EI554SUV
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/EI554SUV
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Woensel et al.
+        numChildren: 0
+        parsedDate: '2023'
+    version: 835
+-   data:
         DOI: 10.1186/s13326-023-00301-y
         ISSN: 2041-1480
         abstractNote: Knowledge graphs (KGs) are an important tool for representing
