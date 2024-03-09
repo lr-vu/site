@@ -1,4 +1,94 @@
 -   data:
+        DOI: 10.1038/s41597-023-02757-0
+        ISSN: 2052-4463
+        abstractNote: Drug repositioning is a faster and more affordable solution
+            than traditional drug discovery approaches. From this perspective, computational
+            drug repositioning using knowledge graphs is a very promising direction.
+            Knowledge graphs constructed from drug data and information can be used
+            to generate hypotheses (molecule/drug - target links) through link prediction
+            using machine learning algorithms. However, it remains rare to have a
+            holistically constructed knowledge graph using the broadest possible features
+            and drug characteristics, which is freely available to the community.
+            The OREGANO knowledge graph aims at filling this gap. The purpose of this
+            paper is to present the OREGANO knowledge graph, which includes natural
+            compounds related data. The graph was developed from scratch by retrieving
+            data directly from the knowledge sources to be integrated. We therefore
+            designed the expected graph model and proposed a method for merging nodes
+            between the different knowledge sources, and finally, the data were cleaned.
+            The knowledge graph, as well as the source codes for the ETL process,
+            are openly available on the GitHub of the OREGANO project (https://gitub.u-bordeaux.fr/erias/oregano).
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections:
+        - GSA6ELI9
+        creators:
+        -   creatorType: author
+            firstName: Marina
+            lastName: Boudin
+        -   creatorType: author
+            firstName: Gayo
+            lastName: Diallo
+        -   creatorType: author
+            firstName: Martin
+            lastName: Drancé
+        -   creatorType: author
+            firstName: Fleur
+            lastName: Mougin
+        date: '2023-12-06'
+        dateAdded: '2024-03-09T07:36:40Z'
+        dateModified: '2024-03-09T07:36:40Z'
+        extra: ''
+        issue: '1'
+        itemType: journalArticle
+        journalAbbreviation: Scientific Data
+        key: DMFPJW64
+        language: ''
+        libraryCatalog: ''
+        pages: '871'
+        publicationTitle: Scientific Data
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: The OREGANO knowledge graph for computational drug repurposing
+        url: https://doi.org/10.1038/s41597-023-02757-0
+        version: 837
+        volume: '10'
+    key: DMFPJW64
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/DMFPJW64
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/DMFPJW64
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Boudin et al.
+        numChildren: 0
+        parsedDate: '2023-12-06'
+    version: 837
+-   data:
         DOI: https://doi.org/10.1016/j.jbi.2023.104395
         ISSN: 1532-0464
         abstractNote: 'Objective The study has dual objectives. Our first objective
