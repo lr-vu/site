@@ -1,4 +1,85 @@
 -   data:
+        DOI: 10.1016/J.ARTMED.2023.102742
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Floris den
+            lastName: Hengst
+        -   creatorType: author
+            firstName: Martijn
+            lastName: Otten
+        -   creatorType: author
+            firstName: Paul W. G.
+            lastName: Elbers
+        -   creatorType: author
+            firstName: Frank van
+            lastName: Harmelen
+        -   creatorType: author
+            firstName: Vincent
+            lastName: François-Lavet
+        -   creatorType: author
+            firstName: Mark
+            lastName: Hoogendoorn
+        date: '2024'
+        dateAdded: '2024-03-19T22:22:21Z'
+        dateModified: '2024-03-19T22:22:21Z'
+        extra: ''
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: ZYIH8G9N
+        language: ''
+        libraryCatalog: ''
+        pages: '102742'
+        publicationTitle: Artif. Intell. Medicine
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: Guideline-informed reinforcement learning for mechanical ventilation
+            in critical care
+        url: https://doi.org/10.1016/j.artmed.2023.102742
+        version: 839
+        volume: '147'
+    key: ZYIH8G9N
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/ZYIH8G9N
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/ZYIH8G9N
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Hengst et al.
+        numChildren: 0
+        parsedDate: '2024'
+    version: 839
+-   data:
         DOI: 10.1038/s41597-023-02757-0
         ISSN: 2052-4463
         abstractNote: Drug repositioning is a faster and more affordable solution
@@ -21,8 +102,7 @@
         archive: ''
         archiveLocation: ''
         callNumber: ''
-        collections:
-        - GSA6ELI9
+        collections: []
         creators:
         -   creatorType: author
             firstName: Marina
