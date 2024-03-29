@@ -21,6 +21,11 @@ dark: true
     {% endcomment %}
 
     <dl>
+        <dt>March 29, 2024</dt>
+            <dd>Congratulations to Floris and co-authors, for their <a href="https://2024.naacl.org/" target="_blank">NAACL</a> Findings accepted paper <a href="https://arxiv.org/abs/2403.18973" target="_blank"><i>"Conformal Intent Classification and Clarification for Fast and Accurate Intent Recognition"</i></a>.</dd>
+        <dt>March 11-15, 2024</dt>
+            <dd>Annette and Floris contributed <a href="https://drive.google.com/file/d/1dOA8nXcsBINiRuE-B0v0OehO0OBj6MmA/view?usp=drive_link" target="_blank">a talk</a> on neuro-symbolic medical AI to the <a href="https://www.ai-health.nl/ai-health-winter-school-2024/" target="_blank">AI & Health Winter School</a>.
+            </dd>
         <dt>November 29-30, 2023</dt>
             <dd> Dimitrios Alivanistos, Daniel Daza, Xander Wilcke, Ruud van Bakel, Taewoon Kim, Yannick Brunink, and Michael Cochez of the L&R group, together with Shujian Yu from the <a href="https://vu-qda.github.io/">QDA</a> group, and Thom Pijnenburg
                 from Elsevier  hosted the  <a href="https://logams.github.io/">Learning on Graphs Amsterdam meet-up</a>.
