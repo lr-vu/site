@@ -170,7 +170,7 @@
     image: /images/people/Ines.png
     role: phd
     title: PhD Student
-    github: InesBlin
+    github: https://github.com/InesBlin
     linkedin: https://www.linkedin.com/in/ines-blin-903650151/
 -   name: Majid Mohammedi
     orderby: Mohammedi
@@ -302,7 +302,7 @@
       - conversational AI
       - hybrid intelligence
     website: https://selbaez.github.io/
-    github: selBaez
+    github: https://github.com/selBaez
     scholar: https://scholar.google.com/citations?user=4xjZkV4AAAAJ
     title: PhD student
     image: /images/people/selene.png
@@ -349,7 +349,7 @@
       - machine learning
       - agent-based systems
     website: https://andrearafanelli.github.io/
-    github: andrearafanelli
+    github: https://github.com/andrearafanelli
     scholar: https://scholar.google.com/citations?user=vSrDrMMAAAAJ
     title: PhD student
     image: /images/people/Andrea.png
