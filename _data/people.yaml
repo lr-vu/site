@@ -342,6 +342,18 @@
     role: phd
     title: PhD student
 
+-   name: Andrea Rafanelli
+    orderby: Rafanelli
+    keywords:
+      - neuro-symbolic AI
+      - machine learning
+      - agent-based systems
+    website: https://andrearafanelli.github.io/
+    github: andrearafanelli
+    scholar: https://scholar.google.com/citations?user=vSrDrMMAAAAJ
+    title: PhD student
+    image: /images/people/Andrea.png
+    role: guest
 
 # Alumni
 -   name: Francesco Manigrasso 
