@@ -21,21 +21,41 @@ dark: true
     {% endcomment %}
 
     <dl>
+        <dt>May 27, 2024</dt>
+            <dd>Zhan Qu will join us as a visitor from KIT in Karlsruhe for 2 weeks at the end of May.</dd>
+        <dt>May 26, 2024</dt>
+            <dd>Filip is co-chairing the First International Workshop on Generative Neuro-Symbolic AI (GeNeSy), co-located with ESWC 2024. The workshop features three keynotes, one of which will be given by Frank.</dd>
+        <dt>May 14, 2024</dt>
+            <dd>Filip and his co-authors won the best paper award at the Web Conference workshop "Workshop on Multimodal Content Analysis for Social Good". <a href="https://arxiv.org/pdf/2311.11157">Their paper</a> studies the grounding of internet memes "in the wild" (Reddit and Discord) to an Internet meme KG using visual transformers.</dd>
+        <dt>May 6, 2024</dt>
+            <dd>Ting Liu successfully defended her PhD thesis entitled  A gut feeling: Biomedical knowledge graphs for interrelating the gut microbiome and mental health.</dd>
+        <dt>May 2, 2024</dt>
+            <dd>prof. Wael Abd Almageed from the USC Viterbi School of Engineering visited our group for <a href="https://vu.nl/en/events/2024/talk-by-prof-wael-abdalmageed">a seminar and discussions.</a></dd>
+        <dt>April 24, 2024</dt>
+            <dd>Frank gave an invited talk on Hybrid Intelligence at the UK summit on AI & Healthcare.</dd>
+        <dt>April 22, 2024</dt>
+            <dd>Tamar Cucumides from the University of Antwerp visited us and presented her framework for approximate answers to conjunctive queries over knowledge graphs.</dd>
+        <dt>April 8, 2024</dt>
+            <dd>Klim Zaporojets from Aarhus University visited us and gave a seminar on aligning unstructured text with knowledge graphs for problems like provenance detection and fact checking.</dd>
+        <dt>April 5, 2024</dt>
+            <dd>Frank gave the first talk in the new series of online talks for the new Neuro-symbolic AI journal: NAI Webinar Series #1: Frank van Harmelen - YouTube with the title: neuro-symbol ≠ neuro-semantic</dd>
         <dt>March 29, 2024</dt>
             <dd>Congratulations to Floris and co-authors, for their <a href="https://2024.naacl.org/" target="_blank">NAACL</a> Findings accepted paper <a href="https://arxiv.org/abs/2403.18973" target="_blank"><i>"Conformal Intent Classification and Clarification for Fast and Accurate Intent Recognition"</i></a>.</dd>
+        <dt>March 13, 2024</dt>
+            <dd>Many congratulations to Filip for being awarded a €900k AINed Fellowship Grant to work on  Synergistic AI Agents with Common Sense.</dd>
         <dt>March 11-15, 2024</dt>
             <dd>Annette and Floris contributed <a href="https://drive.google.com/file/d/1dOA8nXcsBINiRuE-B0v0OehO0OBj6MmA/view?usp=drive_link" target="_blank">a talk</a> on neuro-symbolic medical AI to the <a href="https://www.ai-health.nl/ai-health-winter-school-2024/" target="_blank">AI & Health Winter School</a>.
             </dd>
         <dt>November 29-30, 2023</dt>
             <dd> Dimitrios Alivanistos, Daniel Daza, Xander Wilcke, Ruud van Bakel, Taewoon Kim, Yannick Brunink, and Michael Cochez of the L&R group, together with Shujian Yu from the <a href="https://vu-qda.github.io/">QDA</a> group, and Thom Pijnenburg
                 from Elsevier  hosted the  <a href="https://logams.github.io/">Learning on Graphs Amsterdam meet-up</a>.
-                The event took place in the Elsevier office in Amsterdam with help of the <a href="https://discoverylab.ai/">Discovery Lab</a>. 
-                It included talks and posters by Taraneh Younesian, Selene Baez Santamaria, and Daniel Daza. 
+                The event took place in the Elsevier office in Amsterdam with help of the <a href="https://discoverylab.ai/">Discovery Lab</a>.
+                It included talks and posters by Taraneh Younesian, Selene Baez Santamaria, and Daniel Daza.
             </dd>
         <dt>November 24, 2023</dt>
             <dd>Andreas gave an invited talk for the <a href="https://iis.uibk.ac.at/"> Intelligent and Interactive Systems group </a> at the University of Innsbruck.</dd>
         <dt>October 23, 2023</dt>
-            <dd>Daniel Daza and Michael Cochez gave a tutorial at the <a href="https://uobevents.eventsair.com/cikm2023/">CIKM 2023</a> conference on 
+            <dd>Daniel Daza and Michael Cochez gave a tutorial at the <a href="https://uobevents.eventsair.com/cikm2023/">CIKM 2023</a> conference on
             Reasoning beyond Triples: Recent Advances in Knowledge Graph Embeddings
             <a href="https://kg-beyond-triple.github.io/">https://kg-beyond-triple.github.io/</a>
             </dd>
@@ -53,11 +73,11 @@ dark: true
     </dd>
         <dt>May 4, 2023</dt>
             <dd>Thiviyan and Emile are hosting a NeSy-GeMs (Neurosymbolic Generative Models) workshop at ICLR 2023. Take a look at <a href="https://nesygems.github.io/">the website.</a></dd>
-        
+
         <dt>May 2</dt>
         <dd>Frank is <a href="https://nos.nl/artikel/2473634-godfather-van-kunstmatige-intelligentie-verlaat-google-en-waarschuwt-voor-ai">quoted on the NOS website</a>, following Geoffrey Hinton's departure from Google, and his comments about the future of AI.
         </dd>
-        
+
         <dt>May 1, 2023</dt>
             <dd><a href="https://2023.semanticwebschool.org/keynote-speakers/">Frank is invited as a keynote speaker at the ISWS 2023 summer school, held from the 11th to 17th of June.</a></dd>
 
@@ -74,13 +94,13 @@ dark: true
             <dd>Congratulations to Shuai, Peter, and Frank, for their ESWC accepted paper <i>"Refining Large Integrated Identity Graphs using the Unique Name Assumption"</i>.</dd>
 
         <dt>Mar 13, 2023</dt>
-            <dd>Congratulations to Annette and Frank, for their ACM Computing Surveys accepted paper <i>"Combining Machine Learning and Semantic Web: A Systematic Mapping Study"</i>.</dd>            
+            <dd>Congratulations to Annette and Frank, for their ACM Computing Surveys accepted paper <i>"Combining Machine Learning and Semantic Web: A Systematic Mapping Study"</i>.</dd>
 
         <dt>Feb 13, 2023</dt>
             <dd>Frank gave a keynote on <i>"Combining knowledge graphs with machine learning, with examples from healthcare and life sciences"</i>, at <a href="https://www.swat4ls.org/workshops/basel2023/keynotes/">SWAT4HCLS</a> in Basel</dd>
 
         <dt>Jan 18, 2023</dt>
-            <dd>Congratulations to Andreas, for their CLEAR accepted paper <i>"A Meta-Reinforcement Learning Algorithm for Causal Discovery"</i>.</dd>              
+            <dd>Congratulations to Andreas, for their CLEAR accepted paper <i>"A Meta-Reinforcement Learning Algorithm for Causal Discovery"</i>.</dd>
 
         <dt>Jan 15, 2023</dt>
             <dd>We are pleased to welcome <a href="https://research.vu.nl/en/persons/ruud-van-bakel">Ruud van Bakel</a>
@@ -96,17 +116,17 @@ dark: true
         <dt>Jan 1, 2023</dt>
             <dd>We joined the GraphMassivizer project.</dd>
 
-        <dt>Dec 16, 2022</dt>
+        <!-- <dt>Dec 16, 2022</dt>
             <dd>Congratulations to Thiviyan and Emile, for the acceptance of their ICLR workshop proposal. The workshop will
                 focus on neurosymbolic generative models. Have a look at <a href="https://nesygems.github.io/">the website
                 </a> or <a href="https://twitter.com/NeSy_GeMs">its twitter feed</a> for more information. </dd>
 
         <dt>Nov 21, 2022</dt>
-            <dd>Congratulations to Tae and Michael, for their AAAI accepted paper <i>"A Machine with Short-Term, Episodic, and Semantic Memory Systems"</i>.</dd>          
+            <dd>Congratulations to Tae and Michael, for their AAAI accepted paper <i>"A Machine with Short-Term, Episodic, and Semantic Memory Systems"</i>.</dd>
 
         <dt>Nov 1, 2022</dt>
             <dd>We are pleased to welcome <a href="https://research.vu.nl/en/persons/romy-vos"><em>Romy Vos</em></a> to the team. She will join us as a PhD student on <a href="https://www.pharmacoinformaticslab.nl/leapfrog/">the LeapFrog project</a>,
-                investigating the application of learning and reasoning to drug safety. </dd>
+                investigating the application of learning and reasoning to drug safety. </dd> -->
     </dl>
 
 </section>
