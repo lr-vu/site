@@ -14,7 +14,7 @@
     - approximate reasoning
     - formalisation of medical knowledge
     - diagnosis
-  role: staff
+  role: faculty
   title: assistant professor
   website: https://cochez.nl
   image: /images/people/michael.png
@@ -22,7 +22,7 @@
 - name: Frank van Harmelen
   orderby: Harmelen
   website: https://cs.vu.nl/~frankh/
-  role: staff
+  role: faculty
   title: professor
   image: /images/people/frank.png
   keywords:
@@ -39,7 +39,7 @@
     - approximate reasoning
     - formalisation of medical knowledge
     - diagnosis
-  role: staff
+  role: faculty
   title: professor
   website: https://cs.vu.nl/~annette/
   scholar: https://scholar.google.com/citations?user=2fDYEcgAAAAJ
@@ -57,7 +57,7 @@
   github: https://github.com/pbloem
   mastodon: https://sigmoid.social/@pbloem
   scholar: https://scholar.google.com/citations?user=zVntAfQAAAAJ
-  role: staff
+  role: faculty
   title: assistant professor
   image: /images/people/peter.jpg
   mail: p.bloem@vu.nl
@@ -68,7 +68,7 @@
     - commonsense reasoning
     - generalization
     - AI for social good
-  role: staff
+  role: faculty
   title: assistant professor
   website: http://www.ilievski.info
   scholar: https://scholar.google.com/citations?user=4ZScBc0AAAAJ
@@ -278,7 +278,7 @@
     orderby: Huang
     website: https://www.cs.vu.nl/~huang/
     image: /images/people/Zhisheng-Huang.jpg
-    role: staff
+    role: faculty
 -   name: Ali Khalili
     orderby: Khalili
     website: https://ali1k.com/

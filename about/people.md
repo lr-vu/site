@@ -5,7 +5,7 @@ class: people
 
 {% comment %}
 
-People are added in `/data/people.yaml`. Make sure to add people with one of the roles: staff, postdoc, phd or guest, 
+People are added in `/data/people.yaml`. Make sure to add people with one of the roles: faculty, postdoc, phd or guest, 
 or they won't show up.
 
 {% endcomment %}
@@ -13,11 +13,11 @@ or they won't show up.
 {% assign people = site.data.people | sort: 'orderby' %}
 
 {::nomarkdown}
-{% assign roles = "staff, postdoc, phd, research_staff, guest" | split: ", " %}
+{% assign roles = "faculty, postdoc, phd, research_staff, guest" | split: ", " %}
 {% for role in roles %}
     <section>
     <h2>{% case role %}
-    {% when 'staff' %}Faculty
+    {% when 'faculty' %}Faculty
     {% when 'postdoc' %}Postdocs
     {% when 'phd' %}PhD students
     {% when 'research_staff' %}Resesarch Staff
