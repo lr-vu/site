@@ -13,13 +13,14 @@ or they won't show up.
 {% assign people = site.data.people | sort: 'orderby' %}
 
 {::nomarkdown}
-{% assign roles = "staff, postdoc, phd, guest" | split: ", " %}
+{% assign roles = "staff, postdoc, phd, research_staff, guest" | split: ", " %}
 {% for role in roles %}
     <section>
     <h2>{% case role %}
     {% when 'staff' %}Staff
     {% when 'postdoc' %}Postdocs
     {% when 'phd' %}PhD students
+    {% when 'research_staff' %}Resesarch Assistants
     {% when 'guest' %}Guests
     {% endcase%}</h2>
     
