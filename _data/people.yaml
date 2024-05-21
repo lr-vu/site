@@ -295,6 +295,27 @@
     image: /images/people/Thiviyan.jpg
     role: guest
 
+- name: Mohammadhossein Khojasteh
+  orderby: Khojasteh
+  keywords:
+    - neuro-symbolic AI
+    - rule-based reasoning
+  role: research staff
+  title: research assistant
+  website: https://mhkhojaste.github.io
+  image: /images/people/khojasteh.png
+
+- name: Mohammad Mehdi Jafari
+  orderby: Jafari
+  keywords:
+    - question answering
+    - natural language processing
+    - neuro-symbolic AI
+  role: research staff
+  title: research assistant
+  website: https://github.com/meti-94
+  image: /images/people/jafari.png
+
 -   name: Selene Baez Santamaria
     orderby: Baez
     keywords:
