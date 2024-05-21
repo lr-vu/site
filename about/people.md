@@ -17,7 +17,7 @@ or they won't show up.
 {% for role in roles %}
     <section>
     <h2>{% case role %}
-    {% when 'staff' %}Staff
+    {% when 'staff' %}Faculty
     {% when 'postdoc' %}Postdocs
     {% when 'phd' %}PhD students
     {% when 'research_staff' %}Resesarch Staff
