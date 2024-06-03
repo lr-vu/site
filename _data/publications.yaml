@@ -1,4 +1,169 @@
 -   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: Research on causal effects often relies on synthetic data due
+            to the scarcity of real-world datasets with ground-truth effects. Since
+            current data-generating tools do not always meet all requirements for
+            state-of-the-art research, ad-hoc methods are often employed. This leads
+            to heterogeneity among datasets and delays research progress. We address
+            the shortcomings of current data-generating libraries by introducing CausalPlayground,
+            a Python library that provides a standardized platform for generating,
+            sampling, and sharing structural causal models (SCMs). CausalPlayground
+            offers fine-grained control over SCMs, interventions, and the generation
+            of datasets of SCMs for learning and quantitative research. Furthermore,
+            by integrating with Gymnasium, the standard framework for reinforcement
+            learning (RL) environments, we enable online interaction with the SCMs.
+            Overall, by introducing CausalPlayground we aim to foster more efficient
+            and comparable research in the field. All code and API documentation is
+            available at https://github.com/sa-and/CausalPlayground.
+        accessDate: '2024-06-03T11:30:56Z'
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: Workshop on Causal and Object-Centric Representations for
+            Robotics at CVPR
+        creators:
+        -   creatorType: author
+            firstName: Andreas W. M.
+            lastName: Sauter
+        -   creatorType: author
+            firstName: Erman
+            lastName: Acar
+        -   creatorType: author
+            firstName: Aske
+            lastName: Plaat
+        date: '2024-05-21'
+        dateAdded: '2024-06-03T11:30:56Z'
+        dateModified: '2024-06-03T11:32:17Z'
+        extra: arXiv:2405.13092 [cs]
+        itemType: conferencePaper
+        key: 7K83HMSJ
+        language: ''
+        libraryCatalog: arXiv.org
+        pages: ''
+        place: ''
+        proceedingsTitle: ''
+        publisher: arXiv
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: CausalPlayground
+        tags:
+        -   tag: Computer Science - Artificial Intelligence
+            type: 1
+        -   tag: Computer Science - Machine Learning
+            type: 1
+        title: 'CausalPlayground: Addressing Data-Generation Requirements in Cutting-Edge
+            Causality Research'
+        url: http://arxiv.org/abs/2405.13092
+        version: 859
+        volume: ''
+    key: 7K83HMSJ
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/7K83HMSJ
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/7K83HMSJ
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11640050
+            links:
+                alternate:
+                    href: https://www.zotero.org/andreassauter
+                    type: text/html
+            name: ''
+            username: andreassauter
+        creatorSummary: Sauter et al.
+        numChildren: 0
+        parsedDate: '2024-05-21'
+    version: 859
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: AAMAS
+        creators:
+        -   creatorType: author
+            firstName: Andreas
+            lastName: Sauter
+        -   creatorType: author
+            firstName: Nicolò
+            lastName: Botteghi
+        -   creatorType: author
+            firstName: Erman
+            lastName: Acar
+        -   creatorType: author
+            firstName: Aske
+            lastName: Plaat
+        date: 05-2024
+        dateAdded: '2024-06-03T11:27:28Z'
+        dateModified: '2024-06-03T11:30:05Z'
+        extra: ''
+        itemType: conferencePaper
+        key: UZS3SWZU
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        place: New Zealand
+        proceedingsTitle: Proceedings of the 23rd International Conference on Autonomous
+            Agents and Multiagent Systems (AAMAS)
+        publisher: ''
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: 'CORE: Towards Scalable and Efficient Causal Discovery with Reinforcement
+            Learning'
+        url: ''
+        version: 856
+        volume: ''
+    key: UZS3SWZU
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/UZS3SWZU
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/UZS3SWZU
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11640050
+            links:
+                alternate:
+                    href: https://www.zotero.org/andreassauter
+                    type: text/html
+            name: ''
+            username: andreassauter
+        creatorSummary: Sauter et al.
+        numChildren: 0
+        parsedDate: '2024'
+    version: 856
+-   data:
         DOI: 10.1016/J.ARTMED.2023.102742
         ISSN: ''
         abstractNote: ''
