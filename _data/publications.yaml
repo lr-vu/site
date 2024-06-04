@@ -35,8 +35,10 @@
             lastName: Plaat
         date: '2024-05-21'
         dateAdded: '2024-06-03T11:30:56Z'
-        dateModified: '2024-06-03T11:32:17Z'
-        extra: arXiv:2405.13092 [cs]
+        dateModified: '2024-06-04T09:17:04Z'
+        extra: 'arXiv:2405.13092 [cs]
+
+            Citation Key: sauterCausalPlaygroundAddressingDataGeneration2024'
         itemType: conferencePaper
         key: 7K83HMSJ
         language: ''
@@ -57,7 +59,7 @@
         title: 'CausalPlayground: Addressing Data-Generation Requirements in Cutting-Edge
             Causality Research'
         url: http://arxiv.org/abs/2405.13092
-        version: 859
+        version: 860
         volume: ''
     key: 7K83HMSJ
     library:
@@ -85,9 +87,17 @@
             name: ''
             username: andreassauter
         creatorSummary: Sauter et al.
+        lastModifiedByUser:
+            id: 6261094
+            links:
+                alternate:
+                    href: https://www.zotero.org/hemile
+                    type: text/html
+            name: ''
+            username: hemile
         numChildren: 0
         parsedDate: '2024-05-21'
-    version: 859
+    version: 860
 -   data:
         DOI: ''
         ISBN: ''
@@ -113,8 +123,8 @@
             lastName: Plaat
         date: 05-2024
         dateAdded: '2024-06-03T11:27:28Z'
-        dateModified: '2024-06-03T11:30:05Z'
-        extra: ''
+        dateModified: '2024-06-04T09:17:04Z'
+        extra: 'Citation Key: sauterCOREScalableEfficient2024'
         itemType: conferencePaper
         key: UZS3SWZU
         language: ''
@@ -132,7 +142,7 @@
         title: 'CORE: Towards Scalable and Efficient Causal Discovery with Reinforcement
             Learning'
         url: ''
-        version: 856
+        version: 860
         volume: ''
     key: UZS3SWZU
     library:
@@ -160,9 +170,17 @@
             name: ''
             username: andreassauter
         creatorSummary: Sauter et al.
+        lastModifiedByUser:
+            id: 6261094
+            links:
+                alternate:
+                    href: https://www.zotero.org/hemile
+                    type: text/html
+            name: ''
+            username: hemile
         numChildren: 0
         parsedDate: '2024'
-    version: 856
+    version: 860
 -   data:
         DOI: 10.1016/J.ARTMED.2023.102742
         ISSN: ''
