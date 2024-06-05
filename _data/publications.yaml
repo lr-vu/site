@@ -1,6 +1,73 @@
 -   data:
         DOI: ''
         ISBN: ''
+        abstractNote: ', Luca , Michael Cochez, Abraham Bernstein'
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Ruijie
+            lastName: Wang
+        -   creatorType: author
+            firstName: ''
+            lastName: Rossetto
+        date: ''
+        dateAdded: '2024-06-05T09:43:13Z'
+        dateModified: '2024-06-05T09:44:27Z'
+        extra: ''
+        itemType: conferencePaper
+        key: DT55RQLS
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        place: ''
+        proceedingsTitle: ''
+        publisher: ''
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: 'QAGCN: Answering Multi-relation Questions via Single-Step Implicit
+            Reasoning over Knowledge Graphs'
+        url: ''
+        version: 864
+        volume: ''
+    key: DT55RQLS
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/DT55RQLS
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/DT55RQLS
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: Wang and Rossetto
+        numChildren: 0
+    version: 864
+-   data:
+        DOI: ''
+        ISBN: ''
         abstractNote: Research on causal effects often relies on synthetic data due
             to the scarcity of real-world datasets with ground-truth effects. Since
             current data-generating tools do not always meet all requirements for
