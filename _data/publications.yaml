@@ -1,43 +1,65 @@
 -   data:
-        DOI: ''
-        ISBN: ''
-        abstractNote: ', Luca , Michael Cochez, Abraham Bernstein'
+        DOI: 10.1007/978-3-031-60626-7_3
+        ISBN: 978-3-031-60626-7
+        abstractNote: 'Multi-relation question answering (QA) is a challenging task,
+            where given questions usually require long reasoning chains in KGs that
+            consist of multiple relations. Recently, methods with explicit multi-step
+            reasoning over KGs have been prominently used in this task and have demonstrated
+            promising performance. Examples include methods that perform stepwise
+            label propagation through KG triples and methods that navigate over KG
+            triples based on reinforcement learning. A main weakness of these methods
+            is that their reasoning mechanisms are usually complex and difficult to
+            implement or train. In this paper, we argue that multi-relation QA can
+            be achieved via end-to-end single-step implicit reasoning, which is simpler,
+            more efficient, and easier to adopt. We propose QAGCN — a Question-Aware
+            Graph Convolutional Network (GCN)-based method that includes a novel GCN
+            architecture with controlled question-dependent message propagation for
+            the implicit reasoning. Extensive experiments have been conducted, where
+            QAGCN achieved competitive and even superior performance compared to state-of-the-art
+            explicit-reasoning methods. Our code and pre-trained models are available
+            in the repository: https://github.com/ruijie-wang-uzh/QAGCN .'
         accessDate: ''
-        archive: ''
+        archive: https://arxiv.org/abs/2206.01818
         archiveLocation: ''
         callNumber: ''
         collections: []
-        conferenceName: ''
+        conferenceName: European Semantic Web Conference
         creators:
         -   creatorType: author
             firstName: Ruijie
             lastName: Wang
         -   creatorType: author
-            firstName: ''
+            firstName: Luca
             lastName: Rossetto
-        date: ''
-        dateAdded: '2024-06-05T09:43:13Z'
-        dateModified: '2024-06-05T09:44:27Z'
-        extra: ''
+        -   creatorType: author
+            firstName: Michael
+            lastName: Cochez
+        -   creatorType: author
+            firstName: Abraham
+            lastName: Bernstein
+        date: 19 May 2024
+        dateAdded: '2023-03-24T12:41:58Z'
+        dateModified: '2024-06-05T09:49:13Z'
+        extra: 'Citation Key: wangQAGCNGraphConvolutional2022'
         itemType: conferencePaper
-        key: DT55RQLS
+        key: H8KQQQ3Z
         language: ''
         libraryCatalog: ''
-        pages: ''
+        pages: 41-58
         place: ''
-        proceedingsTitle: ''
-        publisher: ''
+        proceedingsTitle: The Semantic Web. ESWC 2024
+        publisher: Springer Nature Switzerland
         relations: {}
         rights: ''
-        series: ''
+        series: Lecture Notes in Computer Science
         shortTitle: ''
         tags: []
-        title: 'QAGCN: Answering Multi-relation Questions via Single-Step Implicit
-            Reasoning over Knowledge Graphs'
-        url: ''
-        version: 864
-        volume: ''
-    key: DT55RQLS
+        title: 'QAGCN: A Graph Convolutional Network-based Multi-Relation Question
+            Answering System'
+        url: https://link.springer.com/chapter/10.1007/978-3-031-60626-7_3
+        version: 886
+        volume: '14664'
+    key: H8KQQQ3Z
     library:
         id: 4989916
         links:
@@ -48,10 +70,10 @@
         type: group
     links:
         alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/DT55RQLS
+            href: https://www.zotero.org/groups/lrvu-publications/items/H8KQQQ3Z
             type: text/html
         self:
-            href: https://api.zotero.org/groups/4989916/items/DT55RQLS
+            href: https://api.zotero.org/groups/4989916/items/H8KQQQ3Z
             type: application/json
     meta:
         createdByUser:
@@ -62,9 +84,10 @@
                     type: text/html
             name: Michael Cochez
             username: michaelcochez
-        creatorSummary: Wang and Rossetto
+        creatorSummary: Wang et al.
         numChildren: 0
-    version: 864
+        parsedDate: '2024-05-19'
+    version: 886
 -   data:
         DOI: ''
         ISBN: ''
@@ -687,87 +710,6 @@
         numChildren: 0
         parsedDate: '2023-12-08'
     version: 827
--   data:
-        DOI: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveID: ''
-        archiveLocation: ''
-        callNumber: ''
-        citationKey: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Ruijie
-            lastName: Wang
-        -   creatorType: author
-            firstName: Luca
-            lastName: Rossetto
-        -   creatorType: author
-            firstName: Michael
-            lastName: Cochez
-        -   creatorType: author
-            firstName: Abraham
-            lastName: Bernstein
-        date: '2022'
-        dateAdded: '2023-03-24T12:41:58Z'
-        dateModified: '2023-12-06T13:08:05Z'
-        extra: ''
-        genre: ''
-        itemType: preprint
-        key: H8KQQQ3Z
-        language: ''
-        libraryCatalog: ''
-        place: ''
-        relations: {}
-        repository: ''
-        rights: ''
-        series: ''
-        seriesNumber: ''
-        shortTitle: ''
-        tags: []
-        title: 'QAGCN: A Graph Convolutional Network-based Multi-Relation Question
-            Answering System'
-        url: https://arxiv.org/abs/2206.01818
-        version: 820
-    key: H8KQQQ3Z
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/H8KQQQ3Z
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/H8KQQQ3Z
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Wang et al.
-        lastModifiedByUser:
-            id: 11114839
-            links:
-                alternate:
-                    href: https://www.zotero.org/frank.van.harmelen
-                    type: text/html
-            name: Frank van Harmelen
-            username: Frank.van.Harmelen
-        numChildren: 0
-        parsedDate: '2022'
-    version: 820
 -   data:
         DOI: 10.1145/3487553.3524719
         ISBN: 978-1-4503-9130-6
