@@ -377,6 +377,19 @@
     role: guest
 
 # Alumni
+-   name: Zhan Qu
+    orderby: Qu
+    keywords:
+      - Deep Learning
+      - Explainable AI
+      - Natural Language Processing
+      - Graph Neural Networks
+      - Cognitive Science
+    scholar: https://scholar.google.com/citations?user=VcnQaJUAAAAJ
+    linkedin: https://www.linkedin.com/in/zhan-qu-a9047024a
+    role: alumnus
+    bio: Summer 2024
+
 -   name: Francesco Manigrasso 
     orderby: Manigrasso
     keywords:
