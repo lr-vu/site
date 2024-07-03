@@ -6,6 +6,270 @@
         archive: ''
         archiveLocation: ''
         callNumber: ''
+        collections: []
+        conferenceName: AAMAS
+        creators:
+        -   creatorType: author
+            firstName: Andreas
+            lastName: Sauter
+        -   creatorType: author
+            firstName: Nicolò
+            lastName: Botteghi
+        -   creatorType: author
+            firstName: Erman
+            lastName: Acar
+        -   creatorType: author
+            firstName: Aske
+            lastName: Plaat
+        date: 05-2024
+        dateAdded: '2024-06-03T11:27:28Z'
+        dateModified: '2024-07-03T10:46:26Z'
+        extra: 'Citation Key: sauterCOREScalableEfficient2024'
+        itemType: conferencePaper
+        key: UZS3SWZU
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        place: New Zealand
+        proceedingsTitle: Proceedings of the 23rd International Conference on Autonomous
+            Agents and Multiagent Systems (AAMAS)
+        publisher: ''
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags:
+        -   tag: causal discovery
+        -   tag: reinforcement learning
+        title: 'CORE: Towards Scalable and Efficient Causal Discovery with Reinforcement
+            Learning'
+        url: ''
+        version: 905
+        volume: ''
+    key: UZS3SWZU
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/UZS3SWZU
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/UZS3SWZU
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11640050
+            links:
+                alternate:
+                    href: https://www.zotero.org/andreassauter
+                    type: text/html
+            name: ''
+            username: andreassauter
+        creatorSummary: Sauter et al.
+        numChildren: 0
+        parsedDate: '2024'
+    version: 905
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: Research on causal effects often relies on synthetic data due
+            to the scarcity of real-world datasets with ground-truth effects. Since
+            current data-generating tools do not always meet all requirements for
+            state-of-the-art research, ad-hoc methods are often employed. This leads
+            to heterogeneity among datasets and delays research progress. We address
+            the shortcomings of current data-generating libraries by introducing CausalPlayground,
+            a Python library that provides a standardized platform for generating,
+            sampling, and sharing structural causal models (SCMs). CausalPlayground
+            offers fine-grained control over SCMs, interventions, and the generation
+            of datasets of SCMs for learning and quantitative research. Furthermore,
+            by integrating with Gymnasium, the standard framework for reinforcement
+            learning (RL) environments, we enable online interaction with the SCMs.
+            Overall, by introducing CausalPlayground we aim to foster more efficient
+            and comparable research in the field. All code and API documentation is
+            available at https://github.com/sa-and/CausalPlayground.
+        accessDate: '2024-06-03T11:30:56Z'
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: Workshop on Causal and Object-Centric Representations for
+            Robotics at CVPR
+        creators:
+        -   creatorType: author
+            firstName: Andreas W. M.
+            lastName: Sauter
+        -   creatorType: author
+            firstName: Erman
+            lastName: Acar
+        -   creatorType: author
+            firstName: Aske
+            lastName: Plaat
+        date: '2024-05-21'
+        dateAdded: '2024-06-03T11:30:56Z'
+        dateModified: '2024-07-03T10:46:03Z'
+        extra: 'arXiv:2405.13092 [cs]
+
+            Citation Key: sauterCausalPlaygroundAddressingDataGeneration2024'
+        itemType: conferencePaper
+        key: 7K83HMSJ
+        language: ''
+        libraryCatalog: arXiv.org
+        pages: ''
+        place: ''
+        proceedingsTitle: ''
+        publisher: arXiv
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: CausalPlayground
+        tags:
+        -   tag: Computer Science - Artificial Intelligence
+        -   tag: Computer Science - Machine Learning
+        -   tag: causality
+        -   tag: library
+        title: 'CausalPlayground: Addressing Data-Generation Requirements in Cutting-Edge
+            Causality Research'
+        url: http://arxiv.org/abs/2405.13092
+        version: 903
+        volume: ''
+    key: 7K83HMSJ
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/7K83HMSJ
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/7K83HMSJ
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11640050
+            links:
+                alternate:
+                    href: https://www.zotero.org/andreassauter
+                    type: text/html
+            name: ''
+            username: andreassauter
+        creatorSummary: Sauter et al.
+        numChildren: 0
+        parsedDate: '2024-05-21'
+    version: 903
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: As Artificial Intelligence (AI) is having more influence on
+            our everyday lives, it becomes important that AI-based decisions are transparent
+            and explainable. As a consequence, the field of eXplainable AI (or XAI)
+            has become popular in recent years. One way to explain AI models is to
+            elucidate the predictive importance of the input features for the AI model
+            in general, also referred to as global explanations. Inspired by cooperative
+            game theory, Shapley values offer a convenient way for quantifying the
+            feature importance as explanations. However many methods based on Shapley
+            values are built on the assumption of feature independence and often overlook
+            causal relations of the features which could impact their importance for
+            the ML model. Inspired by studies of explanations at the local level,
+            we propose CAGE (Causally-Aware Shapley Values for Global Explanations).
+            In particular, we introduce a novel sampling procedure for out-coalition
+            features that respects the causal relations of the input features. We
+            derive a practical approach that incorporates causal knowledge into global
+            explanation and offers the possibility to interpret the predictive feature
+            importance considering their causal relation. We evaluate our method on
+            synthetic data and real-world data. The explanations from our approach
+            suggest that they are not only more intuitive but also more faithful compared
+            to previous global explanation methods.
+        accessDate: '2024-07-03T10:44:54Z'
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: XAI
+        creators:
+        -   creatorType: author
+            firstName: Nils Ole
+            lastName: Breuer
+        -   creatorType: author
+            firstName: Andreas
+            lastName: Sauter
+        -   creatorType: author
+            firstName: Majid
+            lastName: Mohammadi
+        -   creatorType: author
+            firstName: Erman
+            lastName: Acar
+        date: '2024-04-17'
+        dateAdded: '2024-07-03T10:44:55Z'
+        dateModified: '2024-07-03T10:45:50Z'
+        extra: arXiv:2404.11208 [cs]
+        itemType: conferencePaper
+        key: GYM6RRDS
+        language: ''
+        libraryCatalog: arXiv.org
+        pages: ''
+        place: ''
+        proceedingsTitle: ''
+        publisher: arXiv
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: CAGE
+        tags:
+        -   tag: Computer Science - Artificial Intelligence
+        -   tag: causality
+        -   tag: explainable AI
+        title: 'CAGE: Causality-Aware Shapley Value for Global Explanations'
+        url: http://arxiv.org/abs/2404.11208
+        version: 901
+        volume: ''
+    key: GYM6RRDS
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/GYM6RRDS
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/GYM6RRDS
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11640050
+            links:
+                alternate:
+                    href: https://www.zotero.org/andreassauter
+                    type: text/html
+            name: ''
+            username: andreassauter
+        creatorSummary: Breuer et al.
+        numChildren: 0
+        parsedDate: '2024-04-17'
+    version: 901
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
         collections:
         - ATA95EWX
         conferenceName: ''
@@ -2566,189 +2830,6 @@
         numChildren: 0
         parsedDate: '2024-05-19'
     version: 892
--   data:
-        DOI: ''
-        ISBN: ''
-        abstractNote: Research on causal effects often relies on synthetic data due
-            to the scarcity of real-world datasets with ground-truth effects. Since
-            current data-generating tools do not always meet all requirements for
-            state-of-the-art research, ad-hoc methods are often employed. This leads
-            to heterogeneity among datasets and delays research progress. We address
-            the shortcomings of current data-generating libraries by introducing CausalPlayground,
-            a Python library that provides a standardized platform for generating,
-            sampling, and sharing structural causal models (SCMs). CausalPlayground
-            offers fine-grained control over SCMs, interventions, and the generation
-            of datasets of SCMs for learning and quantitative research. Furthermore,
-            by integrating with Gymnasium, the standard framework for reinforcement
-            learning (RL) environments, we enable online interaction with the SCMs.
-            Overall, by introducing CausalPlayground we aim to foster more efficient
-            and comparable research in the field. All code and API documentation is
-            available at https://github.com/sa-and/CausalPlayground.
-        accessDate: '2024-06-03T11:30:56Z'
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        conferenceName: Workshop on Causal and Object-Centric Representations for
-            Robotics at CVPR
-        creators:
-        -   creatorType: author
-            firstName: Andreas W. M.
-            lastName: Sauter
-        -   creatorType: author
-            firstName: Erman
-            lastName: Acar
-        -   creatorType: author
-            firstName: Aske
-            lastName: Plaat
-        date: '2024-05-21'
-        dateAdded: '2024-06-03T11:30:56Z'
-        dateModified: '2024-06-04T09:17:04Z'
-        extra: 'arXiv:2405.13092 [cs]
-
-            Citation Key: sauterCausalPlaygroundAddressingDataGeneration2024'
-        itemType: conferencePaper
-        key: 7K83HMSJ
-        language: ''
-        libraryCatalog: arXiv.org
-        pages: ''
-        place: ''
-        proceedingsTitle: ''
-        publisher: arXiv
-        relations: {}
-        rights: ''
-        series: ''
-        shortTitle: CausalPlayground
-        tags:
-        -   tag: Computer Science - Artificial Intelligence
-            type: 1
-        -   tag: Computer Science - Machine Learning
-            type: 1
-        title: 'CausalPlayground: Addressing Data-Generation Requirements in Cutting-Edge
-            Causality Research'
-        url: http://arxiv.org/abs/2405.13092
-        version: 860
-        volume: ''
-    key: 7K83HMSJ
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/7K83HMSJ
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/7K83HMSJ
-            type: application/json
-    meta:
-        createdByUser:
-            id: 11640050
-            links:
-                alternate:
-                    href: https://www.zotero.org/andreassauter
-                    type: text/html
-            name: ''
-            username: andreassauter
-        creatorSummary: Sauter et al.
-        lastModifiedByUser:
-            id: 6261094
-            links:
-                alternate:
-                    href: https://www.zotero.org/hemile
-                    type: text/html
-            name: ''
-            username: hemile
-        numChildren: 0
-        parsedDate: '2024-05-21'
-    version: 860
--   data:
-        DOI: ''
-        ISBN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        conferenceName: AAMAS
-        creators:
-        -   creatorType: author
-            firstName: Andreas
-            lastName: Sauter
-        -   creatorType: author
-            firstName: Nicolò
-            lastName: Botteghi
-        -   creatorType: author
-            firstName: Erman
-            lastName: Acar
-        -   creatorType: author
-            firstName: Aske
-            lastName: Plaat
-        date: 05-2024
-        dateAdded: '2024-06-03T11:27:28Z'
-        dateModified: '2024-06-04T09:17:04Z'
-        extra: 'Citation Key: sauterCOREScalableEfficient2024'
-        itemType: conferencePaper
-        key: UZS3SWZU
-        language: ''
-        libraryCatalog: ''
-        pages: ''
-        place: New Zealand
-        proceedingsTitle: Proceedings of the 23rd International Conference on Autonomous
-            Agents and Multiagent Systems (AAMAS)
-        publisher: ''
-        relations: {}
-        rights: ''
-        series: ''
-        shortTitle: ''
-        tags: []
-        title: 'CORE: Towards Scalable and Efficient Causal Discovery with Reinforcement
-            Learning'
-        url: ''
-        version: 860
-        volume: ''
-    key: UZS3SWZU
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/UZS3SWZU
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/UZS3SWZU
-            type: application/json
-    meta:
-        createdByUser:
-            id: 11640050
-            links:
-                alternate:
-                    href: https://www.zotero.org/andreassauter
-                    type: text/html
-            name: ''
-            username: andreassauter
-        creatorSummary: Sauter et al.
-        lastModifiedByUser:
-            id: 6261094
-            links:
-                alternate:
-                    href: https://www.zotero.org/hemile
-                    type: text/html
-            name: ''
-            username: hemile
-        numChildren: 0
-        parsedDate: '2024'
-    version: 860
 -   data:
         DOI: 10.1016/J.ARTMED.2023.102742
         ISSN: ''
