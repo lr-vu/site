@@ -1,4 +1,212 @@
 -   data:
+        ISBN: '9781643685229'
+        abstractNote: Behavior change support systems need to take into account individual
+            needs and preferences to provide appropriate support. In this demonstration,
+            we illustrate how this might be achieved through the explicit modeling
+            of user characteristics within knowledge graphs (KG), captured in a dialogue
+            between the system and the user. We demonstrate how up-to-date information
+            enables reasoning for providing personalized support.
+        accessDate: '2024-07-04T13:01:11Z'
+        archive: ''
+        archiveLocation: ''
+        bookTitle: Frontiers in Artificial Intelligence and Applications
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: editor
+            firstName: Fabian
+            lastName: Lorig
+        -   creatorType: editor
+            firstName: Jason
+            lastName: Tucker
+        -   creatorType: editor
+            firstName: Adam
+            lastName: Dahlgren Lindström
+        -   creatorType: editor
+            firstName: Frank
+            lastName: Dignum
+        -   creatorType: editor
+            firstName: Pradeep
+            lastName: Murukannaiah
+        -   creatorType: editor
+            firstName: Andreas
+            lastName: Theodorou
+        -   creatorType: editor
+            firstName: Pınar
+            lastName: Yolum
+        -   creatorType: author
+            firstName: Pei-Yu
+            lastName: Chen
+        -   creatorType: author
+            firstName: Selene
+            lastName: Baez Santamaria
+        -   creatorType: author
+            firstName: Maaike H.T.
+            lastName: De Boer
+        -   creatorType: author
+            firstName: Floris
+            lastName: Den Hengst
+        -   creatorType: author
+            firstName: Bart A.
+            lastName: Kamphorst
+        -   creatorType: author
+            firstName: Quirine
+            lastName: Smit
+        -   creatorType: author
+            firstName: Shihan
+            lastName: Wang
+        -   creatorType: author
+            firstName: Johanna
+            lastName: Wolff
+        date: '2024-06-05'
+        dateAdded: '2024-07-04T13:01:22Z'
+        dateModified: '2024-07-04T13:01:22Z'
+        edition: ''
+        extra: 'DOI: 10.3233/FAIA240223'
+        itemType: bookSection
+        key: GGQQ46Q3
+        language: ''
+        libraryCatalog: DOI.org (Crossref)
+        numberOfVolumes: ''
+        pages: ''
+        place: ''
+        publisher: IOS Press
+        relations: {}
+        rights: https://creativecommons.org/licenses/by-nc/4.0/
+        series: ''
+        seriesNumber: ''
+        shortTitle: Intelligent Support Systems for Lifestyle Change
+        tags: []
+        title: 'Intelligent Support Systems for Lifestyle Change: Integrating Dialogue,
+            Information Extraction, and Reasoning'
+        url: https://ebooks.iospress.nl/doi/10.3233/FAIA240223
+        version: 907
+        volume: ''
+    key: GGQQ46Q3
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/GGQQ46Q3
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/GGQQ46Q3
+            type: application/json
+    meta:
+        createdByUser:
+            id: 12590531
+            links:
+                alternate:
+                    href: https://www.zotero.org/florisdenhengst
+                    type: text/html
+            name: ''
+            username: florisdenhengst
+        creatorSummary: Chen et al.
+        numChildren: 0
+        parsedDate: '2024-06-05'
+    version: 907
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: We present Conformal Intent Classification and Clarification
+            (CICC), a framework for fast and accurate intent classification for task-oriented
+            dialogue systems. The framework turns heuristic uncertainty scores of
+            any intent classifier into a clarification question that is guaranteed
+            to contain the true intent at a pre-defined confidence level.By disambiguating
+            between a small number of likely intents, the user query can be resolved
+            quickly and accurately. Additionally, we propose to augment the framework
+            for out-of-scope detection.In a comparative evaluation using seven intent
+            recognition datasets we find that CICC generates small clarification questions
+            and is capable of out-of-scope detection.CICC can help practitioners and
+            researchers substantially in improving the user experience of dialogue
+            agents with specific clarification questions.
+        accessDate: '2024-07-04T13:00:53Z'
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: Findings 2024
+        creators:
+        -   creatorType: author
+            firstName: Floris
+            lastName: Hengst
+        -   creatorType: author
+            firstName: Ralf
+            lastName: Wolter
+        -   creatorType: author
+            firstName: Patrick
+            lastName: Altmeyer
+        -   creatorType: author
+            firstName: Arda
+            lastName: Kaygan
+        -   creatorType: editor
+            firstName: Kevin
+            lastName: Duh
+        -   creatorType: editor
+            firstName: Helena
+            lastName: Gomez
+        -   creatorType: editor
+            firstName: Steven
+            lastName: Bethard
+        date: 2024-06
+        dateAdded: '2024-07-04T13:00:53Z'
+        dateModified: '2024-07-04T13:00:53Z'
+        extra: ''
+        itemType: conferencePaper
+        key: 66JUDAG7
+        language: ''
+        libraryCatalog: ACLWeb
+        pages: 2412–2432
+        place: Mexico City, Mexico
+        proceedingsTitle: 'Findings of the Association for Computational Linguistics:
+            NAACL 2024'
+        publisher: Association for Computational Linguistics
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: Conformal Intent Classification and Clarification for Fast and Accurate
+            Intent Recognition
+        url: https://aclanthology.org/2024.findings-naacl.156
+        version: 906
+        volume: ''
+    key: 66JUDAG7
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/66JUDAG7
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/66JUDAG7
+            type: application/json
+    meta:
+        createdByUser:
+            id: 12590531
+            links:
+                alternate:
+                    href: https://www.zotero.org/florisdenhengst
+                    type: text/html
+            name: ''
+            username: florisdenhengst
+        creatorSummary: Hengst et al.
+        numChildren: 0
+        parsedDate: 2024-06
+    version: 906
+-   data:
         DOI: ''
         ISBN: ''
         abstractNote: ''
