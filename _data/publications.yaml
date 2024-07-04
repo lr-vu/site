@@ -60,7 +60,7 @@
             lastName: Wolff
         date: '2024-06-05'
         dateAdded: '2024-07-04T13:01:22Z'
-        dateModified: '2024-07-04T13:01:22Z'
+        dateModified: '2024-07-04T14:45:44Z'
         edition: ''
         extra: 'DOI: 10.3233/FAIA240223'
         itemType: bookSection
@@ -76,11 +76,13 @@
         series: ''
         seriesNumber: ''
         shortTitle: Intelligent Support Systems for Lifestyle Change
-        tags: []
+        tags:
+        -   tag: health
+        -   tag: semantic web
         title: 'Intelligent Support Systems for Lifestyle Change: Integrating Dialogue,
             Information Extraction, and Reasoning'
         url: https://ebooks.iospress.nl/doi/10.3233/FAIA240223
-        version: 907
+        version: 913
         volume: ''
     key: GGQQ46Q3
     library:
@@ -110,7 +112,7 @@
         creatorSummary: Chen et al.
         numChildren: 0
         parsedDate: '2024-06-05'
-    version: 907
+    version: 913
 -   data:
         DOI: ''
         ISBN: ''
@@ -156,7 +158,7 @@
             lastName: Bethard
         date: 2024-06
         dateAdded: '2024-07-04T13:00:53Z'
-        dateModified: '2024-07-04T13:00:53Z'
+        dateModified: '2024-07-04T14:45:26Z'
         extra: ''
         itemType: conferencePaper
         key: 66JUDAG7
@@ -171,11 +173,14 @@
         rights: ''
         series: ''
         shortTitle: ''
-        tags: []
+        tags:
+        -   tag: conformal prediction
+        -   tag: dialogue
+        -   tag: machine learning
         title: Conformal Intent Classification and Clarification for Fast and Accurate
             Intent Recognition
         url: https://aclanthology.org/2024.findings-naacl.156
-        version: 906
+        version: 910
         volume: ''
     key: 66JUDAG7
     library:
@@ -205,7 +210,7 @@
         creatorSummary: Hengst et al.
         numChildren: 0
         parsedDate: 2024-06
-    version: 906
+    version: 910
 -   data:
         DOI: ''
         ISBN: ''
@@ -4681,90 +4686,6 @@
         numChildren: 0
         parsedDate: '2023'
     version: 674
--   data:
-        DOI: 10.1016/j.artmed.2023.102742
-        ISSN: 09333657
-        abstractNote: ''
-        accessDate: '2023-12-02T13:36:41Z'
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Floris
-            lastName: Den Hengst
-        -   creatorType: author
-            firstName: Martijn
-            lastName: Otten
-        -   creatorType: author
-            firstName: Paul
-            lastName: Elbers
-        -   creatorType: author
-            firstName: Frank
-            lastName: Van Harmelen
-        -   creatorType: author
-            firstName: Vincent
-            lastName: François-Lavet
-        -   creatorType: author
-            firstName: Mark
-            lastName: Hoogendoorn
-        date: 12/2023
-        dateAdded: '2023-12-02T13:36:42Z'
-        dateModified: '2023-12-04T07:43:52Z'
-        extra: ''
-        issue: ''
-        itemType: journalArticle
-        journalAbbreviation: Artificial Intelligence in Medicine
-        key: LP5U4DBG
-        language: en
-        libraryCatalog: DOI.org (Crossref)
-        pages: '102742'
-        publicationTitle: Artificial Intelligence in Medicine
-        relations: {}
-        rights: ''
-        series: ''
-        seriesText: ''
-        seriesTitle: ''
-        shortTitle: ''
-        tags:
-        -   tag: clinical guidelines
-        -   tag: health
-        -   tag: reinforcement learning
-        title: Guideline-informed reinforcement learning for mechanical ventilation
-            in critical care
-        url: https://linkinghub.elsevier.com/retrieve/pii/S0933365723002567
-        version: 673
-        volume: ''
-    key: LP5U4DBG
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/LP5U4DBG
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/LP5U4DBG
-            type: application/json
-    meta:
-        createdByUser:
-            id: 12590531
-            links:
-                alternate:
-                    href: https://www.zotero.org/florisdenhengst
-                    type: text/html
-            name: ''
-            username: florisdenhengst
-        creatorSummary: Den Hengst et al.
-        numChildren: 0
-        parsedDate: '2023'
-    version: 673
 -   data:
         DOI: 10.1145/3587259.3627557
         ISBN: '9798400701412'
