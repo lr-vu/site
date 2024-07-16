@@ -1,4 +1,84 @@
 -   data:
+        ISBN: 9783031637995 9783031638008
+        abstractNote: ''
+        accessDate: '2024-07-16T12:16:55Z'
+        archive: ''
+        archiveLocation: ''
+        bookTitle: Explainable Artificial Intelligence
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: editor
+            firstName: Luca
+            lastName: Longo
+        -   creatorType: editor
+            firstName: Sebastian
+            lastName: Lapuschkin
+        -   creatorType: editor
+            firstName: Christin
+            lastName: Seifert
+        -   creatorType: author
+            firstName: Samantha
+            lastName: Visbeek
+        -   creatorType: author
+            firstName: Erman
+            lastName: Acar
+        -   creatorType: author
+            firstName: Floris
+            lastName: Den Hengst
+        date: '2024'
+        dateAdded: '2024-07-16T12:16:55Z'
+        dateModified: '2024-07-16T12:16:55Z'
+        edition: ''
+        extra: 'DOI: 10.1007/978-3-031-63800-8_18'
+        itemType: bookSection
+        key: I9DIRU7X
+        language: en
+        libraryCatalog: DOI.org (Crossref)
+        numberOfVolumes: ''
+        pages: 350-373
+        place: Cham
+        publisher: Springer Nature Switzerland
+        relations: {}
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: Explainable Fraud Detection with Deep Symbolic Classification
+        url: https://link.springer.com/10.1007/978-3-031-63800-8_18
+        version: 915
+        volume: '2155'
+    key: I9DIRU7X
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/I9DIRU7X
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/I9DIRU7X
+            type: application/json
+    meta:
+        createdByUser:
+            id: 12590531
+            links:
+                alternate:
+                    href: https://www.zotero.org/florisdenhengst
+                    type: text/html
+            name: ''
+            username: florisdenhengst
+        creatorSummary: Visbeek et al.
+        numChildren: 0
+        parsedDate: '2024'
+    version: 915
+-   data:
         ISBN: '9781643685229'
         abstractNote: Behavior change support systems need to take into account individual
             needs and preferences to provide appropriate support. In this demonstration,
