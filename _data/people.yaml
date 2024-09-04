@@ -160,6 +160,19 @@
     role: guest
     title: PhD student
 
+
+-   name: Mayank Kharbanda
+    orderby: Kharbanda
+    keywords:
+    - knowledge graphs
+    - multi-modal knowledge graphs
+    - logical reasoning
+    scholar: https://scholar.google.com/citations?user=UGSKuZIAAAAJ
+    website: https://mayankkharbanda.github.io/
+    image: /images/people/Mayank.jpg
+    role: guest
+    title: PhD student
+
 -   name: Inès Blin
     orderby: Blin
     keywords:
