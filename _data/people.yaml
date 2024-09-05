@@ -173,6 +173,20 @@
     role: guest
     title: PhD student
 
+-   name: Thibaut Soulard
+    orderby: soulard
+    keywords:
+    - knowledge graph
+    - temporal knowledge graph
+    - machine learning
+    - symbolic AI
+    scholar: https://scholar.google.com/citations?user=xRZSDToAAAAJ
+    website: http://soulardthibaut.github.io/
+    image: /images/people/Thibaut.jpg
+    role: guest
+    title: PhD student
+
+
 -   name: Inès Blin
     orderby: Blin
     keywords:
