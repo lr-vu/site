@@ -146,7 +146,7 @@ dark: true
     <iframe class="gmaps"
       frameborder="0" style="border:0"
       referrerpolicy="no-referrer-when-downgrade"
-      src="https://www.google.com/maps/embed/v1/place?key=AIzaSyAacQcTIEs_Fw09Ponicxy2E5n8Jij4_18&q=NU+building+Vrije+Universiteit+Amsterdam"
+      src="https://www.google.com/maps/embed/v1/place?key=AIzaSyAxRyEJUn3yfTti4U8c2j68R2saAe2PFEg&q=NU+building+Vrije+Universiteit+Amsterdam"
       allowfullscreen>
     </iframe>
 

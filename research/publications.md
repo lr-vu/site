@@ -15,7 +15,7 @@ to these links.
 {% endcomment %}
 </nav>
 
-{% assign pubs = site.data.publications | sort: 'data.date' | reverse %}
+{% assign pubs = site.data.publications | sort: 'meta.parsedDate' | reverse %}
 
 <ul class="publications">
 {% for publication in pubs %}
@@ -29,7 +29,7 @@ to these links.
                 <a href="{{publication.data.url}}" class="non-pdf">link</a>
             {% endif %}
         {% endif %}
-        {% assign current_issued = publication.data.date | split: '-' | first %}
+        {% assign current_issued = publication.meta.parsedDate | split: '-' | first %}
         </h3>
         <span class="issued {% if current_issued == last_issued %}hidden{% endif%}">{{current_issued}}</span>
         {% if publication.data.creators %}
@@ -52,7 +52,7 @@ to these links.
         {% endif %}
     </li>
 
-    {% assign last_issued = publication.data.date | split: '-' | first %}
+    {% assign last_issued = publication.meta.parsedDate | split: '-' | first %}
 
 {% endfor %}
 </span>

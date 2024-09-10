@@ -1,4 +1,3129 @@
 -   data:
+        ISBN: 9783031637995 9783031638008
+        abstractNote: ''
+        accessDate: '2024-07-16T12:16:55Z'
+        archive: ''
+        archiveLocation: ''
+        bookTitle: Explainable Artificial Intelligence
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: editor
+            firstName: Luca
+            lastName: Longo
+        -   creatorType: editor
+            firstName: Sebastian
+            lastName: Lapuschkin
+        -   creatorType: editor
+            firstName: Christin
+            lastName: Seifert
+        -   creatorType: author
+            firstName: Samantha
+            lastName: Visbeek
+        -   creatorType: author
+            firstName: Erman
+            lastName: Acar
+        -   creatorType: author
+            firstName: Floris
+            lastName: Den Hengst
+        date: '2024'
+        dateAdded: '2024-07-16T12:16:55Z'
+        dateModified: '2024-07-16T12:16:55Z'
+        edition: ''
+        extra: 'DOI: 10.1007/978-3-031-63800-8_18'
+        itemType: bookSection
+        key: I9DIRU7X
+        language: en
+        libraryCatalog: DOI.org (Crossref)
+        numberOfVolumes: ''
+        pages: 350-373
+        place: Cham
+        publisher: Springer Nature Switzerland
+        relations: {}
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: Explainable Fraud Detection with Deep Symbolic Classification
+        url: https://link.springer.com/10.1007/978-3-031-63800-8_18
+        version: 915
+        volume: '2155'
+    key: I9DIRU7X
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/I9DIRU7X
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/I9DIRU7X
+            type: application/json
+    meta:
+        createdByUser:
+            id: 12590531
+            links:
+                alternate:
+                    href: https://www.zotero.org/florisdenhengst
+                    type: text/html
+            name: ''
+            username: florisdenhengst
+        creatorSummary: Visbeek et al.
+        numChildren: 0
+        parsedDate: '2024'
+    version: 915
+-   data:
+        ISBN: '9781643685229'
+        abstractNote: Behavior change support systems need to take into account individual
+            needs and preferences to provide appropriate support. In this demonstration,
+            we illustrate how this might be achieved through the explicit modeling
+            of user characteristics within knowledge graphs (KG), captured in a dialogue
+            between the system and the user. We demonstrate how up-to-date information
+            enables reasoning for providing personalized support.
+        accessDate: '2024-07-04T13:01:11Z'
+        archive: ''
+        archiveLocation: ''
+        bookTitle: Frontiers in Artificial Intelligence and Applications
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: editor
+            firstName: Fabian
+            lastName: Lorig
+        -   creatorType: editor
+            firstName: Jason
+            lastName: Tucker
+        -   creatorType: editor
+            firstName: Adam
+            lastName: Dahlgren Lindström
+        -   creatorType: editor
+            firstName: Frank
+            lastName: Dignum
+        -   creatorType: editor
+            firstName: Pradeep
+            lastName: Murukannaiah
+        -   creatorType: editor
+            firstName: Andreas
+            lastName: Theodorou
+        -   creatorType: editor
+            firstName: Pınar
+            lastName: Yolum
+        -   creatorType: author
+            firstName: Pei-Yu
+            lastName: Chen
+        -   creatorType: author
+            firstName: Selene
+            lastName: Baez Santamaria
+        -   creatorType: author
+            firstName: Maaike H.T.
+            lastName: De Boer
+        -   creatorType: author
+            firstName: Floris
+            lastName: Den Hengst
+        -   creatorType: author
+            firstName: Bart A.
+            lastName: Kamphorst
+        -   creatorType: author
+            firstName: Quirine
+            lastName: Smit
+        -   creatorType: author
+            firstName: Shihan
+            lastName: Wang
+        -   creatorType: author
+            firstName: Johanna
+            lastName: Wolff
+        date: '2024-06-05'
+        dateAdded: '2024-07-04T13:01:22Z'
+        dateModified: '2024-07-04T14:45:44Z'
+        edition: ''
+        extra: 'DOI: 10.3233/FAIA240223'
+        itemType: bookSection
+        key: GGQQ46Q3
+        language: ''
+        libraryCatalog: DOI.org (Crossref)
+        numberOfVolumes: ''
+        pages: ''
+        place: ''
+        publisher: IOS Press
+        relations: {}
+        rights: https://creativecommons.org/licenses/by-nc/4.0/
+        series: ''
+        seriesNumber: ''
+        shortTitle: Intelligent Support Systems for Lifestyle Change
+        tags:
+        -   tag: health
+        -   tag: semantic web
+        title: 'Intelligent Support Systems for Lifestyle Change: Integrating Dialogue,
+            Information Extraction, and Reasoning'
+        url: https://ebooks.iospress.nl/doi/10.3233/FAIA240223
+        version: 913
+        volume: ''
+    key: GGQQ46Q3
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/GGQQ46Q3
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/GGQQ46Q3
+            type: application/json
+    meta:
+        createdByUser:
+            id: 12590531
+            links:
+                alternate:
+                    href: https://www.zotero.org/florisdenhengst
+                    type: text/html
+            name: ''
+            username: florisdenhengst
+        creatorSummary: Chen et al.
+        numChildren: 0
+        parsedDate: '2024-06-05'
+    version: 913
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: We present Conformal Intent Classification and Clarification
+            (CICC), a framework for fast and accurate intent classification for task-oriented
+            dialogue systems. The framework turns heuristic uncertainty scores of
+            any intent classifier into a clarification question that is guaranteed
+            to contain the true intent at a pre-defined confidence level.By disambiguating
+            between a small number of likely intents, the user query can be resolved
+            quickly and accurately. Additionally, we propose to augment the framework
+            for out-of-scope detection.In a comparative evaluation using seven intent
+            recognition datasets we find that CICC generates small clarification questions
+            and is capable of out-of-scope detection.CICC can help practitioners and
+            researchers substantially in improving the user experience of dialogue
+            agents with specific clarification questions.
+        accessDate: '2024-07-04T13:00:53Z'
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: Findings 2024
+        creators:
+        -   creatorType: author
+            firstName: Floris
+            lastName: Hengst
+        -   creatorType: author
+            firstName: Ralf
+            lastName: Wolter
+        -   creatorType: author
+            firstName: Patrick
+            lastName: Altmeyer
+        -   creatorType: author
+            firstName: Arda
+            lastName: Kaygan
+        -   creatorType: editor
+            firstName: Kevin
+            lastName: Duh
+        -   creatorType: editor
+            firstName: Helena
+            lastName: Gomez
+        -   creatorType: editor
+            firstName: Steven
+            lastName: Bethard
+        date: 2024-06
+        dateAdded: '2024-07-04T13:00:53Z'
+        dateModified: '2024-07-04T14:45:26Z'
+        extra: ''
+        itemType: conferencePaper
+        key: 66JUDAG7
+        language: ''
+        libraryCatalog: ACLWeb
+        pages: 2412–2432
+        place: Mexico City, Mexico
+        proceedingsTitle: 'Findings of the Association for Computational Linguistics:
+            NAACL 2024'
+        publisher: Association for Computational Linguistics
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags:
+        -   tag: conformal prediction
+        -   tag: dialogue
+        -   tag: machine learning
+        title: Conformal Intent Classification and Clarification for Fast and Accurate
+            Intent Recognition
+        url: https://aclanthology.org/2024.findings-naacl.156
+        version: 910
+        volume: ''
+    key: 66JUDAG7
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/66JUDAG7
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/66JUDAG7
+            type: application/json
+    meta:
+        createdByUser:
+            id: 12590531
+            links:
+                alternate:
+                    href: https://www.zotero.org/florisdenhengst
+                    type: text/html
+            name: ''
+            username: florisdenhengst
+        creatorSummary: Hengst et al.
+        numChildren: 0
+        parsedDate: 2024-06
+    version: 910
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: AAMAS
+        creators:
+        -   creatorType: author
+            firstName: Andreas
+            lastName: Sauter
+        -   creatorType: author
+            firstName: Nicolò
+            lastName: Botteghi
+        -   creatorType: author
+            firstName: Erman
+            lastName: Acar
+        -   creatorType: author
+            firstName: Aske
+            lastName: Plaat
+        date: 05-2024
+        dateAdded: '2024-06-03T11:27:28Z'
+        dateModified: '2024-07-03T10:46:26Z'
+        extra: 'Citation Key: sauterCOREScalableEfficient2024'
+        itemType: conferencePaper
+        key: UZS3SWZU
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        place: New Zealand
+        proceedingsTitle: Proceedings of the 23rd International Conference on Autonomous
+            Agents and Multiagent Systems (AAMAS)
+        publisher: ''
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags:
+        -   tag: causal discovery
+        -   tag: reinforcement learning
+        title: 'CORE: Towards Scalable and Efficient Causal Discovery with Reinforcement
+            Learning'
+        url: ''
+        version: 905
+        volume: ''
+    key: UZS3SWZU
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/UZS3SWZU
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/UZS3SWZU
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11640050
+            links:
+                alternate:
+                    href: https://www.zotero.org/andreassauter
+                    type: text/html
+            name: ''
+            username: andreassauter
+        creatorSummary: Sauter et al.
+        numChildren: 0
+        parsedDate: '2024'
+    version: 905
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: Research on causal effects often relies on synthetic data due
+            to the scarcity of real-world datasets with ground-truth effects. Since
+            current data-generating tools do not always meet all requirements for
+            state-of-the-art research, ad-hoc methods are often employed. This leads
+            to heterogeneity among datasets and delays research progress. We address
+            the shortcomings of current data-generating libraries by introducing CausalPlayground,
+            a Python library that provides a standardized platform for generating,
+            sampling, and sharing structural causal models (SCMs). CausalPlayground
+            offers fine-grained control over SCMs, interventions, and the generation
+            of datasets of SCMs for learning and quantitative research. Furthermore,
+            by integrating with Gymnasium, the standard framework for reinforcement
+            learning (RL) environments, we enable online interaction with the SCMs.
+            Overall, by introducing CausalPlayground we aim to foster more efficient
+            and comparable research in the field. All code and API documentation is
+            available at https://github.com/sa-and/CausalPlayground.
+        accessDate: '2024-06-03T11:30:56Z'
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: Workshop on Causal and Object-Centric Representations for
+            Robotics at CVPR
+        creators:
+        -   creatorType: author
+            firstName: Andreas W. M.
+            lastName: Sauter
+        -   creatorType: author
+            firstName: Erman
+            lastName: Acar
+        -   creatorType: author
+            firstName: Aske
+            lastName: Plaat
+        date: '2024-05-21'
+        dateAdded: '2024-06-03T11:30:56Z'
+        dateModified: '2024-07-03T10:46:03Z'
+        extra: 'arXiv:2405.13092 [cs]
+
+            Citation Key: sauterCausalPlaygroundAddressingDataGeneration2024'
+        itemType: conferencePaper
+        key: 7K83HMSJ
+        language: ''
+        libraryCatalog: arXiv.org
+        pages: ''
+        place: ''
+        proceedingsTitle: ''
+        publisher: arXiv
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: CausalPlayground
+        tags:
+        -   tag: Computer Science - Artificial Intelligence
+        -   tag: Computer Science - Machine Learning
+        -   tag: causality
+        -   tag: library
+        title: 'CausalPlayground: Addressing Data-Generation Requirements in Cutting-Edge
+            Causality Research'
+        url: http://arxiv.org/abs/2405.13092
+        version: 903
+        volume: ''
+    key: 7K83HMSJ
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/7K83HMSJ
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/7K83HMSJ
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11640050
+            links:
+                alternate:
+                    href: https://www.zotero.org/andreassauter
+                    type: text/html
+            name: ''
+            username: andreassauter
+        creatorSummary: Sauter et al.
+        numChildren: 0
+        parsedDate: '2024-05-21'
+    version: 903
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: As Artificial Intelligence (AI) is having more influence on
+            our everyday lives, it becomes important that AI-based decisions are transparent
+            and explainable. As a consequence, the field of eXplainable AI (or XAI)
+            has become popular in recent years. One way to explain AI models is to
+            elucidate the predictive importance of the input features for the AI model
+            in general, also referred to as global explanations. Inspired by cooperative
+            game theory, Shapley values offer a convenient way for quantifying the
+            feature importance as explanations. However many methods based on Shapley
+            values are built on the assumption of feature independence and often overlook
+            causal relations of the features which could impact their importance for
+            the ML model. Inspired by studies of explanations at the local level,
+            we propose CAGE (Causally-Aware Shapley Values for Global Explanations).
+            In particular, we introduce a novel sampling procedure for out-coalition
+            features that respects the causal relations of the input features. We
+            derive a practical approach that incorporates causal knowledge into global
+            explanation and offers the possibility to interpret the predictive feature
+            importance considering their causal relation. We evaluate our method on
+            synthetic data and real-world data. The explanations from our approach
+            suggest that they are not only more intuitive but also more faithful compared
+            to previous global explanation methods.
+        accessDate: '2024-07-03T10:44:54Z'
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: XAI
+        creators:
+        -   creatorType: author
+            firstName: Nils Ole
+            lastName: Breuer
+        -   creatorType: author
+            firstName: Andreas
+            lastName: Sauter
+        -   creatorType: author
+            firstName: Majid
+            lastName: Mohammadi
+        -   creatorType: author
+            firstName: Erman
+            lastName: Acar
+        date: '2024-04-17'
+        dateAdded: '2024-07-03T10:44:55Z'
+        dateModified: '2024-07-03T10:45:50Z'
+        extra: arXiv:2404.11208 [cs]
+        itemType: conferencePaper
+        key: GYM6RRDS
+        language: ''
+        libraryCatalog: arXiv.org
+        pages: ''
+        place: ''
+        proceedingsTitle: ''
+        publisher: arXiv
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: CAGE
+        tags:
+        -   tag: Computer Science - Artificial Intelligence
+        -   tag: causality
+        -   tag: explainable AI
+        title: 'CAGE: Causality-Aware Shapley Value for Global Explanations'
+        url: http://arxiv.org/abs/2404.11208
+        version: 901
+        volume: ''
+    key: GYM6RRDS
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/GYM6RRDS
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/GYM6RRDS
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11640050
+            links:
+                alternate:
+                    href: https://www.zotero.org/andreassauter
+                    type: text/html
+            name: ''
+            username: andreassauter
+        creatorSummary: Breuer et al.
+        numChildren: 0
+        parsedDate: '2024-04-17'
+    version: 901
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections:
+        - ATA95EWX
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Dimitrios
+            lastName: Alivanistos
+        -   creatorType: author
+            firstName: Max
+            lastName: Berrendorf
+        -   creatorType: author
+            firstName: Michael
+            lastName: Cochez
+        -   creatorType: author
+            firstName: Mikhail
+            lastName: Galkin
+        date: '2022'
+        dateAdded: '2023-03-24T12:41:58Z'
+        dateModified: '2024-06-11T08:59:41Z'
+        extra: '_eprint: 2106.08166
+
+            Citation Key: alivanistosQueryEmbeddingHyperRelational2022'
+        itemType: conferencePaper
+        key: W96WM9VC
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        place: ''
+        proceedingsTitle: International Conference on Learning Representations (ICLR
+            2022)
+        publisher: Openreview
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: Query Embedding on Hyper-Relational Knowledge Graphs
+        url: https://openreview.net/forum?id=4rLw09TgRw9
+        version: 896
+        volume: ''
+    key: W96WM9VC
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/W96WM9VC
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/W96WM9VC
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: Alivanistos et al.
+        lastModifiedByUser:
+            id: 6261094
+            links:
+                alternate:
+                    href: https://www.zotero.org/hemile
+                    type: text/html
+            name: ''
+            username: hemile
+        numChildren: 0
+        parsedDate: '2022'
+    version: 896
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections:
+        - ATA95EWX
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Bo
+            lastName: Xiong
+        -   creatorType: author
+            firstName: Michael
+            lastName: Cochez
+        -   creatorType: author
+            firstName: Mojtaba
+            lastName: Nayyeri
+        -   creatorType: author
+            firstName: Steffen
+            lastName: Staab
+        date: '2022'
+        dateAdded: '2023-03-24T12:41:58Z'
+        dateModified: '2024-06-11T08:59:41Z'
+        extra: 'Citation Key: xiongHyperbolicEmbeddingInference2022'
+        itemType: conferencePaper
+        key: FGKTVWSM
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        place: ''
+        proceedingsTitle: NeurIPS2022
+        publisher: ''
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: Hyperbolic Embedding Inference for Structured Multi-Label Prediction
+        url: ''
+        version: 896
+        volume: ''
+    key: FGKTVWSM
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/FGKTVWSM
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/FGKTVWSM
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: Xiong et al.
+        lastModifiedByUser:
+            id: 6261094
+            links:
+                alternate:
+                    href: https://www.zotero.org/hemile
+                    type: text/html
+            name: ''
+            username: hemile
+        numChildren: 1
+        parsedDate: '2022'
+    version: 896
+-   data:
+        DOI: 10.1145/3447772
+        ISSN: 0360-0300
+        abstractNote: In this article, we provide a comprehensive introduction to
+            knowledge graphs, which have recently garnered significant attention from
+            both industry and academia in scenarios that require exploiting diverse,
+            dynamic, large-scale collections of data. After some opening remarks,
+            we motivate and contrast various graph-based data models, as well as languages
+            used to query and validate knowledge graphs. We explain how knowledge
+            can be represented and extracted using a combination of deductive and
+            inductive techniques. We conclude with high-level future research directions
+            for knowledge graphs.
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections:
+        - ATA95EWX
+        creators:
+        -   creatorType: author
+            firstName: Aidan
+            lastName: Hogan
+        -   creatorType: author
+            firstName: Eva
+            lastName: Blomqvist
+        -   creatorType: author
+            firstName: Michael
+            lastName: Cochez
+        -   creatorType: author
+            firstName: Claudia
+            lastName: D’amato
+        -   creatorType: author
+            firstName: Gerard De
+            lastName: Melo
+        -   creatorType: author
+            firstName: Claudio
+            lastName: Gutierrez
+        -   creatorType: author
+            firstName: Sabrina
+            lastName: Kirrane
+        -   creatorType: author
+            firstName: José Emilio Labra
+            lastName: Gayo
+        -   creatorType: author
+            firstName: Roberto
+            lastName: Navigli
+        -   creatorType: author
+            firstName: Sebastian
+            lastName: Neumaier
+        -   creatorType: author
+            firstName: Axel-Cyrille Ngonga
+            lastName: Ngomo
+        -   creatorType: author
+            firstName: Axel
+            lastName: Polleres
+        -   creatorType: author
+            firstName: Sabbir M.
+            lastName: Rashid
+        -   creatorType: author
+            firstName: Anisa
+            lastName: Rula
+        -   creatorType: author
+            firstName: Lukas
+            lastName: Schmelzeisen
+        -   creatorType: author
+            firstName: Juan
+            lastName: Sequeda
+        -   creatorType: author
+            firstName: Steffen
+            lastName: Staab
+        -   creatorType: author
+            firstName: Antoine
+            lastName: Zimmermann
+        date: 2021-07
+        dateAdded: '2023-03-24T12:41:23Z'
+        dateModified: '2024-06-11T08:59:41Z'
+        extra: 'Place: New York, NY, USA
+
+            Publisher: Association for Computing Machinery
+
+            Citation Key: hoganKnowledgeGraphs2021'
+        issue: '4'
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: X8Z3J5UE
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        publicationTitle: ACM Comput. Surv.
+        relations:
+            dc:replaces:
+            - http://zotero.org/groups/4989916/items/XJMSVE8V
+            - http://zotero.org/groups/4989916/items/QTACH84N
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags:
+        -   tag: Knowledge graphs
+        -   tag: embeddings
+        -   tag: graph algorithms
+        -   tag: graph databases
+        -   tag: graph neural networks
+        -   tag: graph query languages
+        -   tag: ontologies
+        -   tag: rule mining
+        -   tag: shapes
+        title: Knowledge Graphs
+        url: https://arxiv.org/abs/2003.02320
+        version: 896
+        volume: '54'
+    key: X8Z3J5UE
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/X8Z3J5UE
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/X8Z3J5UE
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: Hogan et al.
+        lastModifiedByUser:
+            id: 6261094
+            links:
+                alternate:
+                    href: https://www.zotero.org/hemile
+                    type: text/html
+            name: ''
+            username: hemile
+        numChildren: 0
+        parsedDate: 2021-07
+    version: 896
+-   data:
+        DOI: ''
+        ISBN: 978-3-030-49461-2
+        abstractNote: While RDF data are graph shaped by nature, most traditional
+            Machine Learning (ML) algorithms expect data in a vector form. To transform
+            graph elements to vectors, several graph embedding approaches have been
+            proposed. Comparing these approaches is interesting for 1) developers
+            of new embedding techniques to verify in which cases their proposal outperforms
+            the state-of-art and 2) consumers of these techniques in choosing the
+            best approach according to the task(s) the vectors will be used for. The
+            comparison could be delayed (and made difficult) by the choice of tasks,
+            the design of the evaluation, the selection of models, parameters, and
+            needed datasets. We propose GEval, an evaluation framework to simplify
+            the evaluation and the comparison of graph embedding techniques. The covered
+            tasks range from ML tasks (Classification, Regression, Clustering), semantic
+            tasks (entity relatedness, document similarity) to semantic analogies.
+            However, GEval is designed to be (easily) extensible. In this article,
+            we will describe the design and development of the proposed framework
+            by detailing its overall structure, the already implemented tasks, and
+            how to extend it. In conclusion, to demonstrate its operating approach,
+            we consider the parameter tuning of the KGloVe algorithm as a use case.
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections:
+        - ATA95EWX
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Maria Angela
+            lastName: Pellegrino
+        -   creatorType: author
+            firstName: Abdulrahman
+            lastName: Altabba
+        -   creatorType: author
+            firstName: Martina
+            lastName: Garofalo
+        -   creatorType: author
+            firstName: Petar
+            lastName: Ristoski
+        -   creatorType: author
+            firstName: Michael
+            lastName: Cochez
+        -   creatorType: editor
+            firstName: Andreas
+            lastName: Harth
+        -   creatorType: editor
+            firstName: Sabrina
+            lastName: Kirrane
+        -   creatorType: editor
+            firstName: Axel-Cyrille
+            lastName: Ngonga Ngomo
+        -   creatorType: editor
+            firstName: Heiko
+            lastName: Paulheim
+        -   creatorType: editor
+            firstName: Anisa
+            lastName: Rula
+        -   creatorType: editor
+            firstName: Anna Lisa
+            lastName: Gentile
+        -   creatorType: editor
+            firstName: Peter
+            lastName: Haase
+        -   creatorType: editor
+            firstName: Michael
+            lastName: Cochez
+        date: '2020'
+        dateAdded: '2023-03-24T12:41:57Z'
+        dateModified: '2024-06-11T08:59:41Z'
+        extra: 'Citation Key: pellegrinoGEvalModularExtensible2020'
+        itemType: conferencePaper
+        key: MGLZ5ZCQ
+        language: ''
+        libraryCatalog: ''
+        pages: 565–582
+        place: Cham
+        proceedingsTitle: The Semantic Web
+        publisher: Springer International Publishing
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: 'GEval: A Modular and Extensible Evaluation Framework for Graph Embedding
+            Techniques'
+        url: ''
+        version: 896
+        volume: ''
+    key: MGLZ5ZCQ
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/MGLZ5ZCQ
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/MGLZ5ZCQ
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: Pellegrino et al.
+        lastModifiedByUser:
+            id: 6261094
+            links:
+                alternate:
+                    href: https://www.zotero.org/hemile
+                    type: text/html
+            name: ''
+            username: hemile
+        numChildren: 0
+        parsedDate: '2020'
+    version: 896
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections:
+        - ATA95EWX
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Erik
+            lastName: Arakelyan
+        -   creatorType: author
+            firstName: Daniel
+            lastName: Daza
+        -   creatorType: author
+            firstName: Pasquale
+            lastName: Minervini
+        -   creatorType: author
+            firstName: Michael
+            lastName: Cochez
+        date: '2021'
+        dateAdded: '2023-03-24T12:41:25Z'
+        dateModified: '2024-06-11T08:59:41Z'
+        extra: 'Citation Key: arakelyanComplexQueryAnswering2021a'
+        itemType: conferencePaper
+        key: SC67JHK9
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        place: ''
+        proceedingsTitle: 9th International Conference on Learning Representations,
+            ICLR 2021, Virtual Event, Austria, May 3-7, 2021
+        publisher: OpenReview.net
+        relations:
+            dc:replaces: http://zotero.org/groups/4989916/items/2U4GTEST
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: Complex Query Answering with Neural Link Predictors
+        url: https://openreview.net/forum?id=Mos9F9kDwkz
+        version: 896
+        volume: ''
+    key: SC67JHK9
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/SC67JHK9
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/SC67JHK9
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: Arakelyan et al.
+        lastModifiedByUser:
+            id: 6261094
+            links:
+                alternate:
+                    href: https://www.zotero.org/hemile
+                    type: text/html
+            name: ''
+            username: hemile
+        numChildren: 1
+        parsedDate: '2021'
+    version: 896
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections:
+        - ATA95EWX
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        -   creatorType: author
+            firstName: Xander
+            lastName: Wilcke
+        -   creatorType: author
+            firstName: Lucas
+            lastName: van Berkel
+        -   creatorType: author
+            firstName: Victor
+            lastName: de Boer
+        date: '2021'
+        dateAdded: '2023-03-27T15:48:35Z'
+        dateModified: '2024-06-11T08:59:40Z'
+        extra: 'Citation Key: bloemKgbenchCollectionKnowledge2021'
+        itemType: conferencePaper
+        key: JCDFA2BU
+        language: ''
+        libraryCatalog: ''
+        pages: 614–630
+        place: ''
+        proceedingsTitle: 'The Semantic Web: 18th International Conference, ESWC 2021,
+            Virtual Event, June 6–10, 2021, Proceedings 18'
+        publisher: Springer International Publishing
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: 'kgbench: A collection of knowledge graph datasets for evaluating relational
+            and multimodal machine learning'
+        url: ''
+        version: 896
+        volume: ''
+    key: JCDFA2BU
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/JCDFA2BU
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/JCDFA2BU
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: Bloem et al.
+        lastModifiedByUser:
+            id: 6261094
+            links:
+                alternate:
+                    href: https://www.zotero.org/hemile
+                    type: text/html
+            name: ''
+            username: hemile
+        numChildren: 0
+        parsedDate: '2021'
+    version: 896
+-   data:
+        DOI: ''
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections:
+        - ATA95EWX
+        creators:
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        date: '2021'
+        dateAdded: '2023-03-27T15:48:35Z'
+        dateModified: '2024-06-11T08:59:40Z'
+        extra: 'Citation Key: bloemFindingMotifsKnowledge2021'
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: 3C7CIPL8
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        publicationTitle: arXiv preprint arXiv:2104.08163
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: Finding Motifs in Knowledge Graphs using Compression
+        url: ''
+        version: 896
+        volume: ''
+    key: 3C7CIPL8
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/3C7CIPL8
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/3C7CIPL8
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: Bloem
+        lastModifiedByUser:
+            id: 6261094
+            links:
+                alternate:
+                    href: https://www.zotero.org/hemile
+                    type: text/html
+            name: ''
+            username: hemile
+        numChildren: 0
+        parsedDate: '2021'
+    version: 896
+-   data:
+        DOI: 10.3233/DS-170007
+        ISSN: 2451-8484
+        abstractNote: 'In modern machine learning, raw data is the pre-ferred input
+            for our models. Where a decade ago data sci-entists were still engineering
+            features, manually picking out the details they thought salient, they
+            now prefer the data as raw as possible. As long as we can assume that
+            all relevant and irrelevant information is present in the input data,
+            we can design deep models that build up intermediate represen-tations
+            to sift out relevant features. In some areas, however, we struggle to
+            find this raw form of data. One such area involves heterogeneous knowledge:
+            entities, their attributes and internal relations. The Semantic Web community
+            has in-vested decades of work on just this problem: how to repre-sent
+            knowledge, in various domains, in as raw and as usable a form as possible,
+            satisfying many use cases. This work has led to the Linked Open Data Cloud,
+            a vast and distributed knowledge graph. If we can develop methods that
+            operate on this raw form of data–the knowledge graph–we can dispense with
+            a great deal of ad-hoc feature engineering and train deep models end-to-end
+            in many more domains. In this position paper, we describe current research
+            in this area and discuss some of the promises and challenges of this approach.'
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections:
+        - VSP3MV9F
+        - ATA95EWX
+        creators:
+        -   creatorType: author
+            firstName: Xander
+            lastName: Wilcke
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        -   creatorType: author
+            firstName: Victor
+            lastName: De Boer
+        date: 2017-10
+        dateAdded: '2023-03-24T12:41:25Z'
+        dateModified: '2024-06-11T08:59:40Z'
+        extra: 'Publisher: IOS Press
+
+            Citation Key: wilckeKnowledgeGraphDefault2017'
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: MTF39WVG
+        language: ''
+        libraryCatalog: ''
+        pages: 1–19
+        publicationTitle: Data Science
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags:
+        -   tag: End-to-End Learning
+        -   tag: Knowledge Graphs
+        -   tag: Machine Learning
+        -   tag: Position paper
+        -   tag: Semantic Web
+        title: The Knowledge Graph as the Default Data Model for Machine Learning
+        url: ''
+        version: 896
+        volume: ''
+    key: MTF39WVG
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/MTF39WVG
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/MTF39WVG
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: Wilcke et al.
+        lastModifiedByUser:
+            id: 6261094
+            links:
+                alternate:
+                    href: https://www.zotero.org/hemile
+                    type: text/html
+            name: ''
+            username: hemile
+        numChildren: 0
+        parsedDate: 2017-10
+    version: 896
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections:
+        - ATA95EWX
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: WX
+            lastName: Wilcke
+        -   creatorType: author
+            firstName: P
+            lastName: Bloem
+        -   creatorType: author
+            firstName: L
+            lastName: van Berkel
+        -   creatorType: author
+            firstName: V
+            lastName: de Boer
+        date: '2021'
+        dateAdded: '2023-03-24T12:41:25Z'
+        dateModified: '2024-06-11T08:59:40Z'
+        extra: 'Citation Key: wilckeKgbenchCollectionDatasets2021'
+        itemType: conferencePaper
+        key: UBS22RJM
+        language: ''
+        libraryCatalog: ''
+        pages: 614–630
+        place: ''
+        proceedingsTitle: Proceedings of the European Semantic Web Conference 2021
+        publisher: Springer
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: 'kgbench: A Collection of Datasets for Multimodal and Relational Learning
+            on Heterogeneous Knowledge'
+        url: ''
+        version: 896
+        volume: ''
+    key: UBS22RJM
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/UBS22RJM
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/UBS22RJM
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: Wilcke et al.
+        lastModifiedByUser:
+            id: 6261094
+            links:
+                alternate:
+                    href: https://www.zotero.org/hemile
+                    type: text/html
+            name: ''
+            username: hemile
+        numChildren: 0
+        parsedDate: '2021'
+    version: 896
+-   data:
+        DOI: ''
+        ISBN: 978-3-030-49461-2
+        abstractNote: Wikidata is a free and open knowledge base which can be read
+            and edited by both humans and machines. It acts as a central storage for
+            the structured data of several Wikimedia projects. To improve the process
+            of manually inserting new facts, the Wikidata platform features an association
+            rule-based tool to recommend additional suitable properties. In this work,
+            we introduce a novel approach to provide such recommendations based on
+            frequentist inference. We introduce a trie-based method that can efficiently
+            learn and represent property set probabilities in RDF graphs. We extend
+            the method by adding type information to improve recommendation precision
+            and introduce backoff strategies which further increase the performance
+            of the initial approach for entities with rare property combinations.
+            We investigate how the captured structure can be employed for property
+            recommendation, analogously to the Wikidata PropertySuggester. We evaluate
+            our approach on the full Wikidata dataset and compare its performance
+            to the state-of-the-art Wikidata PropertySuggester, outperforming it in
+            all evaluated metrics. Notably we could reduce the average rank of the
+            first relevant recommendation by 71%.
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections:
+        - ATA95EWX
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Lars C.
+            lastName: Gleim
+        -   creatorType: author
+            firstName: Rafael
+            lastName: Schimassek
+        -   creatorType: author
+            firstName: Dominik
+            lastName: Hüser
+        -   creatorType: author
+            firstName: Maximilian
+            lastName: Peters
+        -   creatorType: author
+            firstName: Christoph
+            lastName: Krämer
+        -   creatorType: author
+            firstName: Michael
+            lastName: Cochez
+        -   creatorType: author
+            firstName: Stefan
+            lastName: Decker
+        -   creatorType: editor
+            firstName: Andreas
+            lastName: Harth
+        -   creatorType: editor
+            firstName: Sabrina
+            lastName: Kirrane
+        -   creatorType: editor
+            firstName: Axel-Cyrille
+            lastName: Ngonga Ngomo
+        -   creatorType: editor
+            firstName: Heiko
+            lastName: Paulheim
+        -   creatorType: editor
+            firstName: Anisa
+            lastName: Rula
+        -   creatorType: editor
+            firstName: Anna Lisa
+            lastName: Gentile
+        -   creatorType: editor
+            firstName: Peter
+            lastName: Haase
+        -   creatorType: editor
+            firstName: Michael
+            lastName: Cochez
+        date: '2020'
+        dateAdded: '2023-03-24T12:41:23Z'
+        dateModified: '2024-06-11T08:59:40Z'
+        extra: 'Citation Key: gleimSchemaTreeMaximumLikelihoodProperty2020'
+        itemType: conferencePaper
+        key: 2YRKFJMI
+        language: ''
+        libraryCatalog: ''
+        pages: 179–195
+        place: Cham
+        proceedingsTitle: The Semantic Web
+        publisher: Springer International Publishing
+        relations:
+            dc:replaces: http://zotero.org/groups/4989916/items/ID64XAV8
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: 'SchemaTree: Maximum-Likelihood Property Recommendation for Wikidata'
+        url: ''
+        version: 896
+        volume: ''
+    key: 2YRKFJMI
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/2YRKFJMI
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/2YRKFJMI
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: Gleim et al.
+        lastModifiedByUser:
+            id: 6261094
+            links:
+                alternate:
+                    href: https://www.zotero.org/hemile
+                    type: text/html
+            name: ''
+            username: hemile
+        numChildren: 0
+        parsedDate: '2020'
+    version: 896
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections:
+        - VSP3MV9F
+        - ATA95EWX
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: M
+            lastName: Schlichtkrull
+        -   creatorType: author
+            firstName: TN
+            lastName: Kipf
+        -   creatorType: author
+            firstName: P
+            lastName: Bloem
+        -   creatorType: author
+            firstName: ', R. vd, Titov, I.'
+            lastName: Berg
+        -   creatorType: author
+            firstName: M.
+            lastName: Welling
+        date: '2018'
+        dateAdded: '2023-03-27T15:48:34Z'
+        dateModified: '2024-06-11T08:59:39Z'
+        extra: 'Citation Key: schlichtkrullModelingRelationalData2018a'
+        itemType: conferencePaper
+        key: R3FJRED9
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        place: ''
+        proceedingsTitle: European Semantic Web Conference, 593-607
+        publisher: ''
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags:
+        -   tag: graph learning
+        -   tag: knowledge graphs
+        title: Modeling relational data with graph convolutional networks
+        url: ''
+        version: 895
+        volume: ''
+    key: R3FJRED9
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/R3FJRED9
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/R3FJRED9
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: Schlichtkrull et al.
+        lastModifiedByUser:
+            id: 6261094
+            links:
+                alternate:
+                    href: https://www.zotero.org/hemile
+                    type: text/html
+            name: ''
+            username: hemile
+        numChildren: 0
+        parsedDate: '2018'
+    version: 895
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections:
+        - VSP3MV9F
+        - ATA95EWX
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Stefan
+            lastName: Schouten
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        -   creatorType: author
+            firstName: Piek
+            lastName: Vossen
+        date: '2022'
+        dateAdded: '2023-03-27T15:48:35Z'
+        dateModified: '2024-06-11T08:59:39Z'
+        extra: 'Citation Key: schoutenProbingRepresentationsNamed2022'
+        itemType: conferencePaper
+        key: P5W6J8LZ
+        language: ''
+        libraryCatalog: ''
+        pages: 384–393
+        place: ''
+        proceedingsTitle: Proceedings of the Fifth BlackboxNLP Workshop on Analyzing
+            and Interpreting Neural Networks for NLP
+        publisher: ''
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags:
+        -   tag: large language models
+        title: Probing the representations of named entities in Transformer-based
+            Language Models
+        url: ''
+        version: 895
+        volume: ''
+    key: P5W6J8LZ
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/P5W6J8LZ
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/P5W6J8LZ
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: Schouten et al.
+        lastModifiedByUser:
+            id: 6261094
+            links:
+                alternate:
+                    href: https://www.zotero.org/hemile
+                    type: text/html
+            name: ''
+            username: hemile
+        numChildren: 0
+        parsedDate: '2022'
+    version: 895
+-   data:
+        DOI: ''
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections:
+        - VSP3MV9F
+        - ATA95EWX
+        creators:
+        -   creatorType: author
+            firstName: Henriette
+            lastName: Capel
+        -   creatorType: author
+            firstName: Robin
+            lastName: Weiler
+        -   creatorType: author
+            firstName: Maurits
+            lastName: Dijkstra
+        -   creatorType: author
+            firstName: Reinier
+            lastName: Vleugels
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        -   creatorType: author
+            firstName: K Anton
+            lastName: Feenstra
+        date: '2022'
+        dateAdded: '2023-03-27T15:48:35Z'
+        dateModified: '2024-06-11T08:59:39Z'
+        extra: 'Publisher: Nature Publishing Group UK London
+
+            Citation Key: capelProteinGLUEMultitaskBenchmark2022'
+        issue: '1'
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: DRHSRQSA
+        language: ''
+        libraryCatalog: ''
+        pages: '16047'
+        publicationTitle: Scientific Reports
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags:
+        -   tag: biomedical
+        title: ProteinGLUE multi-task benchmark suite for self-supervised protein
+            modeling
+        url: ''
+        version: 895
+        volume: '12'
+    key: DRHSRQSA
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/DRHSRQSA
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/DRHSRQSA
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: Capel et al.
+        lastModifiedByUser:
+            id: 6261094
+            links:
+                alternate:
+                    href: https://www.zotero.org/hemile
+                    type: text/html
+            name: ''
+            username: hemile
+        numChildren: 0
+        parsedDate: '2022'
+    version: 895
+-   data:
+        DOI: ''
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: WX
+            lastName: Wilcke
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        -   creatorType: author
+            firstName: Victor
+            lastName: de Boer
+        -   creatorType: author
+            firstName: RH
+            lastName: van’t Veer
+        date: '2021'
+        dateAdded: '2023-03-27T15:48:35Z'
+        dateModified: '2024-06-11T08:59:39Z'
+        extra: 'Citation Key: wilckeEndtoEndLearningMultimodal2021'
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: 8T4WKTVL
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        publicationTitle: Under Submission
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: End-to-End Learning on Multimodal Knowledge Graphs
+        url: ''
+        version: 895
+        volume: ''
+    key: 8T4WKTVL
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/8T4WKTVL
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/8T4WKTVL
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: Wilcke et al.
+        lastModifiedByUser:
+            id: 6261094
+            links:
+                alternate:
+                    href: https://www.zotero.org/hemile
+                    type: text/html
+            name: ''
+            username: hemile
+        numChildren: 0
+        parsedDate: '2021'
+    version: 895
+-   data:
+        DOI: 10.48550/ARXIV.2309.01169
+        abstractNote: ''
+        accessDate: '2023-11-30T13:51:28Z'
+        archive: ''
+        archiveID: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: ''
+        collections:
+        - ATA95EWX
+        creators:
+        -   creatorType: author
+            firstName: W. X.
+            lastName: Wilcke
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        -   creatorType: author
+            firstName: Victor de
+            lastName: Boer
+        -   creatorType: author
+            firstName: R. H. van t
+            lastName: Veer
+        date: '2023'
+        dateAdded: '2023-11-30T14:27:07Z'
+        dateModified: '2024-06-11T08:59:38Z'
+        extra: 'arXiv: 2309.01169
+
+            Citation Key: wilckeEndtoEndLearningMultimodal2023'
+        genre: ''
+        itemType: preprint
+        key: 38BQ4PN2
+        language: ''
+        libraryCatalog: DBLP Computer Science Bibliography
+        place: ''
+        relations: {}
+        repository: ''
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: End-to-End Learning on Multimodal Knowledge Graphs
+        url: https://doi.org/10.48550/arXiv.2309.01169
+        version: 895
+    key: 38BQ4PN2
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/38BQ4PN2
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/38BQ4PN2
+            type: application/json
+    meta:
+        createdByUser:
+            id: 2233210
+            links:
+                alternate:
+                    href: https://www.zotero.org/wxwilcke
+                    type: text/html
+            name: ''
+            username: wxwilcke
+        creatorSummary: Wilcke et al.
+        lastModifiedByUser:
+            id: 6261094
+            links:
+                alternate:
+                    href: https://www.zotero.org/hemile
+                    type: text/html
+            name: ''
+            username: hemile
+        numChildren: 0
+        parsedDate: '2023'
+    version: 895
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections:
+        - VSP3MV9F
+        - ATA95EWX
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Shuai
+            lastName: Wang
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        -   creatorType: author
+            firstName: Joe
+            lastName: Raad
+        -   creatorType: author
+            firstName: Frank
+            lastName: van Harmelen
+        date: '2020'
+        dateAdded: '2023-03-27T15:48:35Z'
+        dateModified: '2024-06-11T08:59:38Z'
+        extra: 'Citation Key: wangSUBMASSIVEResolvingSubclass2020'
+        itemType: conferencePaper
+        key: CPNQNC38
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        place: ''
+        proceedingsTitle: Workshop on Large Scale RDF Analytics
+        publisher: ''
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags:
+        -   tag: linked open data
+        -   tag: semantic web
+        title: 'SUBMASSIVE: Resolving subclass cycles in very large knowledge graphs'
+        url: http://lascar.sda.tech/assets/accepted-papers/LASCAR20_paper_1.pdf
+        version: 895
+        volume: ''
+    key: CPNQNC38
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/CPNQNC38
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/CPNQNC38
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: Wang et al.
+        lastModifiedByUser:
+            id: 6261094
+            links:
+                alternate:
+                    href: https://www.zotero.org/hemile
+                    type: text/html
+            name: ''
+            username: hemile
+        numChildren: 0
+        parsedDate: '2020'
+    version: 895
+-   data:
+        DOI: ''
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections:
+        - VSP3MV9F
+        - ATA95EWX
+        creators:
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        -   creatorType: author
+            firstName: Steven
+            lastName: de Rooij
+        date: '2020'
+        dateAdded: '2023-03-27T15:48:34Z'
+        dateModified: '2024-06-11T08:59:38Z'
+        extra: 'Publisher: Springer
+
+            Citation Key: bloemLargescaleNetworkMotif2020'
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: ZVVMKZDU
+        language: ''
+        libraryCatalog: ''
+        pages: 1421–1453
+        publicationTitle: Data Mining and Knowledge Discovery, 2020
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags:
+        -   tag: graph learning
+        -   tag: motif analysis
+        title: Large-scale network motif analysis using compression
+        url: https://peterbloem.nl/publications/compression-for-motifs
+        version: 895
+        volume: '34'
+    key: ZVVMKZDU
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/ZVVMKZDU
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/ZVVMKZDU
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: Bloem and de Rooij
+        lastModifiedByUser:
+            id: 6261094
+            links:
+                alternate:
+                    href: https://www.zotero.org/hemile
+                    type: text/html
+            name: ''
+            username: hemile
+        numChildren: 0
+        parsedDate: '2020'
+    version: 895
+-   data:
+        DOI: ''
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections:
+        - VSP3MV9F
+        - ATA95EWX
+        creators:
+        -   creatorType: author
+            firstName: Thiviyan
+            lastName: Thanapalasingam
+        -   creatorType: author
+            firstName: Lucas
+            lastName: van Berkel
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        -   creatorType: author
+            firstName: Paul
+            lastName: Groth
+        date: '2022'
+        dateAdded: '2023-03-27T15:48:35Z'
+        dateModified: '2024-06-11T08:59:38Z'
+        extra: 'Publisher: PeerJ Inc.
+
+            Citation Key: thanapalasingamRelationalGraphConvolutional2022'
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: QEMI9V22
+        language: ''
+        libraryCatalog: ''
+        pages: e1073
+        publicationTitle: PeerJ Computer Science
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags:
+        -   tag: graph learning
+        title: 'Relational graph convolutional networks: a closer look'
+        url: https://peerj.com/articles/cs-1073/
+        version: 895
+        volume: '8'
+    key: QEMI9V22
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/QEMI9V22
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/QEMI9V22
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: Thanapalasingam et al.
+        lastModifiedByUser:
+            id: 6261094
+            links:
+                alternate:
+                    href: https://www.zotero.org/hemile
+                    type: text/html
+            name: ''
+            username: hemile
+        numChildren: 0
+        parsedDate: '2022'
+    version: 895
+-   data:
+        DOI: 10.48550/ARXIV.2303.14617
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveID: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: ''
+        collections:
+        - ATA95EWX
+        creators:
+        -   creatorType: author
+            firstName: Hongyu
+            lastName: Ren
+        -   creatorType: author
+            firstName: Mikhail
+            lastName: Galkin
+        -   creatorType: author
+            firstName: Michael
+            lastName: Cochez
+        -   creatorType: author
+            firstName: Zhaocheng
+            lastName: Zhu
+        -   creatorType: author
+            firstName: Jure
+            lastName: Leskovec
+        date: '2023'
+        dateAdded: '2023-12-06T00:07:21Z'
+        dateModified: '2024-06-11T08:59:37Z'
+        extra: 'arXiv: 2303.14617
+
+            Citation Key: renNeuralGraphReasoning2023'
+        genre: ''
+        itemType: preprint
+        key: UMT9JBR9
+        language: ''
+        libraryCatalog: ''
+        place: ''
+        relations: {}
+        repository: ''
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: 'Neural Graph Reasoning: Complex Logical Query Answering Meets Graph
+            Databases'
+        url: https://doi.org/10.48550/arXiv.2303.14617
+        version: 895
+    key: UMT9JBR9
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/UMT9JBR9
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/UMT9JBR9
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: Ren et al.
+        lastModifiedByUser:
+            id: 6261094
+            links:
+                alternate:
+                    href: https://www.zotero.org/hemile
+                    type: text/html
+            name: ''
+            username: hemile
+        numChildren: 0
+        parsedDate: '2023'
+    version: 895
+-   data:
+        DOI: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveID: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: ''
+        collections:
+        - ATA95EWX
+        creators:
+        -   creatorType: author
+            firstName: Taraneh
+            lastName: Younesian
+        -   creatorType: author
+            firstName: Thiviyan
+            lastName: Thanapalasingam
+        -   creatorType: author
+            firstName: Emile
+            lastName: van Krieken
+        -   creatorType: author
+            firstName: Daniel
+            lastName: Daza
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        date: '2023'
+        dateAdded: '2023-12-01T09:37:11Z'
+        dateModified: '2024-06-11T08:59:37Z'
+        extra: 'arXiv:2310.03399
+
+            Citation Key: younesianGRAPESLearningSample2023'
+        genre: ''
+        itemType: preprint
+        key: VRJFKGT5
+        language: ''
+        libraryCatalog: ''
+        place: ''
+        relations: {}
+        repository: ''
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags:
+        -   tag: gflownets
+        -   tag: graph learning
+        -   tag: learning
+        -   tag: sampling
+        title: 'GRAPES: Learning to Sample Graphs for Scalable Graph Neural Networks'
+        url: https://arxiv.org/abs/2310.03399
+        version: 895
+    key: VRJFKGT5
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/VRJFKGT5
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/VRJFKGT5
+            type: application/json
+    meta:
+        createdByUser:
+            id: 13137047
+            links:
+                alternate:
+                    href: https://www.zotero.org/tyounesian
+                    type: text/html
+            name: ''
+            username: tyounesian
+        creatorSummary: Younesian et al.
+        lastModifiedByUser:
+            id: 6261094
+            links:
+                alternate:
+                    href: https://www.zotero.org/hemile
+                    type: text/html
+            name: ''
+            username: hemile
+        numChildren: 0
+        parsedDate: '2023'
+    version: 895
+-   data:
+        DOI: 10.1145/3583780.3615294
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections:
+        - ATA95EWX
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Bo
+            lastName: Xiong
+        -   creatorType: author
+            firstName: Mojtaba
+            lastName: Nayyeri
+        -   creatorType: author
+            firstName: Daniel
+            lastName: Daza
+        -   creatorType: author
+            firstName: Michael
+            lastName: Cochez
+        -   creatorType: editor
+            firstName: Ingo
+            lastName: Frommholz
+        -   creatorType: editor
+            firstName: Frank
+            lastName: Hopfgartner
+        -   creatorType: editor
+            firstName: Mark
+            lastName: Lee
+        -   creatorType: editor
+            firstName: Michael
+            lastName: Oakes
+        -   creatorType: editor
+            firstName: Mounia
+            lastName: Lalmas
+        -   creatorType: editor
+            firstName: Min
+            lastName: Zhang
+        -   creatorType: editor
+            firstName: Rodrygo L. T.
+            lastName: Santos
+        date: '2023'
+        dateAdded: '2023-12-06T00:12:09Z'
+        dateModified: '2024-06-11T08:59:36Z'
+        extra: 'Citation Key: xiongReasoningTriplesRecent2023'
+        itemType: conferencePaper
+        key: CAQRS9DS
+        language: ''
+        libraryCatalog: ''
+        pages: 5228–5231
+        place: ''
+        proceedingsTitle: Proceedings of the 32nd ACM International Conference on
+            Information and Knowledge Management, CIKM 2023, Birmingham, United Kingdom,
+            October 21-25, 2023
+        publisher: ACM
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: 'Reasoning beyond Triples: Recent Advances in Knowledge Graph Embeddings'
+        url: https://doi.org/10.1145/3583780.3615294
+        version: 894
+        volume: ''
+    key: CAQRS9DS
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/CAQRS9DS
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/CAQRS9DS
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: Xiong et al.
+        lastModifiedByUser:
+            id: 6261094
+            links:
+                alternate:
+                    href: https://www.zotero.org/hemile
+                    type: text/html
+            name: ''
+            username: hemile
+        numChildren: 0
+        parsedDate: '2023'
+    version: 894
+-   data:
+        DOI: ''
+        ISSN: ''
+        abstractNote: "Graph summarization is the process of computing a compact version\
+            \ of an input graph while preserving chosen features of its structure.\
+            \ \nWe consider semantic graphs where the features include edge labels\
+            \ and label sets associated with a vertex. Graph summaries are typically\
+            \ much smaller than the original graph. Applications that depend on the\
+            \ preserved features can perform their tasks on the summary, but much\
+            \ faster or with less memory overhead, while producing the same outcome\
+            \ as if they were applied on the original graph. \n\nIn this survey, we\
+            \ focus on structural summaries based on quotients that organize vertices\
+            \ in equivalence classes of shared features.\nStructural summaries are\
+            \ particularly popular for semantic graphs and have the advantage of defining\
+            \ a precise graph-based output. We consider approaches and algorithms\
+            \ for both static and temporal graphs. A common example of quotient-based\
+            \ structural summaries is bisimulation, and we discuss this in detail.\
+            \ While there exist other surveys on graph summarization, to the best\
+            \ of our knowledge, we are the first to bring in a focused discussion\
+            \ on quotients, bisimulation, and their relation. Furthermore, structural\
+            \ summarization naturally connects well with formal logic due to the discrete\
+            \ structures considered. We complete the survey with a brief description\
+            \ of approaches beyond structural summaries."
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections:
+        - ATA95EWX
+        creators:
+        -   creatorType: author
+            firstName: Ansgar
+            lastName: Scherp
+        -   creatorType: author
+            firstName: David
+            lastName: Richerby
+        -   creatorType: author
+            firstName: Till
+            lastName: Blume
+        -   creatorType: author
+            firstName: Michael
+            lastName: Cochez
+        -   creatorType: author
+            firstName: Jannik
+            lastName: Rau
+        date: 2023-12
+        dateAdded: '2023-12-06T00:20:38Z'
+        dateModified: '2024-06-11T08:59:36Z'
+        extra: 'Citation Key: scherpStructuralSummarizationSemantic2023'
+        issue: '1'
+        itemType: journalArticle
+        journalAbbreviation: TGDK
+        key: 5E4M9ZAE
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        publicationTitle: Transactions on Graph Data and Knowledge
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: Structural Summarization of Semantic Graphs Using Quotients
+        url: ''
+        version: 894
+        volume: '1'
+    key: 5E4M9ZAE
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/5E4M9ZAE
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/5E4M9ZAE
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: Scherp et al.
+        lastModifiedByUser:
+            id: 6261094
+            links:
+                alternate:
+                    href: https://www.zotero.org/hemile
+                    type: text/html
+            name: ''
+            username: hemile
+        numChildren: 0
+        parsedDate: 2023-12
+    version: 894
+-   data:
+        DOI: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveID: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: ''
+        collections:
+        - ATA95EWX
+        creators:
+        -   creatorType: author
+            firstName: Thiviyan
+            lastName: Thanapalasingam
+        -   creatorType: author
+            firstName: Emile van
+            lastName: Krieken
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        -   creatorType: author
+            firstName: Paul
+            lastName: Groth
+        date: '2023'
+        dateAdded: '2023-12-05T14:45:06Z'
+        dateModified: '2024-06-11T08:59:36Z'
+        extra: 'Citation Key: thanapalasingamIntelliGraphsDatasetsBenchmarking2023a'
+        genre: ''
+        itemType: preprint
+        key: PIP6ZAHZ
+        language: ''
+        libraryCatalog: ''
+        place: ''
+        relations: {}
+        repository: ''
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags:
+        -   tag: datasets
+        -   tag: generative modeling
+        -   tag: graph learning
+        -   tag: tasks
+        title: 'IntelliGraphs: Datasets for Benchmarking Knowledge Graph Generation'
+        url: https://doi.org/10.48550/arXiv.2307.06698
+        version: 894
+    key: PIP6ZAHZ
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/PIP6ZAHZ
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/PIP6ZAHZ
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: Thanapalasingam et al.
+        lastModifiedByUser:
+            id: 6261094
+            links:
+                alternate:
+                    href: https://www.zotero.org/hemile
+                    type: text/html
+            name: ''
+            username: hemile
+        numChildren: 0
+        parsedDate: '2023'
+    version: 894
+-   data:
+        DOI: 10.48550/arXiv.2301.12313
+        ISBN: ''
+        abstractNote: "Answering complex queries on incomplete knowledge graphs is\
+            \ a challenging task where a model needs to answer complex logical queries\
+            \ in the presence of missing knowledge. Prior work in the literature has\
+            \ proposed to address this problem by designing architectures trained\
+            \ end-to-end for the complex query answering task with a reasoning process\
+            \ that is hard to interpret while requiring data and resource-intensive\
+            \ training. Other lines of research have proposed re-using simple neural\
+            \ link predictors to answer complex queries, reducing the amount of training\
+            \ data by orders of magnitude while providing interpretable answers. The\
+            \ neural link predictor used in such approaches is not explicitly optimised\
+            \ for the complex query answering task, implying that its scores are not\
+            \ calibrated to interact together. We propose to address these problems\
+            \ via CQD\n, a parameter-efficient score \\emph{adaptation} model optimised\
+            \ to re-calibrate neural link prediction scores for the complex query\
+            \ answering task. While the neural link predictor is frozen, the adaptation\
+            \ component -- which only increases the number of model parameters by\
+            \ \n -- is trained on the downstream complex query answering task. Furthermore,\
+            \ the calibration component enables us to support reasoning over queries\
+            \ that include atomic negations, which was previously impossible with\
+            \ link predictors. In our experiments, CQD\n produces significantly more\
+            \ accurate results than current state-of-the-art methods, improving from\
+            \ \n to \n Mean Reciprocal Rank values averaged across all datasets and\
+            \ query types while using \n of the available training query types. We\
+            \ further show that CQD\n is data-efficient, achieving competitive results\
+            \ with only \n of the complex training queries and robust in out-of-domain\
+            \ evaluations. Source code and datasets are available at https://github.com/EdinburghNLP/adaptive-cqd."
+        accessDate: ''
+        archive: http://arxiv.org/abs/2301.12313
+        archiveLocation: ''
+        callNumber: ''
+        collections:
+        - ATA95EWX
+        conferenceName: NeurIPS 2023
+        creators:
+        -   creatorType: author
+            firstName: Erik
+            lastName: Arakelyan
+        -   creatorType: author
+            firstName: Pasquale
+            lastName: Minervini
+        -   creatorType: author
+            firstName: Daniel
+            lastName: Daza
+        -   creatorType: author
+            firstName: Michael
+            lastName: Cochez
+        -   creatorType: author
+            firstName: Isabelle
+            lastName: Augenstein
+        date: '2023-07-11'
+        dateAdded: '2023-12-04T12:34:56Z'
+        dateModified: '2024-06-11T08:59:36Z'
+        extra: 'arXiv:2301.12313 [cs]
+
+            Citation Key: arakelyanAdaptingNeuralLink2023a'
+        itemType: conferencePaper
+        key: ZSIPXSH2
+        language: ''
+        libraryCatalog: arXiv.org
+        pages: ''
+        place: New Orleans
+        proceedingsTitle: ''
+        publisher: OpenReview.net
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags:
+        -   tag: Computer Science - Artificial Intelligence
+            type: 1
+        -   tag: Computer Science - Logic in Computer Science
+            type: 1
+        -   tag: Computer Science - Machine Learning
+            type: 1
+        -   tag: Computer Science - Neural and Evolutionary Computing
+            type: 1
+        title: Adapting Neural Link Predictors for Data-Efficient Complex Query Answering
+        url: https://openreview.net/forum?id=1G7CBp8o7L
+        version: 894
+        volume: ''
+    key: ZSIPXSH2
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/ZSIPXSH2
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/ZSIPXSH2
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10460453
+            links:
+                alternate:
+                    href: https://www.zotero.org/dfdazac
+                    type: text/html
+            name: ''
+            username: dfdazac
+        creatorSummary: Arakelyan et al.
+        lastModifiedByUser:
+            id: 6261094
+            links:
+                alternate:
+                    href: https://www.zotero.org/hemile
+                    type: text/html
+            name: ''
+            username: hemile
+        numChildren: 0
+        parsedDate: '2023-07-11'
+    version: 894
+-   data:
+        DOI: 10.1186/s13326-023-00301-y
+        ISSN: 2041-1480
+        abstractNote: Knowledge graphs (KGs) are an important tool for representing
+            complex relationships between entities in the biomedical domain. Several
+            methods have been proposed for learning embeddings that can be used to
+            predict new links in such graphs. Some methods ignore valuable attribute
+            data associated with entities in biomedical KGs, such as protein sequences,
+            or molecular graphs. Other works incorporate such data, but assume that
+            entities can be represented with the same data modality. This is not always
+            the case for biomedical KGs, where entities exhibit heterogeneous modalities
+            that are central to their representation in the subject domain.
+        accessDate: ''
+        archive: http://arxiv.org/abs/2306.03606
+        archiveLocation: ''
+        callNumber: ''
+        collections:
+        - ATA95EWX
+        creators:
+        -   creatorType: author
+            firstName: Daniel
+            lastName: Daza
+        -   creatorType: author
+            firstName: Dimitrios
+            lastName: Alivanistos
+        -   creatorType: author
+            firstName: Payal
+            lastName: Mitra
+        -   creatorType: author
+            firstName: Thom
+            lastName: Pijnenburg
+        -   creatorType: author
+            firstName: Michael
+            lastName: Cochez
+        -   creatorType: author
+            firstName: Paul
+            lastName: Groth
+        date: '2023-12-08'
+        dateAdded: '2023-12-09T06:54:23Z'
+        dateModified: '2024-06-11T08:59:35Z'
+        extra: 'Citation Key: dazaBioBLPModularFramework2023'
+        issue: '1'
+        itemType: journalArticle
+        journalAbbreviation: Journal of Biomedical Semantics
+        key: DA5DP5BQ
+        language: ''
+        libraryCatalog: ''
+        pages: '20'
+        publicationTitle: Journal of Biomedical Semantics
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: 'BioBLP: a modular framework for learning on multimodal biomedical
+            knowledge graphs'
+        url: https://doi.org/10.1186/s13326-023-00301-y
+        version: 894
+        volume: '14'
+    key: DA5DP5BQ
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/DA5DP5BQ
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/DA5DP5BQ
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: Daza et al.
+        lastModifiedByUser:
+            id: 6261094
+            links:
+                alternate:
+                    href: https://www.zotero.org/hemile
+                    type: text/html
+            name: ''
+            username: hemile
+        numChildren: 0
+        parsedDate: '2023-12-08'
+    version: 894
+-   data:
+        DOI: 10.1145/3487553.3524719
+        ISBN: 978-1-4503-9130-6
+        abstractNote: Training of Relational Graph Convolutional Networks (R-GCN)
+            is a memory intense task. The amount of gradient information that needs
+            to be stored during training for real-world graphs is often too large
+            for the amount of memory available on most GPUs. In this work, we experiment
+            with the use of graph summarization techniques to compress the graph and
+            hence reduce the amount of memory needed. After training the R-GCN on
+            the graph summary, we transfer the weights back to the original graph
+            and attempt to perform inference on it. We obtain reasonable results on
+            the AIFB, MUTAG and AM datasets. Our experiments show that training on
+            the graph summary can yield a comparable or higher accuracy to training
+            on the original graphs. Furthermore, if we take the time to compute the
+            summary out of the equation, we observe that the smaller graph representations
+            obtained with graph summarization methods reduces the computational overhead.
+            However, further experiments are needed to evaluate additional graph summary
+            models and whether our findings also holds true for very large graphs.
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections:
+        - ATA95EWX
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Alessandro
+            lastName: Generale
+        -   creatorType: author
+            firstName: Till
+            lastName: Blume
+        -   creatorType: author
+            firstName: Michael
+            lastName: Cochez
+        date: '2022'
+        dateAdded: '2023-03-24T12:41:58Z'
+        dateModified: '2024-06-11T08:59:35Z'
+        extra: 'event-place: Virtual Event, Lyon, France
+
+            Citation Key: generaleScalingRGCNTraining2022'
+        itemType: conferencePaper
+        key: 3D4R7SJM
+        language: ''
+        libraryCatalog: ''
+        pages: 1073–1082
+        place: New York, NY, USA
+        proceedingsTitle: International Workshop on Graph Learning at the Webconf
+            2022
+        publisher: Association for Computing Machinery
+        relations: {}
+        rights: ''
+        series: WWW '22
+        shortTitle: ''
+        tags:
+        -   tag: graph neural network
+        -   tag: graph summarization
+        -   tag: scalability
+        title: Scaling R-GCN Training with Graph Summarization
+        url: https://doi.org/10.1145/3487553.3524719
+        version: 894
+        volume: ''
+    key: 3D4R7SJM
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/3D4R7SJM
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/3D4R7SJM
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: Generale et al.
+        lastModifiedByUser:
+            id: 6261094
+            links:
+                alternate:
+                    href: https://www.zotero.org/hemile
+                    type: text/html
+            name: ''
+            username: hemile
+        numChildren: 1
+        parsedDate: '2022'
+    version: 894
+-   data:
+        DOI: 10.1007/978-3-031-60626-7_3
+        ISBN: 978-3-031-60626-7
+        abstractNote: 'Multi-relation question answering (QA) is a challenging task,
+            where given questions usually require long reasoning chains in KGs that
+            consist of multiple relations. Recently, methods with explicit multi-step
+            reasoning over KGs have been prominently used in this task and have demonstrated
+            promising performance. Examples include methods that perform stepwise
+            label propagation through KG triples and methods that navigate over KG
+            triples based on reinforcement learning. A main weakness of these methods
+            is that their reasoning mechanisms are usually complex and difficult to
+            implement or train. In this paper, we argue that multi-relation QA can
+            be achieved via end-to-end single-step implicit reasoning, which is simpler,
+            more efficient, and easier to adopt. We propose QAGCN — a Question-Aware
+            Graph Convolutional Network (GCN)-based method that includes a novel GCN
+            architecture with controlled question-dependent message propagation for
+            the implicit reasoning. Extensive experiments have been conducted, where
+            QAGCN achieved competitive and even superior performance compared to state-of-the-art
+            explicit-reasoning methods. Our code and pre-trained models are available
+            in the repository: https://github.com/ruijie-wang-uzh/QAGCN .'
+        accessDate: ''
+        archive: https://arxiv.org/abs/2206.01818
+        archiveLocation: ''
+        callNumber: ''
+        collections:
+        - ATA95EWX
+        conferenceName: European Semantic Web Conference
+        creators:
+        -   creatorType: author
+            firstName: Ruijie
+            lastName: Wang
+        -   creatorType: author
+            firstName: Luca
+            lastName: Rossetto
+        -   creatorType: author
+            firstName: Michael
+            lastName: Cochez
+        -   creatorType: author
+            firstName: Abraham
+            lastName: Bernstein
+        date: 19 May 2024
+        dateAdded: '2023-03-24T12:41:58Z'
+        dateModified: '2024-06-05T09:49:13Z'
+        extra: 'Citation Key: wangQAGCNGraphConvolutional2022'
+        itemType: conferencePaper
+        key: H8KQQQ3Z
+        language: ''
+        libraryCatalog: ''
+        pages: 41-58
+        place: ''
+        proceedingsTitle: The Semantic Web. ESWC 2024
+        publisher: Springer Nature Switzerland
+        relations: {}
+        rights: ''
+        series: Lecture Notes in Computer Science
+        shortTitle: ''
+        tags: []
+        title: 'QAGCN: A Graph Convolutional Network-based Multi-Relation Question
+            Answering System'
+        url: https://link.springer.com/chapter/10.1007/978-3-031-60626-7_3
+        version: 892
+        volume: '14664'
+    key: H8KQQQ3Z
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/H8KQQQ3Z
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/H8KQQQ3Z
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: Wang et al.
+        numChildren: 0
+        parsedDate: '2024-05-19'
+    version: 892
+-   data:
         DOI: 10.1016/J.ARTMED.2023.102742
         ISSN: ''
         abstractNote: ''
@@ -349,272 +3474,6 @@
         parsedDate: '2023'
     version: 835
 -   data:
-        DOI: 10.1186/s13326-023-00301-y
-        ISSN: 2041-1480
-        abstractNote: Knowledge graphs (KGs) are an important tool for representing
-            complex relationships between entities in the biomedical domain. Several
-            methods have been proposed for learning embeddings that can be used to
-            predict new links in such graphs. Some methods ignore valuable attribute
-            data associated with entities in biomedical KGs, such as protein sequences,
-            or molecular graphs. Other works incorporate such data, but assume that
-            entities can be represented with the same data modality. This is not always
-            the case for biomedical KGs, where entities exhibit heterogeneous modalities
-            that are central to their representation in the subject domain.
-        accessDate: ''
-        archive: http://arxiv.org/abs/2306.03606
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Daniel
-            lastName: Daza
-        -   creatorType: author
-            firstName: Dimitrios
-            lastName: Alivanistos
-        -   creatorType: author
-            firstName: Payal
-            lastName: Mitra
-        -   creatorType: author
-            firstName: Thom
-            lastName: Pijnenburg
-        -   creatorType: author
-            firstName: Michael
-            lastName: Cochez
-        -   creatorType: author
-            firstName: Paul
-            lastName: Groth
-        date: '2023-12-08'
-        dateAdded: '2023-12-09T06:54:23Z'
-        dateModified: '2023-12-09T06:55:22Z'
-        extra: ''
-        issue: '1'
-        itemType: journalArticle
-        journalAbbreviation: Journal of Biomedical Semantics
-        key: DA5DP5BQ
-        language: ''
-        libraryCatalog: ''
-        pages: '20'
-        publicationTitle: Journal of Biomedical Semantics
-        relations: {}
-        rights: ''
-        series: ''
-        seriesText: ''
-        seriesTitle: ''
-        shortTitle: ''
-        tags: []
-        title: 'BioBLP: a modular framework for learning on multimodal biomedical
-            knowledge graphs'
-        url: https://doi.org/10.1186/s13326-023-00301-y
-        version: 827
-        volume: '14'
-    key: DA5DP5BQ
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/DA5DP5BQ
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/DA5DP5BQ
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Daza et al.
-        numChildren: 0
-        parsedDate: '2023-12-08'
-    version: 827
--   data:
-        DOI: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveID: ''
-        archiveLocation: ''
-        callNumber: ''
-        citationKey: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Ruijie
-            lastName: Wang
-        -   creatorType: author
-            firstName: Luca
-            lastName: Rossetto
-        -   creatorType: author
-            firstName: Michael
-            lastName: Cochez
-        -   creatorType: author
-            firstName: Abraham
-            lastName: Bernstein
-        date: '2022'
-        dateAdded: '2023-03-24T12:41:58Z'
-        dateModified: '2023-12-06T13:08:05Z'
-        extra: ''
-        genre: ''
-        itemType: preprint
-        key: H8KQQQ3Z
-        language: ''
-        libraryCatalog: ''
-        place: ''
-        relations: {}
-        repository: ''
-        rights: ''
-        series: ''
-        seriesNumber: ''
-        shortTitle: ''
-        tags: []
-        title: 'QAGCN: A Graph Convolutional Network-based Multi-Relation Question
-            Answering System'
-        url: https://arxiv.org/abs/2206.01818
-        version: 820
-    key: H8KQQQ3Z
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/H8KQQQ3Z
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/H8KQQQ3Z
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Wang et al.
-        lastModifiedByUser:
-            id: 11114839
-            links:
-                alternate:
-                    href: https://www.zotero.org/frank.van.harmelen
-                    type: text/html
-            name: Frank van Harmelen
-            username: Frank.van.Harmelen
-        numChildren: 0
-        parsedDate: '2022'
-    version: 820
--   data:
-        DOI: 10.1145/3487553.3524719
-        ISBN: 978-1-4503-9130-6
-        abstractNote: Training of Relational Graph Convolutional Networks (R-GCN)
-            is a memory intense task. The amount of gradient information that needs
-            to be stored during training for real-world graphs is often too large
-            for the amount of memory available on most GPUs. In this work, we experiment
-            with the use of graph summarization techniques to compress the graph and
-            hence reduce the amount of memory needed. After training the R-GCN on
-            the graph summary, we transfer the weights back to the original graph
-            and attempt to perform inference on it. We obtain reasonable results on
-            the AIFB, MUTAG and AM datasets. Our experiments show that training on
-            the graph summary can yield a comparable or higher accuracy to training
-            on the original graphs. Furthermore, if we take the time to compute the
-            summary out of the equation, we observe that the smaller graph representations
-            obtained with graph summarization methods reduces the computational overhead.
-            However, further experiments are needed to evaluate additional graph summary
-            models and whether our findings also holds true for very large graphs.
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        conferenceName: ''
-        creators:
-        -   creatorType: author
-            firstName: Alessandro
-            lastName: Generale
-        -   creatorType: author
-            firstName: Till
-            lastName: Blume
-        -   creatorType: author
-            firstName: Michael
-            lastName: Cochez
-        date: '2022'
-        dateAdded: '2023-03-24T12:41:58Z'
-        dateModified: '2023-12-06T13:03:33Z'
-        extra: 'event-place: Virtual Event, Lyon, France'
-        itemType: conferencePaper
-        key: 3D4R7SJM
-        language: ''
-        libraryCatalog: ''
-        pages: 1073–1082
-        place: New York, NY, USA
-        proceedingsTitle: International Workshop on Graph Learning at the Webconf
-            2022
-        publisher: Association for Computing Machinery
-        relations: {}
-        rights: ''
-        series: WWW '22
-        shortTitle: ''
-        tags:
-        -   tag: graph neural network
-        -   tag: graph summarization
-        -   tag: scalability
-        title: Scaling R-GCN Training with Graph Summarization
-        url: https://doi.org/10.1145/3487553.3524719
-        version: 819
-        volume: ''
-    key: 3D4R7SJM
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/3D4R7SJM
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/3D4R7SJM
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Generale et al.
-        lastModifiedByUser:
-            id: 11114839
-            links:
-                alternate:
-                    href: https://www.zotero.org/frank.van.harmelen
-                    type: text/html
-            name: Frank van Harmelen
-            username: Frank.van.Harmelen
-        numChildren: 1
-        parsedDate: '2022'
-    version: 819
--   data:
         DOI: 10.1093/BIB/BBAD236
         ISSN: ''
         abstractNote: ''
@@ -876,90 +3735,6 @@
         parsedDate: '2023'
     version: 814
 -   data:
-        DOI: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveID: ''
-        archiveLocation: ''
-        callNumber: ''
-        citationKey: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Thiviyan
-            lastName: Thanapalasingam
-        -   creatorType: author
-            firstName: Emile van
-            lastName: Krieken
-        -   creatorType: author
-            firstName: Peter
-            lastName: Bloem
-        -   creatorType: author
-            firstName: Paul
-            lastName: Groth
-        date: '2023'
-        dateAdded: '2023-12-05T14:45:06Z'
-        dateModified: '2023-12-06T10:59:29Z'
-        extra: ''
-        genre: ''
-        itemType: preprint
-        key: PIP6ZAHZ
-        language: ''
-        libraryCatalog: ''
-        place: ''
-        relations: {}
-        repository: ''
-        rights: ''
-        series: ''
-        seriesNumber: ''
-        shortTitle: ''
-        tags:
-        -   tag: datasets
-        -   tag: generative modeling
-        -   tag: graph learning
-        -   tag: tasks
-        title: 'IntelliGraphs: Datasets for Benchmarking Knowledge Graph Generation'
-        url: https://doi.org/10.48550/arXiv.2307.06698
-        version: 813
-    key: PIP6ZAHZ
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/PIP6ZAHZ
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/PIP6ZAHZ
-            type: application/json
-    meta:
-        createdByUser:
-            id: 11362521
-            links:
-                alternate:
-                    href: https://www.zotero.org/pbloemesquire
-                    type: text/html
-            name: ''
-            username: pbloemesquire
-        creatorSummary: Thanapalasingam et al.
-        lastModifiedByUser:
-            id: 11114839
-            links:
-                alternate:
-                    href: https://www.zotero.org/frank.van.harmelen
-                    type: text/html
-            name: Frank van Harmelen
-            username: Frank.van.Harmelen
-        numChildren: 0
-        parsedDate: '2023'
-    version: 813
--   data:
         DOI: 10.48550/arXiv.2308.02622
         abstractNote: The Sustainable Development Goals (SDGs) were introduced by
             the United Nations in order to encourage policies and activities that
@@ -1076,102 +3851,6 @@
         numChildren: 0
         parsedDate: '2023-08-04'
     version: 812
--   data:
-        DOI: ''
-        ISSN: ''
-        abstractNote: "Graph summarization is the process of computing a compact version\
-            \ of an input graph while preserving chosen features of its structure.\
-            \ \nWe consider semantic graphs where the features include edge labels\
-            \ and label sets associated with a vertex. Graph summaries are typically\
-            \ much smaller than the original graph. Applications that depend on the\
-            \ preserved features can perform their tasks on the summary, but much\
-            \ faster or with less memory overhead, while producing the same outcome\
-            \ as if they were applied on the original graph. \n\nIn this survey, we\
-            \ focus on structural summaries based on quotients that organize vertices\
-            \ in equivalence classes of shared features.\nStructural summaries are\
-            \ particularly popular for semantic graphs and have the advantage of defining\
-            \ a precise graph-based output. We consider approaches and algorithms\
-            \ for both static and temporal graphs. A common example of quotient-based\
-            \ structural summaries is bisimulation, and we discuss this in detail.\
-            \ While there exist other surveys on graph summarization, to the best\
-            \ of our knowledge, we are the first to bring in a focused discussion\
-            \ on quotients, bisimulation, and their relation. Furthermore, structural\
-            \ summarization naturally connects well with formal logic due to the discrete\
-            \ structures considered. We complete the survey with a brief description\
-            \ of approaches beyond structural summaries."
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Ansgar
-            lastName: Scherp
-        -   creatorType: author
-            firstName: David
-            lastName: Richerby
-        -   creatorType: author
-            firstName: Till
-            lastName: Blume
-        -   creatorType: author
-            firstName: Michael
-            lastName: Cochez
-        -   creatorType: author
-            firstName: Jannik
-            lastName: Rau
-        date: 2023-12
-        dateAdded: '2023-12-06T00:20:38Z'
-        dateModified: '2023-12-06T08:34:17Z'
-        extra: ''
-        issue: '1'
-        itemType: journalArticle
-        journalAbbreviation: TGDK
-        key: 5E4M9ZAE
-        language: ''
-        libraryCatalog: ''
-        pages: ''
-        publicationTitle: Transactions on Graph Data and Knowledge
-        relations: {}
-        rights: ''
-        series: ''
-        seriesText: ''
-        seriesTitle: ''
-        shortTitle: ''
-        tags: []
-        title: Structural Summarization of Semantic Graphs Using Quotients
-        url: ''
-        version: 805
-        volume: '1'
-    key: 5E4M9ZAE
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/5E4M9ZAE
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/5E4M9ZAE
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Scherp et al.
-        numChildren: 0
-        parsedDate: 2023-12
-    version: 805
 -   data:
         DOI: ''
         ISSN: ''
@@ -1352,123 +4031,6 @@
         parsedDate: '2023'
     version: 781
 -   data:
-        DOI: 10.48550/arXiv.2301.12313
-        ISBN: ''
-        abstractNote: "Answering complex queries on incomplete knowledge graphs is\
-            \ a challenging task where a model needs to answer complex logical queries\
-            \ in the presence of missing knowledge. Prior work in the literature has\
-            \ proposed to address this problem by designing architectures trained\
-            \ end-to-end for the complex query answering task with a reasoning process\
-            \ that is hard to interpret while requiring data and resource-intensive\
-            \ training. Other lines of research have proposed re-using simple neural\
-            \ link predictors to answer complex queries, reducing the amount of training\
-            \ data by orders of magnitude while providing interpretable answers. The\
-            \ neural link predictor used in such approaches is not explicitly optimised\
-            \ for the complex query answering task, implying that its scores are not\
-            \ calibrated to interact together. We propose to address these problems\
-            \ via CQD\n, a parameter-efficient score \\emph{adaptation} model optimised\
-            \ to re-calibrate neural link prediction scores for the complex query\
-            \ answering task. While the neural link predictor is frozen, the adaptation\
-            \ component -- which only increases the number of model parameters by\
-            \ \n -- is trained on the downstream complex query answering task. Furthermore,\
-            \ the calibration component enables us to support reasoning over queries\
-            \ that include atomic negations, which was previously impossible with\
-            \ link predictors. In our experiments, CQD\n produces significantly more\
-            \ accurate results than current state-of-the-art methods, improving from\
-            \ \n to \n Mean Reciprocal Rank values averaged across all datasets and\
-            \ query types while using \n of the available training query types. We\
-            \ further show that CQD\n is data-efficient, achieving competitive results\
-            \ with only \n of the complex training queries and robust in out-of-domain\
-            \ evaluations. Source code and datasets are available at https://github.com/EdinburghNLP/adaptive-cqd."
-        accessDate: ''
-        archive: http://arxiv.org/abs/2301.12313
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        conferenceName: NeurIPS 2023
-        creators:
-        -   creatorType: author
-            firstName: Erik
-            lastName: Arakelyan
-        -   creatorType: author
-            firstName: Pasquale
-            lastName: Minervini
-        -   creatorType: author
-            firstName: Daniel
-            lastName: Daza
-        -   creatorType: author
-            firstName: Michael
-            lastName: Cochez
-        -   creatorType: author
-            firstName: Isabelle
-            lastName: Augenstein
-        date: '2023-07-11'
-        dateAdded: '2023-12-04T12:34:56Z'
-        dateModified: '2023-12-06T00:20:14Z'
-        extra: arXiv:2301.12313 [cs]
-        itemType: conferencePaper
-        key: ZSIPXSH2
-        language: ''
-        libraryCatalog: arXiv.org
-        pages: ''
-        place: New Orleans
-        proceedingsTitle: ''
-        publisher: OpenReview.net
-        relations: {}
-        rights: ''
-        series: ''
-        shortTitle: ''
-        tags:
-        -   tag: Computer Science - Artificial Intelligence
-            type: 1
-        -   tag: Computer Science - Logic in Computer Science
-            type: 1
-        -   tag: Computer Science - Machine Learning
-            type: 1
-        -   tag: Computer Science - Neural and Evolutionary Computing
-            type: 1
-        title: Adapting Neural Link Predictors for Data-Efficient Complex Query Answering
-        url: https://openreview.net/forum?id=1G7CBp8o7L
-        version: 770
-        volume: ''
-    key: ZSIPXSH2
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/ZSIPXSH2
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/ZSIPXSH2
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10460453
-            links:
-                alternate:
-                    href: https://www.zotero.org/dfdazac
-                    type: text/html
-            name: ''
-            username: dfdazac
-        creatorSummary: Arakelyan et al.
-        lastModifiedByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        numChildren: 0
-        parsedDate: '2023-07-11'
-    version: 770
--   data:
         DOI: ''
         ISBN: ''
         abstractNote: Wikidata, a collaborative knowledge base for structured data,
@@ -1549,102 +4111,6 @@
         numChildren: 0
         parsedDate: '2023-11-07'
     version: 762
--   data:
-        DOI: 10.1145/3583780.3615294
-        ISBN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        conferenceName: ''
-        creators:
-        -   creatorType: author
-            firstName: Bo
-            lastName: Xiong
-        -   creatorType: author
-            firstName: Mojtaba
-            lastName: Nayyeri
-        -   creatorType: author
-            firstName: Daniel
-            lastName: Daza
-        -   creatorType: author
-            firstName: Michael
-            lastName: Cochez
-        -   creatorType: editor
-            firstName: Ingo
-            lastName: Frommholz
-        -   creatorType: editor
-            firstName: Frank
-            lastName: Hopfgartner
-        -   creatorType: editor
-            firstName: Mark
-            lastName: Lee
-        -   creatorType: editor
-            firstName: Michael
-            lastName: Oakes
-        -   creatorType: editor
-            firstName: Mounia
-            lastName: Lalmas
-        -   creatorType: editor
-            firstName: Min
-            lastName: Zhang
-        -   creatorType: editor
-            firstName: Rodrygo L. T.
-            lastName: Santos
-        date: '2023'
-        dateAdded: '2023-12-06T00:12:09Z'
-        dateModified: '2023-12-06T00:12:09Z'
-        extra: ''
-        itemType: conferencePaper
-        key: CAQRS9DS
-        language: ''
-        libraryCatalog: ''
-        pages: 5228–5231
-        place: ''
-        proceedingsTitle: Proceedings of the 32nd ACM International Conference on
-            Information and Knowledge Management, CIKM 2023, Birmingham, United Kingdom,
-            October 21-25, 2023
-        publisher: ACM
-        relations: {}
-        rights: ''
-        series: ''
-        shortTitle: ''
-        tags: []
-        title: 'Reasoning beyond Triples: Recent Advances in Knowledge Graph Embeddings'
-        url: https://doi.org/10.1145/3583780.3615294
-        version: 750
-        volume: ''
-    key: CAQRS9DS
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/CAQRS9DS
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/CAQRS9DS
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Xiong et al.
-        numChildren: 0
-        parsedDate: '2023'
-    version: 750
 -   data:
         DOI: 10.1109/COMPSAC57700.2023.00224
         ISBN: ''
@@ -1875,82 +4341,6 @@
         numChildren: 0
         parsedDate: '2023'
     version: 747
--   data:
-        DOI: 10.48550/ARXIV.2303.14617
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveID: ''
-        archiveLocation: ''
-        callNumber: ''
-        citationKey: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Hongyu
-            lastName: Ren
-        -   creatorType: author
-            firstName: Mikhail
-            lastName: Galkin
-        -   creatorType: author
-            firstName: Michael
-            lastName: Cochez
-        -   creatorType: author
-            firstName: Zhaocheng
-            lastName: Zhu
-        -   creatorType: author
-            firstName: Jure
-            lastName: Leskovec
-        date: '2023'
-        dateAdded: '2023-12-06T00:07:21Z'
-        dateModified: '2023-12-06T00:07:27Z'
-        extra: 'arXiv: 2303.14617'
-        genre: ''
-        itemType: preprint
-        key: UMT9JBR9
-        language: ''
-        libraryCatalog: ''
-        place: ''
-        relations: {}
-        repository: ''
-        rights: ''
-        series: ''
-        seriesNumber: ''
-        shortTitle: ''
-        tags: []
-        title: 'Neural Graph Reasoning: Complex Logical Query Answering Meets Graph
-            Databases'
-        url: https://doi.org/10.48550/arXiv.2303.14617
-        version: 744
-    key: UMT9JBR9
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/UMT9JBR9
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/UMT9JBR9
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Ren et al.
-        numChildren: 0
-        parsedDate: '2023'
-    version: 744
 -   data:
         DOI: 10.48550/ARXIV.2304.11949
         abstractNote: ''
@@ -2195,93 +4585,6 @@
     version: 713
 -   data:
         DOI: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveID: ''
-        archiveLocation: ''
-        callNumber: ''
-        citationKey: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Taraneh
-            lastName: Younesian
-        -   creatorType: author
-            firstName: Thiviyan
-            lastName: Thanapalasingam
-        -   creatorType: author
-            firstName: Emile
-            lastName: van Krieken
-        -   creatorType: author
-            firstName: Daniel
-            lastName: Daza
-        -   creatorType: author
-            firstName: Peter
-            lastName: Bloem
-        date: '2023'
-        dateAdded: '2023-12-01T09:37:11Z'
-        dateModified: '2023-12-05T14:46:33Z'
-        extra: arXiv:2310.03399
-        genre: ''
-        itemType: preprint
-        key: VRJFKGT5
-        language: ''
-        libraryCatalog: ''
-        place: ''
-        relations: {}
-        repository: ''
-        rights: ''
-        series: ''
-        seriesNumber: ''
-        shortTitle: ''
-        tags:
-        -   tag: gflownets
-        -   tag: graph learning
-        -   tag: learning
-        -   tag: sampling
-        title: 'GRAPES: Learning to Sample Graphs for Scalable Graph Neural Networks'
-        url: https://arxiv.org/abs/2310.03399
-        version: 710
-    key: VRJFKGT5
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/VRJFKGT5
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/VRJFKGT5
-            type: application/json
-    meta:
-        createdByUser:
-            id: 13137047
-            links:
-                alternate:
-                    href: https://www.zotero.org/tyounesian
-                    type: text/html
-            name: ''
-            username: tyounesian
-        creatorSummary: Younesian et al.
-        lastModifiedByUser:
-            id: 11362521
-            links:
-                alternate:
-                    href: https://www.zotero.org/pbloemesquire
-                    type: text/html
-            name: ''
-            username: pbloemesquire
-        numChildren: 0
-        parsedDate: '2023'
-    version: 710
--   data:
-        DOI: ''
         abstractNote: Due to the empirical success of reinforcement learning, an increasing
             number of students study the subject. However, from our practical teaching
             experience, we see students entering the field (bachelor, master and early
@@ -2464,90 +4767,6 @@
         parsedDate: '2023'
     version: 674
 -   data:
-        DOI: 10.1016/j.artmed.2023.102742
-        ISSN: 09333657
-        abstractNote: ''
-        accessDate: '2023-12-02T13:36:41Z'
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Floris
-            lastName: Den Hengst
-        -   creatorType: author
-            firstName: Martijn
-            lastName: Otten
-        -   creatorType: author
-            firstName: Paul
-            lastName: Elbers
-        -   creatorType: author
-            firstName: Frank
-            lastName: Van Harmelen
-        -   creatorType: author
-            firstName: Vincent
-            lastName: François-Lavet
-        -   creatorType: author
-            firstName: Mark
-            lastName: Hoogendoorn
-        date: 12/2023
-        dateAdded: '2023-12-02T13:36:42Z'
-        dateModified: '2023-12-04T07:43:52Z'
-        extra: ''
-        issue: ''
-        itemType: journalArticle
-        journalAbbreviation: Artificial Intelligence in Medicine
-        key: LP5U4DBG
-        language: en
-        libraryCatalog: DOI.org (Crossref)
-        pages: '102742'
-        publicationTitle: Artificial Intelligence in Medicine
-        relations: {}
-        rights: ''
-        series: ''
-        seriesText: ''
-        seriesTitle: ''
-        shortTitle: ''
-        tags:
-        -   tag: clinical guidelines
-        -   tag: health
-        -   tag: reinforcement learning
-        title: Guideline-informed reinforcement learning for mechanical ventilation
-            in critical care
-        url: https://linkinghub.elsevier.com/retrieve/pii/S0933365723002567
-        version: 673
-        volume: ''
-    key: LP5U4DBG
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/LP5U4DBG
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/LP5U4DBG
-            type: application/json
-    meta:
-        createdByUser:
-            id: 12590531
-            links:
-                alternate:
-                    href: https://www.zotero.org/florisdenhengst
-                    type: text/html
-            name: ''
-            username: florisdenhengst
-        creatorSummary: Den Hengst et al.
-        numChildren: 0
-        parsedDate: '2023'
-    version: 673
--   data:
         DOI: 10.1145/3587259.3627557
         ISBN: '9798400701412'
         abstractNote: ''
@@ -2718,78 +4937,6 @@
         numChildren: 1
         parsedDate: '2022'
     version: 651
--   data:
-        DOI: 10.48550/ARXIV.2309.01169
-        abstractNote: ''
-        accessDate: '2023-11-30T13:51:28Z'
-        archive: ''
-        archiveID: ''
-        archiveLocation: ''
-        callNumber: ''
-        citationKey: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: W. X.
-            lastName: Wilcke
-        -   creatorType: author
-            firstName: Peter
-            lastName: Bloem
-        -   creatorType: author
-            firstName: Victor de
-            lastName: Boer
-        -   creatorType: author
-            firstName: R. H. van t
-            lastName: Veer
-        date: '2023'
-        dateAdded: '2023-11-30T14:27:07Z'
-        dateModified: '2023-11-30T14:27:07Z'
-        extra: 'arXiv: 2309.01169'
-        genre: ''
-        itemType: preprint
-        key: 38BQ4PN2
-        language: ''
-        libraryCatalog: DBLP Computer Science Bibliography
-        place: ''
-        relations: {}
-        repository: ''
-        rights: ''
-        series: ''
-        seriesNumber: ''
-        shortTitle: ''
-        tags: []
-        title: End-to-End Learning on Multimodal Knowledge Graphs
-        url: https://doi.org/10.48550/arXiv.2309.01169
-        version: 648
-    key: 38BQ4PN2
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/38BQ4PN2
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/38BQ4PN2
-            type: application/json
-    meta:
-        createdByUser:
-            id: 2233210
-            links:
-                alternate:
-                    href: https://www.zotero.org/wxwilcke
-                    type: text/html
-            name: ''
-            username: wxwilcke
-        creatorSummary: Wilcke et al.
-        numChildren: 0
-        parsedDate: '2023'
-    version: 648
 -   data:
         DOI: ''
         ISBN: ''
@@ -9209,77 +11356,6 @@
     version: 317
 -   data:
         DOI: ''
-        ISSN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections:
-        - VSP3MV9F
-        creators:
-        -   creatorType: author
-            firstName: Peter
-            lastName: Bloem
-        -   creatorType: author
-            firstName: Steven
-            lastName: de Rooij
-        date: '2020'
-        dateAdded: '2023-03-27T15:48:34Z'
-        dateModified: '2023-03-31T11:46:28Z'
-        extra: 'Publisher: Springer'
-        issue: ''
-        itemType: journalArticle
-        journalAbbreviation: ''
-        key: ZVVMKZDU
-        language: ''
-        libraryCatalog: ''
-        pages: 1421–1453
-        publicationTitle: Data Mining and Knowledge Discovery, 2020
-        relations: {}
-        rights: ''
-        series: ''
-        seriesText: ''
-        seriesTitle: ''
-        shortTitle: ''
-        tags:
-        -   tag: graph learning
-        -   tag: motif analysis
-        title: Large-scale network motif analysis using compression
-        url: https://peterbloem.nl/publications/compression-for-motifs
-        version: 316
-        volume: '34'
-    key: ZVVMKZDU
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/ZVVMKZDU
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/ZVVMKZDU
-            type: application/json
-    meta:
-        createdByUser:
-            id: 11362521
-            links:
-                alternate:
-                    href: https://www.zotero.org/pbloemesquire
-                    type: text/html
-            name: ''
-            username: pbloemesquire
-        creatorSummary: Bloem and de Rooij
-        numChildren: 0
-        parsedDate: '2020'
-    version: 316
--   data:
-        DOI: ''
         ISBN: ''
         abstractNote: ''
         accessDate: ''
@@ -9352,82 +11428,6 @@
         numChildren: 0
         parsedDate: '2015'
     version: 315
--   data:
-        DOI: ''
-        ISSN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections:
-        - VSP3MV9F
-        creators:
-        -   creatorType: author
-            firstName: Thiviyan
-            lastName: Thanapalasingam
-        -   creatorType: author
-            firstName: Lucas
-            lastName: van Berkel
-        -   creatorType: author
-            firstName: Peter
-            lastName: Bloem
-        -   creatorType: author
-            firstName: Paul
-            lastName: Groth
-        date: '2022'
-        dateAdded: '2023-03-27T15:48:35Z'
-        dateModified: '2023-03-31T11:41:58Z'
-        extra: 'Publisher: PeerJ Inc.'
-        issue: ''
-        itemType: journalArticle
-        journalAbbreviation: ''
-        key: QEMI9V22
-        language: ''
-        libraryCatalog: ''
-        pages: e1073
-        publicationTitle: PeerJ Computer Science
-        relations: {}
-        rights: ''
-        series: ''
-        seriesText: ''
-        seriesTitle: ''
-        shortTitle: ''
-        tags:
-        -   tag: graph learning
-        title: 'Relational graph convolutional networks: a closer look'
-        url: https://peerj.com/articles/cs-1073/
-        version: 312
-        volume: '8'
-    key: QEMI9V22
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/QEMI9V22
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/QEMI9V22
-            type: application/json
-    meta:
-        createdByUser:
-            id: 11362521
-            links:
-                alternate:
-                    href: https://www.zotero.org/pbloemesquire
-                    type: text/html
-            name: ''
-            username: pbloemesquire
-        creatorSummary: Thanapalasingam et al.
-        numChildren: 0
-        parsedDate: '2022'
-    version: 312
 -   data:
         DOI: ''
         ISBN: ''
@@ -9504,82 +11504,6 @@
         numChildren: 0
         parsedDate: '2018'
     version: 308
--   data:
-        DOI: ''
-        ISBN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections:
-        - VSP3MV9F
-        conferenceName: ''
-        creators:
-        -   creatorType: author
-            firstName: Shuai
-            lastName: Wang
-        -   creatorType: author
-            firstName: Peter
-            lastName: Bloem
-        -   creatorType: author
-            firstName: Joe
-            lastName: Raad
-        -   creatorType: author
-            firstName: Frank
-            lastName: van Harmelen
-        date: '2020'
-        dateAdded: '2023-03-27T15:48:35Z'
-        dateModified: '2023-03-31T11:40:06Z'
-        extra: ''
-        itemType: conferencePaper
-        key: CPNQNC38
-        language: ''
-        libraryCatalog: ''
-        pages: ''
-        place: ''
-        proceedingsTitle: Workshop on Large Scale RDF Analytics
-        publisher: ''
-        relations: {}
-        rights: ''
-        series: ''
-        shortTitle: ''
-        tags:
-        -   tag: linked open data
-        -   tag: semantic web
-        title: 'SUBMASSIVE: Resolving subclass cycles in very large knowledge graphs'
-        url: http://lascar.sda.tech/assets/accepted-papers/LASCAR20_paper_1.pdf
-        version: 307
-        volume: ''
-    key: CPNQNC38
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/CPNQNC38
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/CPNQNC38
-            type: application/json
-    meta:
-        createdByUser:
-            id: 11362521
-            links:
-                alternate:
-                    href: https://www.zotero.org/pbloemesquire
-                    type: text/html
-            name: ''
-            username: pbloemesquire
-        creatorSummary: Wang et al.
-        numChildren: 0
-        parsedDate: '2020'
-    version: 307
 -   data:
         DOI: ''
         ISBN: ''
@@ -10275,242 +12199,6 @@
         - VSP3MV9F
         creators:
         -   creatorType: author
-            firstName: Henriette
-            lastName: Capel
-        -   creatorType: author
-            firstName: Robin
-            lastName: Weiler
-        -   creatorType: author
-            firstName: Maurits
-            lastName: Dijkstra
-        -   creatorType: author
-            firstName: Reinier
-            lastName: Vleugels
-        -   creatorType: author
-            firstName: Peter
-            lastName: Bloem
-        -   creatorType: author
-            firstName: K Anton
-            lastName: Feenstra
-        date: '2022'
-        dateAdded: '2023-03-27T15:48:35Z'
-        dateModified: '2023-03-27T15:52:03Z'
-        extra: 'Publisher: Nature Publishing Group UK London'
-        issue: '1'
-        itemType: journalArticle
-        journalAbbreviation: ''
-        key: DRHSRQSA
-        language: ''
-        libraryCatalog: ''
-        pages: '16047'
-        publicationTitle: Scientific Reports
-        relations: {}
-        rights: ''
-        series: ''
-        seriesText: ''
-        seriesTitle: ''
-        shortTitle: ''
-        tags:
-        -   tag: biomedical
-        title: ProteinGLUE multi-task benchmark suite for self-supervised protein
-            modeling
-        url: ''
-        version: 258
-        volume: '12'
-    key: DRHSRQSA
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/DRHSRQSA
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/DRHSRQSA
-            type: application/json
-    meta:
-        createdByUser:
-            id: 11362521
-            links:
-                alternate:
-                    href: https://www.zotero.org/pbloemesquire
-                    type: text/html
-            name: ''
-            username: pbloemesquire
-        creatorSummary: Capel et al.
-        numChildren: 0
-        parsedDate: '2022'
-    version: 258
--   data:
-        DOI: ''
-        ISBN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections:
-        - VSP3MV9F
-        conferenceName: ''
-        creators:
-        -   creatorType: author
-            firstName: Stefan
-            lastName: Schouten
-        -   creatorType: author
-            firstName: Peter
-            lastName: Bloem
-        -   creatorType: author
-            firstName: Piek
-            lastName: Vossen
-        date: '2022'
-        dateAdded: '2023-03-27T15:48:35Z'
-        dateModified: '2023-03-27T15:51:52Z'
-        extra: ''
-        itemType: conferencePaper
-        key: P5W6J8LZ
-        language: ''
-        libraryCatalog: ''
-        pages: 384–393
-        place: ''
-        proceedingsTitle: Proceedings of the Fifth BlackboxNLP Workshop on Analyzing
-            and Interpreting Neural Networks for NLP
-        publisher: ''
-        relations: {}
-        rights: ''
-        series: ''
-        shortTitle: ''
-        tags:
-        -   tag: large language models
-        title: Probing the representations of named entities in Transformer-based
-            Language Models
-        url: ''
-        version: 257
-        volume: ''
-    key: P5W6J8LZ
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/P5W6J8LZ
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/P5W6J8LZ
-            type: application/json
-    meta:
-        createdByUser:
-            id: 11362521
-            links:
-                alternate:
-                    href: https://www.zotero.org/pbloemesquire
-                    type: text/html
-            name: ''
-            username: pbloemesquire
-        creatorSummary: Schouten et al.
-        numChildren: 0
-        parsedDate: '2022'
-    version: 257
--   data:
-        DOI: ''
-        ISBN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections:
-        - VSP3MV9F
-        conferenceName: ''
-        creators:
-        -   creatorType: author
-            firstName: M
-            lastName: Schlichtkrull
-        -   creatorType: author
-            firstName: TN
-            lastName: Kipf
-        -   creatorType: author
-            firstName: P
-            lastName: Bloem
-        -   creatorType: author
-            firstName: ', R. vd, Titov, I.'
-            lastName: Berg
-        -   creatorType: author
-            firstName: M.
-            lastName: Welling
-        date: '2018'
-        dateAdded: '2023-03-27T15:48:34Z'
-        dateModified: '2023-03-27T15:51:45Z'
-        extra: ''
-        itemType: conferencePaper
-        key: R3FJRED9
-        language: ''
-        libraryCatalog: ''
-        pages: ''
-        place: ''
-        proceedingsTitle: European Semantic Web Conference, 593-607
-        publisher: ''
-        relations: {}
-        rights: ''
-        series: ''
-        shortTitle: ''
-        tags:
-        -   tag: graph learning
-        -   tag: knowledge graphs
-        title: Modeling relational data with graph convolutional networks
-        url: ''
-        version: 256
-        volume: ''
-    key: R3FJRED9
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/R3FJRED9
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/R3FJRED9
-            type: application/json
-    meta:
-        createdByUser:
-            id: 11362521
-            links:
-                alternate:
-                    href: https://www.zotero.org/pbloemesquire
-                    type: text/html
-            name: ''
-            username: pbloemesquire
-        creatorSummary: Schlichtkrull et al.
-        numChildren: 0
-        parsedDate: '2018'
-    version: 256
--   data:
-        DOI: ''
-        ISSN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections:
-        - VSP3MV9F
-        creators:
-        -   creatorType: author
             firstName: Marina
             lastName: Diachenko
         -   creatorType: author
@@ -10757,220 +12445,6 @@
         numChildren: 0
         parsedDate: '2019'
     version: 238
--   data:
-        DOI: ''
-        ISBN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        conferenceName: ''
-        creators:
-        -   creatorType: author
-            firstName: Peter
-            lastName: Bloem
-        -   creatorType: author
-            firstName: Xander
-            lastName: Wilcke
-        -   creatorType: author
-            firstName: Lucas
-            lastName: van Berkel
-        -   creatorType: author
-            firstName: Victor
-            lastName: de Boer
-        date: '2021'
-        dateAdded: '2023-03-27T15:48:35Z'
-        dateModified: '2023-03-27T15:48:35Z'
-        extra: ''
-        itemType: conferencePaper
-        key: JCDFA2BU
-        language: ''
-        libraryCatalog: ''
-        pages: 614–630
-        place: ''
-        proceedingsTitle: 'The Semantic Web: 18th International Conference, ESWC 2021,
-            Virtual Event, June 6–10, 2021, Proceedings 18'
-        publisher: Springer International Publishing
-        relations: {}
-        rights: ''
-        series: ''
-        shortTitle: ''
-        tags: []
-        title: 'kgbench: A collection of knowledge graph datasets for evaluating relational
-            and multimodal machine learning'
-        url: ''
-        version: 253
-        volume: ''
-    key: JCDFA2BU
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/JCDFA2BU
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/JCDFA2BU
-            type: application/json
-    meta:
-        createdByUser:
-            id: 11362521
-            links:
-                alternate:
-                    href: https://www.zotero.org/pbloemesquire
-                    type: text/html
-            name: ''
-            username: pbloemesquire
-        creatorSummary: Bloem et al.
-        numChildren: 0
-        parsedDate: '2021'
-    version: 253
--   data:
-        DOI: ''
-        ISSN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Peter
-            lastName: Bloem
-        date: '2021'
-        dateAdded: '2023-03-27T15:48:35Z'
-        dateModified: '2023-03-27T15:48:35Z'
-        extra: ''
-        issue: ''
-        itemType: journalArticle
-        journalAbbreviation: ''
-        key: 3C7CIPL8
-        language: ''
-        libraryCatalog: ''
-        pages: ''
-        publicationTitle: arXiv preprint arXiv:2104.08163
-        relations: {}
-        rights: ''
-        series: ''
-        seriesText: ''
-        seriesTitle: ''
-        shortTitle: ''
-        tags: []
-        title: Finding Motifs in Knowledge Graphs using Compression
-        url: ''
-        version: 250
-        volume: ''
-    key: 3C7CIPL8
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/3C7CIPL8
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/3C7CIPL8
-            type: application/json
-    meta:
-        createdByUser:
-            id: 11362521
-            links:
-                alternate:
-                    href: https://www.zotero.org/pbloemesquire
-                    type: text/html
-            name: ''
-            username: pbloemesquire
-        creatorSummary: Bloem
-        numChildren: 0
-        parsedDate: '2021'
-    version: 250
--   data:
-        DOI: ''
-        ISSN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: WX
-            lastName: Wilcke
-        -   creatorType: author
-            firstName: Peter
-            lastName: Bloem
-        -   creatorType: author
-            firstName: Victor
-            lastName: de Boer
-        -   creatorType: author
-            firstName: RH
-            lastName: van’t Veer
-        date: '2021'
-        dateAdded: '2023-03-27T15:48:35Z'
-        dateModified: '2023-03-27T15:48:35Z'
-        extra: ''
-        issue: ''
-        itemType: journalArticle
-        journalAbbreviation: ''
-        key: 8T4WKTVL
-        language: ''
-        libraryCatalog: ''
-        pages: ''
-        publicationTitle: Under Submission
-        relations: {}
-        rights: ''
-        series: ''
-        seriesText: ''
-        seriesTitle: ''
-        shortTitle: ''
-        tags: []
-        title: End-to-End Learning on Multimodal Knowledge Graphs
-        url: ''
-        version: 247
-        volume: ''
-    key: 8T4WKTVL
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/8T4WKTVL
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/8T4WKTVL
-            type: application/json
-    meta:
-        createdByUser:
-            id: 11362521
-            links:
-                alternate:
-                    href: https://www.zotero.org/pbloemesquire
-                    type: text/html
-            name: ''
-            username: pbloemesquire
-        creatorSummary: Wilcke et al.
-        numChildren: 0
-        parsedDate: '2021'
-    version: 247
 -   data:
         DOI: ''
         ISSN: ''
@@ -11677,129 +13151,6 @@
         parsedDate: '2020-05-01'
     version: 171
 -   data:
-        DOI: ''
-        ISBN: 978-3-030-49461-2
-        abstractNote: Wikidata is a free and open knowledge base which can be read
-            and edited by both humans and machines. It acts as a central storage for
-            the structured data of several Wikimedia projects. To improve the process
-            of manually inserting new facts, the Wikidata platform features an association
-            rule-based tool to recommend additional suitable properties. In this work,
-            we introduce a novel approach to provide such recommendations based on
-            frequentist inference. We introduce a trie-based method that can efficiently
-            learn and represent property set probabilities in RDF graphs. We extend
-            the method by adding type information to improve recommendation precision
-            and introduce backoff strategies which further increase the performance
-            of the initial approach for entities with rare property combinations.
-            We investigate how the captured structure can be employed for property
-            recommendation, analogously to the Wikidata PropertySuggester. We evaluate
-            our approach on the full Wikidata dataset and compare its performance
-            to the state-of-the-art Wikidata PropertySuggester, outperforming it in
-            all evaluated metrics. Notably we could reduce the average rank of the
-            first relevant recommendation by 71%.
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        conferenceName: ''
-        creators:
-        -   creatorType: author
-            firstName: Lars C.
-            lastName: Gleim
-        -   creatorType: author
-            firstName: Rafael
-            lastName: Schimassek
-        -   creatorType: author
-            firstName: Dominik
-            lastName: Hüser
-        -   creatorType: author
-            firstName: Maximilian
-            lastName: Peters
-        -   creatorType: author
-            firstName: Christoph
-            lastName: Krämer
-        -   creatorType: author
-            firstName: Michael
-            lastName: Cochez
-        -   creatorType: author
-            firstName: Stefan
-            lastName: Decker
-        -   creatorType: editor
-            firstName: Andreas
-            lastName: Harth
-        -   creatorType: editor
-            firstName: Sabrina
-            lastName: Kirrane
-        -   creatorType: editor
-            firstName: Axel-Cyrille
-            lastName: Ngonga Ngomo
-        -   creatorType: editor
-            firstName: Heiko
-            lastName: Paulheim
-        -   creatorType: editor
-            firstName: Anisa
-            lastName: Rula
-        -   creatorType: editor
-            firstName: Anna Lisa
-            lastName: Gentile
-        -   creatorType: editor
-            firstName: Peter
-            lastName: Haase
-        -   creatorType: editor
-            firstName: Michael
-            lastName: Cochez
-        date: '2020'
-        dateAdded: '2023-03-24T12:41:23Z'
-        dateModified: '2023-03-24T12:46:56Z'
-        extra: ''
-        itemType: conferencePaper
-        key: 2YRKFJMI
-        language: ''
-        libraryCatalog: ''
-        pages: 179–195
-        place: Cham
-        proceedingsTitle: The Semantic Web
-        publisher: Springer International Publishing
-        relations:
-            dc:replaces: http://zotero.org/groups/4989916/items/ID64XAV8
-        rights: ''
-        series: ''
-        shortTitle: ''
-        tags: []
-        title: 'SchemaTree: Maximum-Likelihood Property Recommendation for Wikidata'
-        url: ''
-        version: 171
-        volume: ''
-    key: 2YRKFJMI
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/2YRKFJMI
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/2YRKFJMI
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Gleim et al.
-        numChildren: 0
-        parsedDate: '2020'
-    version: 171
--   data:
         DOI: 10.1007/978-3-030-61951-0_5
         ISBN: ''
         abstractNote: ''
@@ -12135,144 +13486,6 @@
         creatorSummary: Bekkum et al.
         numChildren: 0
         parsedDate: '2021'
-    version: 167
--   data:
-        DOI: 10.1145/3447772
-        ISSN: 0360-0300
-        abstractNote: In this article, we provide a comprehensive introduction to
-            knowledge graphs, which have recently garnered significant attention from
-            both industry and academia in scenarios that require exploiting diverse,
-            dynamic, large-scale collections of data. After some opening remarks,
-            we motivate and contrast various graph-based data models, as well as languages
-            used to query and validate knowledge graphs. We explain how knowledge
-            can be represented and extracted using a combination of deductive and
-            inductive techniques. We conclude with high-level future research directions
-            for knowledge graphs.
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Aidan
-            lastName: Hogan
-        -   creatorType: author
-            firstName: Eva
-            lastName: Blomqvist
-        -   creatorType: author
-            firstName: Michael
-            lastName: Cochez
-        -   creatorType: author
-            firstName: Claudia
-            lastName: D’amato
-        -   creatorType: author
-            firstName: Gerard De
-            lastName: Melo
-        -   creatorType: author
-            firstName: Claudio
-            lastName: Gutierrez
-        -   creatorType: author
-            firstName: Sabrina
-            lastName: Kirrane
-        -   creatorType: author
-            firstName: José Emilio Labra
-            lastName: Gayo
-        -   creatorType: author
-            firstName: Roberto
-            lastName: Navigli
-        -   creatorType: author
-            firstName: Sebastian
-            lastName: Neumaier
-        -   creatorType: author
-            firstName: Axel-Cyrille Ngonga
-            lastName: Ngomo
-        -   creatorType: author
-            firstName: Axel
-            lastName: Polleres
-        -   creatorType: author
-            firstName: Sabbir M.
-            lastName: Rashid
-        -   creatorType: author
-            firstName: Anisa
-            lastName: Rula
-        -   creatorType: author
-            firstName: Lukas
-            lastName: Schmelzeisen
-        -   creatorType: author
-            firstName: Juan
-            lastName: Sequeda
-        -   creatorType: author
-            firstName: Steffen
-            lastName: Staab
-        -   creatorType: author
-            firstName: Antoine
-            lastName: Zimmermann
-        date: 2021-07
-        dateAdded: '2023-03-24T12:41:23Z'
-        dateModified: '2023-03-24T12:46:48Z'
-        extra: 'Place: New York, NY, USA
-
-            Publisher: Association for Computing Machinery'
-        issue: '4'
-        itemType: journalArticle
-        journalAbbreviation: ''
-        key: X8Z3J5UE
-        language: ''
-        libraryCatalog: ''
-        pages: ''
-        publicationTitle: ACM Comput. Surv.
-        relations:
-            dc:replaces:
-            - http://zotero.org/groups/4989916/items/XJMSVE8V
-            - http://zotero.org/groups/4989916/items/QTACH84N
-        rights: ''
-        series: ''
-        seriesText: ''
-        seriesTitle: ''
-        shortTitle: ''
-        tags:
-        -   tag: Knowledge graphs
-        -   tag: embeddings
-        -   tag: graph algorithms
-        -   tag: graph databases
-        -   tag: graph neural networks
-        -   tag: graph query languages
-        -   tag: ontologies
-        -   tag: rule mining
-        -   tag: shapes
-        title: Knowledge Graphs
-        url: https://arxiv.org/abs/2003.02320
-        version: 167
-        volume: '54'
-    key: X8Z3J5UE
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/X8Z3J5UE
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/X8Z3J5UE
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Hogan et al.
-        numChildren: 0
-        parsedDate: 2021-07
     version: 167
 -   data:
         DOI: ''
@@ -12955,81 +14168,6 @@
         parsedDate: '2020'
     version: 164
 -   data:
-        DOI: ''
-        ISBN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        conferenceName: ''
-        creators:
-        -   creatorType: author
-            firstName: Erik
-            lastName: Arakelyan
-        -   creatorType: author
-            firstName: Daniel
-            lastName: Daza
-        -   creatorType: author
-            firstName: Pasquale
-            lastName: Minervini
-        -   creatorType: author
-            firstName: Michael
-            lastName: Cochez
-        date: '2021'
-        dateAdded: '2023-03-24T12:41:25Z'
-        dateModified: '2023-03-24T12:46:33Z'
-        extra: ''
-        itemType: conferencePaper
-        key: SC67JHK9
-        language: ''
-        libraryCatalog: ''
-        pages: ''
-        place: ''
-        proceedingsTitle: 9th International Conference on Learning Representations,
-            ICLR 2021, Virtual Event, Austria, May 3-7, 2021
-        publisher: OpenReview.net
-        relations:
-            dc:replaces: http://zotero.org/groups/4989916/items/2U4GTEST
-        rights: ''
-        series: ''
-        shortTitle: ''
-        tags: []
-        title: Complex Query Answering with Neural Link Predictors
-        url: https://openreview.net/forum?id=Mos9F9kDwkz
-        version: 165
-        volume: ''
-    key: SC67JHK9
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/SC67JHK9
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/SC67JHK9
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Arakelyan et al.
-        numChildren: 1
-        parsedDate: '2021'
-    version: 165
--   data:
         DOI: 10.4230/DagRep.8.9.29
         ISSN: 2192-5283
         abstractNote: ''
@@ -13296,80 +14434,6 @@
     version: 161
 -   data:
         DOI: ''
-        ISBN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        conferenceName: ''
-        creators:
-        -   creatorType: author
-            firstName: Dimitrios
-            lastName: Alivanistos
-        -   creatorType: author
-            firstName: Max
-            lastName: Berrendorf
-        -   creatorType: author
-            firstName: Michael
-            lastName: Cochez
-        -   creatorType: author
-            firstName: Mikhail
-            lastName: Galkin
-        date: '2022'
-        dateAdded: '2023-03-24T12:41:58Z'
-        dateModified: '2023-03-24T12:41:58Z'
-        extra: '_eprint: 2106.08166'
-        itemType: conferencePaper
-        key: W96WM9VC
-        language: ''
-        libraryCatalog: ''
-        pages: ''
-        place: ''
-        proceedingsTitle: International Conference on Learning Representations (ICLR
-            2022)
-        publisher: Openreview
-        relations: {}
-        rights: ''
-        series: ''
-        shortTitle: ''
-        tags: []
-        title: Query Embedding on Hyper-Relational Knowledge Graphs
-        url: https://openreview.net/forum?id=4rLw09TgRw9
-        version: 160
-        volume: ''
-    key: W96WM9VC
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/W96WM9VC
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/W96WM9VC
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Alivanistos et al.
-        numChildren: 0
-        parsedDate: '2022'
-    version: 160
--   data:
-        DOI: ''
         ISBN: 978-3-031-10986-7
         abstractNote: ''
         accessDate: ''
@@ -13454,79 +14518,6 @@
             username: michaelcochez
         creatorSummary: Wang et al.
         numChildren: 0
-        parsedDate: '2022'
-    version: 157
--   data:
-        DOI: ''
-        ISBN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        conferenceName: ''
-        creators:
-        -   creatorType: author
-            firstName: Bo
-            lastName: Xiong
-        -   creatorType: author
-            firstName: Michael
-            lastName: Cochez
-        -   creatorType: author
-            firstName: Mojtaba
-            lastName: Nayyeri
-        -   creatorType: author
-            firstName: Steffen
-            lastName: Staab
-        date: '2022'
-        dateAdded: '2023-03-24T12:41:58Z'
-        dateModified: '2023-03-24T12:41:58Z'
-        extra: ''
-        itemType: conferencePaper
-        key: FGKTVWSM
-        language: ''
-        libraryCatalog: ''
-        pages: ''
-        place: ''
-        proceedingsTitle: NeurIPS2022
-        publisher: ''
-        relations: {}
-        rights: ''
-        series: ''
-        shortTitle: ''
-        tags: []
-        title: Hyperbolic Embedding Inference for Structured Multi-Label Prediction
-        url: ''
-        version: 157
-        volume: ''
-    key: FGKTVWSM
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/FGKTVWSM
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/FGKTVWSM
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Xiong et al.
-        numChildren: 1
         parsedDate: '2022'
     version: 157
 -   data:
@@ -13857,124 +14848,6 @@
         creatorSummary: van Bakel et al.
         numChildren: 0
         parsedDate: '2021'
-    version: 155
--   data:
-        DOI: ''
-        ISBN: 978-3-030-49461-2
-        abstractNote: While RDF data are graph shaped by nature, most traditional
-            Machine Learning (ML) algorithms expect data in a vector form. To transform
-            graph elements to vectors, several graph embedding approaches have been
-            proposed. Comparing these approaches is interesting for 1) developers
-            of new embedding techniques to verify in which cases their proposal outperforms
-            the state-of-art and 2) consumers of these techniques in choosing the
-            best approach according to the task(s) the vectors will be used for. The
-            comparison could be delayed (and made difficult) by the choice of tasks,
-            the design of the evaluation, the selection of models, parameters, and
-            needed datasets. We propose GEval, an evaluation framework to simplify
-            the evaluation and the comparison of graph embedding techniques. The covered
-            tasks range from ML tasks (Classification, Regression, Clustering), semantic
-            tasks (entity relatedness, document similarity) to semantic analogies.
-            However, GEval is designed to be (easily) extensible. In this article,
-            we will describe the design and development of the proposed framework
-            by detailing its overall structure, the already implemented tasks, and
-            how to extend it. In conclusion, to demonstrate its operating approach,
-            we consider the parameter tuning of the KGloVe algorithm as a use case.
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        conferenceName: ''
-        creators:
-        -   creatorType: author
-            firstName: Maria Angela
-            lastName: Pellegrino
-        -   creatorType: author
-            firstName: Abdulrahman
-            lastName: Altabba
-        -   creatorType: author
-            firstName: Martina
-            lastName: Garofalo
-        -   creatorType: author
-            firstName: Petar
-            lastName: Ristoski
-        -   creatorType: author
-            firstName: Michael
-            lastName: Cochez
-        -   creatorType: editor
-            firstName: Andreas
-            lastName: Harth
-        -   creatorType: editor
-            firstName: Sabrina
-            lastName: Kirrane
-        -   creatorType: editor
-            firstName: Axel-Cyrille
-            lastName: Ngonga Ngomo
-        -   creatorType: editor
-            firstName: Heiko
-            lastName: Paulheim
-        -   creatorType: editor
-            firstName: Anisa
-            lastName: Rula
-        -   creatorType: editor
-            firstName: Anna Lisa
-            lastName: Gentile
-        -   creatorType: editor
-            firstName: Peter
-            lastName: Haase
-        -   creatorType: editor
-            firstName: Michael
-            lastName: Cochez
-        date: '2020'
-        dateAdded: '2023-03-24T12:41:57Z'
-        dateModified: '2023-03-24T12:41:57Z'
-        extra: ''
-        itemType: conferencePaper
-        key: MGLZ5ZCQ
-        language: ''
-        libraryCatalog: ''
-        pages: 565–582
-        place: Cham
-        proceedingsTitle: The Semantic Web
-        publisher: Springer International Publishing
-        relations: {}
-        rights: ''
-        series: ''
-        shortTitle: ''
-        tags: []
-        title: 'GEval: A Modular and Extensible Evaluation Framework for Graph Embedding
-            Techniques'
-        url: ''
-        version: 155
-        volume: ''
-    key: MGLZ5ZCQ
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/MGLZ5ZCQ
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/MGLZ5ZCQ
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Pellegrino et al.
-        numChildren: 0
-        parsedDate: '2020'
     version: 155
 -   data:
         ISBN: 978-3-319-26584-1
@@ -23385,98 +24258,6 @@
         parsedDate: '2020'
     version: 136
 -   data:
-        DOI: 10.3233/DS-170007
-        ISSN: 2451-8484
-        abstractNote: 'In modern machine learning, raw data is the pre-ferred input
-            for our models. Where a decade ago data sci-entists were still engineering
-            features, manually picking out the details they thought salient, they
-            now prefer the data as raw as possible. As long as we can assume that
-            all relevant and irrelevant information is present in the input data,
-            we can design deep models that build up intermediate represen-tations
-            to sift out relevant features. In some areas, however, we struggle to
-            find this raw form of data. One such area involves heterogeneous knowledge:
-            entities, their attributes and internal relations. The Semantic Web community
-            has in-vested decades of work on just this problem: how to repre-sent
-            knowledge, in various domains, in as raw and as usable a form as possible,
-            satisfying many use cases. This work has led to the Linked Open Data Cloud,
-            a vast and distributed knowledge graph. If we can develop methods that
-            operate on this raw form of data–the knowledge graph–we can dispense with
-            a great deal of ad-hoc feature engineering and train deep models end-to-end
-            in many more domains. In this position paper, we describe current research
-            in this area and discuss some of the promises and challenges of this approach.'
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Xander
-            lastName: Wilcke
-        -   creatorType: author
-            firstName: Peter
-            lastName: Bloem
-        -   creatorType: author
-            firstName: Victor
-            lastName: De Boer
-        date: 2017-10
-        dateAdded: '2023-03-24T12:41:25Z'
-        dateModified: '2023-03-24T12:41:25Z'
-        extra: 'Publisher: IOS Press'
-        issue: ''
-        itemType: journalArticle
-        journalAbbreviation: ''
-        key: MTF39WVG
-        language: ''
-        libraryCatalog: ''
-        pages: 1–19
-        publicationTitle: Data Science
-        relations: {}
-        rights: ''
-        series: ''
-        seriesText: ''
-        seriesTitle: ''
-        shortTitle: ''
-        tags:
-        -   tag: End-to-End Learning
-        -   tag: Knowledge Graphs
-        -   tag: Machine Learning
-        -   tag: Position paper
-        -   tag: Semantic Web
-        title: The Knowledge Graph as the Default Data Model for Machine Learning
-        url: ''
-        version: 136
-        volume: ''
-    key: MTF39WVG
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/MTF39WVG
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/MTF39WVG
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Wilcke et al.
-        numChildren: 0
-        parsedDate: 2017-10
-    version: 136
--   data:
         DOI: ''
         ISSN: 2159-5399
         abstractNote: ''
@@ -23614,80 +24395,6 @@
         creatorSummary: Tiddi et al.
         numChildren: 0
         parsedDate: '2020'
-    version: 135
--   data:
-        DOI: ''
-        ISBN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        conferenceName: ''
-        creators:
-        -   creatorType: author
-            firstName: WX
-            lastName: Wilcke
-        -   creatorType: author
-            firstName: P
-            lastName: Bloem
-        -   creatorType: author
-            firstName: L
-            lastName: van Berkel
-        -   creatorType: author
-            firstName: V
-            lastName: de Boer
-        date: '2021'
-        dateAdded: '2023-03-24T12:41:25Z'
-        dateModified: '2023-03-24T12:41:25Z'
-        extra: ''
-        itemType: conferencePaper
-        key: UBS22RJM
-        language: ''
-        libraryCatalog: ''
-        pages: 614–630
-        place: ''
-        proceedingsTitle: Proceedings of the European Semantic Web Conference 2021
-        publisher: Springer
-        relations: {}
-        rights: ''
-        series: ''
-        shortTitle: ''
-        tags: []
-        title: 'kgbench: A Collection of Datasets for Multimodal and Relational Learning
-            on Heterogeneous Knowledge'
-        url: ''
-        version: 135
-        volume: ''
-    key: UBS22RJM
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/UBS22RJM
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/UBS22RJM
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Wilcke et al.
-        numChildren: 0
-        parsedDate: '2021'
     version: 135
 -   data:
         ISBN: 978-3-030-72307-1

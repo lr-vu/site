@@ -158,6 +158,33 @@
   role: guest
   title: PhD student
 
+
+-   name: Mayank Kharbanda
+    orderby: Kharbanda
+    keywords:
+    - knowledge graphs
+    - multi-modal knowledge graphs
+    - logical reasoning
+    scholar: https://scholar.google.com/citations?user=UGSKuZIAAAAJ
+    website: https://mayankkharbanda.github.io/
+    image: /images/people/Mayank.jpg
+    role: guest
+    title: PhD student
+
+-   name: Thibaut Soulard
+    orderby: soulard
+    keywords:
+    - knowledge graph
+    - temporal knowledge graph
+    - machine learning
+    - symbolic AI
+    scholar: https://scholar.google.com/citations?user=xRZSDToAAAAJ
+    website: http://soulardthibaut.github.io/
+    image: /images/people/Thibaut.jpg
+    role: guest
+    title: PhD student
+
+
 - name: Inès Blin
   orderby: Blin
   keywords:
@@ -363,6 +390,19 @@
   role: guest
 
 # Alumni
+-   name: Zhan Qu
+    orderby: Qu
+    keywords:
+      - Deep Learning
+      - Explainable AI
+      - Natural Language Processing
+      - Graph Neural Networks
+      - Cognitive Science
+    scholar: https://scholar.google.com/citations?user=VcnQaJUAAAAJ
+    linkedin: https://www.linkedin.com/in/zhan-qu-a9047024a
+    role: alumnus
+    bio: Summer 2024
+
 - name: Francesco Manigrasso
   orderby: Manigrasso
   keywords:
