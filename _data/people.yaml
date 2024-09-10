@@ -270,17 +270,6 @@
   image: /images/people/Taewoon.png
   role: phd
 
-- name: Ting Liu
-  orderby: Liu
-  website: https://scholar.google.com/citations?user=ObfjiFkAAAAJ&hl=en/
-  image: /images/people/Ting.jpg
-  role: phd
-  github: https://github.com/tingcosmos
-  scholar: https://scholar.google.com/citations?user=ObfjiFkAAAAJ&hl=en/
-  keywords:
-    - knowledge graphs
-    - Computational biology
-
 - name: Xander Wilcke
   orderby: Wilcke
   website: https://few.vu.nl/~wwe300
