@@ -21,6 +21,10 @@ dark: true
     {% endcomment %}
 
     <dl>
+        <dt>September 06, 2024</dt>
+            <dd><a href="https://mayankkharbanda.github.io/">Mayank Kharbanda</a> joins us as a visitor from Sep 2024 until March 2025</dd>
+        <dt>July 17, 2024</dt>
+            <dd>Frank gave a keynote "Ontologies for Machine Learning" at the FOIS conference</dd>
         <dt>May 27, 2024</dt>
             <dd>Zhan Qu will join us as a visitor from KIT in Karlsruhe for 2 weeks at the end of May.</dd>
         <dt>May 26, 2024</dt>
