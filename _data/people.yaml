@@ -126,8 +126,8 @@
     - information extraction
   website: https://dfdazac.github.io/
   image: /images/people/Daniel.png
-  role: phd
-  title: PhD student
+  role: postdoc
+  title: postdoc
   github: https://github.com/dfdazac
   twitter: https://twitter.com/danieldazac
   scholar: https://scholar.google.com/citations?user=VR4a4QIAAAAJ&hl=en
@@ -297,21 +297,10 @@
   keywords:
     - neuro-symbolic AI
     - rule-based reasoning
-  role: research_staff
-  title: research assistant
+  role: phd
+  title: PhD student
   website: https://mhkhojaste.github.io
   image: /images/people/Khojasteh.jpeg
-
-- name: Mohammad Mehdi Jafari
-  orderby: Jafari
-  keywords:
-    - question answering
-    - natural language processing
-    - neuro-symbolic AI
-  role: research_staff
-  title: research assistant
-  website: https://github.com/meti-94
-  image: /images/people/Jafari.jpeg
 
 - name: Selene Baez Santamaria
   orderby: Baez
@@ -764,7 +753,7 @@
   role: alumnus
 - name: Xu Wang
   website: null
-  bio: null
+  bio: Assistant prof. at [Ningbo Institute of Digital Twin](https://idt.eitech.edu.cn/)
   role: alumnus
 - name: Yan Wang
   website: null
@@ -777,4 +766,8 @@
 - name: Zharko Aleksovski
   website: https://www.linkedin.com/in/zharko-aleksovski-0a7b086/?originalSubdomain=nl
   bio: now at [Philips Research](http://www.research.philips.com/)
+  role: alumnus
+- name: Ting Liu
+  website: https://scholar.google.com/citations?user=ObfjiFkAAAAJ&hl=en/
+  bio: now at [Gongli Hospital, Shanghai](https://www.preferushc.com/gongli-hospital/)
   role: alumnus
