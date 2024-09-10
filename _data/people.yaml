@@ -158,32 +158,30 @@
   role: guest
   title: PhD student
 
-
--   name: Mayank Kharbanda
-    orderby: Kharbanda
-    keywords:
+- name: Mayank Kharbanda
+  orderby: Kharbanda
+  keywords:
     - knowledge graphs
     - multi-modal knowledge graphs
     - logical reasoning
-    scholar: https://scholar.google.com/citations?user=UGSKuZIAAAAJ
-    website: https://mayankkharbanda.github.io/
-    image: /images/people/Mayank.jpg
-    role: guest
-    title: PhD student
+  scholar: https://scholar.google.com/citations?user=UGSKuZIAAAAJ
+  website: https://mayankkharbanda.github.io/
+  image: /images/people/Mayank.jpg
+  role: guest
+  title: PhD student
 
--   name: Thibaut Soulard
-    orderby: soulard
-    keywords:
+- name: Thibaut Soulard
+  orderby: soulard
+  keywords:
     - knowledge graph
     - temporal knowledge graph
     - machine learning
     - symbolic AI
-    scholar: https://scholar.google.com/citations?user=xRZSDToAAAAJ
-    website: http://soulardthibaut.github.io/
-    image: /images/people/Thibaut.jpg
-    role: guest
-    title: PhD student
-
+  scholar: https://scholar.google.com/citations?user=xRZSDToAAAAJ
+  website: http://soulardthibaut.github.io/
+  image: /images/people/Thibaut.jpg
+  role: guest
+  title: PhD student
 
 - name: Inès Blin
   orderby: Blin
@@ -197,6 +195,7 @@
   title: PhD Student
   github: https://github.com/InesBlin
   linkedin: https://www.linkedin.com/in/ines-blin-903650151/
+
 - name: Majid Mohammedi
   orderby: Mohammedi
   website: https://research.vu.nl/en/persons/majeed-mohammadi/
@@ -232,6 +231,7 @@
   image: /images/people/Romy.png
   role: phd
   linkedin: https://www.linkedin.com/in/romy-vos-928891158/
+
 - name: Ruud van Bakel
   orderby: Bakel
   keywords:
@@ -303,16 +303,19 @@
   website: https://www.cs.vu.nl/~huang/
   image: /images/people/Zhisheng-Huang.jpg
   role: faculty
+
 - name: Ali Khalili
   orderby: Khalili
   website: https://ali1k.com/
   image: /images/people/Ali.jpg
   role: guest
+
 - name: Chengcheng Fu
   orderby: Fu
   website: https://research.vu.nl/en/persons/chengcheng-fu/
   image: /images/people/chengcheng.png
   role: guest
+
 - name: Thiviyan Thanapalasingam
   orderby: Thanapalasingam
   website: https://thiviyansingam.com/
@@ -390,18 +393,18 @@
   role: guest
 
 # Alumni
--   name: Zhan Qu
-    orderby: Qu
-    keywords:
-      - Deep Learning
-      - Explainable AI
-      - Natural Language Processing
-      - Graph Neural Networks
-      - Cognitive Science
-    scholar: https://scholar.google.com/citations?user=VcnQaJUAAAAJ
-    linkedin: https://www.linkedin.com/in/zhan-qu-a9047024a
-    role: alumnus
-    bio: Summer 2024
+- name: Zhan Qu
+  orderby: Qu
+  keywords:
+    - Deep Learning
+    - Explainable AI
+    - Natural Language Processing
+    - Graph Neural Networks
+    - Cognitive Science
+  scholar: https://scholar.google.com/citations?user=VcnQaJUAAAAJ
+  linkedin: https://www.linkedin.com/in/zhan-qu-a9047024a
+  role: alumnus
+  bio: Summer 2024
 
 - name: Francesco Manigrasso
   orderby: Manigrasso
@@ -427,386 +430,480 @@
   website: https://research.vu.nl/en/persons/jan-christoph-kalo
   bio: now assist. prof at [INDElab](https://indelab.org/)
   role: alumnus
+
 - name: Albert Merono
   website: https://www.albertmeronyo.org/
   bio: now assist. prof. at Kings College London
   role: alumnus
+
 - name: Alessandro Daniele
   website: https://ict.fbk.eu/people/detail/alessandro-daniele/
   bio: October-November 2021
   role: alumnus
+
 - name: Andreas Hess
   website: http://www.andreas-hess.info/
   bio: now at [Darmstadt University of Applied Sciences](https://h-da.de/)
   role: alumnus
+
 - name: Antoine Isaac
   website: http://www.few.vu.nl/~aisaac/
   bio: now at [Europeana](https://pro.europeana.eu/person/antoine-isaac)
   role: alumnus
+
 - name: Antonis Loizou
   website: http://www.few.vu.nl/~alu900
   role: alumnus
+
 - name: Arturo Gonzalez Ferrer
   website: http://www.ugr.es/~arturogf/
   bio: April – June 2010
   role: alumnus
+
 - name: Benno Kruit
   website: http://bennokruit.nl/
   bio: now at the Knowledge in Artificial Intelligence ([KAI](https://kai.cs.vu.nl/))
     group
   role: alumnus
+
 - name: Christophe Gueret
   website: http://www.few.vu.nl/~cgueret/
   bio: now at [Accenture Labs](https://cgueret.github.io/)
   role: alumnus
+
 - name: Cássia Trojahn dos Santos
   website: mailto:cassia.ts@gmail.com
   bio: February – April 2008
   role: alumnus
+
 - name: Darya Tarasowa
   website: http://few.vu.nl/~dta570/
   bio: null
   role: alumnus
+
 - name: Dongmo Zhang
   website: http://www.scm.uws.edu.au/~dongmo/
   bio: August -September 2007
   role: alumnus
+
 - name: Edgard Costa Oliveira
   website: https://www.escavador.com/sobre/1741009/edgard-costa-oliveira/
   bio: autumn 2003–summer 2004
   role: alumnus
+
 - name: Elvira Amador-Domínguez
   website: https://es.linkedin.com/in/elvira-amador-domínguez
   bio: August – October 2021
   role: alumnus
+
 - name: Erman Acar
   website: https://sites.google.com/view/ermanacar/
   bio: now Assist. Prof at [ILLC](https://www.illc.uva.nl/) University of Amsterdam
   role: alumnus
+
 - name: Eva Kenny Lowther
   website: https://twitter.com/evar_kenny
   bio: now at [EPFL](https://www.epfl.ch/research/domains/bluebrain/blue-brain/people/our-people/operations-division/eva-kenny/)
   role: alumnus
+
 - name: Eyal Oren
   website: https://www.linkedin.com/in/eyaloren/
   bio: now a Product Manager at [Google](https://en.wikipedia.org/wiki/Google)
   role: alumnus
+
 - name: Filip Ilievski
   website: https://usc-isi-i2.github.io/ilievski/
   bio: now affiliated with [University of Southern California](https://www.usc.edu/)
   role: alumnus
+
 - name: Gaston Tagni
   website: https://www.linkedin.com/in/gastontagni/
   bio: now at [Tiqets International B.V.](https://www.tiqets.com/nl/)
   role: alumnus
+
 - name: George Anadiotis
   website: https://www.linkedin.com/in/georgeanadiotis/?originalSubdomain=gr/
   bio: now at [Linked Data Orchestration](https://linkeddataorchestration.com/)
   role: alumnus
+
 - name: Grigoris Antoniou
   website: https://scholar.google.com/citations?user=IzsVWfEAAAAJ&hl=en
   bio: autumn 2003
   role: alumnus
+
 - name: Hamid R. Bazoobandi
   website: https://www.few.vu.nl/~hbi250/
   bio: now at [DataEdis](https://www.dataedis.com/)
   role: alumnus
+
 - name: Heiner Stuckenschmidt
   website: https://www.uni-mannheim.de/dws/people/professors/prof-dr-heiner-stuckenschmidt/
   bio: now Professor at [Universitaet Mannheim, Germany](http://www.uni-mannheim.de/)
   role: alumnus
+
 - name: Holger Wache
   website: http://holger-wache.ch/
   bio: moved to [University of Applied Sciences Northwestern Switzerland (FHNW)](https://www.fhnw.ch/en/)
   role: alumnus
+
 - name: Huiqin Gao
   website: https://www.linkedin.com/in/huiqingao/
   bio: null
   role: alumnus
+
 - name: Ilaria Tiddi
   website: https://kmitd.github.io/ilaria/
   bio: now at the Knowledge in Artificial Intelligence ([KAI](https://kai.cs.vu.nl/))
     group
   role: alumnus
+
 - name: Jacopo Urbani
   website: http://www.jacopourbani.it/
   bio: now at Computer Systems group of the VU
   role: alumnus
+
 - name: Jan Broersen
   website: https://www.linkedin.com/in/jan-broersen-2311715/?originalSubdomain=nl/
   bio: now at [Utrecht University](http://www.uu.nl/)
   role: alumnus
+
 - name: Jeen Broekstra
   website: https://www.linkedin.com/in/jeenbroekstra/
   bio: now lives in Wellington, and works at [Culture Amp](https://www.cultureamp.com/?utm_source=linkedin&utm_medium=social/)
   role: alumnus
+
 - name: Jeff Z. Pan
   website: http://knowledge-representation.org/j.z.pan/
   bio: July 2005
   role: alumnus
+
 - name: Jesse Donkervliet
   website: http://www.jdonkervliet.com/
   bio: now with the VU’s [AtLarge group](https://atlarge-research.com/)
   role: alumnus
+
 - name: Joe Raad
   website: http://www.joe-raad.com/
   bio: now assist. prof. at Paris Saclay University
   role: alumnus
+
 - name: José Alberto Maldonado
   website: null
   bio: May – July 2012
   role: alumnus
+
 - name: Jun Fang
   website: null
   bio: December 2010 – December 2011
   role: alumnus
+
 - name: Kathrin Dentler
   website: http://www.few.vu.nl/~kdr250/
   bio: now at [Triply](https://triply.cc/)
   role: alumnus
+
 - name: Klaas Andries de Graaf
   website: http://www.kadegraaf.nl/
   bio: now at [TNO](https://www.tno.nl/nl/)
   role: alumnus
+
 - name: Krystyna Milian
   website: https://www.linkedin.com/in/krystyna-milian-56069114/?originalSubdomain=pl
   bio: null
   role: alumnus
+
 - name: Laura Hollink
   website: http://www.cs.vu.nl/~laurah/
   bio: now at [CWI](https://www.cwi.nl/people/laura-hollink)
   role: alumnus
+
 - name: Laurens Rietveld
   website: http://laurensrietveld.nl/
   bio: now at [Triply](https://triply.cc/)
   role: alumnus
+
 - name: Lei Xu
   website: http://raywhu.com/
   bio: June – December 2017
   role: alumnus
+
 - name: Lise Stork
   website: https://liacs.leidenuniv.nl/~storkl/
   bio: now at the Knowledge in Artificial Intelligence ([KAI](https://kai.cs.vu.nl/))
     group
   role: alumnus
+
 - name: Loan Ho
   website: https://scholar.google.com/citations?user=KWi3jCwAAAAJ&hl=en
   bio: now at the Knowledge in Artificial Intelligence ([KAI](https://kai.cs.vu.nl/))
     group
   role: alumnus
+
 - name: Lourens van der Meij
   website: https://www.linkedin.com/in/lourensvandermeij/?originalSubdomain=nl/
   bio: now retired
   role: alumnus
+
 - name: Lu Liu
   website: null
   bio: September 2018 – September 2019
   role: alumnus
+
 - name: Maarten Menken
   website: https://www.linkedin.com/in/mrmenken/
   bio: now at [Shell](https://www.shell.com/)
   role: alumnus
+
 - name: Mar Marcos
   website: https://www.uji.es/departaments/com/base/estructura/personal/?p_profesor=50066
   bio: spring 2018, now at [Universitat Jaume I](https://www.uji.es/)
   role: alumnus
+
 - name: Marat Charlaganov
   website: http://scholar.google.com/citations?user=Jiq47YsAAAAJ&hl=en
   bio: null
   role: alumnus
+
 - name: Maria Cristina
   website: null
   bio: spring 2018
   role: alumnus
+
 - name: Maria Taboada Iglesias
   website: null
   bio: February 2005
   role: alumnus
+
 - name: Marie Koorneef
   website: https://www.linkedin.com/in/marie-koorneef-2a8b4964/?originalSubdomain=nl/
   bio: now at [NS](https://www.ns.nl/)
   role: alumnus
+
 - name: Marjolein van Gendt
   website: https://www.linkedin.com/in/marjoleinvangendtlangeveld/?originalSubdomain=nl/
   bio: null
   role: alumnus
+
 - name: Marta Sabou
   website: https://www.wu.ac.at/en/dpkm/team/sabou-marta/
   bio: now Professor at WU Vienna
   role: alumnus
+
 - name: Michel Klein
   website: http://www.cs.vu.nl/~mcaklein/
   bio: now at Agent Group at the VU
   role: alumnus
+
 - name: Mikalai Yatskevich
   website: http://dit.unitn.it/~accord/
   bio: July 2005
   role: alumnus
+
 - name: Márk Adamik
   website: https://research.vu.nl/en/persons/mark-adamik
   bio: now at the Knowledge in Artificial Intelligence ([KAI](https://kai.cs.vu.nl/))
     group
   role: alumnus
+
 - name: Paea Lependu
   website: https://sites.google.com/ucr.edu/paea-lependu/home/
   bio: October 2010
   role: alumnus
+
 - name: Pasquale Lisena
   website: http://pasqlisena.github.io/
   bio: February 2019
   role: alumnus
+
 - name: Paul Groth
   website: http://www.few.vu.nl/~pgroth/
   bio: now Professor at Universiteit van Amsterdam
   role: alumnus
+
 - name: Perry Groot
   website: https://www.cs.ru.nl/~perry/
   bio: now at [Radboud University in Nijmegen](https://www.ru.nl/en)
   role: alumnus
+
 - name: Peter Boncz
   website: http://homepages.cwi.nl/~boncz/
   bio: now affiliated with the VU’s [HPDC group](https://www.vuhpdc.net/henri-bal/)
   role: alumnus
+
 - name: Peter Dolog
   website: https://peterdolog.wordpress.com/
   bio: September – October 2005
   role: alumnus
+
 - name: Peter Mika
   website: https://www.linkedin.com/in/pmika/?originalSubdomain=nl/
   bio: October 2010
   role: alumnus
+
 - name: Qing Hu
   website: null
   bio: null
   role: alumnus
+
 - name: Radu Serban
   website: https://www.linkedin.com/in/radu-serban-a371752/
   bio: now at [Knowledge Flows](https://knowledge-flows.com/about/index.html#home)
   role: alumnus
+
 - name: Raul Garcia Castro
   website: http://www.garcia-castro.com/
   bio: February – April 2007
   role: alumnus
+
 - name: Renyan Feng
   website: null
   bio: PhD student in Guangzhou University
   role: alumnus
+
 - name: Renzo Angles
   website: http://renzoangles.net/wp/
   bio: now at [Universidad de Talca](https://www.utalca.cl/en/)
   role: alumnus
+
 - name: Rinke Hoekstra
   website: http://www.rinkehoekstra.nl/
   bio: now at Elsevier
   role: alumnus
+
 - name: Romana Pernisch
   website: https://pernisch.ch/
   bio: now at the Knowledge in Artificial Intelligence ([KAI](https://kai.cs.vu.nl/))
     group
   role: alumnus
+
 - name: Ronald Siebes
   website: https://www.linkedin.com/in/ronald-siebes-5215563/?originalSubdomain=nl
   bio: now at VU [User Centered Data Science](http://ucds.cs.vu.nl/) group
   role: alumnus
+
 - name: Ruud Stegers
   website: https://www.linkedin.com/in/ruudstegers/?originalSubdomain=nl
   bio:
     now at [Jora solutions](http://www.jorasolutions.eu/), [KLM](http://www.klm.com/),
     and [VNV](https://www.vnv.nl/)
   role: alumnus
+
 - name: Sara Carter
   website: https://www.insight-centre.org/our-team/sarah-carter/
   bio: August – October 2021
   role: alumnus
+
 - name: Sara Magliacane
   website: https://saramagliacane.github.io/
   bio: now at [AMLab](http://amlab.science.uva.nl/), University of Amsterdam
   role: alumnus
+
 - name: Sever Fundatureanu
   website: https://www.linkedin.com/in/sever-fundatureanu-217a502/?originalSubdomain=ie/
   bio: null
   role: alumnus
+
 - name: Shenghui Wang
   website: https://www.linkedin.com/in/shenghuiwang/?originalSubdomain=nl/
   bio: now at [TU Twente](https://www.utwente.nl/en/)
   role: alumnus
+
 - name: Spyros Kotoulas
   website: https://www.linkedin.com/in/spyros-kotoulas/?originalSubdomain=uk/
   bio: now at [Meta](https://about.meta.com/)
   role: alumnus
+
 - name: Stefan Schlobach
   website: https://www.few.vu.nl/~schlobac/
   bio: now at the Knowledge in Artificial Intelligence ([KAI](https://kai.cs.vu.nl/))
     group
   role: alumnus
+
 - name: Stefano Bocconi
   website: https://www.linkedin.com/in/stefanobocconi/?originalSubdomain=nl/
   bio: now at [Zephyros](https://zephyros.solutions/)
   role: alumnus
+
 - name: Stefano Zanobini
   website: null
   bio: half a year starting from October 1, 2004
   role: alumnus
+
 - name: Steven de Rooij
   website: https://www.uva.nl/profiel/r/o/s.derooij/s.de-rooij.html
   bio: null
   role: alumnus
+
 - name: Szymon Klarman
   website: https://klarman.me/
   bio: now at [Black Swan technologies](https://blackswantechnologies.ai/)
   role: alumnus
+
 - name: Veruska Carretta Zamborlini
   website: https://www.linkedin.com/in/veruska-carretta-zamborlini-80614751/?originalSubdomain=nl
   bio: now at [Ufes - Universidade Federal do Espírito Santo](https://www.ufes.br/)
   role: alumnus
+
 - name: Vitor Horta
   website: https://dblp.org/pid/247/2315.html
   bio: autumn 2019
   role: alumnus
+
 - name: Václav Belák
   website: mailto:belakv@gmail.com
   bio: December 2009
   role: alumnus
+
 - name: Víctor Gutiérrez
   website: null
   bio: April 2010
   role: alumnus
+
 - name: Wei Hu
   website: null
   bio: November 2007 – April 2008
   role: alumnus
+
 - name: Wouter Beek
   website: http://www.wouterbeek.com/
   bio: now at [triply.cc](https://triply.cc/)
   role: alumnus
+
 - name: Wouter van Atteveldt
   website: https://vanatteveldt.com/
   bio: now Assoc. Professor at VU
   role: alumnus
+
 - name: Wouter van Steenbergen
   website: null
   bio: null
   role: alumnus
+
 - name: Wytze Vlietstra
   website: http://wytze.info/
   bio: now at Elsevier
   role: alumnus
+
 - name: Xu Wang
   website: null
   bio: Assistant prof. at [Ningbo Institute of Digital Twin](https://idt.eitech.edu.cn/)
   role: alumnus
+
 - name: Yan Wang
   website: null
   bio: May – June 2010
   role: alumnus
+
 - name: Yi Zeng
   website: null
   bio: May – June 2009
   role: alumnus
+
 - name: Zharko Aleksovski
   website: https://www.linkedin.com/in/zharko-aleksovski-0a7b086/?originalSubdomain=nl
   bio: now at [Philips Research](http://www.research.philips.com/)
   role: alumnus
+
 - name: Ting Liu
   website: https://scholar.google.com/citations?user=ObfjiFkAAAAJ&hl=en/
   bio: now at [Gongli Hospital, Shanghai](https://www.preferushc.com/gongli-hospital/)

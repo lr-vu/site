@@ -20,7 +20,6 @@ or they won't show up.
     {% when 'faculty' %}Faculty
     {% when 'postdoc' %}Postdocs
     {% when 'phd' %}PhD students
-    {% when 'research_staff' %}Resesarch Staff
     {% when 'guest' %}Guests
     {% endcase%}</h2>
     
