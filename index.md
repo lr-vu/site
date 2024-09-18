@@ -23,6 +23,8 @@ dark: true
     <dl>
         <dt>September 06, 2024</dt>
             <dd><a href="https://mayankkharbanda.github.io/">Mayank Kharbanda</a> joins us as a visitor from Sep 2024 until March 2025</dd>
+        <dt>September 01, 2024</dt>
+            <dd><a href="https://mhkhojaste.github.io/">Hossein Khojasteh</a> joins us as a PhD student, working with Filip.</dd>    
         <dt>July 17, 2024</dt>
             <dd>Frank gave a keynote "Ontologies for Machine Learning" at the FOIS conference</dd>
         <dt>May 27, 2024</dt>
@@ -30,7 +32,7 @@ dark: true
         <dt>May 26, 2024</dt>
             <dd>Filip is co-chairing the First International Workshop on Generative Neuro-Symbolic AI (GeNeSy), co-located with ESWC 2024. The workshop features three keynotes, one of which will be given by Frank.</dd>
         <dt>May 14, 2024</dt>
-            <dd>Filip and his co-authors won the best paper award at the Web Conference workshop "Workshop on Multimodal Content Analysis for Social Good". <a href="https://arxiv.org/pdf/2311.11157">Their paper</a> studies the grounding of internet memes "in the wild" (Reddit and Discord) to an Internet meme KG using visual transformers.</dd>
+            <dd>Filip and his co-authors won the best paper and presentation awards at the Web Conference workshop "Workshop on Multimodal Content Analysis for Social Good". <a href="https://arxiv.org/pdf/2311.11157">Their paper</a> studies the grounding of internet memes "in the wild" (Reddit and Discord) to an Internet meme KG using visual transformers.</dd>
         <dt>May 6, 2024</dt>
             <dd>Ting Liu successfully defended her PhD thesis entitled  A gut feeling: Biomedical knowledge graphs for interrelating the gut microbiome and mental health.</dd>
         <dt>May 2, 2024</dt>
