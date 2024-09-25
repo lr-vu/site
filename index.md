@@ -21,6 +21,9 @@ dark: true
     {% endcomment %}
 
     <dl>
+        <dt>September 23, 2024</dt>
+            <dd>Filip is interviewed for the BBC article [When robots can't riddle: What puzzles reveal about the depths of our own minds
+](https://www.bbc.com/future/article/20240912-what-riddles-teach-us-about-the-human-mind), part of the series "AI v. the Mind," which explores "the limits of cutting-edge AI and learns a little about how our own brains work along the way."</dd>
         <dt>September 06, 2024</dt>
             <dd><a href="https://mayankkharbanda.github.io/">Mayank Kharbanda</a> joins us as a visitor from Sep 2024 until March 2025</dd>
         <dt>September 01, 2024</dt>
