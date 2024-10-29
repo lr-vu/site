@@ -501,10 +501,10 @@
   bio: now a Product Manager at [Google](https://en.wikipedia.org/wiki/Google)
   role: alumnus
 
-- name: Filip Ilievski
-  website: https://usc-isi-i2.github.io/ilievski/
-  bio: now affiliated with [University of Southern California](https://www.usc.edu/)
-  role: alumnus
+# - name: Filip Ilievski
+#   website: https://usc-isi-i2.github.io/ilievski/
+#   bio: now affiliated with [University of Southern California](https://www.usc.edu/)
+#   role: alumnus
 
 - name: Gaston Tagni
   website: https://www.linkedin.com/in/gastontagni/
