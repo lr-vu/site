@@ -170,19 +170,6 @@
   role: guest
   title: PhD student
 
-- name: Thibaut Soulard
-  orderby: soulard
-  keywords:
-    - knowledge graph
-    - temporal knowledge graph
-    - machine learning
-    - symbolic AI
-  scholar: https://scholar.google.com/citations?user=xRZSDToAAAAJ
-  website: http://soulardthibaut.github.io/
-  image: /images/people/Thibaut.jpg
-  role: guest
-  title: PhD student
-
 - name: Inès Blin
   orderby: Blin
   keywords:
@@ -299,12 +286,6 @@
   image: /images/people/Ali.jpg
   role: guest
 
-- name: Chengcheng Fu
-  orderby: Fu
-  website: https://research.vu.nl/en/persons/chengcheng-fu/
-  image: /images/people/chengcheng.png
-  role: guest
-
 - name: Thiviyan Thanapalasingam
   orderby: Thanapalasingam
   website: https://thiviyansingam.com/
@@ -368,6 +349,27 @@
   role: phd
   title: PhD student
 
+# Alumni
+- name: Chengcheng Fu
+  orderby: Fu
+  website: https://research.vu.nl/en/persons/chengcheng-fu/
+  image: /images/people/chengcheng.png
+  role: alumnus
+  bio: Now at Central China Normal University (CCNU)
+
+- name: Thibaut Soulard
+  orderby: soulard
+  keywords:
+    - knowledge graph
+    - temporal knowledge graph
+    - machine learning
+    - symbolic AI
+  scholar: https://scholar.google.com/citations?user=xRZSDToAAAAJ
+  website: http://soulardthibaut.github.io/
+  image: /images/people/Thibaut.jpg
+  role: alumnus
+  bio: May 2023 – September 2024
+
 - name: Andrea Rafanelli
   orderby: Rafanelli
   keywords:
@@ -377,11 +379,10 @@
   website: https://andrearafanelli.github.io/
   github: https://github.com/andrearafanelli
   scholar: https://scholar.google.com/citations?user=vSrDrMMAAAAJ
-  title: PhD student
   image: /images/people/Andrea.png
-  role: guest
+  role: alumnus
+  bio: November 2023 – June 2024
 
-# Alumni
 - name: Zhan Qu
   orderby: Qu
   keywords:
