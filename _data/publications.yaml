@@ -1,4 +1,349 @@
 -   data:
+        DOI: 10.4230/DAGREP.14.5.1
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Barbara
+            lastName: Hammer
+        -   creatorType: author
+            firstName: Filip
+            lastName: Ilievski
+        -   creatorType: author
+            firstName: Sascha
+            lastName: Saralajew
+        -   creatorType: author
+            firstName: Frank van
+            lastName: Harmelen
+        date: '2024'
+        dateAdded: '2024-12-03T09:45:20Z'
+        dateModified: '2024-12-03T09:45:20Z'
+        extra: ''
+        issue: '5'
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: 3F7R67FD
+        language: ''
+        libraryCatalog: ''
+        pages: 1–11
+        publicationTitle: Dagstuhl Reports
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: Generalization by People and Machines (Dagstuhl Seminar 24192)
+        url: https://doi.org/10.4230/DagRep.14.5.1
+        version: 920
+        volume: '14'
+    key: 3F7R67FD
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/3F7R67FD
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/3F7R67FD
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Hammer et al.
+        numChildren: 0
+        parsedDate: '2024'
+    version: 920
+-   data:
+        DOI: 10.1007/978-3-031-65794-8_10
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Dimitrios
+            lastName: Alivanistos
+        -   creatorType: author
+            firstName: Seth van der
+            lastName: Bijl
+        -   creatorType: author
+            firstName: Michael
+            lastName: Cochez
+        -   creatorType: author
+            firstName: Frank van
+            lastName: Harmelen
+        -   creatorType: editor
+            firstName: Georg
+            lastName: Rehm
+        -   creatorType: editor
+            firstName: Stefan
+            lastName: Dietze
+        -   creatorType: editor
+            firstName: Sonja
+            lastName: Schimmler
+        -   creatorType: editor
+            firstName: Frank
+            lastName: Krüger
+        date: '2024'
+        dateAdded: '2024-12-03T09:44:59Z'
+        dateModified: '2024-12-03T09:44:59Z'
+        extra: ''
+        itemType: conferencePaper
+        key: HBEGATWY
+        language: ''
+        libraryCatalog: ''
+        pages: 149–170
+        place: ''
+        proceedingsTitle: Natural Scientific Language Processing and Research Knowledge
+            Graphs - First International Workshop, NSLP 2024, Hersonissos, Crete,
+            Greece, May 27, 2024, Proceedings
+        publisher: Springer
+        relations: {}
+        rights: ''
+        series: Lecture Notes in Computer Science
+        shortTitle: ''
+        tags: []
+        title: The Effect of Knowledge Graph Schema on Classifying Future Research
+            Suggestions
+        url: https://doi.org/10.1007/978-3-031-65794-8\_10
+        version: 919
+        volume: '14770'
+    key: HBEGATWY
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/HBEGATWY
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/HBEGATWY
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Alivanistos et al.
+        numChildren: 0
+        parsedDate: '2024'
+    version: 919
+-   data:
+        DOI: 10.1007/978-3-031-60635-9_6
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Roderick van der
+            lastName: Weerdt
+        -   creatorType: author
+            firstName: Victor de
+            lastName: Boer
+        -   creatorType: author
+            firstName: Ronald
+            lastName: Siebes
+        -   creatorType: author
+            firstName: Ronnie
+            lastName: Groenewold
+        -   creatorType: author
+            firstName: Frank van
+            lastName: Harmelen
+        -   creatorType: editor
+            firstName: Albert
+            lastName: Meroño-Peñuela
+        -   creatorType: editor
+            firstName: Anastasia
+            lastName: Dimou
+        -   creatorType: editor
+            firstName: Raphaël
+            lastName: Troncy
+        -   creatorType: editor
+            firstName: Olaf
+            lastName: Hartig
+        -   creatorType: editor
+            firstName: Maribel
+            lastName: Acosta
+        -   creatorType: editor
+            firstName: Mehwish
+            lastName: Alam
+        -   creatorType: editor
+            firstName: Heiko
+            lastName: Paulheim
+        -   creatorType: editor
+            firstName: Pasquale
+            lastName: Lisena
+        date: '2024'
+        dateAdded: '2024-12-03T09:44:02Z'
+        dateModified: '2024-12-03T09:44:02Z'
+        extra: ''
+        itemType: conferencePaper
+        key: FKKGUM2K
+        language: ''
+        libraryCatalog: ''
+        pages: 94–109
+        place: ''
+        proceedingsTitle: The Semantic Web - 21st International Conference, ESWC 2024,
+            Hersonissos, Crete, Greece, May 26-30, 2024, Proceedings, Part II
+        publisher: Springer
+        relations: {}
+        rights: ''
+        series: Lecture Notes in Computer Science
+        shortTitle: ''
+        tags: []
+        title: 'OfficeGraph: A Knowledge Graph of Office Building IoT Measurements'
+        url: https://doi.org/10.1007/978-3-031-60635-9\_6
+        version: 918
+        volume: '14665'
+    key: FKKGUM2K
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/FKKGUM2K
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/FKKGUM2K
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Weerdt et al.
+        numChildren: 0
+        parsedDate: '2024'
+    version: 918
+-   data:
+        DOI: 10.1007/978-3-031-66538-7_6
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Josip
+            lastName: Grguric
+        -   creatorType: author
+            firstName: Annette ten
+            lastName: Teije
+        -   creatorType: author
+            firstName: Frank van
+            lastName: Harmelen
+        -   creatorType: editor
+            firstName: Joseph
+            lastName: Finkelstein
+        -   creatorType: editor
+            firstName: Robert
+            lastName: Moskovitch
+        -   creatorType: editor
+            firstName: Enea
+            lastName: Parimbelli
+        date: '2024'
+        dateAdded: '2024-12-03T09:43:09Z'
+        dateModified: '2024-12-03T09:43:09Z'
+        extra: ''
+        itemType: conferencePaper
+        key: C3CJ8L3L
+        language: ''
+        libraryCatalog: ''
+        pages: 52–63
+        place: ''
+        proceedingsTitle: Artificial Intelligence in Medicine - 22nd International
+            Conference, AIME 2024, Salt Lake City, UT, USA, July 9-12, 2024, Proceedings,
+            Part I
+        publisher: Springer
+        relations: {}
+        rights: ''
+        series: Lecture Notes in Computer Science
+        shortTitle: ''
+        tags: []
+        title: Evaluating the TMR Model for Multimorbidity Decision Support Using
+            a Community-of-Practice Based Methodology
+        url: https://doi.org/10.1007/978-3-031-66538-7\_6
+        version: 917
+        volume: '14844'
+    key: C3CJ8L3L
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/C3CJ8L3L
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/C3CJ8L3L
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Grguric et al.
+        numChildren: 0
+        parsedDate: '2024'
+    version: 917
+-   data:
         ISBN: 9783031637995 9783031638008
         abstractNote: ''
         accessDate: '2024-07-16T12:16:55Z'
@@ -3347,8 +3692,7 @@
         archive: ''
         archiveLocation: ''
         callNumber: ''
-        collections:
-        - IR9AD3RV
+        collections: []
         creators:
         -   creatorType: author
             firstName: William Van
