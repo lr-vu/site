@@ -1,4 +1,308 @@
 -   data:
+        DOI: 10.1007/978-3-031-60635-9_12
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Lise
+            lastName: Stork
+        -   creatorType: author
+            firstName: Richard
+            lastName: Zijdeman
+        -   creatorType: author
+            firstName: Ilaria
+            lastName: Tiddi
+        -   creatorType: author
+            firstName: Annette ten
+            lastName: Teije
+        -   creatorType: editor
+            firstName: Albert
+            lastName: Meroño-Peñuela
+        -   creatorType: editor
+            firstName: Anastasia
+            lastName: Dimou
+        -   creatorType: editor
+            firstName: Raphaël
+            lastName: Troncy
+        -   creatorType: editor
+            firstName: Olaf
+            lastName: Hartig
+        -   creatorType: editor
+            firstName: Maribel
+            lastName: Acosta
+        -   creatorType: editor
+            firstName: Mehwish
+            lastName: Alam
+        -   creatorType: editor
+            firstName: Heiko
+            lastName: Paulheim
+        -   creatorType: editor
+            firstName: Pasquale
+            lastName: Lisena
+        date: '2024'
+        dateAdded: '2024-12-03T09:56:22Z'
+        dateModified: '2024-12-03T09:56:22Z'
+        extra: ''
+        itemType: conferencePaper
+        key: UZE3RLSY
+        language: ''
+        libraryCatalog: ''
+        pages: 199–216
+        place: ''
+        proceedingsTitle: The Semantic Web - 21st International Conference, ESWC 2024,
+            Hersonissos, Crete, Greece, May 26-30, 2024, Proceedings, Part II
+        publisher: Springer
+        relations: {}
+        rights: ''
+        series: Lecture Notes in Computer Science
+        shortTitle: ''
+        tags: []
+        title: Enabling Social Demography Research Using Semantic Technologies
+        url: https://doi.org/10.1007/978-3-031-60635-9\_12
+        version: 925
+        volume: '14665'
+    key: UZE3RLSY
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/UZE3RLSY
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/UZE3RLSY
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Stork et al.
+        numChildren: 0
+        parsedDate: '2024'
+    version: 925
+-   data:
+        DOI: ''
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Mehwish
+            lastName: Alam
+        -   creatorType: author
+            firstName: Frank van
+            lastName: Harmelen
+        -   creatorType: author
+            firstName: Maribel
+            lastName: Acosta
+        date: '2024'
+        dateAdded: '2023-11-30T09:34:48Z'
+        dateModified: '2024-12-03T09:51:50Z'
+        extra: 'Publisher: IOS Press'
+        issue: '1'
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: KYSWKELC
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        publicationTitle: Neurosymbolic AI
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: Towards Semantically Enriched Embeddings for Knowledge Graph Completion
+        url: https://www.neurosymbolic-ai-journal.com/system/files/nai-paper-673.pdf
+        version: 923
+        volume: '1'
+    key: KYSWKELC
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/KYSWKELC
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/KYSWKELC
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Alam et al.
+        numChildren: 0
+        parsedDate: '2024'
+    version: 923
+-   data:
+        DOI: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveID: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Filip
+            lastName: Ilievski
+        -   creatorType: author
+            firstName: Barbara
+            lastName: Hammer
+        -   creatorType: author
+            firstName: Frank van
+            lastName: Harmelen
+        -   creatorType: author
+            firstName: Benjamin
+            lastName: Paassen
+        -   creatorType: author
+            firstName: Sascha
+            lastName: Saralajew
+        -   creatorType: author
+            firstName: Ute
+            lastName: Schmid
+        -   creatorType: author
+            firstName: Michael
+            lastName: Biehl
+        -   creatorType: author
+            firstName: Marianna
+            lastName: Bolognesi
+        -   creatorType: author
+            firstName: Xin Luna
+            lastName: Dong
+        -   creatorType: author
+            firstName: Kiril
+            lastName: Gashteovski
+        -   creatorType: author
+            firstName: Pascal
+            lastName: Hitzler
+        -   creatorType: author
+            firstName: Giuseppe
+            lastName: Marra
+        -   creatorType: author
+            firstName: Pasquale
+            lastName: Minervini
+        -   creatorType: author
+            firstName: Martin
+            lastName: Mundt
+        -   creatorType: author
+            firstName: Axel-Cyrille Ngonga
+            lastName: Ngomo
+        -   creatorType: author
+            firstName: Alessandro
+            lastName: Oltramari
+        -   creatorType: author
+            firstName: Gabriella
+            lastName: Pasi
+        -   creatorType: author
+            firstName: Zeynep G.
+            lastName: Saribatur
+        -   creatorType: author
+            firstName: Luciano
+            lastName: Serafini
+        -   creatorType: author
+            firstName: John
+            lastName: Shawe-Taylor
+        -   creatorType: author
+            firstName: Vered
+            lastName: Shwartz
+        -   creatorType: author
+            firstName: Gabriella
+            lastName: Skitalinskaya
+        -   creatorType: author
+            firstName: Clemens
+            lastName: Stachl
+        -   creatorType: author
+            firstName: Gido M. van de
+            lastName: Ven
+        -   creatorType: author
+            firstName: Thomas
+            lastName: Villmann
+        date: '2024'
+        dateAdded: '2024-12-03T09:49:04Z'
+        dateModified: '2024-12-03T09:49:23Z'
+        extra: '_eprint: 2411.15626'
+        genre: ''
+        itemType: preprint
+        key: 62V8NGNG
+        language: ''
+        libraryCatalog: ''
+        place: ''
+        relations: {}
+        repository: ''
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: Aligning Generalisation Between Humans and Machines
+        url: https://arxiv.org/abs/2411.15626
+        version: 922
+    key: 62V8NGNG
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/62V8NGNG
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/62V8NGNG
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Ilievski et al.
+        numChildren: 0
+        parsedDate: '2024'
+    version: 922
+-   data:
         DOI: 10.4230/DAGREP.14.5.1
         ISSN: ''
         abstractNote: ''
@@ -9370,77 +9674,6 @@
         parsedDate: '2022'
     version: 538
 -   data:
-        DOI: ''
-        ISSN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Mehwish
-            lastName: Alam
-        -   creatorType: author
-            firstName: Frank van
-            lastName: Harmelen
-        -   creatorType: author
-            firstName: Maribel
-            lastName: Acosta
-        date: '2024'
-        dateAdded: '2023-11-30T09:34:48Z'
-        dateModified: '2023-11-30T09:34:48Z'
-        extra: 'Publisher: IOS Press'
-        issue: '1'
-        itemType: journalArticle
-        journalAbbreviation: ''
-        key: KYSWKELC
-        language: ''
-        libraryCatalog: ''
-        pages: ''
-        publicationTitle: Neurosymbolic AI
-        relations: {}
-        rights: ''
-        series: ''
-        seriesText: ''
-        seriesTitle: ''
-        shortTitle: ''
-        tags: []
-        title: Towards Semantically Enriched Embeddings for Knowledge Graph Completion
-        url: ''
-        version: 537
-        volume: '1'
-    key: KYSWKELC
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/KYSWKELC
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/KYSWKELC
-            type: application/json
-    meta:
-        createdByUser:
-            id: 11114839
-            links:
-                alternate:
-                    href: https://www.zotero.org/frank.van.harmelen
-                    type: text/html
-            name: Frank van Harmelen
-            username: Frank.van.Harmelen
-        creatorSummary: Alam et al.
-        numChildren: 0
-        parsedDate: '2024'
-    version: 537
--   data:
         ISBN: ''
         abstractNote: ''
         accessDate: ''
@@ -11415,51 +11648,6 @@
         numChildren: 0
         parsedDate: '2023'
     version: 370
--   data:
-        accessDate: ''
-        charset: windows-1252
-        collections: []
-        contentType: text/plain
-        dateAdded: '2023-07-17T15:32:39Z'
-        dateModified: '2023-07-17T15:32:39Z'
-        filename: acm_3545946.3598649.bib
-        itemType: attachment
-        key: SX8G8RJL
-        linkMode: imported_file
-        md5: 9c83f3925a9198a9b954086f74ec6522
-        mtime: 1689607959000
-        note: ''
-        relations: {}
-        tags: []
-        title: acm_3545946.3598649.bib
-        url: ''
-        version: 353
-    key: SX8G8RJL
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/SX8G8RJL
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/SX8G8RJL
-            type: application/json
-    meta:
-        createdByUser:
-            id: 8033258
-            links:
-                alternate:
-                    href: https://www.zotero.org/kondilidisn
-                    type: text/html
-            name: ''
-            username: kondilidisn
-    version: 353
 -   data:
         DOI: 10.1609/aaai.v37i1.25075
         ISSN: 2374-3468, 2159-5399
