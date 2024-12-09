@@ -158,7 +158,7 @@
   role: guest
   title: PhD student
 
-  - name: Gabriella Bollici
+- name: Gabriella Bollici
   orderby: Bollici
   keywords:
     - argumentation theory
