@@ -158,6 +158,16 @@
   role: guest
   title: PhD student
 
+  - name: Gabriella Bollici
+  orderby: Bollici
+  keywords:
+    - argumentation theory
+    - memes
+    - in-context learning
+  image: /images/people/Gabriella.png
+  role: PhD student
+  linkedin: linkedin.com/in/gabriella-bollici-bab32123b
+
 - name: Mayank Kharbanda
   orderby: Kharbanda
   keywords:
