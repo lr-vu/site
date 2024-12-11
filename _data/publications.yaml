@@ -1,4 +1,94 @@
 -   data:
+        DOI: 10.1007/978-3-031-77792-9_9
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Inès
+            lastName: Blin
+        -   creatorType: author
+            firstName: Annette ten
+            lastName: Teije
+        -   creatorType: author
+            firstName: Frank van
+            lastName: Harmelen
+        -   creatorType: author
+            firstName: Ilaria
+            lastName: Tiddi
+        -   creatorType: editor
+            firstName: Mehwish
+            lastName: Alam
+        -   creatorType: editor
+            firstName: Marco
+            lastName: Rospocher
+        -   creatorType: editor
+            firstName: Marieke van
+            lastName: Erp
+        -   creatorType: editor
+            firstName: Laura
+            lastName: Hollink
+        -   creatorType: editor
+            firstName: Genet Asefa
+            lastName: Gesese
+        date: '2024'
+        dateAdded: '2024-12-11T11:01:12Z'
+        dateModified: '2024-12-11T11:01:12Z'
+        extra: ''
+        itemType: conferencePaper
+        key: 2FAE7PQ6
+        language: ''
+        libraryCatalog: ''
+        pages: 133–154
+        place: ''
+        proceedingsTitle: Knowledge Engineering and Knowledge Management - 24th International
+            Conference, EKAW 2024, Amsterdam, The Netherlands, November 26-28, 2024,
+            Proceedings
+        publisher: Springer
+        relations: {}
+        rights: ''
+        series: Lecture Notes in Computer Science
+        shortTitle: ''
+        tags: []
+        title: Structured Representations for Narratives
+        url: https://doi.org/10.1007/978-3-031-77792-9\_9
+        version: 926
+        volume: '15370'
+    key: 2FAE7PQ6
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/2FAE7PQ6
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/2FAE7PQ6
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Blin et al.
+        numChildren: 0
+        parsedDate: '2024'
+    version: 926
+-   data:
         DOI: 10.1007/978-3-031-60635-9_12
         ISBN: ''
         abstractNote: ''
