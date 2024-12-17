@@ -1,4 +1,1203 @@
 -   data:
+        DOI: ''
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Koen
+            lastName: Kraaijveld
+        -   creatorType: author
+            firstName: Yifan
+            lastName: Jiang
+        -   creatorType: author
+            firstName: Kaixin
+            lastName: Ma
+        -   creatorType: author
+            firstName: Filip
+            lastName: Ilievski
+        date: '2025'
+        dateAdded: '2024-12-17T13:04:40Z'
+        dateModified: '2024-12-17T13:04:40Z'
+        extra: ''
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: QU6DS9U9
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        publicationTitle: AAAI
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: 'COLUMBUS: Evaluating COgnitive Lateral Understanding through Multiple-choice
+            reBUSes'
+        url: https://doi.org/10.48550/arXiv.2409.04053
+        version: 950
+        volume: ''
+    key: QU6DS9U9
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/QU6DS9U9
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/QU6DS9U9
+            type: application/json
+    meta:
+        createdByUser:
+            id: 13135791
+            links:
+                alternate:
+                    href: https://www.zotero.org/filipilievski
+                    type: text/html
+            name: ''
+            username: filipilievski
+        creatorSummary: Kraaijveld et al.
+        numChildren: 0
+        parsedDate: '2025'
+    version: 950
+-   data:
+        DOI: ''
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Yifan
+            lastName: Jiang
+        -   creatorType: author
+            firstName: Jiarui
+            lastName: Zhang
+        -   creatorType: author
+            firstName: Kexuan
+            lastName: Sun
+        -   creatorType: author
+            firstName: Zhivar
+            lastName: Sourati
+        -   creatorType: author
+            firstName: Kian
+            lastName: Ahrabian
+        -   creatorType: author
+            firstName: Kaixin
+            lastName: Ma
+        -   creatorType: author
+            firstName: Filip
+            lastName: Ilievski
+        -   creatorType: author
+            firstName: Jay
+            lastName: Pujara
+        date: '2024'
+        dateAdded: '2024-12-17T13:03:57Z'
+        dateModified: '2024-12-17T13:03:57Z'
+        extra: ''
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: JLW4TEXB
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        publicationTitle: NeurIPS Benchmarks and Datasets
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: 'MARVEL: Multidimensional Abstraction and Reasoning through Visual
+            Evaluation and Learning'
+        url: ''
+        version: 949
+        volume: ''
+    key: JLW4TEXB
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/JLW4TEXB
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/JLW4TEXB
+            type: application/json
+    meta:
+        createdByUser:
+            id: 13135791
+            links:
+                alternate:
+                    href: https://www.zotero.org/filipilievski
+                    type: text/html
+            name: ''
+            username: filipilievski
+        creatorSummary: Jiang et al.
+        numChildren: 0
+        parsedDate: '2024'
+    version: 949
+-   data:
+        DOI: 10.48550/ARXIV.2404.03624
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Bradley P.
+            lastName: Allen
+        -   creatorType: author
+            firstName: Filip
+            lastName: Ilievski
+        date: '2024'
+        dateAdded: '2024-12-17T13:02:29Z'
+        dateModified: '2024-12-17T13:02:29Z'
+        extra: 'arXiv: 2404.03624'
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: 8JXAL4FG
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        publicationTitle: CoRR
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: Standardizing Knowledge Engineering Practices with a Reference Architecture
+        url: https://doi.org/10.48550/arXiv.2404.03624
+        version: 947
+        volume: abs/2404.03624
+    key: 8JXAL4FG
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/8JXAL4FG
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/8JXAL4FG
+            type: application/json
+    meta:
+        createdByUser:
+            id: 13135791
+            links:
+                alternate:
+                    href: https://www.zotero.org/filipilievski
+                    type: text/html
+            name: ''
+            username: filipilievski
+        creatorSummary: Allen and Ilievski
+        numChildren: 0
+        parsedDate: '2024'
+    version: 947
+-   data:
+        DOI: 10.48550/ARXIV.2402.07384
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Jiarui
+            lastName: Zhang
+        -   creatorType: author
+            firstName: Jinyi
+            lastName: Hu
+        -   creatorType: author
+            firstName: Mahyar
+            lastName: Khayatkhoei
+        -   creatorType: author
+            firstName: Filip
+            lastName: Ilievski
+        -   creatorType: author
+            firstName: Maosong
+            lastName: Sun
+        date: '2024'
+        dateAdded: '2024-12-17T13:02:05Z'
+        dateModified: '2024-12-17T13:02:05Z'
+        extra: 'arXiv: 2402.07384'
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: 74ZWUAKE
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        publicationTitle: CoRR
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: Exploring Perceptual Limitation of Multimodal Large Language Models
+        url: https://doi.org/10.48550/arXiv.2402.07384
+        version: 946
+        volume: abs/2402.07384
+    key: 74ZWUAKE
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/74ZWUAKE
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/74ZWUAKE
+            type: application/json
+    meta:
+        createdByUser:
+            id: 13135791
+            links:
+                alternate:
+                    href: https://www.zotero.org/filipilievski
+                    type: text/html
+            name: ''
+            username: filipilievski
+        creatorSummary: Zhang et al.
+        numChildren: 0
+        parsedDate: '2024'
+    version: 946
+-   data:
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: editor
+            firstName: Bruno
+            lastName: Sartini
+        -   creatorType: editor
+            firstName: Joe
+            lastName: Raad
+        -   creatorType: editor
+            firstName: Pasquale
+            lastName: Lisena
+        -   creatorType: editor
+            firstName: Albert
+            lastName: Meroño-Peñuela
+        -   creatorType: editor
+            firstName: Michael
+            lastName: Beetz
+        -   creatorType: editor
+            firstName: Inès
+            lastName: Blin
+        -   creatorType: editor
+            firstName: Philipp
+            lastName: Cimiano
+        -   creatorType: editor
+            firstName: Jacopo de
+            lastName: Berardinis
+        -   creatorType: editor
+            firstName: Simon
+            lastName: Gottschalk
+        -   creatorType: editor
+            firstName: Filip
+            lastName: Ilievski
+        -   creatorType: editor
+            firstName: Nitisha
+            lastName: Jain
+        -   creatorType: editor
+            firstName: Jongmo
+            lastName: Kim
+        -   creatorType: editor
+            firstName: Michaela
+            lastName: Kümpel
+        -   creatorType: editor
+            firstName: Enrico
+            lastName: Motta
+        -   creatorType: editor
+            firstName: Ilaria
+            lastName: Tiddi
+        -   creatorType: editor
+            firstName: Jan-Philipp
+            lastName: Töberg
+        date: '2024'
+        dateAdded: '2024-12-17T13:01:45Z'
+        dateModified: '2024-12-17T13:01:45Z'
+        edition: ''
+        extra: ''
+        itemType: book
+        key: AU576TSX
+        language: ''
+        libraryCatalog: ''
+        numPages: ''
+        numberOfVolumes: ''
+        place: ''
+        publisher: CEUR-WS.org
+        relations: {}
+        rights: ''
+        series: CEUR Workshop Proceedings
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: Joint Proceedings of the ESWC 2024 Workshops and Tutorials co-located
+            with 21th European Semantic Web Conference (ESWC 2024), Hersonissos, Greece,
+            May 26-27, 2024
+        url: https://ceur-ws.org/Vol-3749
+        version: 945
+        volume: '3749'
+    key: AU576TSX
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/AU576TSX
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/AU576TSX
+            type: application/json
+    meta:
+        createdByUser:
+            id: 13135791
+            links:
+                alternate:
+                    href: https://www.zotero.org/filipilievski
+                    type: text/html
+            name: ''
+            username: filipilievski
+        creatorSummary: Sartini et al.
+        numChildren: 0
+        parsedDate: '2024'
+    version: 945
+-   data:
+        DOI: 10.1145/3589335.3651970
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Saurav
+            lastName: Joshi
+        -   creatorType: author
+            firstName: Filip
+            lastName: Ilievski
+        -   creatorType: author
+            firstName: Luca
+            lastName: Luceri
+        -   creatorType: editor
+            firstName: Tat-Seng
+            lastName: Chua
+        -   creatorType: editor
+            firstName: Chong-Wah
+            lastName: Ngo
+        -   creatorType: editor
+            firstName: Roy Ka-Wei
+            lastName: Lee
+        -   creatorType: editor
+            firstName: Ravi
+            lastName: Kumar
+        -   creatorType: editor
+            firstName: Hady W.
+            lastName: Lauw
+        date: '2024'
+        dateAdded: '2024-12-17T13:01:18Z'
+        dateModified: '2024-12-17T13:01:18Z'
+        extra: ''
+        itemType: conferencePaper
+        key: IF7TDBGW
+        language: ''
+        libraryCatalog: ''
+        pages: 1831–1840
+        place: ''
+        proceedingsTitle: Companion Proceedings of the ACM on Web Conference 2024,
+            WWW 2024, Singapore, Singapore, May 13-17, 2024
+        publisher: ACM
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: Contextualizing Internet Memes Across Social Media Platforms
+        url: https://doi.org/10.1145/3589335.3651970
+        version: 944
+        volume: ''
+    key: IF7TDBGW
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/IF7TDBGW
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/IF7TDBGW
+            type: application/json
+    meta:
+        createdByUser:
+            id: 13135791
+            links:
+                alternate:
+                    href: https://www.zotero.org/filipilievski
+                    type: text/html
+            name: ''
+            username: filipilievski
+        creatorSummary: Joshi et al.
+        numChildren: 0
+        parsedDate: '2024'
+    version: 944
+-   data:
+        DOI: 10.1109/WACV57701.2024.00800
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Prateek
+            lastName: Chhikara
+        -   creatorType: author
+            firstName: Dhiraj
+            lastName: Chaurasia
+        -   creatorType: author
+            firstName: Yifan
+            lastName: Jiang
+        -   creatorType: author
+            firstName: Omkar
+            lastName: Masur
+        -   creatorType: author
+            firstName: Filip
+            lastName: Ilievski
+        date: '2024'
+        dateAdded: '2024-12-17T13:01:05Z'
+        dateModified: '2024-12-17T13:01:05Z'
+        extra: ''
+        itemType: conferencePaper
+        key: LR2CC8D3
+        language: ''
+        libraryCatalog: ''
+        pages: 8169–8179
+        place: ''
+        proceedingsTitle: IEEE/CVF Winter Conference on Applications of Computer Vision,
+            WACV 2024, Waikoloa, HI, USA, January 3-8, 2024
+        publisher: IEEE
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: 'FIRE: Food Image to REcipe generation'
+        url: https://doi.org/10.1109/WACV57701.2024.00800
+        version: 944
+        volume: ''
+    key: LR2CC8D3
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/LR2CC8D3
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/LR2CC8D3
+            type: application/json
+    meta:
+        createdByUser:
+            id: 13135791
+            links:
+                alternate:
+                    href: https://www.zotero.org/filipilievski
+                    type: text/html
+            name: ''
+            username: filipilievski
+        creatorSummary: Chhikara et al.
+        numChildren: 0
+        parsedDate: '2024'
+    version: 944
+-   data:
+        DOI: 10.18653/V1/2024.SEMEVAL-1.274
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Yifan
+            lastName: Jiang
+        -   creatorType: author
+            firstName: Filip
+            lastName: Ilievski
+        -   creatorType: author
+            firstName: Kaixin
+            lastName: Ma
+        -   creatorType: editor
+            firstName: Atul Kr
+            lastName: Ojha
+        -   creatorType: editor
+            firstName: A. Seza
+            lastName: Dogruöz
+        -   creatorType: editor
+            firstName: Harish Tayyar
+            lastName: Madabushi
+        -   creatorType: editor
+            firstName: Giovanni Da San
+            lastName: Martino
+        -   creatorType: editor
+            firstName: Sara
+            lastName: Rosenthal
+        -   creatorType: editor
+            firstName: Aiala
+            lastName: Rosá
+        date: '2024'
+        dateAdded: '2024-12-17T13:00:52Z'
+        dateModified: '2024-12-17T13:00:52Z'
+        extra: ''
+        itemType: conferencePaper
+        key: 9QPVR7EW
+        language: ''
+        libraryCatalog: ''
+        pages: 1994–2008
+        place: ''
+        proceedingsTitle: Proceedings of the 18th International Workshop on Semantic
+            Evaluation, SemEval@NAACL 2024, Mexico City, Mexico, June 20-21, 2024
+        publisher: Association for Computational Linguistics
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: 'SemEval-2024 Task 9: BRAINTEASER: A Novel Task Defying Common Sense'
+        url: https://doi.org/10.18653/v1/2024.semeval-1.274
+        version: 943
+        volume: ''
+    key: 9QPVR7EW
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/9QPVR7EW
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/9QPVR7EW
+            type: application/json
+    meta:
+        createdByUser:
+            id: 13135791
+            links:
+                alternate:
+                    href: https://www.zotero.org/filipilievski
+                    type: text/html
+            name: ''
+            username: filipilievski
+        creatorSummary: Jiang et al.
+        numChildren: 0
+        parsedDate: '2024'
+    version: 943
+-   data:
+        DOI: 10.18653/V1/2024.NAACL-SHORT.28
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Darshan
+            lastName: Deshpande
+        -   creatorType: author
+            firstName: Zhivar
+            lastName: Sourati
+        -   creatorType: author
+            firstName: Filip
+            lastName: Ilievski
+        -   creatorType: author
+            firstName: Fred
+            lastName: Morstatter
+        -   creatorType: editor
+            firstName: Kevin
+            lastName: Duh
+        -   creatorType: editor
+            firstName: Helena
+            lastName: Gómez-Adorno
+        -   creatorType: editor
+            firstName: Steven
+            lastName: Bethard
+        date: '2024'
+        dateAdded: '2024-12-17T13:00:11Z'
+        dateModified: '2024-12-17T13:00:11Z'
+        extra: ''
+        itemType: conferencePaper
+        key: QYSIGMDA
+        language: ''
+        libraryCatalog: ''
+        pages: 316–326
+        place: ''
+        proceedingsTitle: 'Proceedings of the 2024 Conference of the North American
+            Chapter of the Association for Computational Linguistics: Human Language
+            Technologies: Short Papers, NAACL 2024, Mexico City, Mexico, June 16-21,
+            2024'
+        publisher: Association for Computational Linguistics
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: Contextualizing Argument Quality Assessment with Relevant Knowledge
+        url: https://doi.org/10.18653/v1/2024.naacl-short.28
+        version: 940
+        volume: ''
+    key: QYSIGMDA
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/QYSIGMDA
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/QYSIGMDA
+            type: application/json
+    meta:
+        createdByUser:
+            id: 13135791
+            links:
+                alternate:
+                    href: https://www.zotero.org/filipilievski
+                    type: text/html
+            name: ''
+            username: filipilievski
+        creatorSummary: Deshpande et al.
+        numChildren: 0
+        parsedDate: '2024'
+    version: 940
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Filip
+            lastName: Ilievski
+        -   creatorType: author
+            firstName: Jacopo de
+            lastName: Berardinis
+        -   creatorType: author
+            firstName: Jongmo
+            lastName: Kim
+        -   creatorType: author
+            firstName: Nitisha
+            lastName: Jain
+        -   creatorType: editor
+            firstName: Bruno
+            lastName: Sartini
+        -   creatorType: editor
+            firstName: Joe
+            lastName: Raad
+        -   creatorType: editor
+            firstName: Pasquale
+            lastName: Lisena
+        -   creatorType: editor
+            firstName: Albert
+            lastName: Meroño-Peñuela
+        -   creatorType: editor
+            firstName: Michael
+            lastName: Beetz
+        -   creatorType: editor
+            firstName: Inès
+            lastName: Blin
+        -   creatorType: editor
+            firstName: Philipp
+            lastName: Cimiano
+        -   creatorType: editor
+            firstName: Jacopo de
+            lastName: Berardinis
+        -   creatorType: editor
+            firstName: Simon
+            lastName: Gottschalk
+        -   creatorType: editor
+            firstName: Filip
+            lastName: Ilievski
+        -   creatorType: editor
+            firstName: Nitisha
+            lastName: Jain
+        -   creatorType: editor
+            firstName: Jongmo
+            lastName: Kim
+        -   creatorType: editor
+            firstName: Michaela
+            lastName: Kümpel
+        -   creatorType: editor
+            firstName: Enrico
+            lastName: Motta
+        -   creatorType: editor
+            firstName: Ilaria
+            lastName: Tiddi
+        -   creatorType: editor
+            firstName: Jan-Philipp
+            lastName: Töberg
+        date: '2024'
+        dateAdded: '2024-12-17T12:59:52Z'
+        dateModified: '2024-12-17T12:59:52Z'
+        extra: ''
+        itemType: conferencePaper
+        key: 5ADG98WY
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        place: ''
+        proceedingsTitle: Joint Proceedings of the ESWC 2024 Workshops and Tutorials
+            co-located with 21th European Semantic Web Conference (ESWC 2024), Hersonissos,
+            Greece, May 26-27, 2024
+        publisher: CEUR-WS.org
+        relations: {}
+        rights: ''
+        series: CEUR Workshop Proceedings
+        shortTitle: ''
+        tags: []
+        title: First International Workshop on Generative Neuro-Symbolic AI (GeNeSy
+            2024)
+        url: https://ceur-ws.org/Vol-3749/genesy-preface.pdf
+        version: 937
+        volume: '3749'
+    key: 5ADG98WY
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/5ADG98WY
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/5ADG98WY
+            type: application/json
+    meta:
+        createdByUser:
+            id: 13135791
+            links:
+                alternate:
+                    href: https://www.zotero.org/filipilievski
+                    type: text/html
+            name: ''
+            username: filipilievski
+        creatorSummary: Ilievski et al.
+        numChildren: 0
+        parsedDate: '2024'
+    version: 937
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Zhivar
+            lastName: Sourati
+        -   creatorType: author
+            firstName: Darshan
+            lastName: Deshpande
+        -   creatorType: author
+            firstName: Filip
+            lastName: Ilievski
+        -   creatorType: author
+            firstName: Kiril
+            lastName: Gashteovski
+        -   creatorType: author
+            firstName: Sascha
+            lastName: Saralajew
+        -   creatorType: editor
+            firstName: Yaser
+            lastName: Al-Onaizan
+        -   creatorType: editor
+            firstName: Mohit
+            lastName: Bansal
+        -   creatorType: editor
+            firstName: Yun-Nung
+            lastName: Chen
+        date: '2024'
+        dateAdded: '2024-12-17T12:59:18Z'
+        dateModified: '2024-12-17T12:59:18Z'
+        extra: ''
+        itemType: conferencePaper
+        key: ZBTNXZRW
+        language: ''
+        libraryCatalog: ''
+        pages: 12736–12757
+        place: ''
+        proceedingsTitle: 'Findings of the Association for Computational Linguistics:
+            EMNLP 2024, Miami, Florida, USA, November 12-16, 2024'
+        publisher: Association for Computational Linguistics
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: 'Robust Text Classification: Analyzing Prototype-Based Networks'
+        url: https://aclanthology.org/2024.findings-emnlp.745
+        version: 933
+        volume: ''
+    key: ZBTNXZRW
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/ZBTNXZRW
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/ZBTNXZRW
+            type: application/json
+    meta:
+        createdByUser:
+            id: 13135791
+            links:
+                alternate:
+                    href: https://www.zotero.org/filipilievski
+                    type: text/html
+            name: ''
+            username: filipilievski
+        creatorSummary: Sourati et al.
+        numChildren: 0
+        parsedDate: '2024'
+    version: 933
+-   data:
+        DOI: 10.1609/AAAI.V38I21.30571
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Saurav
+            lastName: Joshi
+        -   creatorType: author
+            firstName: Filip
+            lastName: Ilievski
+        -   creatorType: author
+            firstName: Jay
+            lastName: Pujara
+        -   creatorType: editor
+            firstName: Michael J.
+            lastName: Wooldridge
+        -   creatorType: editor
+            firstName: Jennifer G.
+            lastName: Dy
+        -   creatorType: editor
+            firstName: Sriraam
+            lastName: Natarajan
+        date: '2024'
+        dateAdded: '2024-12-17T12:58:20Z'
+        dateModified: '2024-12-17T12:58:20Z'
+        extra: ''
+        itemType: conferencePaper
+        key: 3HAQA3RY
+        language: ''
+        libraryCatalog: ''
+        pages: 23805–23807
+        place: ''
+        proceedingsTitle: Thirty-Eighth AAAI Conference on Artificial Intelligence,
+            AAAI 2024, Thirty-Sixth Conference on Innovative Applications of Artificial
+            Intelligence, IAAI 2024, Fourteenth Symposium on Educational Advances
+            in Artificial Intelligence, EAAI 2014, February 20-27, 2024, Vancouver,
+            Canada
+        publisher: AAAI Press
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: Knowledge-Powered Recommendation for an Improved Diet Water Footprint
+        url: https://doi.org/10.1609/aaai.v38i21.30571
+        version: 932
+        volume: ''
+    key: 3HAQA3RY
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/3HAQA3RY
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/3HAQA3RY
+            type: application/json
+    meta:
+        createdByUser:
+            id: 13135791
+            links:
+                alternate:
+                    href: https://www.zotero.org/filipilievski
+                    type: text/html
+            name: ''
+            username: filipilievski
+        creatorSummary: Joshi et al.
+        numChildren: 0
+        parsedDate: '2024'
+    version: 932
+-   data:
+        DOI: 10.1162/TACL_A_00688
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Zhivar
+            lastName: Sourati
+        -   creatorType: author
+            firstName: Filip
+            lastName: Ilievski
+        -   creatorType: author
+            firstName: Pia
+            lastName: Sommerauer
+        -   creatorType: author
+            firstName: Yifan
+            lastName: Jiang
+        date: '2024'
+        dateAdded: '2024-12-17T12:57:31Z'
+        dateModified: '2024-12-17T12:57:31Z'
+        extra: ''
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: UB5A9XGF
+        language: ''
+        libraryCatalog: ''
+        pages: 1063–1086
+        publicationTitle: Trans. Assoc. Comput. Linguistics
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: 'ARN: Analogical Reasoning on Narratives'
+        url: https://doi.org/10.1162/tacl\_a\_00688
+        version: 932
+        volume: '12'
+    key: UB5A9XGF
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/UB5A9XGF
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/UB5A9XGF
+            type: application/json
+    meta:
+        createdByUser:
+            id: 13135791
+            links:
+                alternate:
+                    href: https://www.zotero.org/filipilievski
+                    type: text/html
+            name: ''
+            username: filipilievski
+        creatorSummary: Sourati et al.
+        numChildren: 0
+        parsedDate: '2024'
+    version: 932
+-   data:
+        DOI: 10.3233/SW-233520
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Filip
+            lastName: Ilievski
+        -   creatorType: author
+            firstName: Kartik
+            lastName: Shenoy
+        -   creatorType: author
+            firstName: Hans
+            lastName: Chalupsky
+        -   creatorType: author
+            firstName: Nicholas
+            lastName: Klein
+        -   creatorType: author
+            firstName: Pedro A.
+            lastName: Szekely
+        date: '2024'
+        dateAdded: '2024-12-17T12:56:09Z'
+        dateModified: '2024-12-17T12:56:09Z'
+        extra: ''
+        issue: '3'
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: 3BP2HD9Q
+        language: ''
+        libraryCatalog: ''
+        pages: 877–896
+        publicationTitle: Semantic Web
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: A study of concept similarity in Wikidata
+        url: https://doi.org/10.3233/SW-233520
+        version: 932
+        volume: '15'
+    key: 3BP2HD9Q
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/3BP2HD9Q
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/3BP2HD9Q
+            type: application/json
+    meta:
+        createdByUser:
+            id: 13135791
+            links:
+                alternate:
+                    href: https://www.zotero.org/filipilievski
+                    type: text/html
+            name: ''
+            username: filipilievski
+        creatorSummary: Ilievski et al.
+        numChildren: 0
+        parsedDate: '2024'
+    version: 932
+-   data:
         DOI: 10.1007/978-3-031-77792-9_9
         ISBN: ''
         abstractNote: ''
@@ -6031,76 +7230,6 @@
         parsedDate: '2023'
     version: 622
 -   data:
-        DOI: ''
-        ISBN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        conferenceName: ''
-        creators:
-        -   creatorType: author
-            firstName: Saurav
-            lastName: Joshi
-        -   creatorType: author
-            firstName: Filip
-            lastName: Ilievski
-        -   creatorType: author
-            firstName: Jay
-            lastName: Pujara
-        date: '2024'
-        dateAdded: '2023-11-30T13:20:18Z'
-        dateModified: '2023-11-30T13:24:16Z'
-        extra: ''
-        itemType: conferencePaper
-        key: 99HY59JT
-        language: ''
-        libraryCatalog: ''
-        pages: ''
-        place: ''
-        proceedingsTitle: AAAI demonstration program
-        publisher: ''
-        relations: {}
-        rights: ''
-        series: ''
-        shortTitle: ''
-        tags: []
-        title: Knowledge-powered recommendation for an improved diet water footprint
-        url: ''
-        version: 621
-        volume: ''
-    key: 99HY59JT
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/99HY59JT
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/99HY59JT
-            type: application/json
-    meta:
-        createdByUser:
-            id: 13135791
-            links:
-                alternate:
-                    href: https://www.zotero.org/filipilievski
-                    type: text/html
-            name: ''
-            username: filipilievski
-        creatorSummary: Joshi et al.
-        numChildren: 0
-        parsedDate: '2024'
-    version: 621
--   data:
         DOI: 10.48550/ARXIV.2310.05057
         ISBN: ''
         abstractNote: ''
@@ -6243,147 +7372,6 @@
         numChildren: 0
         parsedDate: '2023'
     version: 617
--   data:
-        DOI: 10.48550/ARXIV.2311.11157
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveID: ''
-        archiveLocation: ''
-        callNumber: ''
-        citationKey: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Saurav
-            lastName: Joshi
-        -   creatorType: author
-            firstName: Filip
-            lastName: Ilievski
-        -   creatorType: author
-            firstName: Luca
-            lastName: Luceri
-        date: '2023'
-        dateAdded: '2023-11-30T13:20:18Z'
-        dateModified: '2023-11-30T13:22:33Z'
-        extra: 'arXiv: 2311.11157'
-        genre: ''
-        itemType: preprint
-        key: 7FAT8VFE
-        language: ''
-        libraryCatalog: ''
-        place: ''
-        relations: {}
-        repository: ''
-        rights: ''
-        series: ''
-        seriesNumber: ''
-        shortTitle: ''
-        tags: []
-        title: Contextualizing Internet Memes Across Social Media Platforms
-        url: https://doi.org/10.48550/arXiv.2311.11157
-        version: 616
-    key: 7FAT8VFE
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/7FAT8VFE
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/7FAT8VFE
-            type: application/json
-    meta:
-        createdByUser:
-            id: 13135791
-            links:
-                alternate:
-                    href: https://www.zotero.org/filipilievski
-                    type: text/html
-            name: ''
-            username: filipilievski
-        creatorSummary: Joshi et al.
-        numChildren: 0
-        parsedDate: '2023'
-    version: 616
--   data:
-        DOI: 10.48550/ARXIV.2305.12280
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveID: ''
-        archiveLocation: ''
-        callNumber: ''
-        citationKey: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Darshan
-            lastName: Deshpande
-        -   creatorType: author
-            firstName: Zhivar
-            lastName: Sourati
-        -   creatorType: author
-            firstName: Filip
-            lastName: Ilievski
-        -   creatorType: author
-            firstName: Fred
-            lastName: Morstatter
-        date: '2023'
-        dateAdded: '2023-11-30T13:20:18Z'
-        dateModified: '2023-11-30T13:22:21Z'
-        extra: 'arXiv: 2305.12280'
-        genre: ''
-        itemType: preprint
-        key: 73SH62E7
-        language: ''
-        libraryCatalog: ''
-        place: ''
-        relations: {}
-        repository: ''
-        rights: ''
-        series: ''
-        seriesNumber: ''
-        shortTitle: ''
-        tags: []
-        title: Contextualizing Argument Quality Assessment with Relevant Knowledge
-        url: https://doi.org/10.48550/arXiv.2305.12280
-        version: 615
-    key: 73SH62E7
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/73SH62E7
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/73SH62E7
-            type: application/json
-    meta:
-        createdByUser:
-            id: 13135791
-            links:
-                alternate:
-                    href: https://www.zotero.org/filipilievski
-                    type: text/html
-            name: ''
-            username: filipilievski
-        creatorSummary: Deshpande et al.
-        numChildren: 0
-        parsedDate: '2023'
-    version: 615
 -   data:
         DOI: 10.3233/DS-200028
         ISSN: 24518492, 24518484
@@ -25017,6 +26005,81 @@
         creatorSummary: Tiddi et al.
         numChildren: 0
         parsedDate: '2020'
+    version: 135
+-   data:
+        ISBN: 978-3-030-72307-1
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: editor
+            firstName: Michael
+            lastName: Cochez
+        -   creatorType: editor
+            firstName: Madalina
+            lastName: Croitoru
+        -   creatorType: editor
+            firstName: Pierre
+            lastName: Marquis
+        -   creatorType: editor
+            firstName: Sebastian
+            lastName: Rudolph
+        date: '2021'
+        dateAdded: '2023-03-24T12:41:25Z'
+        dateModified: '2023-03-24T12:41:25Z'
+        edition: ''
+        extra: 'DOI: 10.1007/978-3-030-72308-8'
+        itemType: book
+        key: 7MLPNB7K
+        language: ''
+        libraryCatalog: ''
+        numPages: ''
+        numberOfVolumes: ''
+        place: ''
+        publisher: Springer
+        relations: {}
+        rights: ''
+        series: Lecture Notes in Computer Science
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: Graph Structures for Knowledge Representation and Reasoning - 6th International
+            Workshop, GKR 2020, Virtual Event, September 5, 2020, Revised Selected
+            Papers
+        url: https://doi.org/10.1007/978-3-030-72308-8
+        version: 135
+        volume: '12640'
+    key: 7MLPNB7K
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/7MLPNB7K
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/7MLPNB7K
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: Cochez et al.
+        numChildren: 0
+        parsedDate: '2021'
     version: 135
 -   data:
         ISBN: 978-3-030-72307-1
