@@ -1,4 +1,337 @@
 -   data:
+        DOI: 10.1109/ISSRE59848.2023.00019
+        ISBN: '9798350315943'
+        abstractNote: ''
+        accessDate: '2024-12-17T13:24:23Z'
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: 2023 IEEE 34th International Symposium on Software Reliability
+            Engineering (ISSRE)
+        creators:
+        -   creatorType: author
+            firstName: Stefan
+            lastName: Petrescu
+        -   creatorType: author
+            firstName: Floris
+            lastName: Den Hengst
+        -   creatorType: author
+            firstName: Alexandru
+            lastName: Uta
+        -   creatorType: author
+            firstName: Jan S.
+            lastName: Rellermeyer
+        date: 2023-10-9
+        dateAdded: '2024-12-17T13:24:23Z'
+        dateModified: '2024-12-17T13:24:23Z'
+        extra: ''
+        itemType: conferencePaper
+        key: 96PEVRUP
+        language: ''
+        libraryCatalog: DOI.org (Crossref)
+        pages: 379-390
+        place: Florence, Italy
+        proceedingsTitle: 2023 IEEE 34th International Symposium on Software Reliability
+            Engineering (ISSRE)
+        publisher: IEEE
+        relations: {}
+        rights: https://doi.org/10.15223/policy-029
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: Log Parsing Evaluation in the Era of Modern Software Systems
+        url: https://ieeexplore.ieee.org/document/10301279/
+        version: 956
+        volume: ''
+    key: 96PEVRUP
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/96PEVRUP
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/96PEVRUP
+            type: application/json
+    meta:
+        createdByUser:
+            id: 12590531
+            links:
+                alternate:
+                    href: https://www.zotero.org/florisdenhengst
+                    type: text/html
+            name: ''
+            username: florisdenhengst
+        creatorSummary: Petrescu et al.
+        numChildren: 0
+        parsedDate: '2023-10-09'
+    version: 956
+-   data:
+        DOI: 10.3233/SSW240011
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Taraneh
+            lastName: Younesian
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        -   creatorType: author
+            firstName: Stefan
+            lastName: Schlobach
+        -   creatorType: editor
+            firstName: Angelo A.
+            lastName: Salatino
+        -   creatorType: editor
+            firstName: Mehwish
+            lastName: Alam
+        -   creatorType: editor
+            firstName: Femke
+            lastName: Ongenae
+        -   creatorType: editor
+            firstName: Sahar
+            lastName: Vahdati
+        -   creatorType: editor
+            firstName: Anna Lisa
+            lastName: Gentile
+        -   creatorType: editor
+            firstName: Tassilo
+            lastName: Pellegrini
+        -   creatorType: editor
+            firstName: Shufan
+            lastName: Jiang
+        date: '2024'
+        dateAdded: '2024-12-17T13:09:09Z'
+        dateModified: '2024-12-17T13:09:09Z'
+        extra: ''
+        itemType: conferencePaper
+        key: WJVHVQXG
+        language: ''
+        libraryCatalog: ''
+        pages: 123–141
+        place: ''
+        proceedingsTitle: Knowledge Graphs in the Age of Language Models and Neuro-Symbolic
+            AI - Proceedings of the 20th International Conference on Semantic Systems,
+            17-19 September 2024, Amsterdam, The Netherlands
+        publisher: IOS Press
+        relations: {}
+        rights: ''
+        series: Studies on the Semantic Web
+        shortTitle: ''
+        tags: []
+        title: 'ReWise: A Relation-Wise Sampling Framework for Relational Graph Convolutional
+            Networks'
+        url: https://doi.org/10.3233/SSW240011
+        version: 955
+        volume: '60'
+    key: WJVHVQXG
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/WJVHVQXG
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/WJVHVQXG
+            type: application/json
+    meta:
+        createdByUser:
+            id: 13137047
+            links:
+                alternate:
+                    href: https://www.zotero.org/tyounesian
+                    type: text/html
+            name: ''
+            username: tyounesian
+        creatorSummary: Younesian et al.
+        numChildren: 0
+        parsedDate: '2024'
+    version: 955
+-   data:
+        DOI: 10.1145/3587259.3627561
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Prateek
+            lastName: Chhikara
+        -   creatorType: author
+            firstName: Jiarui
+            lastName: Zhang
+        -   creatorType: author
+            firstName: Filip
+            lastName: Ilievski
+        -   creatorType: author
+            firstName: Jonathan
+            lastName: Francis
+        -   creatorType: author
+            firstName: Kaixin
+            lastName: Ma
+        -   creatorType: editor
+            firstName: Kristen Brent
+            lastName: Venable
+        -   creatorType: editor
+            firstName: Daniel
+            lastName: Garijo
+        -   creatorType: editor
+            firstName: Brian
+            lastName: Jalaian
+        date: '2023'
+        dateAdded: '2024-12-17T13:08:36Z'
+        dateModified: '2024-12-17T13:08:36Z'
+        extra: ''
+        itemType: conferencePaper
+        key: 7NNEQ9PL
+        language: ''
+        libraryCatalog: ''
+        pages: 157–165
+        place: ''
+        proceedingsTitle: Proceedings of the 12th Knowledge Capture Conference 2023,
+            K-CAP 2023, Pensacola, FL, USA, December 5-7, 2023
+        publisher: ACM
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: Knowledge-enhanced Agents for Interactive Text Games
+        url: https://doi.org/10.1145/3587259.3627561
+        version: 954
+        volume: ''
+    key: 7NNEQ9PL
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/7NNEQ9PL
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/7NNEQ9PL
+            type: application/json
+    meta:
+        createdByUser:
+            id: 13135791
+            links:
+                alternate:
+                    href: https://www.zotero.org/filipilievski
+                    type: text/html
+            name: ''
+            username: filipilievski
+        creatorSummary: Chhikara et al.
+        numChildren: 0
+        parsedDate: '2023'
+    version: 954
+-   data:
+        DOI: ''
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: M. Jaleed
+            lastName: Khan
+        -   creatorType: author
+            firstName: Filip
+            lastName: Ilievski
+        -   creatorType: author
+            firstName: John G.
+            lastName: Breslin
+        -   creatorType: author
+            firstName: Edward
+            lastName: Curry
+        -   creatorType: author
+            firstName: Ernesto
+            lastName: Jimenez-Ruiz
+        date: '2024'
+        dateAdded: '2024-12-17T13:07:19Z'
+        dateModified: '2024-12-17T13:07:19Z'
+        extra: ''
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: DWIRU755
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        publicationTitle: Neurosymbolic Artificial Intelligence
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: A survey of neurosymbolic visual reasoning with scene graphs and common
+            sense knowledge
+        url: https://api.semanticscholar.org/CorpusID:269829829
+        version: 953
+        volume: ''
+    key: DWIRU755
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/DWIRU755
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/DWIRU755
+            type: application/json
+    meta:
+        createdByUser:
+            id: 13135791
+            links:
+                alternate:
+                    href: https://www.zotero.org/filipilievski
+                    type: text/html
+            name: ''
+            username: filipilievski
+        creatorSummary: Khan et al.
+        numChildren: 0
+        parsedDate: '2024'
+    version: 953
+-   data:
         DOI: ''
         ISSN: ''
         abstractNote: ''
@@ -26005,81 +26338,6 @@
         creatorSummary: Tiddi et al.
         numChildren: 0
         parsedDate: '2020'
-    version: 135
--   data:
-        ISBN: 978-3-030-72307-1
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        creators:
-        -   creatorType: editor
-            firstName: Michael
-            lastName: Cochez
-        -   creatorType: editor
-            firstName: Madalina
-            lastName: Croitoru
-        -   creatorType: editor
-            firstName: Pierre
-            lastName: Marquis
-        -   creatorType: editor
-            firstName: Sebastian
-            lastName: Rudolph
-        date: '2021'
-        dateAdded: '2023-03-24T12:41:25Z'
-        dateModified: '2023-03-24T12:41:25Z'
-        edition: ''
-        extra: 'DOI: 10.1007/978-3-030-72308-8'
-        itemType: book
-        key: 7MLPNB7K
-        language: ''
-        libraryCatalog: ''
-        numPages: ''
-        numberOfVolumes: ''
-        place: ''
-        publisher: Springer
-        relations: {}
-        rights: ''
-        series: Lecture Notes in Computer Science
-        seriesNumber: ''
-        shortTitle: ''
-        tags: []
-        title: Graph Structures for Knowledge Representation and Reasoning - 6th International
-            Workshop, GKR 2020, Virtual Event, September 5, 2020, Revised Selected
-            Papers
-        url: https://doi.org/10.1007/978-3-030-72308-8
-        version: 135
-        volume: '12640'
-    key: 7MLPNB7K
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/7MLPNB7K
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/7MLPNB7K
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Cochez et al.
-        numChildren: 0
-        parsedDate: '2021'
     version: 135
 -   data:
         ISBN: 978-3-030-72307-1
