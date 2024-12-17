@@ -1,5 +1,82 @@
 -   data:
         DOI: ''
+        ISSN: 2835-8856
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Hongyu
+            lastName: Ren
+        -   creatorType: author
+            firstName: Mikhail
+            lastName: Galkin
+        -   creatorType: author
+            firstName: Zhaocheng
+            lastName: Zhu
+        -   creatorType: author
+            firstName: Jure
+            lastName: Leskovec
+        -   creatorType: author
+            firstName: Michael
+            lastName: Cochez
+        date: 2024-05
+        dateAdded: '2024-12-17T14:51:04Z'
+        dateModified: '2024-12-17T14:52:37Z'
+        extra: ''
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: PB6SHTVI
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        publicationTitle: Transactions on Machine Learning Research
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: 'Neural Graph Reasoning: A Survey on Complex Logical Query Answering'
+        url: https://openreview.net/forum?id=xG8un9ZbqT
+        version: 966
+        volume: ''
+    key: PB6SHTVI
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/PB6SHTVI
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/PB6SHTVI
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: Ren et al.
+        numChildren: 1
+        parsedDate: 2024-05
+    version: 966
+-   data:
+        DOI: ''
         ISBN: ''
         abstractNote: ''
         accessDate: ''
