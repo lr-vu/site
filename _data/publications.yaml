@@ -1,4 +1,261 @@
 -   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Tamara
+            lastName: Cucumides
+        -   creatorType: author
+            firstName: Daniel
+            lastName: Daza
+        -   creatorType: author
+            firstName: Pablo
+            lastName: Barcelo
+        -   creatorType: author
+            firstName: Michael
+            lastName: Cochez
+        -   creatorType: author
+            firstName: Floris
+            lastName: Geerts
+        -   creatorType: author
+            firstName: Juan L.
+            lastName: Reutter
+        -   creatorType: author
+            firstName: Miguel Romero
+            lastName: Orth
+        date: November 2024
+        dateAdded: '2024-12-17T14:45:19Z'
+        dateModified: '2024-12-17T14:45:53Z'
+        extra: ''
+        itemType: conferencePaper
+        key: HFEANI96
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        place: ''
+        proceedingsTitle: The Third Learning on Graphs Conference
+        publisher: ''
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: 'UnRavL: A Neuro-Symbolic Framework for Answering Graph Pattern Queries
+            in Knowledge Graphs'
+        url: https://openreview.net/forum?id=183XrFqaHN
+        version: 960
+        volume: ''
+    key: HFEANI96
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/HFEANI96
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/HFEANI96
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: Cucumides et al.
+        numChildren: 0
+        parsedDate: 2024-11
+    version: 960
+-   data:
+        DOI: 10.1007/978-3-031-60626-7_3
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Ruijie
+            lastName: Wang
+        -   creatorType: author
+            firstName: Luca
+            lastName: Rossetto
+        -   creatorType: author
+            firstName: Michael
+            lastName: Cochez
+        -   creatorType: author
+            firstName: Abraham
+            lastName: Bernstein
+        -   creatorType: editor
+            firstName: Albert
+            lastName: Meroño-Peñuela
+        -   creatorType: editor
+            firstName: Anastasia
+            lastName: Dimou
+        -   creatorType: editor
+            firstName: Raphaël
+            lastName: Troncy
+        -   creatorType: editor
+            firstName: Olaf
+            lastName: Hartig
+        -   creatorType: editor
+            firstName: Maribel
+            lastName: Acosta
+        -   creatorType: editor
+            firstName: Mehwish
+            lastName: Alam
+        -   creatorType: editor
+            firstName: Heiko
+            lastName: Paulheim
+        -   creatorType: editor
+            firstName: Pasquale
+            lastName: Lisena
+        date: '2024'
+        dateAdded: '2024-12-17T14:44:39Z'
+        dateModified: '2024-12-17T14:44:39Z'
+        extra: ''
+        itemType: conferencePaper
+        key: QMJHYBRU
+        language: ''
+        libraryCatalog: ''
+        pages: 41–58
+        place: ''
+        proceedingsTitle: The Semantic Web - 21st International Conference, ESWC 2024,
+            Hersonissos, Crete, Greece, May 26-30, 2024, Proceedings, Part I
+        publisher: Springer
+        relations: {}
+        rights: ''
+        series: Lecture Notes in Computer Science
+        shortTitle: ''
+        tags: []
+        title: 'QAGCN: Answering Multi-relation Questions via Single-Step Implicit
+            Reasoning over Knowledge Graphs'
+        url: https://doi.org/10.1007/978-3-031-60626-7\_3
+        version: 958
+        volume: '14664'
+    key: QMJHYBRU
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/QMJHYBRU
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/QMJHYBRU
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: Wang et al.
+        numChildren: 0
+        parsedDate: '2024'
+    version: 958
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Joze M.
+            lastName: Rozanec
+        -   creatorType: author
+            firstName: Beno
+            lastName: Sircelj
+        -   creatorType: author
+            firstName: Michael
+            lastName: Cochez
+        -   creatorType: author
+            firstName: Gregor
+            lastName: Leban
+        date: '2024'
+        dateAdded: '2024-12-17T14:44:11Z'
+        dateModified: '2024-12-17T14:44:11Z'
+        extra: ''
+        itemType: conferencePaper
+        key: ZWB2IR88
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        place: ''
+        proceedingsTitle: The Second Tiny Papers Track at ICLR 2024, Tiny Papers @
+            ICLR 2024, Vienna, Austria, May 11, 2024
+        publisher: OpenReview.net
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: 'Back to the Future: predicting causal relationships influencing oil
+            prices'
+        url: https://openreview.net/forum?id=TqQlYLd52W
+        version: 957
+        volume: ''
+    key: ZWB2IR88
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/ZWB2IR88
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/ZWB2IR88
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: Rozanec et al.
+        numChildren: 0
+        parsedDate: '2024'
+    version: 957
+-   data:
         DOI: 10.1109/ISSRE59848.2023.00019
         ISBN: '9798350315943'
         abstractNote: ''
