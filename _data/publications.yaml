@@ -1,5 +1,70 @@
 -   data:
         DOI: ''
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Filip
+            lastName: Ilievski
+        date: '2024'
+        dateAdded: '2024-12-25T16:41:27Z'
+        dateModified: '2024-12-25T16:41:27Z'
+        extra: ''
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: K2KYTFL5
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        publicationTitle: Synthesis Lectures on Computer Science
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: Human-Centric AI with Common Sense
+        url: https://api.semanticscholar.org/CorpusID:274950958
+        version: 967
+        volume: ''
+    key: K2KYTFL5
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/K2KYTFL5
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/K2KYTFL5
+            type: application/json
+    meta:
+        createdByUser:
+            id: 13135791
+            links:
+                alternate:
+                    href: https://www.zotero.org/filipilievski
+                    type: text/html
+            name: ''
+            username: filipilievski
+        creatorSummary: Ilievski
+        numChildren: 0
+        parsedDate: '2024'
+    version: 967
+-   data:
+        DOI: ''
         ISSN: 2835-8856
         abstractNote: ''
         accessDate: ''
