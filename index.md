@@ -21,7 +21,7 @@ dark: true
     {% endcomment %}
 
     <dl>
-        <dt>Novermber 26-27, 2024</dt>
+        <dt>November 26-27, 2024</dt>
             <dd>We organized LoG local https://logams.github.io/ event where over 70 researchers working on learning on graphs joined us to discuss their research.
             </dd>
 
