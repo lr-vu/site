@@ -1,4 +1,238 @@
 -   data:
+        DOI: 10.1007/978-3-031-71167-1_14
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Francesco
+            lastName: Manigrasso
+        -   creatorType: author
+            firstName: Stefan F.
+            lastName: Schouten
+        -   creatorType: author
+            firstName: Lia
+            lastName: Morra
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        -   creatorType: editor
+            firstName: Tarek R.
+            lastName: Besold
+        -   creatorType: editor
+            firstName: Artur d'Avila
+            lastName: Garcez
+        -   creatorType: editor
+            firstName: Ernesto
+            lastName: Jiménez-Ruiz
+        -   creatorType: editor
+            firstName: Roberto
+            lastName: Confalonieri
+        -   creatorType: editor
+            firstName: Pranava
+            lastName: Madhyastha
+        -   creatorType: editor
+            firstName: Benedikt
+            lastName: Wagner
+        date: '2024'
+        dateAdded: '2025-01-06T16:19:32Z'
+        dateModified: '2025-01-06T16:20:00Z'
+        extra: ''
+        itemType: conferencePaper
+        key: P4XG2L79
+        language: ''
+        libraryCatalog: ''
+        pages: 257–278
+        place: ''
+        proceedingsTitle: Neural-Symbolic Learning and Reasoning - 18th International
+            Conference, NeSy 2024, Barcelona, Spain, September 9-12, 2024, Proceedings,
+            Part I
+        publisher: Springer
+        relations: {}
+        rights: ''
+        series: Lecture Notes in Computer Science
+        shortTitle: ''
+        tags:
+        -   tag: large language models
+        -   tag: neuro-symbolic integration
+        -   tag: probing
+        title: Probing LLMs for Logical Reasoning
+        url: https://doi.org/10.1007/978-3-031-71167-1\_14
+        version: 976
+        volume: '14979'
+    key: P4XG2L79
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/P4XG2L79
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/P4XG2L79
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: Manigrasso et al.
+        numChildren: 0
+        parsedDate: '2024'
+    version: 976
+-   data:
+        DOI: 10.48550/ARXIV.2404.18865
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Stefan F.
+            lastName: Schouten
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        -   creatorType: author
+            firstName: Ilia
+            lastName: Markov
+        -   creatorType: author
+            firstName: Piek
+            lastName: Vossen
+        date: '2024'
+        dateAdded: '2025-01-06T16:18:16Z'
+        dateModified: '2025-01-06T16:19:08Z'
+        extra: 'arXiv: 2404.18865'
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: XUN989FW
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        publicationTitle: CoRR
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags:
+        -   tag: large language models
+        -   tag: natural language processing
+        -   tag: probing
+        title: 'Truth-value judgment in language models: belief directions are context
+            sensitive'
+        url: https://doi.org/10.48550/arXiv.2404.18865
+        version: 972
+        volume: abs/2404.18865
+    key: XUN989FW
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/XUN989FW
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/XUN989FW
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: Schouten et al.
+        numChildren: 0
+        parsedDate: '2024'
+    version: 972
+-   data:
+        DOI: ''
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators: []
+        date: ''
+        dateAdded: '2025-01-06T16:17:43Z'
+        dateModified: '2025-01-06T16:17:43Z'
+        extra: ''
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: 4XM3NTHU
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        publicationTitle: ''
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: ''
+        url: ''
+        version: 968
+        volume: ''
+    key: 4XM3NTHU
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/4XM3NTHU
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/4XM3NTHU
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        numChildren: 0
+    version: 968
+-   data:
         DOI: ''
         ISSN: ''
         abstractNote: ''
