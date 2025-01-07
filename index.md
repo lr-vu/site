@@ -24,6 +24,11 @@ dark: true
         <dt>November 26-27, 2024</dt>
             <dd>We organized LoG local https://logams.github.io/ event where over 70 researchers working on learning on graphs joined us to discuss their research.
             </dd>
+        <dt>October 9-10, 2024</dt>
+            <dd>During this years' group outing, we organized a project proposal writing workshop
+            and wrote six proposals at a lovely beachfront hotel in Egmond and Zee. We also
+            enjoyed each others' company at the beach during walks, a run and a powerkiting activity.
+            </dd>
 
         <dt>September 23, 2024</dt>
             <dd>BBC published an article based on an interview with Filip: <a href="https://www.bbc.com/future/article/20240912-what-riddles-teach-us-about-the-human-mind">When robots can't riddle: What puzzles reveal about the depths of our own minds</a>. The article is part of the series "AI v. the Mind," which explores "the limits of cutting-edge AI and learns a little about how our own brains work along the way."</dd>
