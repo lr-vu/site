@@ -1,4 +1,1437 @@
 -   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Pasquale
+            lastName: Lisena
+        -   creatorType: author
+            firstName: Simon
+            lastName: Gottschalk
+        -   creatorType: author
+            firstName: Inès
+            lastName: Blin
+        -   creatorType: editor
+            firstName: Bruno
+            lastName: Sartini
+        -   creatorType: editor
+            firstName: Joe
+            lastName: Raad
+        -   creatorType: editor
+            firstName: Pasquale
+            lastName: Lisena
+        -   creatorType: editor
+            firstName: Albert
+            lastName: Meroño-Peñuela
+        -   creatorType: editor
+            firstName: Michael
+            lastName: Beetz
+        -   creatorType: editor
+            firstName: Inès
+            lastName: Blin
+        -   creatorType: editor
+            firstName: Philipp
+            lastName: Cimiano
+        -   creatorType: editor
+            firstName: Jacopo de
+            lastName: Berardinis
+        -   creatorType: editor
+            firstName: Simon
+            lastName: Gottschalk
+        -   creatorType: editor
+            firstName: Filip
+            lastName: Ilievski
+        -   creatorType: editor
+            firstName: Nitisha
+            lastName: Jain
+        -   creatorType: editor
+            firstName: Jongmo
+            lastName: Kim
+        -   creatorType: editor
+            firstName: Michaela
+            lastName: Kümpel
+        -   creatorType: editor
+            firstName: Enrico
+            lastName: Motta
+        -   creatorType: editor
+            firstName: Ilaria
+            lastName: Tiddi
+        -   creatorType: editor
+            firstName: Jan-Philipp
+            lastName: Töberg
+        date: '2024'
+        dateAdded: '2025-01-08T19:18:30Z'
+        dateModified: '2025-01-08T19:18:30Z'
+        extra: ''
+        itemType: conferencePaper
+        key: G4UM8PRH
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        place: ''
+        proceedingsTitle: Joint Proceedings of the ESWC 2024 Workshops and Tutorials
+            co-located with 21th European Semantic Web Conference (ESWC 2024), Hersonissos,
+            Greece, May 26-27, 2024
+        publisher: CEUR-WS.org
+        relations: {}
+        rights: ''
+        series: CEUR Workshop Proceedings
+        shortTitle: ''
+        tags: []
+        title: Semantic Methods for Events and Stories (SEMMES) 2024
+        url: https://ceur-ws.org/Vol-3749/SEMMES\_Preface\_2024.pdf
+        version: 1001
+        volume: '3749'
+    key: G4UM8PRH
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/G4UM8PRH
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/G4UM8PRH
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Lisena et al.
+        numChildren: 0
+        parsedDate: '2024'
+    version: 1001
+-   data:
+        DOI: 10.48550/ARXIV.2404.03624
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveID: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Bradley P.
+            lastName: Allen
+        -   creatorType: author
+            firstName: Filip
+            lastName: Ilievski
+        date: '2024'
+        dateAdded: '2024-12-17T13:02:29Z'
+        dateModified: '2025-01-08T19:10:45Z'
+        extra: 'arXiv: 2404.03624'
+        genre: ''
+        itemType: preprint
+        key: 8JXAL4FG
+        language: ''
+        libraryCatalog: ''
+        place: ''
+        relations: {}
+        repository: ''
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: Standardizing Knowledge Engineering Practices with a Reference Architecture
+        url: https://doi.org/10.48550/arXiv.2404.03624
+        version: 1000
+    key: 8JXAL4FG
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/8JXAL4FG
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/8JXAL4FG
+            type: application/json
+    meta:
+        createdByUser:
+            id: 13135791
+            links:
+                alternate:
+                    href: https://www.zotero.org/filipilievski
+                    type: text/html
+            name: ''
+            username: filipilievski
+        creatorSummary: Allen and Ilievski
+        lastModifiedByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        numChildren: 0
+        parsedDate: '2024'
+    version: 1000
+-   data:
+        DOI: ''
+        abstractNote: As Artificial Intelligence (AI) is having more influence on
+            our everyday lives, it becomes important that AI-based decisions are transparent
+            and explainable. As a consequence, the field of eXplainable AI (or XAI)
+            has become popular in recent years. One way to explain AI models is to
+            elucidate the predictive importance of the input features for the AI model
+            in general, also referred to as global explanations. Inspired by cooperative
+            game theory, Shapley values offer a convenient way for quantifying the
+            feature importance as explanations. However many methods based on Shapley
+            values are built on the assumption of feature independence and often overlook
+            causal relations of the features which could impact their importance for
+            the ML model. Inspired by studies of explanations at the local level,
+            we propose CAGE (Causally-Aware Shapley Values for Global Explanations).
+            In particular, we introduce a novel sampling procedure for out-coalition
+            features that respects the causal relations of the input features. We
+            derive a practical approach that incorporates causal knowledge into global
+            explanation and offers the possibility to interpret the predictive feature
+            importance considering their causal relation. We evaluate our method on
+            synthetic data and real-world data. The explanations from our approach
+            suggest that they are not only more intuitive but also more faithful compared
+            to previous global explanation methods.
+        accessDate: '2024-07-03T10:44:54Z'
+        archive: ''
+        archiveID: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Nils Ole
+            lastName: Breuer
+        -   creatorType: author
+            firstName: Andreas
+            lastName: Sauter
+        -   creatorType: author
+            firstName: Majid
+            lastName: Mohammadi
+        -   creatorType: author
+            firstName: Erman
+            lastName: Acar
+        date: '2024-04-17'
+        dateAdded: '2024-07-03T10:44:55Z'
+        dateModified: '2025-01-08T19:10:34Z'
+        extra: arXiv:2404.11208 [cs]
+        genre: ''
+        itemType: preprint
+        key: GYM6RRDS
+        language: ''
+        libraryCatalog: arXiv.org
+        place: ''
+        relations: {}
+        repository: arXiv
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: CAGE
+        tags:
+        -   tag: Computer Science - Artificial Intelligence
+        -   tag: causality
+        -   tag: explainable AI
+        title: 'CAGE: Causality-Aware Shapley Value for Global Explanations'
+        url: http://arxiv.org/abs/2404.11208
+        version: 999
+    key: GYM6RRDS
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/GYM6RRDS
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/GYM6RRDS
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11640050
+            links:
+                alternate:
+                    href: https://www.zotero.org/andreassauter
+                    type: text/html
+            name: ''
+            username: andreassauter
+        creatorSummary: Breuer et al.
+        lastModifiedByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        numChildren: 0
+        parsedDate: '2024-04-17'
+    version: 999
+-   data:
+        DOI: 10.48550/ARXIV.2409.08820
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveID: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Xueli
+            lastName: Pan
+        -   creatorType: author
+            firstName: Jacco van
+            lastName: Ossenbruggen
+        -   creatorType: author
+            firstName: Victor de
+            lastName: Boer
+        -   creatorType: author
+            firstName: Zhisheng
+            lastName: Huang
+        date: '2024'
+        dateAdded: '2025-01-08T19:00:19Z'
+        dateModified: '2025-01-08T19:10:12Z'
+        extra: 'arXiv: 2409.08820'
+        genre: ''
+        itemType: preprint
+        key: Y6K72B4L
+        language: ''
+        libraryCatalog: ''
+        place: ''
+        relations: {}
+        repository: ''
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: A RAG Approach for Generating Competency Questions in Ontology Engineering
+        url: https://doi.org/10.48550/arXiv.2409.08820
+        version: 998
+    key: Y6K72B4L
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/Y6K72B4L
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/Y6K72B4L
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Pan et al.
+        numChildren: 0
+        parsedDate: '2024'
+    version: 998
+-   data:
+        DOI: 10.48550/ARXIV.2404.18865
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveID: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Stefan F.
+            lastName: Schouten
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        -   creatorType: author
+            firstName: Ilia
+            lastName: Markov
+        -   creatorType: author
+            firstName: Piek
+            lastName: Vossen
+        date: '2024'
+        dateAdded: '2025-01-06T16:18:16Z'
+        dateModified: '2025-01-08T19:09:47Z'
+        extra: 'arXiv: 2404.18865'
+        genre: ''
+        itemType: preprint
+        key: XUN989FW
+        language: ''
+        libraryCatalog: ''
+        place: ''
+        relations: {}
+        repository: ''
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags:
+        -   tag: large language models
+        -   tag: natural language processing
+        -   tag: probing
+        title: 'Truth-value judgment in language models: belief directions are context
+            sensitive'
+        url: https://doi.org/10.48550/arXiv.2404.18865
+        version: 997
+    key: XUN989FW
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/XUN989FW
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/XUN989FW
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: Schouten et al.
+        lastModifiedByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        numChildren: 0
+        parsedDate: '2024'
+    version: 997
+-   data:
+        DOI: 10.48550/ARXIV.2402.07384
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveID: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Jiarui
+            lastName: Zhang
+        -   creatorType: author
+            firstName: Jinyi
+            lastName: Hu
+        -   creatorType: author
+            firstName: Mahyar
+            lastName: Khayatkhoei
+        -   creatorType: author
+            firstName: Filip
+            lastName: Ilievski
+        -   creatorType: author
+            firstName: Maosong
+            lastName: Sun
+        date: '2024'
+        dateAdded: '2024-12-17T13:02:05Z'
+        dateModified: '2025-01-08T19:09:27Z'
+        extra: 'arXiv: 2402.07384'
+        genre: ''
+        itemType: preprint
+        key: 74ZWUAKE
+        language: ''
+        libraryCatalog: ''
+        place: ''
+        relations: {}
+        repository: ''
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: Exploring Perceptual Limitation of Multimodal Large Language Models
+        url: https://doi.org/10.48550/arXiv.2402.07384
+        version: 996
+    key: 74ZWUAKE
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/74ZWUAKE
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/74ZWUAKE
+            type: application/json
+    meta:
+        createdByUser:
+            id: 13135791
+            links:
+                alternate:
+                    href: https://www.zotero.org/filipilievski
+                    type: text/html
+            name: ''
+            username: filipilievski
+        creatorSummary: Zhang et al.
+        lastModifiedByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        numChildren: 0
+        parsedDate: '2024'
+    version: 996
+-   data:
+        DOI: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveID: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Koen
+            lastName: Kraaijveld
+        -   creatorType: author
+            firstName: Yifan
+            lastName: Jiang
+        -   creatorType: author
+            firstName: Kaixin
+            lastName: Ma
+        -   creatorType: author
+            firstName: Filip
+            lastName: Ilievski
+        date: '2025'
+        dateAdded: '2024-12-17T13:04:40Z'
+        dateModified: '2025-01-08T19:09:19Z'
+        extra: ''
+        genre: ''
+        itemType: preprint
+        key: QU6DS9U9
+        language: ''
+        libraryCatalog: ''
+        place: ''
+        relations: {}
+        repository: ''
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: 'COLUMBUS: Evaluating COgnitive Lateral Understanding through Multiple-choice
+            reBUSes'
+        url: https://doi.org/10.48550/arXiv.2409.04053
+        version: 995
+    key: QU6DS9U9
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/QU6DS9U9
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/QU6DS9U9
+            type: application/json
+    meta:
+        createdByUser:
+            id: 13135791
+            links:
+                alternate:
+                    href: https://www.zotero.org/filipilievski
+                    type: text/html
+            name: ''
+            username: filipilievski
+        creatorSummary: Kraaijveld et al.
+        lastModifiedByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        numChildren: 0
+        parsedDate: '2025'
+    version: 995
+-   data:
+        DOI: 10.48550/ARXIV.2408.05861
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveID: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Taewoon
+            lastName: Kim
+        -   creatorType: author
+            firstName: Vincent
+            lastName: François-Lavet
+        -   creatorType: author
+            firstName: Michael
+            lastName: Cochez
+        date: '2024'
+        dateAdded: '2025-01-08T19:07:49Z'
+        dateModified: '2025-01-08T19:08:52Z'
+        extra: 'arXiv: 2408.05861'
+        genre: ''
+        itemType: preprint
+        key: AFKS7QL9
+        language: ''
+        libraryCatalog: ''
+        place: ''
+        relations: {}
+        repository: ''
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: Leveraging Knowledge Graph-Based Human-Like Memory Systems to Solve
+            Partially Observable Markov Decision Processes
+        url: https://doi.org/10.48550/arXiv.2408.05861
+        version: 994
+    key: AFKS7QL9
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/AFKS7QL9
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/AFKS7QL9
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Kim et al.
+        numChildren: 0
+        parsedDate: '2024'
+    version: 994
+-   data:
+        DOI: 10.48550/ARXIV.2411.02168
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveID: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Tom
+            lastName: Pelletreau-Duris
+        -   creatorType: author
+            firstName: Ruud van
+            lastName: Bakel
+        -   creatorType: author
+            firstName: Michael
+            lastName: Cochez
+        date: '2024'
+        dateAdded: '2025-01-08T19:08:20Z'
+        dateModified: '2025-01-08T19:08:30Z'
+        extra: 'arXiv: 2411.02168'
+        genre: ''
+        itemType: preprint
+        key: VRFT5PVU
+        language: ''
+        libraryCatalog: ''
+        place: ''
+        relations: {}
+        repository: ''
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: Do graph neural network states contain graph properties?
+        url: https://doi.org/10.48550/arXiv.2411.02168
+        version: 993
+    key: VRFT5PVU
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/VRFT5PVU
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/VRFT5PVU
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Pelletreau-Duris et al.
+        numChildren: 0
+        parsedDate: '2024'
+    version: 993
+-   data:
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: editor
+            firstName: Sanju
+            lastName: Tiwari
+        -   creatorType: editor
+            firstName: Nandana
+            lastName: Mihindukulasooriya
+        -   creatorType: editor
+            firstName: Francesco
+            lastName: Osborne
+        -   creatorType: editor
+            firstName: Dimitris
+            lastName: Kontokostas
+        -   creatorType: editor
+            firstName: Jennifer
+            lastName: D'Souza
+        -   creatorType: editor
+            firstName: Mayank
+            lastName: Kejriwal
+        -   creatorType: editor
+            firstName: Maria Angela
+            lastName: Pellegrino
+        -   creatorType: editor
+            firstName: Anisa
+            lastName: Rula
+        -   creatorType: editor
+            firstName: José Emilio Labra
+            lastName: Gayo
+        -   creatorType: editor
+            firstName: Michael
+            lastName: Cochez
+        -   creatorType: editor
+            firstName: Mehwish
+            lastName: Alam
+        date: '2024'
+        dateAdded: '2025-01-08T19:06:42Z'
+        dateModified: '2025-01-08T19:06:42Z'
+        edition: ''
+        extra: ''
+        itemType: book
+        key: IT36UN43
+        language: ''
+        libraryCatalog: ''
+        numPages: ''
+        numberOfVolumes: ''
+        place: ''
+        publisher: CEUR-WS.org
+        relations: {}
+        rights: ''
+        series: CEUR Workshop Proceedings
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: Joint proceedings of the 3rd International workshop on knowledge graph
+            generation from text (TEXT2KG) and Data Quality meets Machine Learning
+            and Knowledge Graphs (DQMLKG) co-located with the Extended Semantic Web
+            Conference ( ESWC 2024), Hersonissos, Greece, May 26-30, 2024
+        url: https://ceur-ws.org/Vol-3747
+        version: 990
+        volume: '3747'
+    key: IT36UN43
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/IT36UN43
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/IT36UN43
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Tiwari et al.
+        numChildren: 0
+        parsedDate: '2024'
+    version: 990
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Michael
+            lastName: Cochez
+        -   creatorType: author
+            firstName: Evgeny
+            lastName: Kharlamov
+        -   creatorType: author
+            firstName: Radu
+            lastName: Prodan
+        -   creatorType: editor
+            firstName: Daniel
+            lastName: Garijo
+        -   creatorType: editor
+            firstName: Anna Lisa
+            lastName: Gentile
+        -   creatorType: editor
+            firstName: Anelia
+            lastName: Kurteva
+        -   creatorType: editor
+            firstName: Andrea
+            lastName: Mannocci
+        -   creatorType: editor
+            firstName: Francesco
+            lastName: Osborne
+        -   creatorType: editor
+            firstName: Sahar
+            lastName: Vahdati
+        date: '2024'
+        dateAdded: '2025-01-08T19:04:16Z'
+        dateModified: '2025-01-08T19:04:16Z'
+        extra: ''
+        itemType: conferencePaper
+        key: 8YGTGB6I
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        place: ''
+        proceedingsTitle: Joint Proceedings of Posters, Demos, Workshops, and Tutorials
+            of the 20th International Conference on Semantic Systems co-located with
+            20th International Conference on Semantic Systems (SEMANTiCS 2024), Amsterdam,
+            The Netherlands, September 17-19, 2024
+        publisher: CEUR-WS.org
+        relations: {}
+        rights: ''
+        series: CEUR Workshop Proceedings
+        shortTitle: ''
+        tags: []
+        title: 'First International Workshop on Scaling Knowledge Graphs for Industry:
+            Summary'
+        url: https://ceur-ws.org/Vol-3759/workshop2.pdf
+        version: 989
+        volume: '3759'
+    key: 8YGTGB6I
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/8YGTGB6I
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/8YGTGB6I
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Cochez et al.
+        numChildren: 0
+        parsedDate: '2024'
+    version: 989
+-   data:
+        DOI: 10.48550/ARXIV.2407.07639
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveID: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Daniel
+            lastName: Daza
+        -   creatorType: author
+            firstName: Cuong Xuan
+            lastName: Chu
+        -   creatorType: author
+            firstName: Trung-Kien
+            lastName: Tran
+        -   creatorType: author
+            firstName: Daria
+            lastName: Stepanova
+        -   creatorType: author
+            firstName: Michael
+            lastName: Cochez
+        -   creatorType: author
+            firstName: Paul
+            lastName: Groth
+        date: '2024'
+        dateAdded: '2025-01-08T19:02:36Z'
+        dateModified: '2025-01-08T19:02:49Z'
+        extra: 'arXiv: 2407.07639'
+        genre: ''
+        itemType: preprint
+        key: A3QMBAAZ
+        language: ''
+        libraryCatalog: ''
+        place: ''
+        relations: {}
+        repository: ''
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: Explaining Graph Neural Networks for Node Similarity on Graphs
+        url: https://doi.org/10.48550/arXiv.2407.07639
+        version: 988
+    key: A3QMBAAZ
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/A3QMBAAZ
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/A3QMBAAZ
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Daza et al.
+        numChildren: 0
+        parsedDate: '2024'
+    version: 988
+-   data:
+        DOI: 10.5220/0012354200003636
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Robin
+            lastName: Stöhr
+        -   creatorType: author
+            firstName: Shuai
+            lastName: Wang
+        -   creatorType: author
+            firstName: Zhisheng
+            lastName: Huang
+        -   creatorType: editor
+            firstName: Ana Paula
+            lastName: Rocha
+        -   creatorType: editor
+            firstName: Luc
+            lastName: Steels
+        -   creatorType: editor
+            firstName: H. Jaap van den
+            lastName: Herik
+        date: '2024'
+        dateAdded: '2025-01-08T18:59:58Z'
+        dateModified: '2025-01-08T18:59:58Z'
+        extra: ''
+        itemType: conferencePaper
+        key: 7GJ9VA3Q
+        language: ''
+        libraryCatalog: ''
+        pages: 210–221
+        place: ''
+        proceedingsTitle: Proceedings of the 16th International Conference on Agents
+            and Artificial Intelligence, ICAART 2024, Volume 2, Rome, Italy, February
+            24-26, 2024
+        publisher: SCITEPRESS
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: Knowledge Modelling, Strategy Designing, and Agent Engineering for
+            Reconnaissance Blind Chess
+        url: https://doi.org/10.5220/0012354200003636
+        version: 985
+        volume: ''
+    key: 7GJ9VA3Q
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/7GJ9VA3Q
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/7GJ9VA3Q
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Stöhr et al.
+        numChildren: 0
+        parsedDate: '2024'
+    version: 985
+-   data:
+        DOI: 10.1007/978-981-97-5934-7_16
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Xueli
+            lastName: Pan
+        -   creatorType: author
+            firstName: Shuai
+            lastName: Wang
+        -   creatorType: author
+            firstName: Ting
+            lastName: Liu
+        -   creatorType: author
+            firstName: Jacco van
+            lastName: Ossenbruggen
+        -   creatorType: author
+            firstName: Victor de
+            lastName: Boer
+        -   creatorType: author
+            firstName: Zhisheng
+            lastName: Huang
+        -   creatorType: editor
+            firstName: Ngoc Thanh
+            lastName: Nguyen
+        -   creatorType: editor
+            firstName: Richard
+            lastName: Chbeir
+        -   creatorType: editor
+            firstName: Yannis
+            lastName: Manolopoulos
+        -   creatorType: editor
+            firstName: Hamido
+            lastName: Fujita
+        -   creatorType: editor
+            firstName: Tzung-Pei
+            lastName: Hong
+        -   creatorType: editor
+            firstName: Minh Le
+            lastName: Nguyen
+        -   creatorType: editor
+            firstName: Krystian
+            lastName: Wojtkiewicz
+        date: '2024'
+        dateAdded: '2025-01-08T18:59:15Z'
+        dateModified: '2025-01-08T18:59:15Z'
+        extra: ''
+        itemType: conferencePaper
+        key: 7DAFLPBW
+        language: ''
+        libraryCatalog: ''
+        pages: 182–194
+        place: ''
+        proceedingsTitle: Recent Challenges in Intelligent Information and Database
+            Systems - 16th Asian Conference on Intelligent Information and Database
+            Systems, ACIIDS 2024, Ras Al Khaimah, UAE, April 15-18, 2024, Proceedings,
+            Part II
+        publisher: Springer
+        relations: {}
+        rights: ''
+        series: Communications in Computer and Information Science
+        shortTitle: ''
+        tags: []
+        title: Enhancing Scholarly Paper Recommendation by Modelling Diversity of
+            Research Interests
+        url: https://doi.org/10.1007/978-981-97-5934-7\_16
+        version: 984
+        volume: '2145'
+    key: 7DAFLPBW
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/7DAFLPBW
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/7DAFLPBW
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Pan et al.
+        numChildren: 0
+        parsedDate: '2024'
+    version: 984
+-   data:
+        DOI: 10.1007/S13755-024-00309-3
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Jianping
+            lastName: Man
+        -   creatorType: author
+            firstName: Yufei
+            lastName: Shi
+        -   creatorType: author
+            firstName: Zhensheng
+            lastName: Hu
+        -   creatorType: author
+            firstName: Rui
+            lastName: Yang
+        -   creatorType: author
+            firstName: Zhisheng
+            lastName: Huang
+        -   creatorType: author
+            firstName: Yi
+            lastName: Zhou
+        date: '2024'
+        dateAdded: '2025-01-08T18:58:46Z'
+        dateModified: '2025-01-08T18:58:46Z'
+        extra: ''
+        issue: '1'
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: 45YV7CPE
+        language: ''
+        libraryCatalog: ''
+        pages: '54'
+        publicationTitle: Health Inf. Sci. Syst.
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: 'KSDKG: construction and application of knowledge graph for kidney
+            stone disease based on biomedical literature and public databases'
+        url: https://doi.org/10.1007/s13755-024-00309-3
+        version: 983
+        volume: '12'
+    key: 45YV7CPE
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/45YV7CPE
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/45YV7CPE
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Man et al.
+        numChildren: 0
+        parsedDate: '2024'
+    version: 983
+-   data:
+        DOI: 10.1007/S13755-024-00298-3
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Zhisheng
+            lastName: Huang
+        -   creatorType: author
+            firstName: Qing
+            lastName: Hu
+        date: '2024'
+        dateAdded: '2025-01-08T18:58:20Z'
+        dateModified: '2025-01-08T18:58:20Z'
+        extra: ''
+        issue: '1'
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: WRTJDJ3D
+        language: ''
+        libraryCatalog: ''
+        pages: '45'
+        publicationTitle: Health Inf. Sci. Syst.
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: 'Tree hole rescue: an AI approach for suicide risk detection and online
+            suicide intervention'
+        url: https://doi.org/10.1007/s13755-024-00298-3
+        version: 982
+        volume: '12'
+    key: WRTJDJ3D
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/WRTJDJ3D
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/WRTJDJ3D
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Huang and Hu
+        numChildren: 0
+        parsedDate: '2024'
+    version: 982
+-   data:
+        DOI: 10.1093/BIOINFORMATICS/BTAD771
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Ting
+            lastName: Liu
+        -   creatorType: author
+            firstName: K. Anton
+            lastName: Feenstra
+        -   creatorType: author
+            firstName: Zhisheng
+            lastName: Huang
+        -   creatorType: author
+            firstName: Jaap
+            lastName: Heringa
+        date: '2024'
+        dateAdded: '2025-01-08T18:57:57Z'
+        dateModified: '2025-01-08T18:57:57Z'
+        extra: ''
+        issue: '1'
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: X8SHMDPG
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        publicationTitle: Bioinform.
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: Mining literature and pathway data to explore the relations of ketamine
+            with neurotransmitters and gut microbiota using a knowledge-graph
+        url: https://doi.org/10.1093/bioinformatics/btad771
+        version: 981
+        volume: '40'
+    key: X8SHMDPG
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/X8SHMDPG
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/X8SHMDPG
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Liu et al.
+        numChildren: 0
+        parsedDate: '2024'
+    version: 981
+-   data:
         DOI: 10.1007/978-3-031-71167-1_14
         ISBN: ''
         abstractNote: ''
@@ -94,84 +1527,6 @@
         numChildren: 0
         parsedDate: '2024'
     version: 976
--   data:
-        DOI: 10.48550/ARXIV.2404.18865
-        ISSN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Stefan F.
-            lastName: Schouten
-        -   creatorType: author
-            firstName: Peter
-            lastName: Bloem
-        -   creatorType: author
-            firstName: Ilia
-            lastName: Markov
-        -   creatorType: author
-            firstName: Piek
-            lastName: Vossen
-        date: '2024'
-        dateAdded: '2025-01-06T16:18:16Z'
-        dateModified: '2025-01-06T16:19:08Z'
-        extra: 'arXiv: 2404.18865'
-        issue: ''
-        itemType: journalArticle
-        journalAbbreviation: ''
-        key: XUN989FW
-        language: ''
-        libraryCatalog: ''
-        pages: ''
-        publicationTitle: CoRR
-        relations: {}
-        rights: ''
-        series: ''
-        seriesText: ''
-        seriesTitle: ''
-        shortTitle: ''
-        tags:
-        -   tag: large language models
-        -   tag: natural language processing
-        -   tag: probing
-        title: 'Truth-value judgment in language models: belief directions are context
-            sensitive'
-        url: https://doi.org/10.48550/arXiv.2404.18865
-        version: 972
-        volume: abs/2404.18865
-    key: XUN989FW
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/XUN989FW
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/XUN989FW
-            type: application/json
-    meta:
-        createdByUser:
-            id: 11362521
-            links:
-                alternate:
-                    href: https://www.zotero.org/pbloemesquire
-                    type: text/html
-            name: ''
-            username: pbloemesquire
-        creatorSummary: Schouten et al.
-        numChildren: 0
-        parsedDate: '2024'
-    version: 972
 -   data:
         DOI: ''
         ISSN: ''
@@ -975,81 +2330,6 @@
         collections: []
         creators:
         -   creatorType: author
-            firstName: Koen
-            lastName: Kraaijveld
-        -   creatorType: author
-            firstName: Yifan
-            lastName: Jiang
-        -   creatorType: author
-            firstName: Kaixin
-            lastName: Ma
-        -   creatorType: author
-            firstName: Filip
-            lastName: Ilievski
-        date: '2025'
-        dateAdded: '2024-12-17T13:04:40Z'
-        dateModified: '2024-12-17T13:04:40Z'
-        extra: ''
-        issue: ''
-        itemType: journalArticle
-        journalAbbreviation: ''
-        key: QU6DS9U9
-        language: ''
-        libraryCatalog: ''
-        pages: ''
-        publicationTitle: AAAI
-        relations: {}
-        rights: ''
-        series: ''
-        seriesText: ''
-        seriesTitle: ''
-        shortTitle: ''
-        tags: []
-        title: 'COLUMBUS: Evaluating COgnitive Lateral Understanding through Multiple-choice
-            reBUSes'
-        url: https://doi.org/10.48550/arXiv.2409.04053
-        version: 950
-        volume: ''
-    key: QU6DS9U9
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/QU6DS9U9
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/QU6DS9U9
-            type: application/json
-    meta:
-        createdByUser:
-            id: 13135791
-            links:
-                alternate:
-                    href: https://www.zotero.org/filipilievski
-                    type: text/html
-            name: ''
-            username: filipilievski
-        creatorSummary: Kraaijveld et al.
-        numChildren: 0
-        parsedDate: '2025'
-    version: 950
--   data:
-        DOI: ''
-        ISSN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        creators:
-        -   creatorType: author
             firstName: Yifan
             lastName: Jiang
         -   creatorType: author
@@ -1126,151 +2406,6 @@
         numChildren: 0
         parsedDate: '2024'
     version: 949
--   data:
-        DOI: 10.48550/ARXIV.2404.03624
-        ISSN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Bradley P.
-            lastName: Allen
-        -   creatorType: author
-            firstName: Filip
-            lastName: Ilievski
-        date: '2024'
-        dateAdded: '2024-12-17T13:02:29Z'
-        dateModified: '2024-12-17T13:02:29Z'
-        extra: 'arXiv: 2404.03624'
-        issue: ''
-        itemType: journalArticle
-        journalAbbreviation: ''
-        key: 8JXAL4FG
-        language: ''
-        libraryCatalog: ''
-        pages: ''
-        publicationTitle: CoRR
-        relations: {}
-        rights: ''
-        series: ''
-        seriesText: ''
-        seriesTitle: ''
-        shortTitle: ''
-        tags: []
-        title: Standardizing Knowledge Engineering Practices with a Reference Architecture
-        url: https://doi.org/10.48550/arXiv.2404.03624
-        version: 947
-        volume: abs/2404.03624
-    key: 8JXAL4FG
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/8JXAL4FG
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/8JXAL4FG
-            type: application/json
-    meta:
-        createdByUser:
-            id: 13135791
-            links:
-                alternate:
-                    href: https://www.zotero.org/filipilievski
-                    type: text/html
-            name: ''
-            username: filipilievski
-        creatorSummary: Allen and Ilievski
-        numChildren: 0
-        parsedDate: '2024'
-    version: 947
--   data:
-        DOI: 10.48550/ARXIV.2402.07384
-        ISSN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Jiarui
-            lastName: Zhang
-        -   creatorType: author
-            firstName: Jinyi
-            lastName: Hu
-        -   creatorType: author
-            firstName: Mahyar
-            lastName: Khayatkhoei
-        -   creatorType: author
-            firstName: Filip
-            lastName: Ilievski
-        -   creatorType: author
-            firstName: Maosong
-            lastName: Sun
-        date: '2024'
-        dateAdded: '2024-12-17T13:02:05Z'
-        dateModified: '2024-12-17T13:02:05Z'
-        extra: 'arXiv: 2402.07384'
-        issue: ''
-        itemType: journalArticle
-        journalAbbreviation: ''
-        key: 74ZWUAKE
-        language: ''
-        libraryCatalog: ''
-        pages: ''
-        publicationTitle: CoRR
-        relations: {}
-        rights: ''
-        series: ''
-        seriesText: ''
-        seriesTitle: ''
-        shortTitle: ''
-        tags: []
-        title: Exploring Perceptual Limitation of Multimodal Large Language Models
-        url: https://doi.org/10.48550/arXiv.2402.07384
-        version: 946
-        volume: abs/2402.07384
-    key: 74ZWUAKE
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/74ZWUAKE
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/74ZWUAKE
-            type: application/json
-    meta:
-        createdByUser:
-            id: 13135791
-            links:
-                alternate:
-                    href: https://www.zotero.org/filipilievski
-                    type: text/html
-            name: ''
-            username: filipilievski
-        creatorSummary: Zhang et al.
-        numChildren: 0
-        parsedDate: '2024'
-    version: 946
 -   data:
         ISBN: ''
         abstractNote: ''
@@ -3364,101 +4499,6 @@
         numChildren: 0
         parsedDate: '2024-05-21'
     version: 903
--   data:
-        DOI: ''
-        ISBN: ''
-        abstractNote: As Artificial Intelligence (AI) is having more influence on
-            our everyday lives, it becomes important that AI-based decisions are transparent
-            and explainable. As a consequence, the field of eXplainable AI (or XAI)
-            has become popular in recent years. One way to explain AI models is to
-            elucidate the predictive importance of the input features for the AI model
-            in general, also referred to as global explanations. Inspired by cooperative
-            game theory, Shapley values offer a convenient way for quantifying the
-            feature importance as explanations. However many methods based on Shapley
-            values are built on the assumption of feature independence and often overlook
-            causal relations of the features which could impact their importance for
-            the ML model. Inspired by studies of explanations at the local level,
-            we propose CAGE (Causally-Aware Shapley Values for Global Explanations).
-            In particular, we introduce a novel sampling procedure for out-coalition
-            features that respects the causal relations of the input features. We
-            derive a practical approach that incorporates causal knowledge into global
-            explanation and offers the possibility to interpret the predictive feature
-            importance considering their causal relation. We evaluate our method on
-            synthetic data and real-world data. The explanations from our approach
-            suggest that they are not only more intuitive but also more faithful compared
-            to previous global explanation methods.
-        accessDate: '2024-07-03T10:44:54Z'
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        conferenceName: XAI
-        creators:
-        -   creatorType: author
-            firstName: Nils Ole
-            lastName: Breuer
-        -   creatorType: author
-            firstName: Andreas
-            lastName: Sauter
-        -   creatorType: author
-            firstName: Majid
-            lastName: Mohammadi
-        -   creatorType: author
-            firstName: Erman
-            lastName: Acar
-        date: '2024-04-17'
-        dateAdded: '2024-07-03T10:44:55Z'
-        dateModified: '2024-07-03T10:45:50Z'
-        extra: arXiv:2404.11208 [cs]
-        itemType: conferencePaper
-        key: GYM6RRDS
-        language: ''
-        libraryCatalog: arXiv.org
-        pages: ''
-        place: ''
-        proceedingsTitle: ''
-        publisher: arXiv
-        relations: {}
-        rights: ''
-        series: ''
-        shortTitle: CAGE
-        tags:
-        -   tag: Computer Science - Artificial Intelligence
-        -   tag: causality
-        -   tag: explainable AI
-        title: 'CAGE: Causality-Aware Shapley Value for Global Explanations'
-        url: http://arxiv.org/abs/2404.11208
-        version: 901
-        volume: ''
-    key: GYM6RRDS
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/GYM6RRDS
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/GYM6RRDS
-            type: application/json
-    meta:
-        createdByUser:
-            id: 11640050
-            links:
-                alternate:
-                    href: https://www.zotero.org/andreassauter
-                    type: text/html
-            name: ''
-            username: andreassauter
-        creatorSummary: Breuer et al.
-        numChildren: 0
-        parsedDate: '2024-04-17'
-    version: 901
 -   data:
         DOI: ''
         ISBN: ''
