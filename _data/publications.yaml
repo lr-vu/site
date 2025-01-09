@@ -1,4 +1,170 @@
 -   data:
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Filip
+            lastName: Ilievski
+        date: '2024'
+        dateAdded: '2024-12-25T16:41:27Z'
+        dateModified: '2025-01-09T12:49:03Z'
+        edition: ''
+        extra: ''
+        itemType: book
+        key: K2KYTFL5
+        language: ''
+        libraryCatalog: ''
+        numPages: ''
+        numberOfVolumes: ''
+        place: ''
+        publisher: ''
+        relations: {}
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: Human-Centric AI with Common Sense
+        url: https://api.semanticscholar.org/CorpusID:274950958
+        version: 1003
+        volume: ''
+    key: K2KYTFL5
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/K2KYTFL5
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/K2KYTFL5
+            type: application/json
+    meta:
+        createdByUser:
+            id: 13135791
+            links:
+                alternate:
+                    href: https://www.zotero.org/filipilievski
+                    type: text/html
+            name: ''
+            username: filipilievski
+        creatorSummary: Ilievski
+        lastModifiedByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        numChildren: 0
+        parsedDate: '2024'
+    version: 1003
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Yifan
+            lastName: Jiang
+        -   creatorType: author
+            firstName: Jiarui
+            lastName: Zhang
+        -   creatorType: author
+            firstName: Kexuan
+            lastName: Sun
+        -   creatorType: author
+            firstName: Zhivar
+            lastName: Sourati
+        -   creatorType: author
+            firstName: Kian
+            lastName: Ahrabian
+        -   creatorType: author
+            firstName: Kaixin
+            lastName: Ma
+        -   creatorType: author
+            firstName: Filip
+            lastName: Ilievski
+        -   creatorType: author
+            firstName: Jay
+            lastName: Pujara
+        date: '2024'
+        dateAdded: '2024-12-17T13:03:57Z'
+        dateModified: '2025-01-09T12:47:48Z'
+        extra: ''
+        itemType: conferencePaper
+        key: JLW4TEXB
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        place: ''
+        proceedingsTitle: NeurIPS Benchmarks and Datasets
+        publisher: ''
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: 'MARVEL: Multidimensional Abstraction and Reasoning through Visual
+            Evaluation and Learning'
+        url: ''
+        version: 1002
+        volume: ''
+    key: JLW4TEXB
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/JLW4TEXB
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/JLW4TEXB
+            type: application/json
+    meta:
+        createdByUser:
+            id: 13135791
+            links:
+                alternate:
+                    href: https://www.zotero.org/filipilievski
+                    type: text/html
+            name: ''
+            username: filipilievski
+        creatorSummary: Jiang et al.
+        lastModifiedByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        numChildren: 0
+        parsedDate: '2024'
+    version: 1002
+-   data:
         DOI: ''
         ISBN: ''
         abstractNote: ''
@@ -1589,71 +1755,6 @@
     version: 968
 -   data:
         DOI: ''
-        ISSN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Filip
-            lastName: Ilievski
-        date: '2024'
-        dateAdded: '2024-12-25T16:41:27Z'
-        dateModified: '2024-12-25T16:41:27Z'
-        extra: ''
-        issue: ''
-        itemType: journalArticle
-        journalAbbreviation: ''
-        key: K2KYTFL5
-        language: ''
-        libraryCatalog: ''
-        pages: ''
-        publicationTitle: Synthesis Lectures on Computer Science
-        relations: {}
-        rights: ''
-        series: ''
-        seriesText: ''
-        seriesTitle: ''
-        shortTitle: ''
-        tags: []
-        title: Human-Centric AI with Common Sense
-        url: https://api.semanticscholar.org/CorpusID:274950958
-        version: 967
-        volume: ''
-    key: K2KYTFL5
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/K2KYTFL5
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/K2KYTFL5
-            type: application/json
-    meta:
-        createdByUser:
-            id: 13135791
-            links:
-                alternate:
-                    href: https://www.zotero.org/filipilievski
-                    type: text/html
-            name: ''
-            username: filipilievski
-        creatorSummary: Ilievski
-        numChildren: 0
-        parsedDate: '2024'
-    version: 967
--   data:
-        DOI: ''
         ISSN: 2835-8856
         abstractNote: ''
         accessDate: ''
@@ -2319,93 +2420,6 @@
         numChildren: 0
         parsedDate: '2024'
     version: 953
--   data:
-        DOI: ''
-        ISSN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Yifan
-            lastName: Jiang
-        -   creatorType: author
-            firstName: Jiarui
-            lastName: Zhang
-        -   creatorType: author
-            firstName: Kexuan
-            lastName: Sun
-        -   creatorType: author
-            firstName: Zhivar
-            lastName: Sourati
-        -   creatorType: author
-            firstName: Kian
-            lastName: Ahrabian
-        -   creatorType: author
-            firstName: Kaixin
-            lastName: Ma
-        -   creatorType: author
-            firstName: Filip
-            lastName: Ilievski
-        -   creatorType: author
-            firstName: Jay
-            lastName: Pujara
-        date: '2024'
-        dateAdded: '2024-12-17T13:03:57Z'
-        dateModified: '2024-12-17T13:03:57Z'
-        extra: ''
-        issue: ''
-        itemType: journalArticle
-        journalAbbreviation: ''
-        key: JLW4TEXB
-        language: ''
-        libraryCatalog: ''
-        pages: ''
-        publicationTitle: NeurIPS Benchmarks and Datasets
-        relations: {}
-        rights: ''
-        series: ''
-        seriesText: ''
-        seriesTitle: ''
-        shortTitle: ''
-        tags: []
-        title: 'MARVEL: Multidimensional Abstraction and Reasoning through Visual
-            Evaluation and Learning'
-        url: ''
-        version: 949
-        volume: ''
-    key: JLW4TEXB
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/JLW4TEXB
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/JLW4TEXB
-            type: application/json
-    meta:
-        createdByUser:
-            id: 13135791
-            links:
-                alternate:
-                    href: https://www.zotero.org/filipilievski
-                    type: text/html
-            name: ''
-            username: filipilievski
-        creatorSummary: Jiang et al.
-        numChildren: 0
-        parsedDate: '2024'
-    version: 949
 -   data:
         ISBN: ''
         abstractNote: ''
