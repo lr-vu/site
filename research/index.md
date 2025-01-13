@@ -13,7 +13,7 @@ When adding a new project, make sure to give every other project the class "alt"
 
 <a class="logo alt" href="[https://vu.nl/en/news/2024/nwo-ained-fellowship-grant-awarded-to-filip-ilievski]"><img src="/images/projects/AiNed.svg" title="The logo of the AiNed project"></a>
 
-[AINed](https://vu.nl/en/news/2024/nwo-ained-fellowship-grant-awarded-to-filip-ilievski/) The AiNed public-private multi-year program puts the Netherlands in the leading group of AI countries and makes a major contribution to international competitiveness. 
+The [AINed](https://vu.nl/en/news/2024/nwo-ained-fellowship-grant-awarded-to-filip-ilievski/) is a public-private multi-year program puts the Netherlands in the leading group of AI countries and makes a major contribution to international competitiveness. 
 
 Assistant Professor Artificial intelligence Filip Ilievski has been awarded an AiNed AI Fellowship of 900k€ for his project Human-Centric AI Agents with Common Sense.
 
