@@ -1,4 +1,7 @@
 current_projects:
+-   name: AINed
+    website: https://vu.nl/en/news/2024/nwo-ained-fellowship-grant-awarded-to-filip-ilievski
+    image: null
 -   name: Hybrid Intelligence
     website: https://www.hybrid-intelligence-centre.nl/
     image: /images/projects/hybrid_intelligence.jpg
@@ -14,12 +17,6 @@ current_projects:
 -   name: GraphMassivizer
     website: https://graph-massivizer.eu/
     image: /images/projects/Graph-Massivizer.png
--   name: CLARIAH
-    website: http://www.clariah.nl/
-    image: /images/projects/Clariah-300x83.png
--   name: HumaneA
-    website: https://www.humane-ai.eu/
-    image: /images/projects/humane_ai.svg
 -   name: The DReAMS Lab
     website: https://krr.cs.vu.nl/dreams-lab/
     image: /images/projects/huawei.svg.png
@@ -30,11 +27,17 @@ previous_projects:
 -   name: Chinese WordNet
     website: null
     image: null
+-   name: CLARIAH
+    website: http://www.clariah.nl/
+    image: null
 -   name: Data2Semantics (COMMIT)
     website: null
     image: null
 -   name: Eureca
     website: https://cordis.europa.eu/project/id/288048
+    image: null
+-   name: HumaneA
+    website: https://www.humane-ai.eu/
     image: null
 -   name: I-Catcher (Intensive-Care Access to Terminology &amp; Course of Health Exploration
         and Retrieval)
@@ -50,11 +53,14 @@ previous_projects:
 -   name: LATC (Linked Open Data Around the Clock)
     website: http://latc-project.eu/
     image: null
+-   name: LarKC (Large Knowledge Collider)
+    website: http://www.larkc.org/
+    image: null
 -   name: LDBC
     website: http://ldbc.eu/
     image: null
--   name: LarKC (Large Knowledge Collider)
-    website: http://www.larkc.org/
+-   name: Linked Guidelines
+    website: null
     image: null
 -   name: 'MaestroGraph: The Meaning and Structure of Very Large Knowledge Graphs'
     website: https://www.narcis.nl/research/RecordID/OND1359681/
