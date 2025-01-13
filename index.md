@@ -21,6 +21,9 @@ dark: true
     {% endcomment %}
 
     <dl>
+        <dt>December 10, 2024</dt>
+            <dd> Frank van Harmelen has been appointed as foreign member of the Royal Flemish Academy of Belgium for Science and the Arts.
+            </dd>
         <dt>November 26-27, 2024</dt>
             <dd>We organized LoG local https://logams.github.io/ event where over 70 researchers working on learning on graphs joined us to discuss their research.
             </dd>
