@@ -1,4 +1,4 @@
-it# When adding people make sure to add the correct role. This is used to determine in which section they are displayed. The
+# When adding people make sure to add the correct role. This is used to determine in which section they are displayed. The
 # `title` is displayed below their name.
 #
 # People are order by the value in the "orderby" field which should contain their last name.
@@ -788,7 +788,7 @@ it# When adding people make sure to add the correct role. This is used to determ
 
 - name: Selene Baez Santamaria
   website: https://selbaez.github.io/
-  bio: now at University of Zurich
+  bio: now at [University of Zurich](https://www.uzh.ch/en)
   role: alumnus
 
 - name: Shenghui Wang
