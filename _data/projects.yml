@@ -1,7 +1,7 @@
 current_projects:
 -   name: AINed
     website: https://vu.nl/en/news/2024/nwo-ained-fellowship-grant-awarded-to-filip-ilievski
-    image: null
+    image: AiNed.svg
 -   name: Hybrid Intelligence
     website: https://www.hybrid-intelligence-centre.nl/
     image: /images/projects/hybrid_intelligence.jpg
@@ -39,12 +39,10 @@ previous_projects:
 -   name: HumaneA
     website: https://www.humane-ai.eu/
     image: null
--   name: I-Catcher (Intensive-Care Access to Terminology &amp; Course of Health Exploration
-        and Retrieval)
+-   name: I-Catcher (Intensive-Care Access to Terminology &amp; Course of Health Exploration and Retrieval)
     website: null
     image: null
--   name: 'IBROW: Intelligent Brokering Service for Knowledge-Component Reuse on the
-        World Wide Web'
+-   name: 'IBROW: Intelligent Brokering Service for Knowledge-Component Reuse on the World Wide Web'
     website: http://projects.kmi.open.ac.uk/ibrow/
     image: null
 -   name: Knowledge Web
