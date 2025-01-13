@@ -9,11 +9,13 @@ When adding a new project, make sure to give every other project the class "alt"
 
 # Projects and labs
 
-## CLARIAH
+## AINed project
 
-<a class="logo alt" href="http://www.clariah.nl/"><img src="/images/projects/Clariah-300x83.png" title="The logo of the CLARIAH project"></a>
+<a class="logo alt" href="[https://vu.nl/en/news/2024/nwo-ained-fellowship-grant-awarded-to-filip-ilievski]"><img src="/images/projects/AiNed.svg" title="The logo of the AiNed project"></a>
 
-[CLARIAH](http://www.clariah.nl/) (Common Lab Research Infrastructure for the Arts and Humanities) is a distributed research infrastructure for the humanities and social sciences. The L&R group has been involved since its conception, working together with humanities researchers and social scientists to build critical infrastructure tools.
+[AINed](https://vu.nl/en/news/2024/nwo-ained-fellowship-grant-awarded-to-filip-ilievski/) The AiNed public-private multi-year program puts the Netherlands in the leading group of AI countries and makes a major contribution to international competitiveness. 
+
+Assistant Professor Artificial intelligence Filip Ilievski has been awarded an AiNed AI Fellowship of 900k€ for his project Human-Centric AI Agents with Common Sense.
 
 ## Discovery Lab
 
