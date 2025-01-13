@@ -1,7 +1,7 @@
 current_projects:
 -   name: AINed
     website: https://vu.nl/en/news/2024/nwo-ained-fellowship-grant-awarded-to-filip-ilievski
-    image: AiNed.svg
+    image: /images/projects/AiNed.svg
 -   name: Hybrid Intelligence
     website: https://www.hybrid-intelligence-centre.nl/
     image: /images/projects/hybrid_intelligence.jpg
