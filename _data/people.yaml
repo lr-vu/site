@@ -788,7 +788,7 @@ it# When adding people make sure to add the correct role. This is used to determ
 
 - name: Selene Baez Santamaria
   website: https://selbaez.github.io/
-  bio: now at [University of Zurich](https://www.uzh.ch/en.html)
+  bio: now at [University of Zurich](https://www.uzh.ch/en)
   role: alumnus
 
 - name: Shenghui Wang
