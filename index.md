@@ -21,6 +21,9 @@ dark: true
     {% endcomment %}
 
     <dl>
+        <dt>December 16, 2024</dt>
+            <dd> Daniel Daza successfully defended his PhD dissertation, earning the cum laude distinction.
+            </dd>
         <dt>December 10, 2024</dt>
             <dd> Frank van Harmelen has been appointed as foreign member of the Royal Flemish Academy of Belgium for Science and the Arts.
             </dd>
