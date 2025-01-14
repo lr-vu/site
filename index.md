@@ -22,7 +22,7 @@ dark: true
 
     <dl>
         <dt>December 16, 2024</dt>
-            <dd> Daniel Daza successfully defended his <a href="https://research.vu.nl/en/publications/exploiting-subgraphs-and-attributes-for-representation-learning-o">PhD dissertation</a> , earning the cum laude distinction.
+            <dd> Daniel Daza successfully defended his <a href="https://research.vu.nl/en/publications/exploiting-subgraphs-and-attributes-for-representation-learning-o">PhD dissertation</a>, earning the cum laude distinction.
             </dd>
         <dt>December 10, 2024</dt>
             <dd> Frank van Harmelen has been appointed as foreign member of the Royal Flemish Academy of Belgium for Science and the Arts.
@@ -47,6 +47,8 @@ dark: true
             <dd><a href="https://mhkhojaste.github.io/">Hossein Khojasteh</a> joins us as a PhD student, working with Filip.</dd>    
         <dt>July 17, 2024</dt>
             <dd>Frank gave a keynote "Ontologies for Machine Learning" at the FOIS conference</dd>
+        <dt>July 1, 2024</dt>
+            <dd>Daniel Daza started a postdoc at Amsterdam UMC, working on machine learning on graphs with applications in healthcare.</dd>
         <dt>May 27, 2024</dt>
             <dd>Zhan Qu will join us as a visitor from KIT in Karlsruhe for 2 weeks at the end of May.</dd>
         <dt>May 26, 2024</dt>
