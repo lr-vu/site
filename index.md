@@ -22,7 +22,7 @@ dark: true
 
     <dl>
         <dt>December 16, 2024</dt>
-            <dd> Daniel Daza successfully defended his <a href="https://research.vu.nl/en/publications/exploiting-subgraphs-and-attributes-for-representation-learning-o">PhD dissertation</a>, earning the cum laude distinction.
+            <dd> Daniel Daza successfully defended his PhD dissertation, titled <a href="https://research.vu.nl/en/publications/exploiting-subgraphs-and-attributes-for-representation-learning-o">"Exploiting Subgraphs and Attributes for Representation Learning on Knowledge Graphs"</a>, earning the cum laude distinction.
             </dd>
         <dt>December 10, 2024</dt>
             <dd> Frank van Harmelen has been appointed as foreign member of the Royal Flemish Academy of Belgium for Science and the Arts.
