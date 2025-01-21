@@ -21,6 +21,8 @@ dark: true
     {% endcomment %}
 
     <dl>
+        <dt>January 17, 2025</dt>
+            <dd> Filip Ilievski publishes his book, <a href="https://link.springer.com/book/10.1007/978-3-031-69974-0"> "Human-Centric AI with Common Sense."</a>
         <dt>December 16, 2024</dt>
             <dd> Daniel Daza successfully defended his PhD dissertation, <a href="https://research.vu.nl/en/publications/exploiting-subgraphs-and-attributes-for-representation-learning-o">"Exploiting Subgraphs and Attributes for Representation Learning on Knowledge Graphs"</a>, earning the cum laude distinction.
             </dd>
