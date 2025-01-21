@@ -298,6 +298,12 @@
   image: /images/people/Thiviyan.jpg
   role: guest
 
+- name: Maarten Stol
+  orderby: Stol
+  website: none
+  image: /images/people/Maarten.jpg
+  role: guest
+
 - name: Mohammadhossein Khojasteh
   orderby: Khojasteh
   keywords:
