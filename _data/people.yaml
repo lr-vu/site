@@ -161,9 +161,10 @@
 - name: Gabriella Bollici
   orderby: Bollici
   keywords:
-    - argumentation theory
-    - memes
-    - in-context learning
+    - Neuro-symbolic AI
+    - Argumentation Theory
+    - Memes
+    - LLMs
   image: /images/people/Gabriella.png
   role: phd
   title: PhD student
