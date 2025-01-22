@@ -300,6 +300,10 @@
 
 - name: Maarten Stol
   orderby: Stol
+  keywords:
+    - neurosymbolic AI
+    - logical expressivity
+    - benchmark design
   image: /images/people/Maarten.png
   role: guest
 
