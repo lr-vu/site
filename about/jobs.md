@@ -4,8 +4,8 @@
 
 We have a PhD position open in Advancing Explainable AI for Knowledge Extraction.
 
-This is a position for four years. It is supervised by Michael Cochez from the L&R group and Jieying Chen from the [KAI group](https://kai.cs.vu.nl/).
-https://workingat.vu.nl/vacancies/phd-position-in-advancing-explainable-ai-for-knowledge-extraction-amsterdam-1139565
+1. This is a position for four years. It is supervised by Michael Cochez from the L&R group and Jieying Chen from the [KAI group](https://kai.cs.vu.nl/).
+Apply here: [https://workingat.vu.nl/vacancies/phd-position-in-advancing-explainable-ai-for-knowledge-extraction-amsterdam-1139565](https://workingat.vu.nl/vacancies/phd-position-in-advancing-explainable-ai-for-knowledge-extraction-amsterdam-1139565) .
 
 We have two Postdoc positions on multimodal reasoning and neuro-symbolic AI. Both positions are open for three years and the application deadline is January 15th:
 
