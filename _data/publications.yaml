@@ -1,6 +1,175 @@
 -   data:
         DOI: ''
         ISBN: ''
+        abstractNote: Accurate song success prediction is vital for the music industry,
+            guiding promotion and label decisions. Early, accurate predictions are
+            thus crucial for informed business actions. We investigated the predictive
+            power of lyrics embedding features, alone and in combination with other
+            stylometric features and various Spotify metadata (audio, platform, playlists,
+            reactions). We compiled a dataset of 12,428 Spotify tracks and targeted
+            popularity 15 days post-release. For the embeddings, we used a Large Language
+            Model and compared different configurations. We found that integrating
+            embeddings with other lyrics and audio features improved early-phase predictions,
+            underscoring the importance of a comprehensive approach to success prediction.
+        accessDate: '2025-02-04T09:37:35Z'
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Giulio
+            lastName: Prevedello
+        -   creatorType: author
+            firstName: Ines
+            lastName: Blin
+        -   creatorType: author
+            firstName: Bernardo
+            lastName: Monechi
+        -   creatorType: author
+            firstName: Enrico
+            lastName: Ubaldi
+        -   creatorType: editor
+            firstName: Anna
+            lastName: Kruspe
+        -   creatorType: editor
+            firstName: Sergio
+            lastName: Oramas
+        -   creatorType: editor
+            firstName: Elena V.
+            lastName: Epure
+        -   creatorType: editor
+            firstName: Mohamed
+            lastName: Sordo
+        -   creatorType: editor
+            firstName: Benno
+            lastName: Weck
+        -   creatorType: editor
+            firstName: SeungHeon
+            lastName: Doh
+        -   creatorType: editor
+            firstName: Minz
+            lastName: Won
+        -   creatorType: editor
+            firstName: Ilaria
+            lastName: Manco
+        -   creatorType: editor
+            firstName: Gabriel
+            lastName: Meseguer-Brocal
+        date: 2024-11
+        dateAdded: '2025-02-04T09:37:35Z'
+        dateModified: '2025-02-04T09:37:35Z'
+        extra: ''
+        itemType: conferencePaper
+        key: 7HPE9NE4
+        language: ''
+        libraryCatalog: ACLWeb
+        pages: 75–80
+        place: Oakland, USA
+        proceedingsTitle: Proceedings of the 3rd Workshop on NLP for Music and Audio
+            (NLP4MusA)
+        publisher: Association for Computational Lingustics
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: Lyrics for Success
+        tags: []
+        title: 'Lyrics for Success: Embedding Features for Song Popularity Prediction'
+        url: https://aclanthology.org/2024.nlp4musa-1.13/
+        version: 1026
+        volume: ''
+    key: 7HPE9NE4
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/7HPE9NE4
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/7HPE9NE4
+            type: application/json
+    meta:
+        createdByUser:
+            id: 7770939
+            links:
+                alternate:
+                    href: https://www.zotero.org/inesblin
+                    type: text/html
+            name: ''
+            username: inesblin
+        creatorSummary: Prevedello et al.
+        numChildren: 1
+        parsedDate: 2024-11
+    version: 1026
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators: []
+        date: ''
+        dateAdded: '2025-02-04T09:35:04Z'
+        dateModified: '2025-02-04T09:35:04Z'
+        extra: ''
+        itemType: conferencePaper
+        key: W7PTAXYX
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        place: ''
+        proceedingsTitle: ''
+        publisher: ''
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: ''
+        url: ''
+        version: 1025
+        volume: ''
+    key: W7PTAXYX
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/W7PTAXYX
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/W7PTAXYX
+            type: application/json
+    meta:
+        createdByUser:
+            id: 7770939
+            links:
+                alternate:
+                    href: https://www.zotero.org/inesblin
+                    type: text/html
+            name: ''
+            username: inesblin
+        numChildren: 0
+    version: 1025
+-   data:
+        DOI: ''
+        ISBN: ''
         abstractNote: And-Inverter Graphs (AIGs) are a fundamental data structure
             in logic optimization, widely used in modern electronic design automation.
             A persistent challenge in AIG optimization is structural bias, where the
