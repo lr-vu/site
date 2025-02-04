@@ -6080,7 +6080,7 @@
         archiveID: ''
         archiveLocation: ''
         callNumber: ''
-        citationKey: ''
+        citationKey: wilckeEndtoEndLearningMultimodal2023
         collections:
         - ATA95EWX
         creators:
@@ -6099,9 +6099,7 @@
         date: '2023'
         dateAdded: '2023-11-30T14:27:07Z'
         dateModified: '2024-06-11T08:59:38Z'
-        extra: 'arXiv: 2309.01169
-
-            Citation Key: wilckeEndtoEndLearningMultimodal2023'
+        extra: 'arXiv: 2309.01169'
         genre: ''
         itemType: preprint
         key: 38BQ4PN2
@@ -6117,7 +6115,7 @@
         tags: []
         title: End-to-End Learning on Multimodal Knowledge Graphs
         url: https://doi.org/10.48550/arXiv.2309.01169
-        version: 895
+        version: 1029
     key: 38BQ4PN2
     library:
         id: 4989916
@@ -6145,16 +6143,16 @@
             username: wxwilcke
         creatorSummary: Wilcke et al.
         lastModifiedByUser:
-            id: 6261094
+            id: 11405446
             links:
                 alternate:
-                    href: https://www.zotero.org/hemile
+                    href: https://www.zotero.org/annettetenteije
                     type: text/html
             name: ''
-            username: hemile
+            username: annettetenteije
         numChildren: 0
         parsedDate: '2023'
-    version: 895
+    version: 1029
 -   data:
         DOI: ''
         ISBN: ''
@@ -6417,7 +6415,7 @@
         archiveID: ''
         archiveLocation: ''
         callNumber: ''
-        citationKey: ''
+        citationKey: renNeuralGraphReasoning2023
         collections:
         - ATA95EWX
         creators:
@@ -6439,9 +6437,7 @@
         date: '2023'
         dateAdded: '2023-12-06T00:07:21Z'
         dateModified: '2024-06-11T08:59:37Z'
-        extra: 'arXiv: 2303.14617
-
-            Citation Key: renNeuralGraphReasoning2023'
+        extra: 'arXiv: 2303.14617'
         genre: ''
         itemType: preprint
         key: UMT9JBR9
@@ -6458,7 +6454,7 @@
         title: 'Neural Graph Reasoning: Complex Logical Query Answering Meets Graph
             Databases'
         url: https://doi.org/10.48550/arXiv.2303.14617
-        version: 895
+        version: 1029
     key: UMT9JBR9
     library:
         id: 4989916
@@ -6486,16 +6482,16 @@
             username: michaelcochez
         creatorSummary: Ren et al.
         lastModifiedByUser:
-            id: 6261094
+            id: 11405446
             links:
                 alternate:
-                    href: https://www.zotero.org/hemile
+                    href: https://www.zotero.org/annettetenteije
                     type: text/html
             name: ''
-            username: hemile
+            username: annettetenteije
         numChildren: 0
         parsedDate: '2023'
-    version: 895
+    version: 1029
 -   data:
         DOI: ''
         abstractNote: ''
@@ -6504,7 +6500,7 @@
         archiveID: ''
         archiveLocation: ''
         callNumber: ''
-        citationKey: ''
+        citationKey: younesianGRAPESLearningSample2023
         collections:
         - ATA95EWX
         creators:
@@ -6526,9 +6522,7 @@
         date: '2023'
         dateAdded: '2023-12-01T09:37:11Z'
         dateModified: '2024-06-11T08:59:37Z'
-        extra: 'arXiv:2310.03399
-
-            Citation Key: younesianGRAPESLearningSample2023'
+        extra: arXiv:2310.03399
         genre: ''
         itemType: preprint
         key: VRJFKGT5
@@ -6548,7 +6542,7 @@
         -   tag: sampling
         title: 'GRAPES: Learning to Sample Graphs for Scalable Graph Neural Networks'
         url: https://arxiv.org/abs/2310.03399
-        version: 895
+        version: 1029
     key: VRJFKGT5
     library:
         id: 4989916
@@ -6576,16 +6570,101 @@
             username: tyounesian
         creatorSummary: Younesian et al.
         lastModifiedByUser:
-            id: 6261094
+            id: 11405446
             links:
                 alternate:
-                    href: https://www.zotero.org/hemile
+                    href: https://www.zotero.org/annettetenteije
                     type: text/html
             name: ''
-            username: hemile
+            username: annettetenteije
         numChildren: 0
         parsedDate: '2023'
-    version: 895
+    version: 1029
+-   data:
+        DOI: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveID: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: thanapalasingamIntelliGraphsDatasetsBenchmarking2023a
+        collections:
+        - ATA95EWX
+        creators:
+        -   creatorType: author
+            firstName: Thiviyan
+            lastName: Thanapalasingam
+        -   creatorType: author
+            firstName: Emile van
+            lastName: Krieken
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        -   creatorType: author
+            firstName: Paul
+            lastName: Groth
+        date: '2023'
+        dateAdded: '2023-12-05T14:45:06Z'
+        dateModified: '2024-06-11T08:59:36Z'
+        extra: ''
+        genre: ''
+        itemType: preprint
+        key: PIP6ZAHZ
+        language: ''
+        libraryCatalog: ''
+        place: ''
+        relations: {}
+        repository: ''
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags:
+        -   tag: datasets
+        -   tag: generative modeling
+        -   tag: graph learning
+        -   tag: tasks
+        title: 'IntelliGraphs: Datasets for Benchmarking Knowledge Graph Generation'
+        url: https://doi.org/10.48550/arXiv.2307.06698
+        version: 1029
+    key: PIP6ZAHZ
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/PIP6ZAHZ
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/PIP6ZAHZ
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: Thanapalasingam et al.
+        lastModifiedByUser:
+            id: 11405446
+            links:
+                alternate:
+                    href: https://www.zotero.org/annettetenteije
+                    type: text/html
+            name: ''
+            username: annettetenteije
+        numChildren: 0
+        parsedDate: '2023'
+    version: 1029
 -   data:
         DOI: 10.1145/3583780.3615294
         ISBN: ''
@@ -6795,91 +6874,6 @@
             username: hemile
         numChildren: 0
         parsedDate: 2023-12
-    version: 894
--   data:
-        DOI: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveID: ''
-        archiveLocation: ''
-        callNumber: ''
-        citationKey: ''
-        collections:
-        - ATA95EWX
-        creators:
-        -   creatorType: author
-            firstName: Thiviyan
-            lastName: Thanapalasingam
-        -   creatorType: author
-            firstName: Emile van
-            lastName: Krieken
-        -   creatorType: author
-            firstName: Peter
-            lastName: Bloem
-        -   creatorType: author
-            firstName: Paul
-            lastName: Groth
-        date: '2023'
-        dateAdded: '2023-12-05T14:45:06Z'
-        dateModified: '2024-06-11T08:59:36Z'
-        extra: 'Citation Key: thanapalasingamIntelliGraphsDatasetsBenchmarking2023a'
-        genre: ''
-        itemType: preprint
-        key: PIP6ZAHZ
-        language: ''
-        libraryCatalog: ''
-        place: ''
-        relations: {}
-        repository: ''
-        rights: ''
-        series: ''
-        seriesNumber: ''
-        shortTitle: ''
-        tags:
-        -   tag: datasets
-        -   tag: generative modeling
-        -   tag: graph learning
-        -   tag: tasks
-        title: 'IntelliGraphs: Datasets for Benchmarking Knowledge Graph Generation'
-        url: https://doi.org/10.48550/arXiv.2307.06698
-        version: 894
-    key: PIP6ZAHZ
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/PIP6ZAHZ
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/PIP6ZAHZ
-            type: application/json
-    meta:
-        createdByUser:
-            id: 11362521
-            links:
-                alternate:
-                    href: https://www.zotero.org/pbloemesquire
-                    type: text/html
-            name: ''
-            username: pbloemesquire
-        creatorSummary: Thanapalasingam et al.
-        lastModifiedByUser:
-            id: 6261094
-            links:
-                alternate:
-                    href: https://www.zotero.org/hemile
-                    type: text/html
-            name: ''
-            username: hemile
-        numChildren: 0
-        parsedDate: '2023'
     version: 894
 -   data:
         DOI: 10.48550/arXiv.2301.12313
