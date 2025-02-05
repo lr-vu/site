@@ -1,4 +1,109 @@
 -   data:
+        DOI: 10.48550/arXiv.2501.19245
+        abstractNote: Reinforcement learning (RL) offers a general approach for modeling
+            and training AI agents, including human-AI interaction scenarios. In this
+            paper, we propose SHARPIE (Shared Human-AI Reinforcement Learning Platform
+            for Interactive Experiments) to address the need for a generic framework
+            to support experiments with RL agents and humans. Its modular design consists
+            of a versatile wrapper for RL environments and algorithm libraries, a
+            participant-facing web interface, logging utilities, deployment on popular
+            cloud and participant recruitment platforms. It empowers researchers to
+            study a wide variety of research questions related to the interaction
+            between humans and RL agents, including those related to interactive reward
+            specification and learning, learning from human feedback, action delegation,
+            preference elicitation, user-modeling, and human-AI teaming. The platform
+            is based on a generic interface for human-RL interactions that aims to
+            standardize the field of study on RL in human contexts.
+        accessDate: '2025-02-05T12:46:35Z'
+        archive: ''
+        archiveID: arXiv:2501.19245
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Hüseyin
+            lastName: Aydın
+        -   creatorType: author
+            firstName: Kevin
+            lastName: Godin-Dubois
+        -   creatorType: author
+            firstName: Libio Goncalvez
+            lastName: Braz
+        -   creatorType: author
+            firstName: Floris den
+            lastName: Hengst
+        -   creatorType: author
+            firstName: Kim
+            lastName: Baraka
+        -   creatorType: author
+            firstName: Mustafa Mert
+            lastName: Çelikok
+        -   creatorType: author
+            firstName: Andreas
+            lastName: Sauter
+        -   creatorType: author
+            firstName: Shihan
+            lastName: Wang
+        -   creatorType: author
+            firstName: Frans A.
+            lastName: Oliehoek
+        date: '2025-02-03'
+        dateAdded: '2025-02-05T12:46:36Z'
+        dateModified: '2025-02-05T12:46:36Z'
+        extra: arXiv:2501.19245
+        genre: ''
+        itemType: preprint
+        key: AN244YFA
+        language: ''
+        libraryCatalog: arXiv.org
+        place: ''
+        relations: {}
+        repository: arXiv
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: SHARPIE
+        tags:
+        -   tag: Computer Science - Artificial Intelligence
+            type: 1
+        -   tag: Computer Science - Human-Computer Interaction
+            type: 1
+        title: 'SHARPIE: A Modular Framework for Reinforcement Learning and Human-AI
+            Interaction Experiments'
+        url: http://arxiv.org/abs/2501.19245
+        version: 1030
+    key: AN244YFA
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/AN244YFA
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/AN244YFA
+            type: application/json
+    meta:
+        createdByUser:
+            id: 12590531
+            links:
+                alternate:
+                    href: https://www.zotero.org/florisdenhengst
+                    type: text/html
+            name: ''
+            username: florisdenhengst
+        creatorSummary: Aydın et al.
+        numChildren: 0
+        parsedDate: '2025-02-03'
+    version: 1030
+-   data:
         DOI: ''
         ISBN: ''
         abstractNote: Accurate song success prediction is vital for the music industry,
