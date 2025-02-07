@@ -1,4 +1,96 @@
 -   data:
+        accessDate: '2025-02-07T08:37:15Z'
+        charset: ''
+        collections: []
+        contentType: application/pdf
+        dateAdded: '2025-02-07T08:37:15Z'
+        dateModified: '2025-02-07T08:37:15Z'
+        filename: pdf.pdf
+        itemType: attachment
+        key: PYXW8MU5
+        linkMode: imported_url
+        md5: 28dfd12a55e99b9d9a5ea6d84040fb45
+        mtime: 1738917435486
+        note: ''
+        relations: {}
+        tags: []
+        title: pdf.pdf
+        url: https://openreview.net/pdf?id=pqOjj90Vwp
+        version: 1034
+    key: PYXW8MU5
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/PYXW8MU5
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/PYXW8MU5
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11405446
+            links:
+                alternate:
+                    href: https://www.zotero.org/annettetenteije
+                    type: text/html
+            name: ''
+            username: annettetenteije
+        numChildren: 0
+    version: 1034
+-   data:
+        accessDate: '2025-02-07T08:37:14Z'
+        charset: ''
+        collections: []
+        contentType: application/pdf
+        dateAdded: '2025-02-07T08:37:14Z'
+        dateModified: '2025-02-07T08:37:14Z'
+        filename: pdf.pdf
+        itemType: attachment
+        key: VCXVRVXX
+        linkMode: imported_url
+        md5: 28dfd12a55e99b9d9a5ea6d84040fb45
+        mtime: 1738917434731
+        note: ''
+        relations: {}
+        tags: []
+        title: pdf.pdf
+        url: https://openreview.net/pdf?id=pqOjj90Vwp
+        version: 1035
+    key: VCXVRVXX
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/VCXVRVXX
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/VCXVRVXX
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11405446
+            links:
+                alternate:
+                    href: https://www.zotero.org/annettetenteije
+                    type: text/html
+            name: ''
+            username: annettetenteije
+        numChildren: 0
+    version: 1035
+-   data:
         DOI: 10.48550/arXiv.2501.19245
         abstractNote: Reinforcement learning (RL) offers a general approach for modeling
             and training AI agents, including human-AI interaction scenarios. In this
