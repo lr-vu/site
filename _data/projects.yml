@@ -20,6 +20,9 @@ current_projects:
 -   name: The DReAMS Lab
     website: https://krr.cs.vu.nl/dreams-lab/
     image: /images/projects/huawei.svg.png
+-   name: Goblin COST action
+    website: https://www.cost.eu/actions/CA23147/
+    image: /images/projects/goblin.png
 previous_projects:
 -   name: BEST
     website: null
