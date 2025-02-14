@@ -82,7 +82,7 @@ The mission of the lab is to ensure that the next generation of search technolog
 ## GOBLIN
 <a class="logo alt" href="https://www.cost.eu/actions/CA23147/"><img src="/images/projects/goblin.png" title="The logo of the GOBLIN project"></a>
 
-The goal of the [GOBLIN COST](https://www.cost.eu/actions/CA23147/) project, is to increase and enhance the public open knowledge available in Europe and beyond. The aim is to provide a large-scale, high quality, cross-domain and multilingual knowledge graph technology that is free to use, reuse, and redistribute. L&R is active in Work Package 3 on Knowledge Graph-aware Services and Methods.
+The goal of the [GOBLIN COST project](https://www.cost.eu/actions/CA23147/) is to increase and enhance the public open knowledge available in Europe and beyond. The aim is to provide a large-scale, high quality, cross-domain and multilingual knowledge graph technology that is free to use, reuse, and redistribute. L&R is active in Work Package 3 on Knowledge Graph-aware Services and Methods.
 
 
 # Previous Projects
