@@ -307,6 +307,16 @@
   image: /images/people/Maarten.png
   role: guest
 
+- name: Stefan Schouten
+  orderby: Schouten
+  keywords:
+    - natural language
+    - large language models
+    - linear probes
+  image: /images/people/Stefan.jpg
+  website: https://stefanfs.me/
+  role: guest  
+
 - name: Mohammadhossein Khojasteh
   orderby: Khojasteh
   keywords:
