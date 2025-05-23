@@ -66,7 +66,7 @@
   keywords:
     - commonsense reasoning
     - analogy
-    - AI for social good
+    - human-centric AI
   role: faculty
   title: assistant professor
   website: http://www.ilievski.info
@@ -156,7 +156,18 @@
   website: https://emilevankrieken.com/
   image: /images/people/Emile.jpg
   role: postdoc
-  title: PhD student
+  title: postdoc
+
+- name: Stefano De Giorgis
+  orderby: Giorgis
+  keywords:
+    - embodied cognition
+    - frame semantics
+  scholar: https://scholar.google.com/citations?user=UK44-soAAAAJ&hl=en&oi=ao
+  website: https://stendoipanni.github.io
+  image: /images/people/Stefano.jpeg
+  role: postdoc
+  title: postdoc
 
 - name: Gabriella Bollici
   orderby: Bollici
