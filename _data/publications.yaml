@@ -1,4 +1,75 @@
 -   data:
+        DOI: 10.1145/3696410.3714526
+        ISBN: '9798400712746'
+        abstractNote: ''
+        accessDate: '2025-05-27T11:06:00Z'
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: 'WWW ''25: The ACM Web Conference 2025'
+        creators:
+        -   creatorType: author
+            firstName: Milena
+            lastName: De Swart
+        -   creatorType: author
+            firstName: Floris
+            lastName: den Hengst
+        -   creatorType: author
+            firstName: Jieying
+            lastName: Chen
+        date: '2025-04-28'
+        dateAdded: '2025-05-27T11:06:01Z'
+        dateModified: '2025-05-27T11:06:08Z'
+        extra: ''
+        itemType: conferencePaper
+        key: YXADEN2T
+        language: en
+        libraryCatalog: DOI.org (Crossref)
+        pages: 5034-5044
+        place: Sydney NSW Australia
+        proceedingsTitle: Proceedings of the ACM on Web Conference 2025
+        publisher: ACM
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: Detecting Linguistic Bias in Government Documents Using Large language
+            Models
+        url: https://dl.acm.org/doi/10.1145/3696410.3714526
+        version: 1039
+        volume: ''
+    key: YXADEN2T
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/YXADEN2T
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/YXADEN2T
+            type: application/json
+    meta:
+        createdByUser:
+            id: 12590531
+            links:
+                alternate:
+                    href: https://www.zotero.org/florisdenhengst
+                    type: text/html
+            name: ''
+            username: florisdenhengst
+        creatorSummary: De Swart et al.
+        numChildren: 0
+        parsedDate: '2025-04-28'
+    version: 1039
+-   data:
         accessDate: '2025-02-07T08:37:15Z'
         charset: ''
         collections: []
