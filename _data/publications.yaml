@@ -1,4 +1,71 @@
 -   data:
+        DOI: 10.5220/0013157400003911
+        ISBN: 978-989-758-731-3
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: HEALTHINF
+        creators:
+        -   creatorType: author
+            firstName: Syed Ihtesham
+            lastName: Shah et al.
+        date: '2025'
+        dateAdded: '2025-06-29T18:15:14Z'
+        dateModified: '2025-06-29T18:22:53Z'
+        extra: ''
+        itemType: conferencePaper
+        key: 6SAX9WRC
+        language: ''
+        libraryCatalog: ''
+        pages: 530-539
+        place: ''
+        proceedingsTitle: 18th International Joint Conference on Biomedical Engineering
+            Systems and Technologies (BIOSTEC 2025)
+        publisher: SCITEPRESS – Science and Technology Publications, Lda.
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: Can We Trust Explanation! Evaluation of Model-Agnostic Explanation
+            Techniques on Highly Imbalanced, Multiclass-Multioutput Classification
+            Problem
+        url: ''
+        version: 1052
+        volume: ''
+    key: 6SAX9WRC
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/6SAX9WRC
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/6SAX9WRC
+            type: application/json
+    meta:
+        createdByUser:
+            id: 16105841
+            links:
+                alternate:
+                    href: https://www.zotero.org/ihtesham_shah
+                    type: text/html
+            name: ''
+            username: Ihtesham_Shah
+        creatorSummary: Shah et al.
+        numChildren: 0
+        parsedDate: '2025'
+    version: 1052
+-   data:
         DOI: 10.1145/3696410.3714526
         ISBN: '9798400712746'
         abstractNote: ''
