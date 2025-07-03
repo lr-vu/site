@@ -267,9 +267,9 @@
 - name: Tom Pelletreau Duris
   orderby: Pelletreau
   keywords:
-    - explainability
-    - knowledge graphs
-    - machine learning
+    - Graph Machine Learning
+    - Explainability
+    - Knowledge graphs
   image: /images/people/Tom.jpg
   role: phd
   title: PhD student
