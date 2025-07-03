@@ -264,6 +264,17 @@
   role: phd
   title: PhD student
 
+- name: Tom Pelletreau Duris
+  orderby: Pelletreau
+  keywords:
+    - explainability
+    - knowledge graphs
+    - machine learning
+  image: /images/people/Tom.jpg
+  role: phd
+  title: PhD student
+  linkedin: https://www.linkedin.com/in/tompelletreauduris
+
 - name: Taewoon Kim
   orderby: Kim
   keywords:
@@ -272,15 +283,6 @@
     - memory
   website: https://taewoon.kim/
   image: /images/people/Taewoon.png
-  role: phd
-
-  - name: Tom Pelletreau Duris
-  orderby: Pelletreau
-  keywords:
-    - explainability
-    - knowledge graphs
-    - machine learning
-  image: /images/people/Tom.jpg
   role: phd
 
 - name: Xander Wilcke
