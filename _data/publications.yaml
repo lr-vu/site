@@ -301,7 +301,7 @@
         archiveID: ''
         archiveLocation: ''
         callNumber: ''
-        citationKey: ''
+        citationKey: renNeuralGraphReasoning2023
         collections:
         - ATA95EWX
         creators:
@@ -323,9 +323,7 @@
         date: '2023'
         dateAdded: '2023-12-06T00:07:21Z'
         dateModified: '2025-07-07T13:32:05Z'
-        extra: 'arXiv: 2303.14617
-
-            Citation Key: renNeuralGraphReasoning2023'
+        extra: 'arXiv: 2303.14617'
         genre: ''
         itemType: preprint
         key: UMT9JBR9
@@ -342,7 +340,7 @@
         title: 'Neural Graph Reasoning: Complex Logical Query Answering Meets Graph
             Databases'
         url: https://doi.org/10.48550/arXiv.2303.14617
-        version: 1053
+        version: 1060
     key: UMT9JBR9
     library:
         id: 4989916
@@ -379,7 +377,7 @@
             username: hemile
         numChildren: 0
         parsedDate: '2023'
-    version: 1053
+    version: 1060
 -   data:
         DOI: ''
         abstractNote: ''
@@ -388,7 +386,7 @@
         archiveID: ''
         archiveLocation: ''
         callNumber: ''
-        citationKey: ''
+        citationKey: thanapalasingamIntelliGraphsDatasetsBenchmarking2023a
         collections:
         - ATA95EWX
         creators:
@@ -407,7 +405,7 @@
         date: '2023'
         dateAdded: '2023-12-05T14:45:06Z'
         dateModified: '2025-07-07T13:32:05Z'
-        extra: 'Citation Key: thanapalasingamIntelliGraphsDatasetsBenchmarking2023a'
+        extra: ''
         genre: ''
         itemType: preprint
         key: PIP6ZAHZ
@@ -427,7 +425,7 @@
         -   tag: tasks
         title: 'IntelliGraphs: Datasets for Benchmarking Knowledge Graph Generation'
         url: https://doi.org/10.48550/arXiv.2307.06698
-        version: 1053
+        version: 1060
     key: PIP6ZAHZ
     library:
         id: 4989916
@@ -464,7 +462,7 @@
             username: hemile
         numChildren: 0
         parsedDate: '2023'
-    version: 1053
+    version: 1060
 -   data:
         DOI: ''
         abstractNote: ''
@@ -473,7 +471,7 @@
         archiveID: ''
         archiveLocation: ''
         callNumber: ''
-        citationKey: ''
+        citationKey: younesianGRAPESLearningSample2023
         collections:
         - ATA95EWX
         creators:
@@ -495,9 +493,7 @@
         date: '2023'
         dateAdded: '2023-12-01T09:37:11Z'
         dateModified: '2025-07-07T13:32:05Z'
-        extra: 'arXiv:2310.03399
-
-            Citation Key: younesianGRAPESLearningSample2023'
+        extra: arXiv:2310.03399
         genre: ''
         itemType: preprint
         key: VRJFKGT5
@@ -517,7 +513,7 @@
         -   tag: sampling
         title: 'GRAPES: Learning to Sample Graphs for Scalable Graph Neural Networks'
         url: https://arxiv.org/abs/2310.03399
-        version: 1053
+        version: 1060
     key: VRJFKGT5
     library:
         id: 4989916
@@ -554,7 +550,7 @@
             username: hemile
         numChildren: 0
         parsedDate: '2023'
-    version: 1053
+    version: 1060
 -   data:
         DOI: 10.48550/ARXIV.2309.01169
         abstractNote: ''
@@ -563,7 +559,7 @@
         archiveID: ''
         archiveLocation: ''
         callNumber: ''
-        citationKey: ''
+        citationKey: wilckeEndtoEndLearningMultimodal2023
         collections:
         - ATA95EWX
         creators:
@@ -582,9 +578,7 @@
         date: '2023'
         dateAdded: '2023-11-30T14:27:07Z'
         dateModified: '2025-07-07T13:32:05Z'
-        extra: 'arXiv: 2309.01169
-
-            Citation Key: wilckeEndtoEndLearningMultimodal2023'
+        extra: 'arXiv: 2309.01169'
         genre: ''
         itemType: preprint
         key: 38BQ4PN2
@@ -600,7 +594,7 @@
         tags: []
         title: End-to-End Learning on Multimodal Knowledge Graphs
         url: https://doi.org/10.48550/arXiv.2309.01169
-        version: 1053
+        version: 1060
     key: 38BQ4PN2
     library:
         id: 4989916
@@ -637,7 +631,7 @@
             username: hemile
         numChildren: 0
         parsedDate: '2023'
-    version: 1053
+    version: 1060
 -   data:
         DOI: ''
         abstractNote: ''
@@ -646,7 +640,7 @@
         archiveID: ''
         archiveLocation: ''
         callNumber: ''
-        citationKey: ''
+        citationKey: ilievskiAligningGeneralisationHumans2024
         collections: []
         creators:
         -   creatorType: author
@@ -727,9 +721,7 @@
         date: '2024'
         dateAdded: '2024-12-03T09:49:04Z'
         dateModified: '2025-07-07T13:32:04Z'
-        extra: '_eprint: 2411.15626
-
-            Citation Key: ilievskiAligningGeneralisationHumans2024'
+        extra: '_eprint: 2411.15626'
         genre: ''
         itemType: preprint
         key: 62V8NGNG
@@ -745,7 +737,7 @@
         tags: []
         title: Aligning Generalisation Between Humans and Machines
         url: https://arxiv.org/abs/2411.15626
-        version: 1058
+        version: 1061
     key: 62V8NGNG
     library:
         id: 4989916
@@ -782,7 +774,7 @@
             username: hemile
         numChildren: 0
         parsedDate: '2024'
-    version: 1058
+    version: 1061
 -   data:
         DOI: 10.4230/DAGREP.14.5.1
         ISSN: ''
@@ -2999,6 +2991,92 @@
         parsedDate: '2024'
     version: 1056
 -   data:
+        DOI: 10.48550/ARXIV.2407.07639
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveID: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: dazaExplainingGraphNeural2024
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Daniel
+            lastName: Daza
+        -   creatorType: author
+            firstName: Cuong Xuan
+            lastName: Chu
+        -   creatorType: author
+            firstName: Trung-Kien
+            lastName: Tran
+        -   creatorType: author
+            firstName: Daria
+            lastName: Stepanova
+        -   creatorType: author
+            firstName: Michael
+            lastName: Cochez
+        -   creatorType: author
+            firstName: Paul
+            lastName: Groth
+        date: '2024'
+        dateAdded: '2025-01-08T19:02:36Z'
+        dateModified: '2025-07-07T13:12:18Z'
+        extra: 'arXiv: 2407.07639'
+        genre: ''
+        itemType: preprint
+        key: A3QMBAAZ
+        language: ''
+        libraryCatalog: ''
+        place: ''
+        relations: {}
+        repository: ''
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: Explaining Graph Neural Networks for Node Similarity on Graphs
+        url: https://doi.org/10.48550/arXiv.2407.07639
+        version: 1061
+    key: A3QMBAAZ
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/A3QMBAAZ
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/A3QMBAAZ
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Daza et al.
+        lastModifiedByUser:
+            id: 6261094
+            links:
+                alternate:
+                    href: https://www.zotero.org/hemile
+                    type: text/html
+            name: ''
+            username: hemile
+        numChildren: 0
+        parsedDate: '2024'
+    version: 1061
+-   data:
         DOI: 10.1007/S13755-024-00298-3
         ISSN: ''
         abstractNote: ''
@@ -3614,94 +3692,6 @@
         parsedDate: '2024'
     version: 1055
 -   data:
-        DOI: 10.48550/ARXIV.2407.07639
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveID: ''
-        archiveLocation: ''
-        callNumber: ''
-        citationKey: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Daniel
-            lastName: Daza
-        -   creatorType: author
-            firstName: Cuong Xuan
-            lastName: Chu
-        -   creatorType: author
-            firstName: Trung-Kien
-            lastName: Tran
-        -   creatorType: author
-            firstName: Daria
-            lastName: Stepanova
-        -   creatorType: author
-            firstName: Michael
-            lastName: Cochez
-        -   creatorType: author
-            firstName: Paul
-            lastName: Groth
-        date: '2024'
-        dateAdded: '2025-01-08T19:02:36Z'
-        dateModified: '2025-07-07T13:12:18Z'
-        extra: 'arXiv: 2407.07639
-
-            Citation Key: dazaExplainingGraphNeural2024'
-        genre: ''
-        itemType: preprint
-        key: A3QMBAAZ
-        language: ''
-        libraryCatalog: ''
-        place: ''
-        relations: {}
-        repository: ''
-        rights: ''
-        series: ''
-        seriesNumber: ''
-        shortTitle: ''
-        tags: []
-        title: Explaining Graph Neural Networks for Node Similarity on Graphs
-        url: https://doi.org/10.48550/arXiv.2407.07639
-        version: 1055
-    key: A3QMBAAZ
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/A3QMBAAZ
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/A3QMBAAZ
-            type: application/json
-    meta:
-        createdByUser:
-            id: 11114839
-            links:
-                alternate:
-                    href: https://www.zotero.org/frank.van.harmelen
-                    type: text/html
-            name: Frank van Harmelen
-            username: Frank.van.Harmelen
-        creatorSummary: Daza et al.
-        lastModifiedByUser:
-            id: 6261094
-            links:
-                alternate:
-                    href: https://www.zotero.org/hemile
-                    type: text/html
-            name: ''
-            username: hemile
-        numChildren: 0
-        parsedDate: '2024'
-    version: 1055
--   data:
         DOI: 10.1007/978-981-97-5934-7_16
         ISBN: ''
         abstractNote: ''
@@ -3814,6 +3804,249 @@
         parsedDate: '2024'
     version: 1055
 -   data:
+        DOI: 10.48550/ARXIV.2408.05861
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveID: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: kimLeveragingKnowledgeGraphBased2024
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Taewoon
+            lastName: Kim
+        -   creatorType: author
+            firstName: Vincent
+            lastName: François-Lavet
+        -   creatorType: author
+            firstName: Michael
+            lastName: Cochez
+        date: '2024'
+        dateAdded: '2025-01-08T19:07:49Z'
+        dateModified: '2025-07-07T13:12:17Z'
+        extra: 'arXiv: 2408.05861'
+        genre: ''
+        itemType: preprint
+        key: AFKS7QL9
+        language: ''
+        libraryCatalog: ''
+        place: ''
+        relations: {}
+        repository: ''
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: Leveraging Knowledge Graph-Based Human-Like Memory Systems to Solve
+            Partially Observable Markov Decision Processes
+        url: https://doi.org/10.48550/arXiv.2408.05861
+        version: 1061
+    key: AFKS7QL9
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/AFKS7QL9
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/AFKS7QL9
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Kim et al.
+        lastModifiedByUser:
+            id: 6261094
+            links:
+                alternate:
+                    href: https://www.zotero.org/hemile
+                    type: text/html
+            name: ''
+            username: hemile
+        numChildren: 0
+        parsedDate: '2024'
+    version: 1061
+-   data:
+        DOI: 10.48550/ARXIV.2404.18865
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveID: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: schoutenTruthvalueJudgmentLanguage2024
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Stefan F.
+            lastName: Schouten
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        -   creatorType: author
+            firstName: Ilia
+            lastName: Markov
+        -   creatorType: author
+            firstName: Piek
+            lastName: Vossen
+        date: '2024'
+        dateAdded: '2025-01-06T16:18:16Z'
+        dateModified: '2025-07-07T13:12:17Z'
+        extra: 'arXiv: 2404.18865'
+        genre: ''
+        itemType: preprint
+        key: XUN989FW
+        language: ''
+        libraryCatalog: ''
+        place: ''
+        relations: {}
+        repository: ''
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags:
+        -   tag: large language models
+        -   tag: natural language processing
+        -   tag: probing
+        title: 'Truth-value judgment in language models: belief directions are context
+            sensitive'
+        url: https://doi.org/10.48550/arXiv.2404.18865
+        version: 1061
+    key: XUN989FW
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/XUN989FW
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/XUN989FW
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: Schouten et al.
+        lastModifiedByUser:
+            id: 6261094
+            links:
+                alternate:
+                    href: https://www.zotero.org/hemile
+                    type: text/html
+            name: ''
+            username: hemile
+        numChildren: 0
+        parsedDate: '2024'
+    version: 1061
+-   data:
+        DOI: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveID: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: kraaijveldCOLUMBUSEvaluatingCOgnitive2025
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Koen
+            lastName: Kraaijveld
+        -   creatorType: author
+            firstName: Yifan
+            lastName: Jiang
+        -   creatorType: author
+            firstName: Kaixin
+            lastName: Ma
+        -   creatorType: author
+            firstName: Filip
+            lastName: Ilievski
+        date: '2025'
+        dateAdded: '2024-12-17T13:04:40Z'
+        dateModified: '2025-07-07T13:12:17Z'
+        extra: ''
+        genre: ''
+        itemType: preprint
+        key: QU6DS9U9
+        language: ''
+        libraryCatalog: ''
+        place: ''
+        relations: {}
+        repository: ''
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: 'COLUMBUS: Evaluating COgnitive Lateral Understanding through Multiple-choice
+            reBUSes'
+        url: https://doi.org/10.48550/arXiv.2409.04053
+        version: 1061
+    key: QU6DS9U9
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/QU6DS9U9
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/QU6DS9U9
+            type: application/json
+    meta:
+        createdByUser:
+            id: 13135791
+            links:
+                alternate:
+                    href: https://www.zotero.org/filipilievski
+                    type: text/html
+            name: ''
+            username: filipilievski
+        creatorSummary: Kraaijveld et al.
+        lastModifiedByUser:
+            id: 6261094
+            links:
+                alternate:
+                    href: https://www.zotero.org/hemile
+                    type: text/html
+            name: ''
+            username: hemile
+        numChildren: 0
+        parsedDate: '2025'
+    version: 1061
+-   data:
         DOI: 10.1007/978-3-031-71167-1_14
         ISBN: ''
         abstractNote: ''
@@ -3917,86 +4150,6 @@
         numChildren: 0
         parsedDate: '2024'
     version: 1056
--   data:
-        DOI: 10.48550/ARXIV.2408.05861
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveID: ''
-        archiveLocation: ''
-        callNumber: ''
-        citationKey: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Taewoon
-            lastName: Kim
-        -   creatorType: author
-            firstName: Vincent
-            lastName: François-Lavet
-        -   creatorType: author
-            firstName: Michael
-            lastName: Cochez
-        date: '2024'
-        dateAdded: '2025-01-08T19:07:49Z'
-        dateModified: '2025-07-07T13:12:17Z'
-        extra: 'arXiv: 2408.05861
-
-            Citation Key: kimLeveragingKnowledgeGraphBased2024'
-        genre: ''
-        itemType: preprint
-        key: AFKS7QL9
-        language: ''
-        libraryCatalog: ''
-        place: ''
-        relations: {}
-        repository: ''
-        rights: ''
-        series: ''
-        seriesNumber: ''
-        shortTitle: ''
-        tags: []
-        title: Leveraging Knowledge Graph-Based Human-Like Memory Systems to Solve
-            Partially Observable Markov Decision Processes
-        url: https://doi.org/10.48550/arXiv.2408.05861
-        version: 1055
-    key: AFKS7QL9
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/AFKS7QL9
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/AFKS7QL9
-            type: application/json
-    meta:
-        createdByUser:
-            id: 11114839
-            links:
-                alternate:
-                    href: https://www.zotero.org/frank.van.harmelen
-                    type: text/html
-            name: Frank van Harmelen
-            username: Frank.van.Harmelen
-        creatorSummary: Kim et al.
-        lastModifiedByUser:
-            id: 6261094
-            links:
-                alternate:
-                    href: https://www.zotero.org/hemile
-                    type: text/html
-            name: ''
-            username: hemile
-        numChildren: 0
-        parsedDate: '2024'
-    version: 1055
 -   data:
         ISBN: ''
         abstractNote: ''
@@ -4103,173 +4256,6 @@
         parsedDate: '2024'
     version: 1055
 -   data:
-        DOI: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveID: ''
-        archiveLocation: ''
-        callNumber: ''
-        citationKey: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Koen
-            lastName: Kraaijveld
-        -   creatorType: author
-            firstName: Yifan
-            lastName: Jiang
-        -   creatorType: author
-            firstName: Kaixin
-            lastName: Ma
-        -   creatorType: author
-            firstName: Filip
-            lastName: Ilievski
-        date: '2025'
-        dateAdded: '2024-12-17T13:04:40Z'
-        dateModified: '2025-07-07T13:12:17Z'
-        extra: 'Citation Key: kraaijveldCOLUMBUSEvaluatingCOgnitive2025'
-        genre: ''
-        itemType: preprint
-        key: QU6DS9U9
-        language: ''
-        libraryCatalog: ''
-        place: ''
-        relations: {}
-        repository: ''
-        rights: ''
-        series: ''
-        seriesNumber: ''
-        shortTitle: ''
-        tags: []
-        title: 'COLUMBUS: Evaluating COgnitive Lateral Understanding through Multiple-choice
-            reBUSes'
-        url: https://doi.org/10.48550/arXiv.2409.04053
-        version: 1055
-    key: QU6DS9U9
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/QU6DS9U9
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/QU6DS9U9
-            type: application/json
-    meta:
-        createdByUser:
-            id: 13135791
-            links:
-                alternate:
-                    href: https://www.zotero.org/filipilievski
-                    type: text/html
-            name: ''
-            username: filipilievski
-        creatorSummary: Kraaijveld et al.
-        lastModifiedByUser:
-            id: 6261094
-            links:
-                alternate:
-                    href: https://www.zotero.org/hemile
-                    type: text/html
-            name: ''
-            username: hemile
-        numChildren: 0
-        parsedDate: '2025'
-    version: 1055
--   data:
-        DOI: 10.48550/ARXIV.2404.18865
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveID: ''
-        archiveLocation: ''
-        callNumber: ''
-        citationKey: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Stefan F.
-            lastName: Schouten
-        -   creatorType: author
-            firstName: Peter
-            lastName: Bloem
-        -   creatorType: author
-            firstName: Ilia
-            lastName: Markov
-        -   creatorType: author
-            firstName: Piek
-            lastName: Vossen
-        date: '2024'
-        dateAdded: '2025-01-06T16:18:16Z'
-        dateModified: '2025-07-07T13:12:17Z'
-        extra: 'arXiv: 2404.18865
-
-            Citation Key: schoutenTruthvalueJudgmentLanguage2024'
-        genre: ''
-        itemType: preprint
-        key: XUN989FW
-        language: ''
-        libraryCatalog: ''
-        place: ''
-        relations: {}
-        repository: ''
-        rights: ''
-        series: ''
-        seriesNumber: ''
-        shortTitle: ''
-        tags:
-        -   tag: large language models
-        -   tag: natural language processing
-        -   tag: probing
-        title: 'Truth-value judgment in language models: belief directions are context
-            sensitive'
-        url: https://doi.org/10.48550/arXiv.2404.18865
-        version: 1054
-    key: XUN989FW
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/XUN989FW
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/XUN989FW
-            type: application/json
-    meta:
-        createdByUser:
-            id: 11362521
-            links:
-                alternate:
-                    href: https://www.zotero.org/pbloemesquire
-                    type: text/html
-            name: ''
-            username: pbloemesquire
-        creatorSummary: Schouten et al.
-        lastModifiedByUser:
-            id: 6261094
-            links:
-                alternate:
-                    href: https://www.zotero.org/hemile
-                    type: text/html
-            name: ''
-            username: hemile
-        numChildren: 0
-        parsedDate: '2024'
-    version: 1054
--   data:
         DOI: 10.48550/ARXIV.2411.02168
         abstractNote: ''
         accessDate: ''
@@ -4277,7 +4263,7 @@
         archiveID: ''
         archiveLocation: ''
         callNumber: ''
-        citationKey: ''
+        citationKey: pelletreau-durisGraphNeuralNetwork2024
         collections: []
         creators:
         -   creatorType: author
@@ -4292,9 +4278,7 @@
         date: '2024'
         dateAdded: '2025-01-08T19:08:20Z'
         dateModified: '2025-07-07T13:12:16Z'
-        extra: 'arXiv: 2411.02168
-
-            Citation Key: pelletreau-durisGraphNeuralNetwork2024'
+        extra: 'arXiv: 2411.02168'
         genre: ''
         itemType: preprint
         key: VRFT5PVU
@@ -4310,7 +4294,7 @@
         tags: []
         title: Do graph neural network states contain graph properties?
         url: https://doi.org/10.48550/arXiv.2411.02168
-        version: 1055
+        version: 1061
     key: VRFT5PVU
     library:
         id: 4989916
@@ -4347,7 +4331,7 @@
             username: hemile
         numChildren: 0
         parsedDate: '2024'
-    version: 1055
+    version: 1061
 -   data:
         DOI: 10.48550/ARXIV.2402.07384
         abstractNote: ''
@@ -4356,7 +4340,7 @@
         archiveID: ''
         archiveLocation: ''
         callNumber: ''
-        citationKey: ''
+        citationKey: zhangExploringPerceptualLimitation2024
         collections: []
         creators:
         -   creatorType: author
@@ -4377,9 +4361,7 @@
         date: '2024'
         dateAdded: '2024-12-17T13:02:05Z'
         dateModified: '2025-07-07T13:12:16Z'
-        extra: 'arXiv: 2402.07384
-
-            Citation Key: zhangExploringPerceptualLimitation2024'
+        extra: 'arXiv: 2402.07384'
         genre: ''
         itemType: preprint
         key: 74ZWUAKE
@@ -4395,7 +4377,7 @@
         tags: []
         title: Exploring Perceptual Limitation of Multimodal Large Language Models
         url: https://doi.org/10.48550/arXiv.2402.07384
-        version: 1055
+        version: 1061
     key: 74ZWUAKE
     library:
         id: 4989916
@@ -4432,7 +4414,7 @@
             username: hemile
         numChildren: 0
         parsedDate: '2024'
-    version: 1055
+    version: 1061
 -   data:
         DOI: 10.48550/ARXIV.2409.08820
         abstractNote: ''
@@ -4441,7 +4423,7 @@
         archiveID: ''
         archiveLocation: ''
         callNumber: ''
-        citationKey: ''
+        citationKey: panRAGApproachGenerating2024
         collections: []
         creators:
         -   creatorType: author
@@ -4459,9 +4441,7 @@
         date: '2024'
         dateAdded: '2025-01-08T19:00:19Z'
         dateModified: '2025-07-07T13:12:16Z'
-        extra: 'arXiv: 2409.08820
-
-            Citation Key: panRAGApproachGenerating2024'
+        extra: 'arXiv: 2409.08820'
         genre: ''
         itemType: preprint
         key: Y6K72B4L
@@ -4477,7 +4457,7 @@
         tags: []
         title: A RAG Approach for Generating Competency Questions in Ontology Engineering
         url: https://doi.org/10.48550/arXiv.2409.08820
-        version: 1054
+        version: 1060
     key: Y6K72B4L
     library:
         id: 4989916
@@ -4514,7 +4494,7 @@
             username: hemile
         numChildren: 0
         parsedDate: '2024'
-    version: 1054
+    version: 1060
 -   data:
         DOI: ''
         ISBN: ''
@@ -4808,6 +4788,119 @@
         parsedDate: '2025-03-31'
     version: 1054
 -   data:
+        DOI: 10.48550/arXiv.2501.19245
+        abstractNote: Reinforcement learning (RL) offers a general approach for modeling
+            and training AI agents, including human-AI interaction scenarios. In this
+            paper, we propose SHARPIE (Shared Human-AI Reinforcement Learning Platform
+            for Interactive Experiments) to address the need for a generic framework
+            to support experiments with RL agents and humans. Its modular design consists
+            of a versatile wrapper for RL environments and algorithm libraries, a
+            participant-facing web interface, logging utilities, deployment on popular
+            cloud and participant recruitment platforms. It empowers researchers to
+            study a wide variety of research questions related to the interaction
+            between humans and RL agents, including those related to interactive reward
+            specification and learning, learning from human feedback, action delegation,
+            preference elicitation, user-modeling, and human-AI teaming. The platform
+            is based on a generic interface for human-RL interactions that aims to
+            standardize the field of study on RL in human contexts.
+        accessDate: '2025-02-05T12:46:35Z'
+        archive: ''
+        archiveID: arXiv:2501.19245
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: aydinSHARPIEModularFramework2025
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Hüseyin
+            lastName: Aydın
+        -   creatorType: author
+            firstName: Kevin
+            lastName: Godin-Dubois
+        -   creatorType: author
+            firstName: Libio Goncalvez
+            lastName: Braz
+        -   creatorType: author
+            firstName: Floris den
+            lastName: Hengst
+        -   creatorType: author
+            firstName: Kim
+            lastName: Baraka
+        -   creatorType: author
+            firstName: Mustafa Mert
+            lastName: Çelikok
+        -   creatorType: author
+            firstName: Andreas
+            lastName: Sauter
+        -   creatorType: author
+            firstName: Shihan
+            lastName: Wang
+        -   creatorType: author
+            firstName: Frans A.
+            lastName: Oliehoek
+        date: '2025-02-03'
+        dateAdded: '2025-02-05T12:46:36Z'
+        dateModified: '2025-07-07T13:12:11Z'
+        extra: arXiv:2501.19245
+        genre: ''
+        itemType: preprint
+        key: AN244YFA
+        language: ''
+        libraryCatalog: arXiv.org
+        place: ''
+        relations: {}
+        repository: arXiv
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: SHARPIE
+        tags:
+        -   tag: Computer Science - Artificial Intelligence
+            type: 1
+        -   tag: Computer Science - Human-Computer Interaction
+            type: 1
+        title: 'SHARPIE: A Modular Framework for Reinforcement Learning and Human-AI
+            Interaction Experiments'
+        url: http://arxiv.org/abs/2501.19245
+        version: 1060
+    key: AN244YFA
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/AN244YFA
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/AN244YFA
+            type: application/json
+    meta:
+        createdByUser:
+            id: 12590531
+            links:
+                alternate:
+                    href: https://www.zotero.org/florisdenhengst
+                    type: text/html
+            name: ''
+            username: florisdenhengst
+        creatorSummary: Aydın et al.
+        lastModifiedByUser:
+            id: 6261094
+            links:
+                alternate:
+                    href: https://www.zotero.org/hemile
+                    type: text/html
+            name: ''
+            username: hemile
+        numChildren: 0
+        parsedDate: '2025-02-03'
+    version: 1060
+-   data:
         DOI: 10.48550/ARXIV.2404.03624
         abstractNote: ''
         accessDate: ''
@@ -4815,7 +4908,7 @@
         archiveID: ''
         archiveLocation: ''
         callNumber: ''
-        citationKey: ''
+        citationKey: allenStandardizingKnowledgeEngineering2024
         collections: []
         creators:
         -   creatorType: author
@@ -4827,9 +4920,7 @@
         date: '2024'
         dateAdded: '2024-12-17T13:02:29Z'
         dateModified: '2025-07-07T13:12:11Z'
-        extra: 'arXiv: 2404.03624
-
-            Citation Key: allenStandardizingKnowledgeEngineering2024'
+        extra: 'arXiv: 2404.03624'
         genre: ''
         itemType: preprint
         key: 8JXAL4FG
@@ -4845,7 +4936,7 @@
         tags: []
         title: Standardizing Knowledge Engineering Practices with a Reference Architecture
         url: https://doi.org/10.48550/arXiv.2404.03624
-        version: 1054
+        version: 1060
     key: 8JXAL4FG
     library:
         id: 4989916
@@ -4882,7 +4973,7 @@
             username: hemile
         numChildren: 0
         parsedDate: '2024'
-    version: 1054
+    version: 1060
 -   data:
         DOI: ''
         abstractNote: As Artificial Intelligence (AI) is having more influence on
@@ -4910,7 +5001,7 @@
         archiveID: ''
         archiveLocation: ''
         callNumber: ''
-        citationKey: ''
+        citationKey: breuerCAGECausalityAwareShapley2024
         collections: []
         creators:
         -   creatorType: author
@@ -4928,9 +5019,7 @@
         date: '2024-04-17'
         dateAdded: '2024-07-03T10:44:55Z'
         dateModified: '2025-07-07T13:12:11Z'
-        extra: 'arXiv:2404.11208 [cs]
-
-            Citation Key: breuerCAGECausalityAwareShapley2024'
+        extra: arXiv:2404.11208 [cs]
         genre: ''
         itemType: preprint
         key: GYM6RRDS
@@ -4949,7 +5038,7 @@
         -   tag: explainable AI
         title: 'CAGE: Causality-Aware Shapley Value for Global Explanations'
         url: http://arxiv.org/abs/2404.11208
-        version: 1054
+        version: 1060
     key: GYM6RRDS
     library:
         id: 4989916
@@ -4986,7 +5075,7 @@
             username: hemile
         numChildren: 0
         parsedDate: '2024-04-17'
-    version: 1054
+    version: 1060
 -   data:
         DOI: 10.1145/3696410.3714526
         ISBN: '9798400712746'
@@ -5065,121 +5154,6 @@
             username: hemile
         numChildren: 0
         parsedDate: '2025-04-28'
-    version: 1053
--   data:
-        DOI: 10.48550/arXiv.2501.19245
-        abstractNote: Reinforcement learning (RL) offers a general approach for modeling
-            and training AI agents, including human-AI interaction scenarios. In this
-            paper, we propose SHARPIE (Shared Human-AI Reinforcement Learning Platform
-            for Interactive Experiments) to address the need for a generic framework
-            to support experiments with RL agents and humans. Its modular design consists
-            of a versatile wrapper for RL environments and algorithm libraries, a
-            participant-facing web interface, logging utilities, deployment on popular
-            cloud and participant recruitment platforms. It empowers researchers to
-            study a wide variety of research questions related to the interaction
-            between humans and RL agents, including those related to interactive reward
-            specification and learning, learning from human feedback, action delegation,
-            preference elicitation, user-modeling, and human-AI teaming. The platform
-            is based on a generic interface for human-RL interactions that aims to
-            standardize the field of study on RL in human contexts.
-        accessDate: '2025-02-05T12:46:35Z'
-        archive: ''
-        archiveID: arXiv:2501.19245
-        archiveLocation: ''
-        callNumber: ''
-        citationKey: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Hüseyin
-            lastName: Aydın
-        -   creatorType: author
-            firstName: Kevin
-            lastName: Godin-Dubois
-        -   creatorType: author
-            firstName: Libio Goncalvez
-            lastName: Braz
-        -   creatorType: author
-            firstName: Floris den
-            lastName: Hengst
-        -   creatorType: author
-            firstName: Kim
-            lastName: Baraka
-        -   creatorType: author
-            firstName: Mustafa Mert
-            lastName: Çelikok
-        -   creatorType: author
-            firstName: Andreas
-            lastName: Sauter
-        -   creatorType: author
-            firstName: Shihan
-            lastName: Wang
-        -   creatorType: author
-            firstName: Frans A.
-            lastName: Oliehoek
-        date: '2025-02-03'
-        dateAdded: '2025-02-05T12:46:36Z'
-        dateModified: '2025-07-07T13:12:11Z'
-        extra: 'arXiv:2501.19245
-
-            Citation Key: aydinSHARPIEModularFramework2025'
-        genre: ''
-        itemType: preprint
-        key: AN244YFA
-        language: ''
-        libraryCatalog: arXiv.org
-        place: ''
-        relations: {}
-        repository: arXiv
-        rights: ''
-        series: ''
-        seriesNumber: ''
-        shortTitle: SHARPIE
-        tags:
-        -   tag: Computer Science - Artificial Intelligence
-            type: 1
-        -   tag: Computer Science - Human-Computer Interaction
-            type: 1
-        title: 'SHARPIE: A Modular Framework for Reinforcement Learning and Human-AI
-            Interaction Experiments'
-        url: http://arxiv.org/abs/2501.19245
-        version: 1053
-    key: AN244YFA
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/AN244YFA
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/AN244YFA
-            type: application/json
-    meta:
-        createdByUser:
-            id: 12590531
-            links:
-                alternate:
-                    href: https://www.zotero.org/florisdenhengst
-                    type: text/html
-            name: ''
-            username: florisdenhengst
-        creatorSummary: Aydın et al.
-        lastModifiedByUser:
-            id: 6261094
-            links:
-                alternate:
-                    href: https://www.zotero.org/hemile
-                    type: text/html
-            name: ''
-            username: hemile
-        numChildren: 0
-        parsedDate: '2025-02-03'
     version: 1053
 -   data:
         DOI: ''
