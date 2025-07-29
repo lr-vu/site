@@ -21,8 +21,10 @@ dark: true
     {% endcomment %}
 
     <dl>
+        <dt>May-July</dt>
+            <dd> Frank gave invited talks at the International Semantic Web summerschool in Bertinoro, the workshop on Epistemic Diversity in AI in Vienna, the Upperbound Conference in Edmonton, and the TNO Splash AI event in Utrecht.</dd>
         <dt>April, 2025</dt>
-            <dd> Emile van Krieken is awarded <a href="https://vu.nl/en/news/2025/emile-van-krieken-receives-bnvki-2025-dissertation-award">the price for the best PhD thesis of the year by the Belgian/Dutch association of AI. </a>  Congratulations to Emile and his supervisors Annette ten Teije and Jakub Tomczak. </dd>
+            <dd> Emile van Krieken is awarded the price for <a href="https://vu.nl/en/news/2025/emile-van-krieken-receives-bnvki-2025-dissertation-award">the best PhD thesis of the year by the Belgian/Dutch association of AI. </a>  Congratulations to Emile and his supervisors Annette ten Teije and Jakub Tomczak. </dd>
         <dt>February 6, 2025</dt>
             <dd> Filip Ilievski received tenure in the department.</dd>
         <dt>January 17, 2025</dt>
