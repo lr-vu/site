@@ -21,6 +21,12 @@ dark: true
     {% endcomment %}
 
     <dl>
+        <dt> July, 2025</dt>
+            <dd> <a href="https://en.wikipedia.org/wiki/Catholijn_Jonker"> Prof. Catholijn Jonker </a> from TU Delft joins the VU as a parttime professor for 1 day/week to lead <a href="https://www.hybrid-intelligence-centre.nl/"> the Hybrid Intelligence Center. </a> </dd>
+        <dt>July, 2025</dt>
+            <dd> We had 3 papers accepted at <a href="https://sites.google.com/view/nesy2025/home"> NeSy 2025. </a> Together with 2 papers from the <a href="https://kai.cs.vu.nl/"> KAI group, </a> that’s 5 papers from the VU at this year’s International Conference on Neurosymbolic Learning and Reasoning (NeSy 2025)</dt>
+        <dt>July, 2025</dt>
+            <dd> A flurry of papers from the the group got accepted in recent weeks: at the Semanic Web Journal, the EUMAS conference (2x), ECAI, COML and TMLR. </dd>
         <dt>July, 2025</dt>
             <dd> After 4 years of service, Annette steps down as chair of the International Association for AI in Medicine. </dd>
         <dt>July, 2025</dt>
