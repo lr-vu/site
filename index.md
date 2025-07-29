@@ -21,7 +21,13 @@ dark: true
     {% endcomment %}
 
     <dl>
-        <dt>May-July</dt>
+        <dt>July, 2025</dt>
+            <dd> After 4 years of service, Annette steps down as chair of the International Association for AI in Medicine. </dd>
+        <dt>July, 2025</dt>
+            <dd> After 1.5 years as postdoc in Edinburgh, Emile van Krieken is rejoining the group. </dd>
+        <dt>June, 2025</dt>
+            <dd> Stefano di Georgis joins us as a postdoc to work on multi-modal meme detection. </dd>
+        <dt>May-July, 2025</dt>
             <dd> Frank gave invited talks at the International Semantic Web summerschool in Bertinoro, the workshop on Epistemic Diversity in AI in Vienna, the Upperbound Conference in Edmonton, and the TNO Splash AI event in Utrecht.</dd>
         <dt>April, 2025</dt>
             <dd> Emile van Krieken is awarded the price for <a href="https://vu.nl/en/news/2025/emile-van-krieken-receives-bnvki-2025-dissertation-award">the best PhD thesis of the year by the Belgian/Dutch association of AI. </a>  Congratulations to Emile and his supervisors Annette ten Teije and Jakub Tomczak. </dd>
