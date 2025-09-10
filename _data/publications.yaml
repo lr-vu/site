@@ -1,4 +1,100 @@
 -   data:
+        DOI: 10.1007/s10489-022-04173-0
+        ISSN: 1573-7497
+        abstractNote: Dynamic Treatment Regimes (DTRs) are adaptive treatment strategies
+            that allow clinicians to personalize dynamically the treatment for each
+            patient based on their step-by-step response to their treatment. There
+            are a series of predefined alternative treatments for each disease and
+            any patient may associate with one of these treatments according to his/her
+            demographics. DTRs for a certain disease are studied and evaluated by
+            means of statistical approaches where patients are randomized at each
+            step of the treatment and their responses are observed. Recently, the
+            Reinforcement Learning (RL) paradigm has also been applied to determine
+            DTRs. However, such approaches may be limited by the need to design a
+            true reward function, which may be difficult to formalize when the expert
+            knowledge is not well assessed, as when the DTR is in the design phase.
+            To address this limitation, an extension of the RL paradigm, namely Inverse
+            Reinforcement Learning (IRL), has been adopted to learn the reward function
+            from data, such as those derived from DTR trials. In this paper, we define
+            a Projection Based Inverse Reinforcement Learning (PB-IRL) approach to
+            learn the true underlying reward function for given demonstrations (DTR
+            trials). Such a reward function can be used both to evaluate the set of
+            DTRs determined for a certain disease, as well as to enable an RL-based
+            intelligent agent to self-learn the best way and then act as a decision
+            support system for the clinician.
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections:
+        - 2GHH7DSP
+        creators:
+        -   creatorType: author
+            firstName: Syed Ihtesham Hussain
+            lastName: Shah
+        -   creatorType: author
+            firstName: Giuseppe
+            lastName: De Pietro
+        -   creatorType: author
+            firstName: Giovanni
+            lastName: Paragliola
+        -   creatorType: author
+            firstName: Antonio
+            lastName: Coronato
+        date: '2023-06-01'
+        dateAdded: '2025-09-10T12:27:56Z'
+        dateModified: '2025-09-10T12:27:56Z'
+        extra: ''
+        issue: '11'
+        itemType: journalArticle
+        journalAbbreviation: Applied Intelligence
+        key: QJSY6DLI
+        language: ''
+        libraryCatalog: ''
+        pages: 14072-14084
+        publicationTitle: Applied Intelligence
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: Projection based inverse reinforcement learning for the analysis of
+            dynamic treatment regimes
+        url: https://doi.org/10.1007/s10489-022-04173-0
+        version: 1063
+        volume: '53'
+    key: QJSY6DLI
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/QJSY6DLI
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/QJSY6DLI
+            type: application/json
+    meta:
+        createdByUser:
+            id: 16105841
+            links:
+                alternate:
+                    href: https://www.zotero.org/ihtesham_shah
+                    type: text/html
+            name: ''
+            username: Ihtesham_Shah
+        creatorSummary: Shah et al.
+        numChildren: 0
+        parsedDate: '2023-06-01'
+    version: 1063
+-   data:
         DOI: 10.1007/978-3-031-65794-8_10
         ISBN: ''
         abstractNote: ''
