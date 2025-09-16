@@ -264,6 +264,31 @@
   role: phd
   title: PhD student
 
+- name: Shaurya Gaur
+  orderby: Gaur
+  keywords:
+    - software architecture
+    - human-centric AI
+  image: /images/people/shaurya.png
+  role: phd
+  title: PhD student
+  linkedin: https://www.linkedin.com/in/shaurgaur/
+  scholar: https://scholar.google.com/citations?hl=en&user=LoZr4WsAAAAJ&view_op=list_works&authuser=1&gmla=AH8HC4zeDWBhy8u3ZbBf9ez9HwzzMMP8-s89TTCLF5mesv8t6IeCjf4rtkLgVJnHK_y7Yj2JTUz8jJeJ0kRjrFIQI50FNPzS_0MoDtSoAJbHs0V5UlQEENr8-F7X0wu-WhZKWEGwyL459UA
+  github: https://github.com/shaurgaur
+  
+- name: Johannes Bendler
+  orderby: Bendler
+  keywords:
+    - Neurosymbolic AI
+    - Knowledge Representation
+    - Automated Reasoning
+    - Hybrid AI
+  image: /images/people/Johannes.jpeg
+  role: phd
+  title: PhD student
+  linkedin: https://www.linkedin.com/in/johannes-bendler-49b45316a/
+  github: https://github.com/JoB5nd11
+  
 - name: Tom Pelletreau Duris
   orderby: Pelletreau
   keywords:
