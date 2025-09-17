@@ -35,11 +35,6 @@ We also contribute to graph querying and reasoning, where some correcteness is t
 Besides, we investigates ways to work learn on graph streams without re-training the machine learning model.
 All of this is part of a larger whole in which performance modelling, and environmental sustainability tradeoffs are considered across the computing continuum.
 
-## Humane AI
-
-<a class="logo" href="https://www.humane-ai.eu/"><img src="/images/projects/humane_ai.svg" title="The logo of the Humane AI project"></a>
-
-The [Humane AI project](https://www.humane-ai.eu/) aims to shape the AI revolution in a direction that is beneficial to humans both individually and societally, and that adheres to European ethical values and social, cultural, legal, and political norms. It is an international project including industrial partners such as Volkswagen and Airbus, as well as academic institutions from almost all European nations.
 
 ## Hybrid Intelligence
 
