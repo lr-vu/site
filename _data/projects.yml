@@ -24,6 +24,9 @@ current_projects:
     website: https://www.cost.eu/actions/CA23147/
     image: /images/projects/goblin.png
 previous_projects:
+-   name: Humane AI
+    website: https://www.humane-ai.eu/
+    image: null
 -   name: BEST
     website: null
     image: null
