@@ -289,6 +289,20 @@
   linkedin: https://www.linkedin.com/in/johannes-bendler-49b45316a/
   github: https://github.com/JoB5nd11
   scholar: https://scholar.google.com/citations?user=bi6JjMEAAAAJ&hl=nl
+
+- name: Ting-Chih Chen
+  orderby: 
+  keywords:
+    - Multimodal learning
+    - Embodied AI
+    - LVLM
+  image: /images/people/Chen.jpg
+  role: phd
+  title: PhD student
+  website: https://tingchihc.github.io/
+  linkedin: https://www.linkedin.com/in/ting-chih-chen/
+  github: https://github.com/tingchihc
+  scholar: https://scholar.google.nl/citations?user=-uPodIAAAAAJ&hl=nl&oi=sra
   
 - name: Tom Pelletreau Duris
   orderby: Pelletreau
