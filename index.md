@@ -21,6 +21,10 @@ dark: true
     {% endcomment %}
 
     <dl>
+        <dt> September 15, 2025</dt> 
+            <dd> Filip and Frank led a <a href="https://www.nature.com/articles/s42256-025-01109-4"> perspective paper </a> in Nature Machine Intelligence (one of the highest-impact AI journals), co-authored with 25 experts in AI and cognitive science, which examines differences and similarities in the various ways human and AI systems generalize.</dd>
+        <dt> September 8-10, 2025</dt>
+            <dd> Michael Cochez, Emile van Krieken, Tom Pelletreau Duris and Yannick Brunink attended NeSy 2025 where they presented 4 papers and an oral. Additionally, Emile was a program chair of the conference and responsible for the main organisation. </dd>
         <dt> July, 2025</dt>
             <dd> Frank was one of the organisers of a <a href="https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/25291"> Dagstuhl seminar on neuro-symbolic AI, </a> with Annette and Filip also joining the seminar.
         <dt> July, 2025</dt>
