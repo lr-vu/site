@@ -21,7 +21,7 @@ dark: true
     {% endcomment %}
 
     <dl>
-        <dt> October, 3 </dt>
+        <dt> October, 3, 2025 </dt>
             <dd> Dimitris succesfully defended his PhD thesis on "Knowledge Graphs & Transformers for Hypothesis Generation". In his thesis, Dimitris shows how increasingly sophisticated representations of scientific hypotheses allow for different methods for predicting new hypotheses from a body of existing scientific work. The work was in collaboration with Elsevier, who sponsored Dimitris' PhD position as part of our joint Discovery Lab.</dd>
         <dt> September 15, 2025</dt> 
             <dd> Filip and Frank led a <a href="https://www.nature.com/articles/s42256-025-01109-4"> perspective paper </a> in Nature Machine Intelligence (one of the highest-impact AI journals), co-authored with 25 experts in AI and cognitive science, which examines differences and similarities in the various ways human and AI systems generalize.</dd>
