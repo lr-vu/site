@@ -133,19 +133,6 @@
   scholar: https://scholar.google.com/citations?user=VR4a4QIAAAAJ&hl=en
   linkedin: https://www.linkedin.com/in/daniel-daza/
 
-- name: Dimitrios Alivanistos
-  orderby: Alivanistos
-  keywords:
-    - Graph Machine Learning
-    - Knowledge Graphs
-    - Scientific Discovery
-  scholar: https://scholar.google.nl/citations?hl=en&user=snZnIqEAAAAJ
-  website: https://dimitrisalivas.github.io/
-  linkedin: https://www.linkedin.com/in/dimitris-alivanistos-678a04b6/
-  image: /images/people/Dimitris.png
-  role: phd
-  title: PhD Student
-
 - name: Emile van Krieken
   orderby: Krieken
   keywords:
@@ -580,6 +567,11 @@
 #   bio: now affiliated with [University of Southern California](https://www.usc.edu/)
 #   role: alumnus
 
+- name: Dimitrios Alivanistos
+  website: https://dimitrisalivas.github.io/
+  bio: null
+  role: alumnus
+
 - name: Gaston Tagni
   website: https://www.linkedin.com/in/gastontagni/
   bio: now at [Tiqets International B.V.](https://www.tiqets.com/nl/)
@@ -604,6 +596,7 @@
   website: https://www.uni-mannheim.de/dws/people/professors/prof-dr-heiner-stuckenschmidt/
   bio: now Professor at [Universitaet Mannheim, Germany](http://www.uni-mannheim.de/)
   role: alumnus
+
 
 - name: Holger Wache
   website: http://holger-wache.ch/
