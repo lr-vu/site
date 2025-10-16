@@ -193,12 +193,6 @@
   github: https://github.com/InesBlin
   linkedin: https://www.linkedin.com/in/ines-blin-903650151/
 
-- name: Majid Mohammedi
-  orderby: Mohammedi
-  website: https://research.vu.nl/en/persons/majeed-mohammadi/
-  image: /images/people/Majid.png
-  role:  alumnus
-
 - name: Nikos Kondylidis
   orderby: Kondylidis
   keywords:
@@ -312,23 +306,6 @@
   image: /images/people/Taewoon.png
   role: phd
 
-- name: Xander Wilcke
-  orderby: Wilcke
-  website: https://few.vu.nl/~wwe300
-  image: /images/people/xander2.jpg
-  role: alumnus
-  twitter: https://twitter.com/wxwilcke
-  github: https://github.com/wxwilcke
-  mastodon: https://sigmoid.social/@wxwilcke
-  gitlab: https://gitlab.com/wxwilcke
-  scholar: https://scholar.google.nl/citations?user=IjBZvWEAAAAJ
-  title: researcher
-  keywords:
-    - knowledge graphs
-    - representation learning
-    - multi-modal machine learning
-    - knowledge discovery
-
 - name: Zhisheng Huang
   orderby: Huang
   website: https://www.cs.vu.nl/~huang/
@@ -415,6 +392,29 @@
   website: https://dimitrisalivas.github.io/
   bio: null
   role: alumnus
+
+- name: Majid Mohammedi
+  orderby: Mohammedi
+  website: https://research.vu.nl/en/persons/majeed-mohammadi/
+  image: /images/people/Majid.png
+  role:  alumnus
+
+- name: Xander Wilcke
+  orderby: Wilcke
+  website: https://few.vu.nl/~wwe300
+  image: /images/people/xander2.jpg
+  role: alumnus
+  twitter: https://twitter.com/wxwilcke
+  github: https://github.com/wxwilcke
+  mastodon: https://sigmoid.social/@wxwilcke
+  gitlab: https://gitlab.com/wxwilcke
+  scholar: https://scholar.google.nl/citations?user=IjBZvWEAAAAJ
+  title: researcher
+  keywords:
+    - knowledge graphs
+    - representation learning
+    - multi-modal machine learning
+    - knowledge discovery
   
 - name: Chengcheng Fu
   orderby: Fu
