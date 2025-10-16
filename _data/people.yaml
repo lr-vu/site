@@ -411,6 +411,11 @@
   title: PhD student
 
 # Alumni
+- name: Dimitrios Alivanistos
+  website: https://dimitrisalivas.github.io/
+  bio: null
+  role: alumnus
+  
 - name: Chengcheng Fu
   orderby: Fu
   website: https://research.vu.nl/en/persons/chengcheng-fu/
@@ -566,11 +571,6 @@
 #   website: https://usc-isi-i2.github.io/ilievski/
 #   bio: now affiliated with [University of Southern California](https://www.usc.edu/)
 #   role: alumnus
-
-- name: Dimitrios Alivanistos
-  website: https://dimitrisalivas.github.io/
-  bio: null
-  role: alumnus
 
 - name: Gaston Tagni
   website: https://www.linkedin.com/in/gastontagni/
