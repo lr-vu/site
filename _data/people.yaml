@@ -136,11 +136,13 @@
 - name: Emile van Krieken
   orderby: Krieken
   keywords:
-    - neurosymbolic AI
-    - optimization
-    - probabilistic modeling
+    - neurosymbolic learning
+    - commonsense reasoning
+    - generative modeling
   scholar: https://scholar.google.com/citations?user=il8Y0B4AAAAJ&hl=en
   website: https://emilevankrieken.com/
+  twitter: https://x.com/emilevankrieken
+  linkedin: https://www.linkedin.com/in/emile-van-krieken/
   image: /images/people/Emile.jpg
   role: postdoc
   title: postdoc
