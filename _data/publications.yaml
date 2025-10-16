@@ -1,5 +1,153 @@
 -   data:
         DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Emile van
+            lastName: Krieken
+        -   creatorType: author
+            firstName: Pasquale
+            lastName: Minervini
+        -   creatorType: author
+            firstName: Edoardo
+            lastName: Ponti
+        -   creatorType: author
+            firstName: Antonio
+            lastName: Vergari
+        date: '2025'
+        dateAdded: '2025-10-16T14:11:00Z'
+        dateModified: '2025-10-16T14:11:00Z'
+        extra: ''
+        itemType: conferencePaper
+        key: MZMEC92P
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        place: ''
+        proceedingsTitle: 19th International Conference on Neurosymbolic Learning
+            and Reasoning
+        publisher: ''
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: Neurosymbolic Reasoning Shortcuts under the Independence Assumption
+        url: https://openreview.net/forum?id=ifoKXDf1KS
+        version: 1080
+        volume: ''
+    key: MZMEC92P
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/MZMEC92P
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/MZMEC92P
+            type: application/json
+    meta:
+        createdByUser:
+            id: 6261094
+            links:
+                alternate:
+                    href: https://www.zotero.org/hemile
+                    type: text/html
+            name: ''
+            username: hemile
+        creatorSummary: Krieken et al.
+        numChildren: 0
+        parsedDate: '2025'
+    version: 1080
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Emile
+            lastName: van Krieken
+        -   creatorType: author
+            firstName: Pasquale
+            lastName: Minervini
+        -   creatorType: author
+            firstName: Edoardo
+            lastName: Ponti
+        -   creatorType: author
+            firstName: Antonio
+            lastName: Vergari
+        date: '2025'
+        dateAdded: '2025-10-16T14:08:47Z'
+        dateModified: '2025-10-16T14:09:55Z'
+        extra: ''
+        itemType: conferencePaper
+        key: P7KFJL8A
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        place: ''
+        proceedingsTitle: The Thirty-ninth Annual Conference on Neural Information
+            Processing Systems
+        publisher: ''
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: Neurosymbolic Diffusion Models
+        url: https://openreview.net/forum?id=HfdzglsZQH
+        version: 1079
+        volume: ''
+    key: P7KFJL8A
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/P7KFJL8A
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/P7KFJL8A
+            type: application/json
+    meta:
+        createdByUser:
+            id: 6261094
+            links:
+                alternate:
+                    href: https://www.zotero.org/hemile
+                    type: text/html
+            name: ''
+            username: hemile
+        creatorSummary: van Krieken et al.
+        numChildren: 0
+        parsedDate: '2025'
+    version: 1079
+-   data:
+        DOI: ''
         ISSN: ''
         abstractNote: ''
         accessDate: ''
