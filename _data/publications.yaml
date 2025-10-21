@@ -1,5 +1,392 @@
 -   data:
         DOI: ''
+        ISSN: ''
+        abstractNote: In the social sciences, researchers formulate a hypothesis,
+            conduct background research and run a meta-analysis to test that hypothesis
+            synthesizing a large body of evidence. Results of the meta-analysis are
+            published in a meta-review. Yet this process is manual, demanding significant
+            effort and expert knowledge, and results in static PDF formats. Furthermore,
+            social scientists struggle in keeping the reviews up to date due to the
+            increasing number of empirical studies. A living, automated meta-review
+            generation system would be the solution to ease this process. We present
+            an interface to select starting hypotheses and to create living meta-reviews
+            in HTML format automatically, with a case study on human cooperation.
+            This will enable to assist social scientists in their daily tasks, and
+            we believe that the benefits of this work will be broadly relevant across
+            the social sciences.
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Inès
+            lastName: Blin
+        -   creatorType: author
+            firstName: Ilaria
+            lastName: Tiddi
+        -   creatorType: author
+            firstName: Giuliana
+            lastName: Spadaro
+        date: '2024'
+        dateAdded: '2025-10-21T07:56:40Z'
+        dateModified: '2025-10-21T07:59:35Z'
+        extra: ''
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: ZM2P6FXX
+        language: en
+        libraryCatalog: Zotero
+        pages: ''
+        publicationTitle: ''
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: 'Living Meta-Review Generation for Social Scientists: An Interface
+            and A Case Study on Human Cooperation'
+        url: ''
+        version: 1095
+        volume: ''
+    key: ZM2P6FXX
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/ZM2P6FXX
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/ZM2P6FXX
+            type: application/json
+    meta:
+        createdByUser:
+            id: 7770939
+            links:
+                alternate:
+                    href: https://www.zotero.org/inesblin
+                    type: text/html
+            name: ''
+            username: inesblin
+        creatorSummary: Blin et al.
+        numChildren: 1
+        parsedDate: '2024'
+    version: 1095
+-   data:
+        DOI: ''
+        ISBN: 978-88-6719-333-2
+        abstractNote: Concept Maps are semantic graph summary representations of relations
+            between concepts in text. They are particularly beneficial for students
+            with difficulty in reading comprehension, such as those with special educational
+            needs and disabilities. Currently, the field of concept map extraction
+            from text is outdated, relying on old baselines, limited datasets, and
+            limited performances with F1 scores below 20%. We propose a novel neuro-symbolic
+            pipeline and a GPT3.5-based method for automated concept map extraction
+            from text evaluated over the WIKI dataset. The pipeline is a robust, modularized,
+            and open-source architecture, the first to use semantic and neural techniques
+            for automatic concept map extraction while also using a preliminary summarization
+            component to reduce processing time and optimize computational resources.
+            Furthermore, we investigate the large language model in zero-shot, one-shot,
+            and decomposed prompting for concept map generation. Our approaches achieve
+            state-of-the-art results in METEOR metrics, with F1 scores of 25.7 and
+            28.5, respectively, and in ROUGE-2 recall, with respective scores of 24.3
+            and 24.3. This contribution advances the task of automated concept map
+            extraction from text, opening doors to wider applications such as education
+            and speech-language therapy. The code is openly available.
+        accessDate: '2025-10-21T07:55:14Z'
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: LDK 2025
+        creators:
+        -   creatorType: author
+            firstName: Martina
+            lastName: Galletti
+        -   creatorType: author
+            firstName: Inès
+            lastName: Blin
+        -   creatorType: author
+            firstName: Eleni
+            lastName: Ilkou
+        -   creatorType: editor
+            firstName: Mehwish
+            lastName: Alam
+        -   creatorType: editor
+            firstName: Andon
+            lastName: Tchechmedjiev
+        -   creatorType: editor
+            firstName: Jorge
+            lastName: Gracia
+        -   creatorType: editor
+            firstName: Dagmar
+            lastName: Gromann
+        -   creatorType: editor
+            firstName: Maria Pia
+            lastName: di Buono
+        -   creatorType: editor
+            firstName: Johanna
+            lastName: Monti
+        -   creatorType: editor
+            firstName: Maxim
+            lastName: Ionov
+        date: 2025-09
+        dateAdded: '2025-10-21T07:55:14Z'
+        dateModified: '2025-10-21T07:55:14Z'
+        extra: ''
+        itemType: conferencePaper
+        key: 8Z8FPIRX
+        language: ''
+        libraryCatalog: ACLWeb
+        pages: 87–99
+        place: Naples, Italy
+        proceedingsTitle: Proceedings of the 5th Conference on Language, Data and
+            Knowledge
+        publisher: Unior Press
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: Automated Concept Map Extraction from Text
+        url: https://aclanthology.org/2025.ldk-1.10/
+        version: 1089
+        volume: ''
+    key: 8Z8FPIRX
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/8Z8FPIRX
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/8Z8FPIRX
+            type: application/json
+    meta:
+        createdByUser:
+            id: 7770939
+            links:
+                alternate:
+                    href: https://www.zotero.org/inesblin
+                    type: text/html
+            name: ''
+            username: inesblin
+        creatorSummary: Galletti et al.
+        numChildren: 1
+        parsedDate: 2025-09
+    version: 1089
+-   data:
+        DOI: 10.48550/arXiv.2508.13288
+        abstractNote: Conformal prediction (CP) is a powerful framework for quantifying
+            uncertainty in machine learning models, offering reliable predictions
+            with finite-sample coverage guarantees. When applied to classification,
+            CP produces a prediction set of possible labels that is guaranteed to
+            contain the true label with high probability, regardless of the underlying
+            classifier. However, standard CP treats classes as flat and unstructured,
+            ignoring domain knowledge such as semantic relationships or hierarchical
+            structure among class labels. This paper presents hierarchical conformal
+            classification (HCC), an extension of CP that incorporates class hierarchies
+            into both the structure and semantics of prediction sets. We formulate
+            HCC as a constrained optimization problem whose solutions yield prediction
+            sets composed of nodes at different levels of the hierarchy, while maintaining
+            coverage guarantees. To address the combinatorial nature of the problem,
+            we formally show that a much smaller, well-structured subset of candidate
+            solutions suffices to ensure coverage while upholding optimality. An empirical
+            evaluation on three new benchmarks consisting of audio, image, and text
+            data highlights the advantages of our approach, and a user study shows
+            that annotators significantly prefer hierarchical over flat prediction
+            sets.
+        accessDate: '2025-10-21T07:53:54Z'
+        archive: ''
+        archiveID: arXiv:2508.13288
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Floris den
+            lastName: Hengst
+        -   creatorType: author
+            firstName: Inès
+            lastName: Blin
+        -   creatorType: author
+            firstName: Majid
+            lastName: Mohammadi
+        -   creatorType: author
+            firstName: Syed Ihtesham Hussain
+            lastName: Shah
+        -   creatorType: author
+            firstName: Taraneh
+            lastName: Younesian
+        date: '2025-08-18'
+        dateAdded: '2025-10-21T07:53:54Z'
+        dateModified: '2025-10-21T07:53:54Z'
+        extra: arXiv:2508.13288 [cs]
+        genre: ''
+        itemType: preprint
+        key: GHD5VK34
+        language: ''
+        libraryCatalog: arXiv.org
+        place: ''
+        relations: {}
+        repository: arXiv
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags:
+        -   tag: Computer Science - Artificial Intelligence
+            type: 1
+        -   tag: Computer Science - Machine Learning
+            type: 1
+        -   tag: Statistics - Machine Learning
+            type: 1
+        title: Hierarchical Conformal Classification
+        url: http://arxiv.org/abs/2508.13288
+        version: 1084
+    key: GHD5VK34
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/GHD5VK34
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/GHD5VK34
+            type: application/json
+    meta:
+        createdByUser:
+            id: 7770939
+            links:
+                alternate:
+                    href: https://www.zotero.org/inesblin
+                    type: text/html
+            name: ''
+            username: inesblin
+        creatorSummary: Hengst et al.
+        numChildren: 2
+        parsedDate: '2025-08-18'
+    version: 1084
+-   data:
+        DOI: 10.1177/22104968251377247
+        ISSN: 1570-0844
+        abstractNote: Event-centric knowledge graphs help enhance coherence to otherwise
+            fragmented and overwhelming data by establishing causal and temporal connections
+            using relevant data. We address the challenge of automatically constructing
+            event-centric knowledge graphs from generic ones. We present ChronoGrapher,
+            a two-step system to build an event-centric knowledge graph from grand
+            events such as the French Revolution. First, a pruned, semantically informed
+            best-first search traversal retrieves a subgraph from large, open-domain
+            knowledge graphs. We define event-centric filters to prune the search
+            space and a heuristic ranking to prioritize nodes like events. Second,
+            we combine a structured triple enrichment method with a text-based triple
+            enrichment method to build event-centric knowledge graphs. ChronoGrapher
+            demonstrates adaptability across datasets like DBpedia and Wikidata, outperforming
+            approaches from the literature. Furthermore, it is designed to be flexible
+            and to operate over any knowledge graph accessible through Header, Dictionary,
+            and Triples dumps or SPARQL endpoints. To evaluate the utility of these
+            constructed graphs, we conduct a preliminary user study comparing different
+            prompting techniques for event-centric question-answering. Our results
+            demonstrate that prompts enriched with event-centric knowledge graph triples
+            yield more factual answers, measured by how well answers are grounded
+            in source information, than those enriched with generic triples or base
+            prompts, while preserving succinctness and relevance.
+        accessDate: '2025-10-21T07:53:07Z'
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Inès
+            lastName: Blin
+        -   creatorType: author
+            firstName: Ilaria
+            lastName: Tiddi
+        -   creatorType: author
+            firstName: Remi van
+            lastName: Trijp
+        -   creatorType: author
+            firstName: Annette ten
+            lastName: Teije
+        date: '2025-05-01'
+        dateAdded: '2025-10-21T07:53:07Z'
+        dateModified: '2025-10-21T07:53:07Z'
+        extra: 'Publisher: SAGE Publications'
+        issue: '5'
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: Z4XSLM45
+        language: EN
+        libraryCatalog: SAGE Journals
+        pages: '22104968251377247'
+        publicationTitle: Semantic Web
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ChronoGrapher
+        tags: []
+        title: 'ChronoGrapher: Event-Centric Knowledge Graph Construction via Informed
+            Graph Traversal'
+        url: https://doi.org/10.1177/22104968251377247
+        version: 1081
+        volume: '16'
+    key: Z4XSLM45
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/Z4XSLM45
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/Z4XSLM45
+            type: application/json
+    meta:
+        createdByUser:
+            id: 7770939
+            links:
+                alternate:
+                    href: https://www.zotero.org/inesblin
+                    type: text/html
+            name: ''
+            username: inesblin
+        creatorSummary: Blin et al.
+        numChildren: 1
+        parsedDate: '2025-05-01'
+    version: 1081
+-   data:
+        DOI: ''
         ISBN: ''
         abstractNote: ''
         accessDate: ''
