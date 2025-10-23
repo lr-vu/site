@@ -1,89 +1,5 @@
 -   data:
         DOI: ''
-        ISSN: ''
-        abstractNote: In the social sciences, researchers formulate a hypothesis,
-            conduct background research and run a meta-analysis to test that hypothesis
-            synthesizing a large body of evidence. Results of the meta-analysis are
-            published in a meta-review. Yet this process is manual, demanding significant
-            effort and expert knowledge, and results in static PDF formats. Furthermore,
-            social scientists struggle in keeping the reviews up to date due to the
-            increasing number of empirical studies. A living, automated meta-review
-            generation system would be the solution to ease this process. We present
-            an interface to select starting hypotheses and to create living meta-reviews
-            in HTML format automatically, with a case study on human cooperation.
-            This will enable to assist social scientists in their daily tasks, and
-            we believe that the benefits of this work will be broadly relevant across
-            the social sciences.
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Inès
-            lastName: Blin
-        -   creatorType: author
-            firstName: Ilaria
-            lastName: Tiddi
-        -   creatorType: author
-            firstName: Giuliana
-            lastName: Spadaro
-        date: '2024'
-        dateAdded: '2025-10-21T07:56:40Z'
-        dateModified: '2025-10-21T07:59:35Z'
-        extra: ''
-        issue: ''
-        itemType: journalArticle
-        journalAbbreviation: ''
-        key: ZM2P6FXX
-        language: en
-        libraryCatalog: Zotero
-        pages: ''
-        publicationTitle: ''
-        relations: {}
-        rights: ''
-        series: ''
-        seriesText: ''
-        seriesTitle: ''
-        shortTitle: ''
-        tags: []
-        title: 'Living Meta-Review Generation for Social Scientists: An Interface
-            and A Case Study on Human Cooperation'
-        url: ''
-        version: 1095
-        volume: ''
-    key: ZM2P6FXX
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/ZM2P6FXX
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/ZM2P6FXX
-            type: application/json
-    meta:
-        createdByUser:
-            id: 7770939
-            links:
-                alternate:
-                    href: https://www.zotero.org/inesblin
-                    type: text/html
-            name: ''
-            username: inesblin
-        creatorSummary: Blin et al.
-        numChildren: 1
-        parsedDate: '2024'
-    version: 1095
--   data:
-        DOI: ''
         ISBN: 978-88-6719-333-2
         abstractNote: Concept Maps are semantic graph summary representations of relations
             between concepts in text. They are particularly beneficial for students
@@ -142,8 +58,8 @@
             lastName: Ionov
         date: 2025-09
         dateAdded: '2025-10-21T07:55:14Z'
-        dateModified: '2025-10-21T07:55:14Z'
-        extra: ''
+        dateModified: '2025-10-23T19:24:29Z'
+        extra: 'Citation Key: gallettiAutomatedConceptMap2025'
         itemType: conferencePaper
         key: 8Z8FPIRX
         language: ''
@@ -160,7 +76,7 @@
         tags: []
         title: Automated Concept Map Extraction from Text
         url: https://aclanthology.org/2025.ldk-1.10/
-        version: 1089
+        version: 1096
         volume: ''
     key: 8Z8FPIRX
     library:
@@ -188,9 +104,17 @@
             name: ''
             username: inesblin
         creatorSummary: Galletti et al.
+        lastModifiedByUser:
+            id: 6261094
+            links:
+                alternate:
+                    href: https://www.zotero.org/hemile
+                    type: text/html
+            name: ''
+            username: hemile
         numChildren: 1
         parsedDate: 2025-09
-    version: 1089
+    version: 1096
 -   data:
         DOI: 10.48550/arXiv.2508.13288
         abstractNote: Conformal prediction (CP) is a powerful framework for quantifying
@@ -237,8 +161,10 @@
             lastName: Younesian
         date: '2025-08-18'
         dateAdded: '2025-10-21T07:53:54Z'
-        dateModified: '2025-10-21T07:53:54Z'
-        extra: arXiv:2508.13288 [cs]
+        dateModified: '2025-10-23T19:24:29Z'
+        extra: 'arXiv:2508.13288 [cs]
+
+            Citation Key: hengstHierarchicalConformalClassification2025'
         genre: ''
         itemType: preprint
         key: GHD5VK34
@@ -260,7 +186,7 @@
             type: 1
         title: Hierarchical Conformal Classification
         url: http://arxiv.org/abs/2508.13288
-        version: 1084
+        version: 1096
     key: GHD5VK34
     library:
         id: 4989916
@@ -287,9 +213,109 @@
             name: ''
             username: inesblin
         creatorSummary: Hengst et al.
+        lastModifiedByUser:
+            id: 6261094
+            links:
+                alternate:
+                    href: https://www.zotero.org/hemile
+                    type: text/html
+            name: ''
+            username: hemile
         numChildren: 2
         parsedDate: '2025-08-18'
-    version: 1084
+    version: 1096
+-   data:
+        DOI: ''
+        ISSN: ''
+        abstractNote: In the social sciences, researchers formulate a hypothesis,
+            conduct background research and run a meta-analysis to test that hypothesis
+            synthesizing a large body of evidence. Results of the meta-analysis are
+            published in a meta-review. Yet this process is manual, demanding significant
+            effort and expert knowledge, and results in static PDF formats. Furthermore,
+            social scientists struggle in keeping the reviews up to date due to the
+            increasing number of empirical studies. A living, automated meta-review
+            generation system would be the solution to ease this process. We present
+            an interface to select starting hypotheses and to create living meta-reviews
+            in HTML format automatically, with a case study on human cooperation.
+            This will enable to assist social scientists in their daily tasks, and
+            we believe that the benefits of this work will be broadly relevant across
+            the social sciences.
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Inès
+            lastName: Blin
+        -   creatorType: author
+            firstName: Ilaria
+            lastName: Tiddi
+        -   creatorType: author
+            firstName: Giuliana
+            lastName: Spadaro
+        date: '2024'
+        dateAdded: '2025-10-21T07:56:40Z'
+        dateModified: '2025-10-23T19:24:29Z'
+        extra: 'Citation Key: blinLivingMetaReviewGeneration2024'
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: ZM2P6FXX
+        language: en
+        libraryCatalog: Zotero
+        pages: ''
+        publicationTitle: ''
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: 'Living Meta-Review Generation for Social Scientists: An Interface
+            and A Case Study on Human Cooperation'
+        url: ''
+        version: 1096
+        volume: ''
+    key: ZM2P6FXX
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/ZM2P6FXX
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/ZM2P6FXX
+            type: application/json
+    meta:
+        createdByUser:
+            id: 7770939
+            links:
+                alternate:
+                    href: https://www.zotero.org/inesblin
+                    type: text/html
+            name: ''
+            username: inesblin
+        creatorSummary: Blin et al.
+        lastModifiedByUser:
+            id: 6261094
+            links:
+                alternate:
+                    href: https://www.zotero.org/hemile
+                    type: text/html
+            name: ''
+            username: hemile
+        numChildren: 1
+        parsedDate: '2024'
+    version: 1096
 -   data:
         DOI: 10.1177/22104968251377247
         ISSN: 1570-0844
@@ -334,8 +360,10 @@
             lastName: Teije
         date: '2025-05-01'
         dateAdded: '2025-10-21T07:53:07Z'
-        dateModified: '2025-10-21T07:53:07Z'
-        extra: 'Publisher: SAGE Publications'
+        dateModified: '2025-10-23T19:24:29Z'
+        extra: 'Publisher: SAGE Publications
+
+            Citation Key: blinChronoGrapherEventCentricKnowledge2025'
         issue: '5'
         itemType: journalArticle
         journalAbbreviation: ''
@@ -354,7 +382,7 @@
         title: 'ChronoGrapher: Event-Centric Knowledge Graph Construction via Informed
             Graph Traversal'
         url: https://doi.org/10.1177/22104968251377247
-        version: 1081
+        version: 1096
         volume: '16'
     key: Z4XSLM45
     library:
@@ -382,9 +410,17 @@
             name: ''
             username: inesblin
         creatorSummary: Blin et al.
+        lastModifiedByUser:
+            id: 6261094
+            links:
+                alternate:
+                    href: https://www.zotero.org/hemile
+                    type: text/html
+            name: ''
+            username: hemile
         numChildren: 1
         parsedDate: '2025-05-01'
-    version: 1081
+    version: 1096
 -   data:
         DOI: ''
         ISBN: ''
@@ -410,8 +446,8 @@
             lastName: Vergari
         date: '2025'
         dateAdded: '2025-10-16T14:11:00Z'
-        dateModified: '2025-10-16T14:11:00Z'
-        extra: ''
+        dateModified: '2025-10-23T19:24:28Z'
+        extra: 'Citation Key: kriekenNeurosymbolicReasoningShortcuts2025'
         itemType: conferencePaper
         key: MZMEC92P
         language: ''
@@ -428,7 +464,7 @@
         tags: []
         title: Neurosymbolic Reasoning Shortcuts under the Independence Assumption
         url: https://openreview.net/forum?id=ifoKXDf1KS
-        version: 1080
+        version: 1096
         volume: ''
     key: MZMEC92P
     library:
@@ -458,7 +494,7 @@
         creatorSummary: Krieken et al.
         numChildren: 0
         parsedDate: '2025'
-    version: 1080
+    version: 1096
 -   data:
         DOI: ''
         ISBN: ''
@@ -484,8 +520,8 @@
             lastName: Vergari
         date: '2025'
         dateAdded: '2025-10-16T14:08:47Z'
-        dateModified: '2025-10-16T14:09:55Z'
-        extra: ''
+        dateModified: '2025-10-23T19:24:28Z'
+        extra: 'Citation Key: vankriekenNeurosymbolicDiffusionModels2025'
         itemType: conferencePaper
         key: P7KFJL8A
         language: ''
@@ -502,7 +538,7 @@
         tags: []
         title: Neurosymbolic Diffusion Models
         url: https://openreview.net/forum?id=HfdzglsZQH
-        version: 1079
+        version: 1096
         volume: ''
     key: P7KFJL8A
     library:
@@ -532,89 +568,7 @@
         creatorSummary: van Krieken et al.
         numChildren: 0
         parsedDate: '2025'
-    version: 1079
--   data:
-        DOI: ''
-        ISSN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections:
-        - ATA95EWX
-        creators:
-        -   creatorType: author
-            firstName: Taraneh
-            lastName: Younesian
-        -   creatorType: author
-            firstName: Daniel
-            lastName: Daza
-        -   creatorType: author
-            firstName: Emile
-            lastName: van Krieken
-        -   creatorType: author
-            firstName: Thiviyan
-            lastName: Thanapalasingam
-        -   creatorType: author
-            firstName: Peter
-            lastName: Bloem
-        date: '2025'
-        dateAdded: '2023-12-01T09:37:11Z'
-        dateModified: '2025-10-06T13:51:59Z'
-        extra: ''
-        issue: ''
-        itemType: journalArticle
-        journalAbbreviation: TMLR
-        key: VRJFKGT5
-        language: ''
-        libraryCatalog: ''
-        pages: ''
-        publicationTitle: ''
-        relations: {}
-        rights: ''
-        series: ''
-        seriesText: ''
-        seriesTitle: ''
-        shortTitle: ''
-        tags:
-        -   tag: gflownets
-        -   tag: graph learning
-        -   tag: learning
-        -   tag: sampling
-        title: 'GRAPES: Learning to Sample Graphs for Scalable Graph Neural Networks'
-        url: https://openreview.net/forum?id=QI0l842vSq
-        version: 1069
-        volume: ''
-    key: VRJFKGT5
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/VRJFKGT5
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/VRJFKGT5
-            type: application/json
-    meta:
-        createdByUser:
-            id: 13137047
-            links:
-                alternate:
-                    href: https://www.zotero.org/tyounesian
-                    type: text/html
-            name: ''
-            username: tyounesian
-        creatorSummary: Younesian et al.
-        numChildren: 0
-        parsedDate: '2025'
-    version: 1069
+    version: 1096
 -   data:
         DOI: 10.1007/s10489-022-04173-0
         ISSN: 1573-7497
@@ -660,8 +614,8 @@
             lastName: Coronato
         date: '2023-06-01'
         dateAdded: '2025-09-10T12:27:56Z'
-        dateModified: '2025-09-10T12:27:56Z'
-        extra: ''
+        dateModified: '2025-10-23T19:24:28Z'
+        extra: 'Citation Key: shahProjectionBasedInverse2023'
         issue: '11'
         itemType: journalArticle
         journalAbbreviation: Applied Intelligence
@@ -680,7 +634,7 @@
         title: Projection based inverse reinforcement learning for the analysis of
             dynamic treatment regimes
         url: https://doi.org/10.1007/s10489-022-04173-0
-        version: 1063
+        version: 1096
         volume: '53'
     key: QJSY6DLI
     library:
@@ -708,9 +662,107 @@
             name: ''
             username: Ihtesham_Shah
         creatorSummary: Shah et al.
+        lastModifiedByUser:
+            id: 6261094
+            links:
+                alternate:
+                    href: https://www.zotero.org/hemile
+                    type: text/html
+            name: ''
+            username: hemile
         numChildren: 0
         parsedDate: '2023-06-01'
-    version: 1063
+    version: 1096
+-   data:
+        DOI: ''
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections:
+        - ATA95EWX
+        creators:
+        -   creatorType: author
+            firstName: Taraneh
+            lastName: Younesian
+        -   creatorType: author
+            firstName: Daniel
+            lastName: Daza
+        -   creatorType: author
+            firstName: Emile
+            lastName: van Krieken
+        -   creatorType: author
+            firstName: Thiviyan
+            lastName: Thanapalasingam
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        date: '2025'
+        dateAdded: '2023-12-01T09:37:11Z'
+        dateModified: '2025-10-23T19:24:28Z'
+        extra: 'Citation Key: younesianGRAPESLearningSample2025'
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: TMLR
+        key: VRJFKGT5
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        publicationTitle: ''
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags:
+        -   tag: gflownets
+        -   tag: graph learning
+        -   tag: learning
+        -   tag: sampling
+        title: 'GRAPES: Learning to Sample Graphs for Scalable Graph Neural Networks'
+        url: https://openreview.net/forum?id=QI0l842vSq
+        version: 1096
+        volume: ''
+    key: VRJFKGT5
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/VRJFKGT5
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/VRJFKGT5
+            type: application/json
+    meta:
+        createdByUser:
+            id: 13137047
+            links:
+                alternate:
+                    href: https://www.zotero.org/tyounesian
+                    type: text/html
+            name: ''
+            username: tyounesian
+        creatorSummary: Younesian et al.
+        lastModifiedByUser:
+            id: 6261094
+            links:
+                alternate:
+                    href: https://www.zotero.org/hemile
+                    type: text/html
+            name: ''
+            username: hemile
+        numChildren: 0
+        parsedDate: '2025'
+    version: 1096
 -   data:
         DOI: 10.1007/978-3-031-65794-8_10
         ISBN: ''
