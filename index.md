@@ -41,7 +41,7 @@ dark: true
             </ul>
             <ul>
             <p>Syed Ihtesham Hussain Shah and Annette ten Teije:</p>
-              <li><a href="https://www.scitepress.org/Papers/2025/131574/131574.pdf"Can We Trust Explanation! Evaluation of Model-Agnostic Explanation Techniques on Highly Imbalanced, Multiclass-Multioutput Classification Problem.</a><</li>
+              <li><a href="https://www.scitepress.org/Papers/2025/131574/131574.pdf">Can We Trust Explanation! Evaluation of Model-Agnostic Explanation Techniques on Highly Imbalanced, Multiclass-Multioutput Classification Problem.</a><</li>
             </ul>
         </dd>
         <dt> October 3, 2025 </dt>
