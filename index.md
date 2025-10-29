@@ -23,7 +23,8 @@ dark: true
     <dl>
         <dt>October, 2025</dt>
           <dd>
-            Several papers got accepted for BNAIC/BENELEARN 2025. By Filip Ilievski:
+            Several papers got accepted for BNAIC/BENELEARN 2025.
+            <p>By Filip Ilievski:</p>
             <ul>
               <li><a href="https://arxiv.org/abs/2409.04053">COLUMBUS: Evaluating COgnitive Lateral Understanding through Multiple-choice reBUSes</a></li>
               <li><a href="https://arxiv.org/abs/2505.00056">Clustering Internet Memes Through Template Matching and Multi-Dimensional Similarity</a></li>
