@@ -32,7 +32,7 @@ dark: true
           Filip Ilievski:<br>
           <a href="https://arxiv.org/abs/2409.04053"> COLUMBUS: Evaluating COgnitive Lateral Understanding through Multiple-choice reBUSes</a>;
           <a href="https://arxiv.org/abs/2505.00056"> Clustering Internet Memes Through Template Matching and Multi-Dimensional Similarity</a>;
-          “Where is AI being written?” – A geographic and epistemic meta-analysis of scientific literature; and
+          “Where is AI being written?” – A geographic and epistemic meta-analysis of scientific literature;
           Semantic Search in Olympiad Math Problems
         </li>
     
