@@ -21,8 +21,16 @@ dark: true
     {% endcomment %}
 
     <dl>
-        <dt> October, 2025</dt> 
-            <dd> Several papers got accepted for BNAIC/BENELEARN 2025. 4 papers by Filip Ilievski: <a href="https://arxiv.org/abs/2409.04053"> COLUMBUS: Evaluating COgnitive Lateral Understanding through Multiple-choice reBUSes</a>, <a href="https://arxiv.org/abs/2505.00056"> Clustering Internet Memes Through Template Matching and Multi-Dimensional Similarity </a>, “Where is AI being written?” – A geographic and epistemic meta-analysis of scientific literature, Semantic Search in Olympiad Math Problems. </dd> 
+        <dt>October, 2025</dt>
+          <dd>
+            Several papers got accepted for BNAIC/BENELEARN 2025. By Filip Ilievski:
+            <ul>
+              <li><a href="https://arxiv.org/abs/2409.04053">COLUMBUS: Evaluating COgnitive Lateral Understanding through Multiple-choice reBUSes</a></li>
+              <li><a href="https://arxiv.org/abs/2505.00056">Clustering Internet Memes Through Template Matching and Multi-Dimensional Similarity</a></li>
+              <li>“Where is AI being written?” – A geographic and epistemic meta-analysis of scientific literature</li>
+              <li>Semantic Search in Olympiad Math Problems</li>
+            </ul>
+        </dd>
         <dt> October 3, 2025 </dt>
             <dd> Dimitris succesfully defended his PhD thesis on "Knowledge Graphs & Transformers for Hypothesis Generation". In his thesis, Dimitris shows how increasingly sophisticated representations of scientific hypotheses allow for different methods for predicting new hypotheses from a body of existing scientific work. The work was in collaboration with Elsevier, who sponsored Dimitris' PhD position as part of our joint Discovery Lab.</dd>
         <dt> September 15, 2025</dt> 
