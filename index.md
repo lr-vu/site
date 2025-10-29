@@ -23,13 +23,20 @@ dark: true
     <dl>
         <dt>October, 2025</dt>
           <dd>
-            Several papers got accepted for BNAIC/BENELEARN 2025.
-            <p>By Filip Ilievski:</p>
+            Several papers and abstracts got accepted for BNAIC/BENELEARN 2025.
             <ul>
+            <p>By Filip Ilievski:</p>
               <li><a href="https://arxiv.org/abs/2409.04053">COLUMBUS: Evaluating COgnitive Lateral Understanding through Multiple-choice reBUSes</a></li>
               <li><a href="https://arxiv.org/abs/2505.00056">Clustering Internet Memes Through Template Matching and Multi-Dimensional Similarity</a></li>
               <li>“Where is AI being written?” – A geographic and epistemic meta-analysis of scientific literature</li>
               <li>Semantic Search in Olympiad Math Problems</li>
+            </ul>
+            <ul>
+            <p>By Stefano De Giorgis:</p>
+              <li><a href="https://arxiv.org/abs/2411.12671">Neurosymbolic Graph Enrichment for Grounded World Models.</a></li>
+            </ul>
+            <p>By Johannes E. Bendler:</p>
+              <li>Argument Decomposition in Abstract Dialectical Frameworks.</li>
             </ul>
         </dd>
         <dt> October 3, 2025 </dt>
