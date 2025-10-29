@@ -29,25 +29,25 @@ dark: true
       <ul>
     
         <li>
-          <strong>Filip Ilievski:</strong><br>
-          <a href="https://arxiv.org/abs/2409.04053">COLUMBUS: Evaluating COgnitive Lateral Understanding through Multiple-choice reBUSes</a>,
-          <a href="https://arxiv.org/abs/2505.00056">Clustering Internet Memes Through Template Matching and Multi-Dimensional Similarity</a>,
-          “Where is AI being written?” – A geographic and epistemic meta-analysis of scientific literature,
+          Filip Ilievski:<br>
+          <a href="https://arxiv.org/abs/2409.04053"> COLUMBUS: Evaluating COgnitive Lateral Understanding through Multiple-choice reBUSes</a>;
+          <a href="https://arxiv.org/abs/2505.00056"> Clustering Internet Memes Through Template Matching and Multi-Dimensional Similarity</a>;
+          “Where is AI being written?” – A geographic and epistemic meta-analysis of scientific literature; and
           Semantic Search in Olympiad Math Problems
         </li>
     
         <li>
-          <strong>Stefano De Giorgis:</strong><br>
+          Stefano De Giorgis:<br>
           <a href="https://arxiv.org/abs/2411.12671">Neurosymbolic Graph Enrichment for Grounded World Models.</a>
         </li>
     
         <li>
-          <strong>Johannes E. Bendler:</strong><br>
+          Johannes E. Bendler:<br>
           Argument Decomposition in Abstract Dialectical Frameworks.
         </li>
     
         <li>
-          <strong>Syed Ihtesham Hussain Shah and Annette ten Teije:</strong><br>
+          Syed Ihtesham Hussain Shah and Annette ten Teije:<br>
           <a href="https://www.scitepress.org/Papers/2025/131574/131574.pdf">Can We Trust Explanation! Evaluation of Model-Agnostic Explanation Techniques on Highly Imbalanced, Multiclass-Multioutput Classification Problem.</a>
         </li>
     
