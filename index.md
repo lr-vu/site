@@ -35,6 +35,7 @@ dark: true
             <p>By Stefano De Giorgis:</p>
               <li><a href="https://arxiv.org/abs/2411.12671">Neurosymbolic Graph Enrichment for Grounded World Models.</a></li>
             </ul>
+            <ul>
             <p>By Johannes E. Bendler:</p>
               <li>Argument Decomposition in Abstract Dialectical Frameworks.</li>
             </ul>
