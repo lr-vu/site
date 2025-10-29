@@ -21,6 +21,8 @@ dark: true
     {% endcomment %}
 
     <dl>
+        <dt> October, 2025 </dt>
+            <dd> Frank van Harmelen receives prestigous European AI award Frank was awarded the EurAI Distinguished Service Award at the European Conference on AI (ECAI) in Bologna. The EurAI Distinguished Service Award is presented annually to individuals who have contributed exceptionally to the European AI community.  Only 10 other individuals have received this award since its inception in 2012. More information on the motivation of the award to Frank at <a href="https://eurai.org/award/frank-vanharmelen"> https://eurai.org/award/frank-vanharmelen </a></dd>
         <dt>October, 2025</dt>
           <dd>
             Several papers and abstracts got accepted for BNAIC/BENELEARN 2025.
@@ -41,7 +43,7 @@ dark: true
             </ul>
             <ul>
             <p>Syed Ihtesham Hussain Shah and Annette ten Teije:</p>
-              <li><a href="https://www.scitepress.org/Papers/2025/131574/131574.pdf">Can We Trust Explanation! Evaluation of Model-Agnostic Explanation Techniques on Highly Imbalanced, Multiclass-Multioutput Classification Problem.</a><</li>
+              <li><a href="https://www.scitepress.org/Papers/2025/131574/131574.pdf">Can We Trust Explanation! Evaluation of Model-Agnostic Explanation Techniques on Highly Imbalanced, Multiclass-Multioutput Classification Problem.</a></li>
             </ul>
         </dd>
         <dt> October 3, 2025 </dt>
