@@ -23,29 +23,36 @@ dark: true
     <dl>
         <dt> October, 2025 </dt>
             <dd> Frank van Harmelen receives prestigous European AI award Frank was awarded the EurAI Distinguished Service Award at the European Conference on AI (ECAI) in Bologna. The EurAI Distinguished Service Award is presented annually to individuals who have contributed exceptionally to the European AI community.  Only 10 other individuals have received this award since its inception in 2012. More information on the motivation of the award to Frank at <a href="https://eurai.org/award/frank-vanharmelen"> https://eurai.org/award/frank-vanharmelen </a></dd>
-        <dt>October, 2025</dt>
-          <dd>
-            Several papers and abstracts got accepted for BNAIC/BENELEARN 2025.
-            <ul>
-            <p>Filip Ilievski:</p>
-              <li><a href="https://arxiv.org/abs/2409.04053">COLUMBUS: Evaluating COgnitive Lateral Understanding through Multiple-choice reBUSes</a></li>
-              <li><a href="https://arxiv.org/abs/2505.00056">Clustering Internet Memes Through Template Matching and Multi-Dimensional Similarity</a></li>
-              <li>“Where is AI being written?” – A geographic and epistemic meta-analysis of scientific literature</li>
-              <li>Semantic Search in Olympiad Math Problems</li>
-            </ul>
-            <ul>
-            <p>Stefano De Giorgis:</p>
-              <li><a href="https://arxiv.org/abs/2411.12671">Neurosymbolic Graph Enrichment for Grounded World Models.</a></li>
-            </ul>
-            <ul>
-            <p>Johannes E. Bendler:</p>
-              <li>Argument Decomposition in Abstract Dialectical Frameworks.</li>
-            </ul>
-            <ul>
-            <p>Syed Ihtesham Hussain Shah and Annette ten Teije:</p>
-              <li><a href="https://www.scitepress.org/Papers/2025/131574/131574.pdf">Can We Trust Explanation! Evaluation of Model-Agnostic Explanation Techniques on Highly Imbalanced, Multiclass-Multioutput Classification Problem.</a></li>
-            </ul>
-        </dd>
+    <dt>October, 2025</dt>
+    <dd>
+      Several papers and abstracts got accepted for BNAIC/BENELEARN 2025.
+      <ul>
+    
+        <li>
+          <strong>Filip Ilievski:</strong><br>
+          <a href="https://arxiv.org/abs/2409.04053">COLUMBUS: Evaluating COgnitive Lateral Understanding through Multiple-choice reBUSes</a>,
+          <a href="https://arxiv.org/abs/2505.00056">Clustering Internet Memes Through Template Matching and Multi-Dimensional Similarity</a>,
+          “Where is AI being written?” – A geographic and epistemic meta-analysis of scientific literature,
+          Semantic Search in Olympiad Math Problems
+        </li>
+    
+        <li>
+          <strong>Stefano De Giorgis:</strong><br>
+          <a href="https://arxiv.org/abs/2411.12671">Neurosymbolic Graph Enrichment for Grounded World Models.</a>
+        </li>
+    
+        <li>
+          <strong>Johannes E. Bendler:</strong><br>
+          Argument Decomposition in Abstract Dialectical Frameworks.
+        </li>
+    
+        <li>
+          <strong>Syed Ihtesham Hussain Shah and Annette ten Teije:</strong><br>
+          <a href="https://www.scitepress.org/Papers/2025/131574/131574.pdf">Can We Trust Explanation! Evaluation of Model-Agnostic Explanation Techniques on Highly Imbalanced, Multiclass-Multioutput Classification Problem.</a>
+        </li>
+    
+      </ul>
+    </dd>
         <dt> October 3, 2025 </dt>
             <dd> Dimitris succesfully defended his PhD thesis on "Knowledge Graphs & Transformers for Hypothesis Generation". In his thesis, Dimitris shows how increasingly sophisticated representations of scientific hypotheses allow for different methods for predicting new hypotheses from a body of existing scientific work. The work was in collaboration with Elsevier, who sponsored Dimitris' PhD position as part of our joint Discovery Lab.</dd>
         <dt> September 15, 2025</dt> 
