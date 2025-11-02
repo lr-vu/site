@@ -1,4 +1,123 @@
 -   data:
+        DOI: 10.1007/978-3-032-09527-5_26
+        ISBN: 978-3-032-09527-5
+        abstractNote: In this work, we study how semantic narrative enrichment and
+            syntactic encoding affect the performance of knowledge graph embedding
+            models. Narratives are central to human understanding, yet their structured
+            representation in knowledge graphs remains challenging due to their semantic
+            and structural complexity. Although traditional knowledge graphs use binary
+            relations, they struggle to capture richer narrative elements, such as
+            roles and causality. More complex knowledge graph syntaxes such as rdf-star,
+            reification, singleton or n-ary properties offer greater modeling flexibility,
+            but their impact on downstream tasks such as link prediction remains unclear.
+            We define a six-level categorization of narrative semantics and use it
+            to construct a suite of structured knowledge graphs using four syntactic
+            representations. Using different embedding models, we evaluate how semantic
+            and syntactic factors influence the embedding quality. We find that semantic
+            features such as properties and subevents generally enhance performance,
+            while roles tend to have a detrimental effect. On the syntactic side,
+            although differences were not statistically significant across all metrics,
+            reification and rdf-star achieved the strongest results on average.
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Inès
+            lastName: Blin
+        -   creatorType: author
+            firstName: Ilaria
+            lastName: Tiddi
+        -   creatorType: author
+            firstName: Annette
+            lastName: ten Teije
+        -   creatorType: editor
+            firstName: Daniel
+            lastName: Garijo
+        -   creatorType: editor
+            firstName: Sabrina
+            lastName: Kirrane
+        -   creatorType: editor
+            firstName: Angelo
+            lastName: Salatino
+        -   creatorType: editor
+            firstName: Cogan
+            lastName: Shimizu
+        -   creatorType: editor
+            firstName: Maribel
+            lastName: Acosta
+        -   creatorType: editor
+            firstName: Andrea Giovanni
+            lastName: Nuzzolese
+        -   creatorType: editor
+            firstName: Sebastián
+            lastName: Ferrada
+        -   creatorType: editor
+            firstName: Thibaut
+            lastName: Soulard
+        -   creatorType: editor
+            firstName: Kouji
+            lastName: Kozaki
+        -   creatorType: editor
+            firstName: Hideaki
+            lastName: Takeda
+        -   creatorType: editor
+            firstName: Anna Lisa
+            lastName: Gentile
+        date: '2026'
+        dateAdded: '2025-11-02T01:40:00Z'
+        dateModified: '2025-11-02T01:40:00Z'
+        extra: ''
+        itemType: conferencePaper
+        key: JUYY7BW2
+        language: en
+        libraryCatalog: Springer Link
+        pages: 481-501
+        place: Cham
+        proceedingsTitle: The Semantic Web – ISWC 2025
+        publisher: Springer Nature Switzerland
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: Measuring the Impact of Narrative Complexity on Knowledge Graph Embeddings
+        url: ''
+        version: 1097
+        volume: ''
+    key: JUYY7BW2
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/JUYY7BW2
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/JUYY7BW2
+            type: application/json
+    meta:
+        createdByUser:
+            id: 7770939
+            links:
+                alternate:
+                    href: https://www.zotero.org/inesblin
+                    type: text/html
+            name: ''
+            username: inesblin
+        creatorSummary: Blin et al.
+        numChildren: 1
+        parsedDate: '2026'
+    version: 1097
+-   data:
         DOI: ''
         ISBN: 978-88-6719-333-2
         abstractNote: Concept Maps are semantic graph summary representations of relations
