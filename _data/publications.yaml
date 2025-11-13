@@ -67,9 +67,9 @@
         -   creatorType: editor
             firstName: Anna Lisa
             lastName: Gentile
-        date: '2026'
+        date: '2025'
         dateAdded: '2025-11-02T01:40:00Z'
-        dateModified: '2025-11-02T01:40:00Z'
+        dateModified: '2025-11-13T16:17:53Z'
         extra: ''
         itemType: conferencePaper
         key: JUYY7BW2
@@ -86,7 +86,7 @@
         tags: []
         title: Measuring the Impact of Narrative Complexity on Knowledge Graph Embeddings
         url: ''
-        version: 1097
+        version: 1101
         volume: ''
     key: JUYY7BW2
     library:
@@ -114,9 +114,17 @@
             name: ''
             username: inesblin
         creatorSummary: Blin et al.
+        lastModifiedByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
         numChildren: 1
-        parsedDate: '2026'
-    version: 1097
+        parsedDate: '2025'
+    version: 1101
 -   data:
         DOI: ''
         ISBN: 978-88-6719-333-2
