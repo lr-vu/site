@@ -1,4 +1,81 @@
 -   data:
+        ISBN: ''
+        abstractNote: ''
+        accessDate: '2025-11-13T17:03:43Z'
+        archive: ''
+        archiveLocation: ''
+        bookTitle: HHAI 2025
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: In&#232
+            lastName: Blin
+        -   creatorType: author
+            firstName: ''
+            lastName: s
+        -   creatorType: author
+            firstName: Ilaria
+            lastName: Tiddi
+        -   creatorType: author
+            firstName: Giuliana
+            lastName: Spadaro
+        -   creatorType: author
+            firstName: Annette
+            lastName: Ten Teije
+        date: '2025'
+        dateAdded: '2025-11-13T17:03:43Z'
+        dateModified: '2025-11-13T17:03:43Z'
+        edition: ''
+        extra: 'DOI: 10.3233/FAIA250652'
+        itemType: bookSection
+        key: PANXKVLJ
+        language: en
+        libraryCatalog: ebooks.iospress.nl
+        numberOfVolumes: ''
+        pages: 353-368
+        place: ''
+        publisher: IOS Press
+        relations: {}
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: Automated Hypothesis Generation for Human Cooperation Studies
+        url: https://ebooks.iospress.nl/doi/10.3233/FAIA250652
+        version: 1104
+        volume: ''
+    key: PANXKVLJ
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/PANXKVLJ
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/PANXKVLJ
+            type: application/json
+    meta:
+        createdByUser:
+            id: 7770939
+            links:
+                alternate:
+                    href: https://www.zotero.org/inesblin
+                    type: text/html
+            name: ''
+            username: inesblin
+        creatorSummary: Blin et al.
+        numChildren: 1
+        parsedDate: '2025'
+    version: 1104
+-   data:
         DOI: 10.1007/978-3-032-09527-5_26
         ISBN: 978-3-032-09527-5
         abstractNote: In this work, we study how semantic narrative enrichment and
