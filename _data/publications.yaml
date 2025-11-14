@@ -1,4 +1,83 @@
 -   data:
+        DOI: 10.48550/arXiv.2506.20057
+        abstractNote: We investigate the use of randomly generated data for the sake
+            of pre-training a model. We justify this approach theoretically from the
+            perspective of algorithmic complexity, building on recent research that
+            shows that sequence models can be trained to approximate Solomonoff induction.
+            We derive similar, but complementary theoretical results. We show empirically
+            that synthetically generated data can be used to pre-train a model before
+            the data is seen. We replicate earlier results that models trained this
+            way show zero-shot in-context learning across a variety of datasets, and
+            that this performance improves with scale. We extend earlier results to
+            real-world data, and show that finetuning a model after pre-training offers
+            faster convergence and better generalization.
+        accessDate: '2025-11-14T10:04:56Z'
+        archive: ''
+        archiveID: arXiv:2506.20057
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: ''
+        collections:
+        - VSP3MV9F
+        creators:
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        date: '2025-06-26'
+        dateAdded: '2025-11-14T10:05:00Z'
+        dateModified: '2025-11-14T10:05:41Z'
+        extra: arXiv:2506.20057
+        genre: ''
+        itemType: preprint
+        key: IHTXWKXU
+        language: ''
+        libraryCatalog: arXiv.org
+        place: ''
+        relations: {}
+        repository: arXiv
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags:
+        -   tag: Computer Science - Machine Learning
+        -   tag: kolmogorov complexity
+        -   tag: large language models
+        -   tag: machine learning
+        -   tag: pre-print
+        title: Universal pre-training by iterated random computation
+        url: http://arxiv.org/abs/2506.20057
+        version: 1126
+    key: IHTXWKXU
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/IHTXWKXU
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/IHTXWKXU
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: Bloem
+        numChildren: 0
+        parsedDate: '2025-06-26'
+    version: 1126
+-   data:
         ISBN: ''
         abstractNote: ''
         accessDate: ''
