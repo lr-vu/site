@@ -1,6 +1,1003 @@
 -   data:
         ISBN: ''
         abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        bookTitle: Handbook on Neurosymbolic AI and Knowledge Graphs
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: M. Jaleed
+            lastName: Khan
+        -   creatorType: author
+            firstName: Filip
+            lastName: Ilievski
+        -   creatorType: author
+            firstName: Edward
+            lastName: Curry
+        date: '2025'
+        dateAdded: '2025-11-14T09:42:29Z'
+        dateModified: '2025-11-14T09:42:29Z'
+        edition: ''
+        extra: ''
+        itemType: bookSection
+        key: YLJB2TC5
+        language: ''
+        libraryCatalog: ''
+        numberOfVolumes: ''
+        pages: 689–711
+        place: ''
+        publisher: ebooks.iospress.nl
+        relations: {}
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: Neurosymbolic Visual Reasoning with Scene Graphs and Multimodal LLMs
+        url: ''
+        version: 1116
+        volume: '400'
+    key: YLJB2TC5
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/YLJB2TC5
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/YLJB2TC5
+            type: application/json
+    meta:
+        createdByUser:
+            id: 13135791
+            links:
+                alternate:
+                    href: https://www.zotero.org/filipilievski
+                    type: text/html
+            name: ''
+            username: filipilievski
+        creatorSummary: Khan et al.
+        numChildren: 0
+        parsedDate: '2025'
+    version: 1116
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Fabian
+            lastName: Hoppe
+        -   creatorType: author
+            firstName: Filip
+            lastName: Ilievski
+        -   creatorType: author
+            firstName: Jan-Christoph
+            lastName: Kalo
+        date: '2025'
+        dateAdded: '2025-11-14T09:42:29Z'
+        dateModified: '2025-11-14T09:42:29Z'
+        extra: ''
+        itemType: conferencePaper
+        key: 2TCPVKYW
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        place: ''
+        proceedingsTitle: ECAI
+        publisher: ''
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: Investigating the robustness of deductive reasoning with large language
+            models
+        url: ''
+        version: 1116
+        volume: ''
+    key: 2TCPVKYW
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/2TCPVKYW
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/2TCPVKYW
+            type: application/json
+    meta:
+        createdByUser:
+            id: 13135791
+            links:
+                alternate:
+                    href: https://www.zotero.org/filipilievski
+                    type: text/html
+            name: ''
+            username: filipilievski
+        creatorSummary: Hoppe et al.
+        numChildren: 0
+        parsedDate: '2025'
+    version: 1116
+-   data:
+        DOI: ''
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Filip
+            lastName: Ilievski
+        -   creatorType: author
+            firstName: Barbara
+            lastName: Hammer
+        -   creatorType: author
+            firstName: Frank
+            lastName: van Harmelen
+        -   creatorType: author
+            firstName: Benjamin
+            lastName: Paassen
+        -   creatorType: author
+            firstName: Sascha
+            lastName: Saralajew
+        -   creatorType: author
+            firstName: Ute
+            lastName: Schmid
+        -   creatorType: author
+            firstName: Michael
+            lastName: Biehl
+        -   creatorType: author
+            firstName: Marianna
+            lastName: Bolognesi
+        -   creatorType: author
+            firstName: Xin Luna
+            lastName: Dong
+        -   creatorType: author
+            firstName: Kiril
+            lastName: Gashteovski
+        -   creatorType: author
+            name: others
+        date: '2025'
+        dateAdded: '2025-11-14T09:42:29Z'
+        dateModified: '2025-11-14T09:42:29Z'
+        extra: 'Publisher: Nature Publishing Group UK London'
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: AV2DVUHB
+        language: ''
+        libraryCatalog: ''
+        pages: 1–12
+        publicationTitle: Nature Machine Intelligence
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: Aligning generalization between humans and machines
+        url: ''
+        version: 1116
+        volume: ''
+    key: AV2DVUHB
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/AV2DVUHB
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/AV2DVUHB
+            type: application/json
+    meta:
+        createdByUser:
+            id: 13135791
+            links:
+                alternate:
+                    href: https://www.zotero.org/filipilievski
+                    type: text/html
+            name: ''
+            username: filipilievski
+        creatorSummary: Ilievski et al.
+        numChildren: 0
+        parsedDate: '2025'
+    version: 1116
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Giulia
+            lastName: Rambelli
+        -   creatorType: author
+            firstName: Filip
+            lastName: Ilievski
+        -   creatorType: author
+            firstName: Marianna
+            lastName: Bolognesi
+        -   creatorType: author
+            firstName: Pia
+            lastName: Sommerauer
+        date: '2025'
+        dateAdded: '2025-11-14T09:42:29Z'
+        dateModified: '2025-11-14T09:42:29Z'
+        extra: ''
+        itemType: conferencePaper
+        key: KIUMRWZ7
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        place: ''
+        proceedingsTitle: Proceedings of the 2nd Workshop on Analogical Abstraction
+            in Cognition, Perception, and Language (Analogy-Angle II)
+        publisher: ''
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: Proceedings of the 2nd Workshop on Analogical Abstraction in Cognition,
+            Perception, and Language (Analogy-Angle II)
+        url: ''
+        version: 1116
+        volume: ''
+    key: KIUMRWZ7
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/KIUMRWZ7
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/KIUMRWZ7
+            type: application/json
+    meta:
+        createdByUser:
+            id: 13135791
+            links:
+                alternate:
+                    href: https://www.zotero.org/filipilievski
+                    type: text/html
+            name: ''
+            username: filipilievski
+        creatorSummary: Rambelli et al.
+        numChildren: 0
+        parsedDate: '2025'
+    version: 1116
+-   data:
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        bookTitle: Handbook on Neurosymbolic AI and Knowledge Graphs
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Filip
+            lastName: Ilievski
+        -   creatorType: author
+            firstName: Riccardo
+            lastName: Tommasini
+        date: '2025'
+        dateAdded: '2025-11-14T09:42:29Z'
+        dateModified: '2025-11-14T09:42:29Z'
+        edition: ''
+        extra: ''
+        itemType: bookSection
+        key: CI4RXQYI
+        language: ''
+        libraryCatalog: ''
+        numberOfVolumes: ''
+        pages: 1057–1087
+        place: ''
+        publisher: ebooks.iospress.nl
+        relations: {}
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: Capturing the Semantics of Internet Memes
+        url: ''
+        version: 1116
+        volume: '400'
+    key: CI4RXQYI
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/CI4RXQYI
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/CI4RXQYI
+            type: application/json
+    meta:
+        createdByUser:
+            id: 13135791
+            links:
+                alternate:
+                    href: https://www.zotero.org/filipilievski
+                    type: text/html
+            name: ''
+            username: filipilievski
+        creatorSummary: Ilievski and Tommasini
+        numChildren: 0
+        parsedDate: '2025'
+    version: 1116
+-   data:
+        DOI: 10.48550/ARXIV.2509.07733
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Mustafa Kaan
+            lastName: Aslan
+        -   creatorType: author
+            firstName: Reinout
+            lastName: Heijungs
+        -   creatorType: author
+            firstName: Filip
+            lastName: Ilievski
+        date: '2025'
+        dateAdded: '2025-11-14T09:36:51Z'
+        dateModified: '2025-11-14T09:36:51Z'
+        extra: 'arXiv: 2509.07733'
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: BCII8BVH
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        publicationTitle: CoRR
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: 'The Carbon Footprint Wizard: A Knowledge-Augmented AI Interface for
+            Streamlining Food Carbon Footprint Analysis'
+        url: https://doi.org/10.48550/arXiv.2509.07733
+        version: 1115
+        volume: abs/2509.07733
+    key: BCII8BVH
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/BCII8BVH
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/BCII8BVH
+            type: application/json
+    meta:
+        createdByUser:
+            id: 13135791
+            links:
+                alternate:
+                    href: https://www.zotero.org/filipilievski
+                    type: text/html
+            name: ''
+            username: filipilievski
+        creatorSummary: Aslan et al.
+        numChildren: 0
+        parsedDate: '2025'
+    version: 1115
+-   data:
+        DOI: 10.48550/ARXIV.2508.10956
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Abhishek
+            lastName: Kolari
+        -   creatorType: author
+            firstName: Mohammadhossein
+            lastName: Khojasteh
+        -   creatorType: author
+            firstName: Yifan
+            lastName: Jiang
+        -   creatorType: author
+            firstName: Floris den
+            lastName: Hengst
+        -   creatorType: author
+            firstName: Filip
+            lastName: Ilievski
+        date: '2025'
+        dateAdded: '2025-11-14T09:36:37Z'
+        dateModified: '2025-11-14T09:36:37Z'
+        extra: 'arXiv: 2508.10956'
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: MXHS6FU7
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        publicationTitle: CoRR
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: 'ORBIT: An Object Property Reasoning Benchmark for Visual Inference
+            Tasks'
+        url: https://doi.org/10.48550/arXiv.2508.10956
+        version: 1114
+        volume: abs/2508.10956
+    key: MXHS6FU7
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/MXHS6FU7
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/MXHS6FU7
+            type: application/json
+    meta:
+        createdByUser:
+            id: 13135791
+            links:
+                alternate:
+                    href: https://www.zotero.org/filipilievski
+                    type: text/html
+            name: ''
+            username: filipilievski
+        creatorSummary: Kolari et al.
+        numChildren: 0
+        parsedDate: '2025'
+    version: 1114
+-   data:
+        DOI: 10.48550/ARXIV.2507.09751
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Bradley P.
+            lastName: Allen
+        -   creatorType: author
+            firstName: Prateek
+            lastName: Chhikara
+        -   creatorType: author
+            firstName: Thomas Macaulay
+            lastName: Ferguson
+        -   creatorType: author
+            firstName: Filip
+            lastName: Ilievski
+        -   creatorType: author
+            firstName: Paul
+            lastName: Groth
+        date: '2025'
+        dateAdded: '2025-11-14T09:36:24Z'
+        dateModified: '2025-11-14T09:36:24Z'
+        extra: 'arXiv: 2507.09751'
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: DEXUEJLU
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        publicationTitle: CoRR
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: Sound and Complete Neurosymbolic Reasoning with LLM-Grounded Interpretations
+        url: https://doi.org/10.48550/arXiv.2507.09751
+        version: 1113
+        volume: abs/2507.09751
+    key: DEXUEJLU
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/DEXUEJLU
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/DEXUEJLU
+            type: application/json
+    meta:
+        createdByUser:
+            id: 13135791
+            links:
+                alternate:
+                    href: https://www.zotero.org/filipilievski
+                    type: text/html
+            name: ''
+            username: filipilievski
+        creatorSummary: Allen et al.
+        numChildren: 0
+        parsedDate: '2025'
+    version: 1113
+-   data:
+        DOI: 10.48550/ARXIV.2502.04352
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Fabian
+            lastName: Hoppe
+        -   creatorType: author
+            firstName: Filip
+            lastName: Ilievski
+        -   creatorType: author
+            firstName: Jan-Christoph
+            lastName: Kalo
+        date: '2025'
+        dateAdded: '2025-11-14T09:36:07Z'
+        dateModified: '2025-11-14T09:36:07Z'
+        extra: 'arXiv: 2502.04352'
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: VD2HEP8D
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        publicationTitle: CoRR
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: Investigating the Robustness of Deductive Reasoning with Large Language
+            Models
+        url: https://doi.org/10.48550/arXiv.2502.04352
+        version: 1112
+        volume: abs/2502.04352
+    key: VD2HEP8D
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/VD2HEP8D
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/VD2HEP8D
+            type: application/json
+    meta:
+        createdByUser:
+            id: 13135791
+            links:
+                alternate:
+                    href: https://www.zotero.org/filipilievski
+                    type: text/html
+            name: ''
+            username: filipilievski
+        creatorSummary: Hoppe et al.
+        numChildren: 0
+        parsedDate: '2025'
+    version: 1112
+-   data:
+        DOI: 10.1609/ICWSM.V19I1.35815
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Tygo
+            lastName: Bloem
+        -   creatorType: author
+            firstName: Filip
+            lastName: Ilievski
+        -   creatorType: editor
+            firstName: Jisun
+            lastName: An
+        -   creatorType: editor
+            firstName: Yu-Ru
+            lastName: Lin
+        -   creatorType: editor
+            firstName: Yelena
+            lastName: Mejova
+        -   creatorType: editor
+            firstName: Eni
+            lastName: Mustafaraj
+        -   creatorType: editor
+            firstName: Juhi
+            lastName: Kulshrestha
+        -   creatorType: editor
+            firstName: Ingmar
+            lastName: Weber
+        date: '2025'
+        dateAdded: '2025-11-14T09:35:46Z'
+        dateModified: '2025-11-14T09:35:46Z'
+        extra: ''
+        itemType: conferencePaper
+        key: MVBIUKM8
+        language: ''
+        libraryCatalog: ''
+        pages: 259–276
+        place: ''
+        proceedingsTitle: Proceedings of the Nineteenth International AAAI Conference
+            on Web and Social Media, June 23-26, 2025, Copenhagen, Denmark
+        publisher: AAAI Press
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: Clustering Internet Memes Through Template Matching and Multi-Dimensional
+            Similarity
+        url: https://doi.org/10.1609/icwsm.v19i1.35815
+        version: 1111
+        volume: ''
+    key: MVBIUKM8
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/MVBIUKM8
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/MVBIUKM8
+            type: application/json
+    meta:
+        createdByUser:
+            id: 13135791
+            links:
+                alternate:
+                    href: https://www.zotero.org/filipilievski
+                    type: text/html
+            name: ''
+            username: filipilievski
+        creatorSummary: Bloem and Ilievski
+        numChildren: 0
+        parsedDate: '2025'
+    version: 1111
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Jiarui
+            lastName: Zhang
+        -   creatorType: author
+            firstName: Mahyar
+            lastName: Khayatkhoei
+        -   creatorType: author
+            firstName: Prateek
+            lastName: Chhikara
+        -   creatorType: author
+            firstName: Filip
+            lastName: Ilievski
+        date: '2025'
+        dateAdded: '2025-11-14T09:35:23Z'
+        dateModified: '2025-11-14T09:35:23Z'
+        extra: ''
+        itemType: conferencePaper
+        key: I37KW2YX
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        place: ''
+        proceedingsTitle: The Thirteenth International Conference on Learning Representations,
+            ICLR 2025, Singapore, April 24-28, 2025
+        publisher: OpenReview.net
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: 'MLLMs Know Where to Look: Training-free Perception of Small Visual
+            Details with Multimodal LLMs'
+        url: https://openreview.net/forum?id=DgaY5mDdmT
+        version: 1110
+        volume: ''
+    key: I37KW2YX
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/I37KW2YX
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/I37KW2YX
+            type: application/json
+    meta:
+        createdByUser:
+            id: 13135791
+            links:
+                alternate:
+                    href: https://www.zotero.org/filipilievski
+                    type: text/html
+            name: ''
+            username: filipilievski
+        creatorSummary: Zhang et al.
+        numChildren: 0
+        parsedDate: '2025'
+    version: 1110
+-   data:
+        DOI: 10.1109/CVPR52734.2025.00310
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Huabin
+            lastName: Liu
+        -   creatorType: author
+            firstName: Filip
+            lastName: Ilievski
+        -   creatorType: author
+            firstName: Cees G. M.
+            lastName: Snoek
+        date: '2025'
+        dateAdded: '2025-11-14T09:34:45Z'
+        dateModified: '2025-11-14T09:34:45Z'
+        extra: ''
+        itemType: conferencePaper
+        key: 75TEPDTX
+        language: ''
+        libraryCatalog: ''
+        pages: 3262–3271
+        place: ''
+        proceedingsTitle: IEEE/CVF Conference on Computer Vision and Pattern Recognition,
+            CVPR 2025, Nashville, TN, USA, June 11-15, 2025
+        publisher: Computer Vision Foundation / IEEE
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: Commonsense Video Question Answering through Video-Grounded Entailment
+            Tree Reasoning
+        url: https://openaccess.thecvf.com/content/CVPR2025/html/Liu\_Commonsense\_Video\_Question\_Answering\_through\_Video-Grounded\_Entailment\_Tree\_Reasoning\_CVPR\_2025\_paper.html
+        version: 1109
+        volume: ''
+    key: 75TEPDTX
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/75TEPDTX
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/75TEPDTX
+            type: application/json
+    meta:
+        createdByUser:
+            id: 13135791
+            links:
+                alternate:
+                    href: https://www.zotero.org/filipilievski
+                    type: text/html
+            name: ''
+            username: filipilievski
+        creatorSummary: Liu et al.
+        numChildren: 0
+        parsedDate: '2025'
+    version: 1109
+-   data:
+        DOI: 10.1609/AAAI.V39I4.32464
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Koen
+            lastName: Kraaijveld
+        -   creatorType: author
+            firstName: Yifan
+            lastName: Jiang
+        -   creatorType: author
+            firstName: Kaixin
+            lastName: Ma
+        -   creatorType: author
+            firstName: Filip
+            lastName: Ilievski
+        -   creatorType: editor
+            firstName: Toby
+            lastName: Walsh
+        -   creatorType: editor
+            firstName: Julie
+            lastName: Shah
+        -   creatorType: editor
+            firstName: Zico
+            lastName: Kolter
+        date: '2025'
+        dateAdded: '2025-11-14T09:34:30Z'
+        dateModified: '2025-11-14T09:34:30Z'
+        extra: ''
+        itemType: conferencePaper
+        key: IGW48K9Y
+        language: ''
+        libraryCatalog: ''
+        pages: 4410–4418
+        place: ''
+        proceedingsTitle: AAAI-25, Sponsored by the Association for the Advancement
+            of Artificial Intelligence, February 25 - March 4, 2025, Philadelphia,
+            PA, USA
+        publisher: AAAI Press
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: 'COLUMBUS: Evaluating COgnitive Lateral Understanding Through Multiple-Choice
+            reBUSes'
+        url: https://doi.org/10.1609/aaai.v39i4.32464
+        version: 1108
+        volume: ''
+    key: IGW48K9Y
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/IGW48K9Y
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/IGW48K9Y
+            type: application/json
+    meta:
+        createdByUser:
+            id: 13135791
+            links:
+                alternate:
+                    href: https://www.zotero.org/filipilievski
+                    type: text/html
+            name: ''
+            username: filipilievski
+        creatorSummary: Kraaijveld et al.
+        numChildren: 0
+        parsedDate: '2025'
+    version: 1108
+-   data:
+        ISBN: ''
+        abstractNote: ''
         accessDate: '2025-11-13T17:03:43Z'
         archive: ''
         archiveLocation: ''
@@ -1513,149 +2510,6 @@
         numChildren: 0
         parsedDate: '2023'
     version: 1060
--   data:
-        DOI: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveID: ''
-        archiveLocation: ''
-        callNumber: ''
-        citationKey: ilievskiAligningGeneralisationHumans2024
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Filip
-            lastName: Ilievski
-        -   creatorType: author
-            firstName: Barbara
-            lastName: Hammer
-        -   creatorType: author
-            firstName: Frank van
-            lastName: Harmelen
-        -   creatorType: author
-            firstName: Benjamin
-            lastName: Paassen
-        -   creatorType: author
-            firstName: Sascha
-            lastName: Saralajew
-        -   creatorType: author
-            firstName: Ute
-            lastName: Schmid
-        -   creatorType: author
-            firstName: Michael
-            lastName: Biehl
-        -   creatorType: author
-            firstName: Marianna
-            lastName: Bolognesi
-        -   creatorType: author
-            firstName: Xin Luna
-            lastName: Dong
-        -   creatorType: author
-            firstName: Kiril
-            lastName: Gashteovski
-        -   creatorType: author
-            firstName: Pascal
-            lastName: Hitzler
-        -   creatorType: author
-            firstName: Giuseppe
-            lastName: Marra
-        -   creatorType: author
-            firstName: Pasquale
-            lastName: Minervini
-        -   creatorType: author
-            firstName: Martin
-            lastName: Mundt
-        -   creatorType: author
-            firstName: Axel-Cyrille Ngonga
-            lastName: Ngomo
-        -   creatorType: author
-            firstName: Alessandro
-            lastName: Oltramari
-        -   creatorType: author
-            firstName: Gabriella
-            lastName: Pasi
-        -   creatorType: author
-            firstName: Zeynep G.
-            lastName: Saribatur
-        -   creatorType: author
-            firstName: Luciano
-            lastName: Serafini
-        -   creatorType: author
-            firstName: John
-            lastName: Shawe-Taylor
-        -   creatorType: author
-            firstName: Vered
-            lastName: Shwartz
-        -   creatorType: author
-            firstName: Gabriella
-            lastName: Skitalinskaya
-        -   creatorType: author
-            firstName: Clemens
-            lastName: Stachl
-        -   creatorType: author
-            firstName: Gido M. van de
-            lastName: Ven
-        -   creatorType: author
-            firstName: Thomas
-            lastName: Villmann
-        date: '2024'
-        dateAdded: '2024-12-03T09:49:04Z'
-        dateModified: '2025-07-07T13:32:04Z'
-        extra: '_eprint: 2411.15626'
-        genre: ''
-        itemType: preprint
-        key: 62V8NGNG
-        language: ''
-        libraryCatalog: ''
-        place: ''
-        relations: {}
-        repository: ''
-        rights: ''
-        series: ''
-        seriesNumber: ''
-        shortTitle: ''
-        tags: []
-        title: Aligning Generalisation Between Humans and Machines
-        url: https://arxiv.org/abs/2411.15626
-        version: 1061
-    key: 62V8NGNG
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/62V8NGNG
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/62V8NGNG
-            type: application/json
-    meta:
-        createdByUser:
-            id: 11114839
-            links:
-                alternate:
-                    href: https://www.zotero.org/frank.van.harmelen
-                    type: text/html
-            name: Frank van Harmelen
-            username: Frank.van.Harmelen
-        creatorSummary: Ilievski et al.
-        lastModifiedByUser:
-            id: 6261094
-            links:
-                alternate:
-                    href: https://www.zotero.org/hemile
-                    type: text/html
-            name: ''
-            username: hemile
-        numChildren: 0
-        parsedDate: '2024'
-    version: 1061
 -   data:
         DOI: 10.4230/DAGREP.14.5.1
         ISSN: ''
@@ -4845,87 +5699,6 @@
             username: hemile
         numChildren: 0
         parsedDate: '2024'
-    version: 1061
--   data:
-        DOI: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveID: ''
-        archiveLocation: ''
-        callNumber: ''
-        citationKey: kraaijveldCOLUMBUSEvaluatingCOgnitive2025
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Koen
-            lastName: Kraaijveld
-        -   creatorType: author
-            firstName: Yifan
-            lastName: Jiang
-        -   creatorType: author
-            firstName: Kaixin
-            lastName: Ma
-        -   creatorType: author
-            firstName: Filip
-            lastName: Ilievski
-        date: '2025'
-        dateAdded: '2024-12-17T13:04:40Z'
-        dateModified: '2025-07-07T13:12:17Z'
-        extra: ''
-        genre: ''
-        itemType: preprint
-        key: QU6DS9U9
-        language: ''
-        libraryCatalog: ''
-        place: ''
-        relations: {}
-        repository: ''
-        rights: ''
-        series: ''
-        seriesNumber: ''
-        shortTitle: ''
-        tags: []
-        title: 'COLUMBUS: Evaluating COgnitive Lateral Understanding through Multiple-choice
-            reBUSes'
-        url: https://doi.org/10.48550/arXiv.2409.04053
-        version: 1061
-    key: QU6DS9U9
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/QU6DS9U9
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/QU6DS9U9
-            type: application/json
-    meta:
-        createdByUser:
-            id: 13135791
-            links:
-                alternate:
-                    href: https://www.zotero.org/filipilievski
-                    type: text/html
-            name: ''
-            username: filipilievski
-        creatorSummary: Kraaijveld et al.
-        lastModifiedByUser:
-            id: 6261094
-            links:
-                alternate:
-                    href: https://www.zotero.org/hemile
-                    type: text/html
-            name: ''
-            username: hemile
-        numChildren: 0
-        parsedDate: '2025'
     version: 1061
 -   data:
         DOI: 10.1007/978-3-031-71167-1_14
