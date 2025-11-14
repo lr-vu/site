@@ -1,4 +1,97 @@
 -   data:
+        DOI: ''
+        ISSN: 2640-3498
+        abstractNote: 'Link Prediction (LP) in Knowledge Graphs (KGs) is typically
+            framed as ranking candidate entities for a query of the form (entity,
+            relation, ?), with models evaluated on their ability to rank the correct
+            entities for each query. At the same time, Knowledge Graph Embedding (KGE)
+            models used for this task produce unnormalised scores, making it unclear
+            how to interpret their belief in the truthfulness of triples across different
+            queries. Together, these two factors create a blind spot: models can achieve
+            perfect rankings while assigning scores that are not comparable across
+            queries, limiting their utility in downstream tasks or even in identifying
+            the most plausible triples overall. Indeed, this issue becomes clear when
+            test triples are ranked globally and evaluated with IR metrics, revealing
+            that models with unnormalized scores often perform poorly due to inconsistent
+            scoring across queries. To address this problem, we propose a new KGE
+            model, called ART, which exploits probabilistic Auto-Regressive modelling
+            and hence is normalised by design. Despite its conceptual simplicity,
+            we show that ART outperforms prior art for discriminative and generative
+            LP as well as other post-hoc calibration techniques.'
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Yannick
+            lastName: Brunink
+        -   creatorType: author
+            firstName: Michael
+            lastName: Cochez
+        -   creatorType: author
+            firstName: Jacopo
+            lastName: Urbani
+        date: '2025'
+        dateAdded: '2025-11-14T20:38:00Z'
+        dateModified: '2025-11-14T20:38:00Z'
+        extra: ''
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: 5ZRBCETM
+        language: English
+        libraryCatalog: ''
+        pages: 1–21
+        publicationTitle: Proceedings of Machine Learning Research
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags:
+        -   tag: Generative Models
+            type: 1
+        -   tag: Knowledge Graphs
+            type: 1
+        -   tag: Link Prediction
+            type: 1
+        title: The ART of Link Prediction with KGEs
+        url: ''
+        version: 1131
+        volume: '284'
+    key: 5ZRBCETM
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/5ZRBCETM
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/5ZRBCETM
+            type: application/json
+    meta:
+        createdByUser:
+            id: 13163396
+            links:
+                alternate:
+                    href: https://www.zotero.org/ybrunink
+                    type: text/html
+            name: ''
+            username: ybrunink
+        creatorSummary: Brunink et al.
+        numChildren: 1
+        parsedDate: '2025'
+    version: 1131
+-   data:
         DOI: 10.48550/arXiv.2506.20057
         abstractNote: We investigate the use of randomly generated data for the sake
             of pre-training a model. We justify this approach theoretically from the
