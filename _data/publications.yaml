@@ -1,4 +1,625 @@
 -   data:
+        DOI: https://doi.org/10.1016/j.imu.2025.101673
+        ISSN: 2352-9148
+        abstractNote: Clinical practice guidelines (CPGs) play a pivotal role in elevating
+            healthcare quality. However, their traditional single-disease focus falls
+            short in addressing the complexities of multimorbidity, a condition increasingly
+            prevalent in an aging population. This discrepancy necessitates that healthcare
+            providers juggle multiple guidelines to formulate comprehensive care plans
+            for such patients. Our paper introduces an innovative methodology designed
+            to streamline this process by cross-linking different CPGs, thereby facilitating
+            more efficient navigation across various guidelines. This approach is
+            grounded in language-agnostic principles and leverages Semantic Web technologies
+            to connect guideline terms to biomedical knowledge sources like SNOMED.
+            Our methodology has undergone validation by medical practitioners and
+            guideline developers, particularly within the context of Dutch CPGs. The
+            results of these experiments underscore the effectiveness of our approach,
+            demonstrating its potential to contribute to key issues associated with
+            CPGs in multimorbidity scenarios, such as computer-interpretable clinical
+            guidelines and the interaction of multiple CPGs. Furthermore, the outcomes
+            of this method extend beyond immediate practical applications, offering
+            valuable insights for the enhancement of guideline databases and medical
+            knowledge bases like SNOMED. By bridging gaps between separate guidelines,
+            our method represents a step forward in the integrated management of multimorbidity
+            in CPGs.
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Majid
+            lastName: Mohammadi
+        -   creatorType: author
+            firstName: Annette ten
+            lastName: Teije
+        -   creatorType: author
+            firstName: Tim
+            lastName: Christen
+        -   creatorType: author
+            firstName: Janke de
+            lastName: Groot
+        -   creatorType: author
+            firstName: Marlies
+            lastName: Verhoeff
+        date: '2025'
+        dateAdded: '2025-11-16T20:41:32Z'
+        dateModified: '2025-11-16T20:41:32Z'
+        extra: ''
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: 6JWRSNMN
+        language: ''
+        libraryCatalog: ''
+        pages: '101673'
+        publicationTitle: Informatics in Medicine Unlocked
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags:
+        -   tag: Clinical practice guideline
+        -   tag: Computer-interpretable guideline
+        -   tag: Entity linking
+        -   tag: Multimorbidity
+        title: Cross-linking clinical practice guidelines for multimorbidity
+        url: https://www.sciencedirect.com/science/article/pii/S2352914825000619
+        version: 1138
+        volume: '58'
+    key: 6JWRSNMN
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/6JWRSNMN
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/6JWRSNMN
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11405446
+            links:
+                alternate:
+                    href: https://www.zotero.org/annettetenteije
+                    type: text/html
+            name: ''
+            username: annettetenteije
+        creatorSummary: Mohammadi et al.
+        numChildren: 0
+        parsedDate: '2025'
+    version: 1138
+-   data:
+        DOI: 10.1007/978-3-032-09527-5_26
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Inès
+            lastName: Blin
+        -   creatorType: author
+            firstName: Ilaria
+            lastName: Tiddi
+        -   creatorType: author
+            firstName: Annette ten
+            lastName: Teije
+        -   creatorType: editor
+            firstName: Daniel
+            lastName: Garijo
+        -   creatorType: editor
+            firstName: Sabrina
+            lastName: Kirrane
+        -   creatorType: editor
+            firstName: Angelo A.
+            lastName: Salatino
+        -   creatorType: editor
+            firstName: Cogan
+            lastName: Shimizu
+        -   creatorType: editor
+            firstName: Maribel
+            lastName: Acosta
+        -   creatorType: editor
+            firstName: Andrea Giovanni
+            lastName: Nuzzolese
+        -   creatorType: editor
+            firstName: Sebastián
+            lastName: Ferrada
+        -   creatorType: editor
+            firstName: Thibaut
+            lastName: Soulard
+        -   creatorType: editor
+            firstName: Kouji
+            lastName: Kozaki
+        -   creatorType: editor
+            firstName: Hideaki
+            lastName: Takeda
+        -   creatorType: editor
+            firstName: Anna Lisa
+            lastName: Gentile
+        date: '2025'
+        dateAdded: '2025-11-16T20:37:53Z'
+        dateModified: '2025-11-16T20:37:53Z'
+        extra: ''
+        itemType: conferencePaper
+        key: NL7T4JIR
+        language: ''
+        libraryCatalog: ''
+        pages: 481–501
+        place: ''
+        proceedingsTitle: The Semantic Web - ISWC 2025 - 24th International Semantic
+            Web Conference, Nara, Japan, November 2-6, 2025, Proceedings, Part I
+        publisher: Springer
+        relations: {}
+        rights: ''
+        series: Lecture Notes in Computer Science
+        shortTitle: ''
+        tags: []
+        title: Measuring the Impact of Narrative Complexity on Knowledge Graph Embeddings
+        url: https://doi.org/10.1007/978-3-032-09527-5\_26
+        version: 1137
+        volume: '16140'
+    key: NL7T4JIR
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/NL7T4JIR
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/NL7T4JIR
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11405446
+            links:
+                alternate:
+                    href: https://www.zotero.org/annettetenteije
+                    type: text/html
+            name: ''
+            username: annettetenteije
+        creatorSummary: Blin et al.
+        numChildren: 0
+        parsedDate: '2025'
+    version: 1137
+-   data:
+        DOI: 10.5220/0013157400003911
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Syed Ihtesham Hussain
+            lastName: Shah
+        -   creatorType: author
+            firstName: Annette ten
+            lastName: Teije
+        -   creatorType: author
+            firstName: José
+            lastName: Volders
+        -   creatorType: editor
+            firstName: Jungsil
+            lastName: Kim
+        -   creatorType: editor
+            firstName: Raquel C.
+            lastName: Conceição
+        -   creatorType: editor
+            firstName: Malik
+            lastName: Yousef
+        -   creatorType: editor
+            firstName: Arnav
+            lastName: Bhavsar
+        -   creatorType: editor
+            firstName: Sylvia
+            lastName: Pelayo
+        -   creatorType: editor
+            firstName: Ana
+            lastName: Fred
+        -   creatorType: editor
+            firstName: Hugo
+            lastName: Gamboa
+        date: '2025'
+        dateAdded: '2025-11-16T20:36:53Z'
+        dateModified: '2025-11-16T20:36:53Z'
+        extra: ''
+        itemType: conferencePaper
+        key: Y5KKV9YV
+        language: ''
+        libraryCatalog: ''
+        pages: 530–539
+        place: ''
+        proceedingsTitle: 'Proceedings of the 18th International Joint Conference
+            on Biomedical Engineering Systems and Technologies, BIOSTEC 2025 - Volume
+            2: HEALTHINF, Porto, Portugal, February 20-22, 2025'
+        publisher: SCITEPRESS
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: Can We Trust Explanation! Evaluation of Model-Agnostic Explanation
+            Techniques on Highly Imbalanced, Multiclass-Multioutput Classification
+            Problem
+        url: https://doi.org/10.5220/0013157400003911
+        version: 1136
+        volume: ''
+    key: Y5KKV9YV
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/Y5KKV9YV
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/Y5KKV9YV
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11405446
+            links:
+                alternate:
+                    href: https://www.zotero.org/annettetenteije
+                    type: text/html
+            name: ''
+            username: annettetenteije
+        creatorSummary: Shah et al.
+        numChildren: 0
+        parsedDate: '2025'
+    version: 1136
+-   data:
+        DOI: 10.1007/978-3-031-95838-0_33
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Chi Him
+            lastName: Ng
+        -   creatorType: author
+            firstName: Annette ten
+            lastName: Teije
+        -   creatorType: author
+            firstName: Frank van
+            lastName: Harmelen
+        -   creatorType: editor
+            firstName: Riccardo
+            lastName: Bellazzi
+        -   creatorType: editor
+            firstName: José Manuel Juarez
+            lastName: Herrero
+        -   creatorType: editor
+            firstName: Lucia
+            lastName: Sacchi
+        -   creatorType: editor
+            firstName: Blaz
+            lastName: Zupan
+        date: '2025'
+        dateAdded: '2025-11-16T20:35:59Z'
+        dateModified: '2025-11-16T20:35:59Z'
+        extra: ''
+        itemType: conferencePaper
+        key: M4L6UUNG
+        language: ''
+        libraryCatalog: ''
+        pages: 333–343
+        place: ''
+        proceedingsTitle: Artificial Intelligence in Medicine - 23rd International
+            Conference, AIME 2025, Pavia, Italy, June 23-26, 2025, Proceedings, Part
+            I
+        publisher: Springer
+        relations: {}
+        rights: ''
+        series: Lecture Notes in Computer Science
+        shortTitle: ''
+        tags: []
+        title: A Boxology-Based Analysis of Design Patterns for Neuro-Symbolic Medical
+            Decision Making Systems
+        url: https://doi.org/10.1007/978-3-031-95838-0\_33
+        version: 1135
+        volume: '15734'
+    key: M4L6UUNG
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/M4L6UUNG
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/M4L6UUNG
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11405446
+            links:
+                alternate:
+                    href: https://www.zotero.org/annettetenteije
+                    type: text/html
+            name: ''
+            username: annettetenteije
+        creatorSummary: Ng et al.
+        numChildren: 0
+        parsedDate: '2025'
+    version: 1135
+-   data:
+        DOI: 10.1609/AAAI.V39I18.34149
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Majid
+            lastName: Mohammadi
+        -   creatorType: author
+            firstName: Ilaria
+            lastName: Tiddi
+        -   creatorType: author
+            firstName: Annette ten
+            lastName: Teije
+        -   creatorType: editor
+            firstName: Toby
+            lastName: Walsh
+        -   creatorType: editor
+            firstName: Julie
+            lastName: Shah
+        -   creatorType: editor
+            firstName: Zico
+            lastName: Kolter
+        date: '2025'
+        dateAdded: '2025-11-16T20:35:05Z'
+        dateModified: '2025-11-16T20:35:05Z'
+        extra: ''
+        itemType: conferencePaper
+        key: LZDMXMYZ
+        language: ''
+        libraryCatalog: ''
+        pages: 19520–19527
+        place: ''
+        proceedingsTitle: AAAI-25, Sponsored by the Association for the Advancement
+            of Artificial Intelligence, February 25 - March 4, 2025, Philadelphia,
+            PA, USA
+        publisher: AAAI Press
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: Support Vector-based Estimation of Multilinear Games for Feature Selection
+            and Explanation
+        url: https://doi.org/10.1609/aaai.v39i18.34149
+        version: 1134
+        volume: ''
+    key: LZDMXMYZ
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/LZDMXMYZ
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/LZDMXMYZ
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11405446
+            links:
+                alternate:
+                    href: https://www.zotero.org/annettetenteije
+                    type: text/html
+            name: ''
+            username: annettetenteije
+        creatorSummary: Mohammadi et al.
+        numChildren: 0
+        parsedDate: '2025'
+    version: 1134
+-   data:
+        DOI: 10.1609/AAAI.V39I18.34148
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Majid
+            lastName: Mohammadi
+        -   creatorType: author
+            firstName: Ilaria
+            lastName: Tiddi
+        -   creatorType: author
+            firstName: Annette ten
+            lastName: Teije
+        -   creatorType: editor
+            firstName: Toby
+            lastName: Walsh
+        -   creatorType: editor
+            firstName: Julie
+            lastName: Shah
+        -   creatorType: editor
+            firstName: Zico
+            lastName: Kolter
+        date: '2025'
+        dateAdded: '2025-11-16T20:34:26Z'
+        dateModified: '2025-11-16T20:34:26Z'
+        extra: ''
+        itemType: conferencePaper
+        key: 6FZ9YLIJ
+        language: ''
+        libraryCatalog: ''
+        pages: 19512–19519
+        place: ''
+        proceedingsTitle: AAAI-25, Sponsored by the Association for the Advancement
+            of Artificial Intelligence, February 25 - March 4, 2025, Philadelphia,
+            PA, USA
+        publisher: AAAI Press
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: 'Unlocking the Game: Estimating Games in Möbius Representation for
+            Explanation and High-Order Interaction Detection'
+        url: https://doi.org/10.1609/aaai.v39i18.34148
+        version: 1133
+        volume: ''
+    key: 6FZ9YLIJ
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/6FZ9YLIJ
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/6FZ9YLIJ
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11405446
+            links:
+                alternate:
+                    href: https://www.zotero.org/annettetenteije
+                    type: text/html
+            name: ''
+            username: annettetenteije
+        creatorSummary: Mohammadi et al.
+        numChildren: 0
+        parsedDate: '2025'
+    version: 1133
+-   data:
+        DOI: 10.3389/FRAI.2025.1440582
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Nikolaos
+            lastName: Kondylidis
+        -   creatorType: author
+            firstName: Ilaria
+            lastName: Tiddi
+        -   creatorType: author
+            firstName: Annette ten
+            lastName: Teije
+        date: '2025'
+        dateAdded: '2025-11-16T20:33:48Z'
+        dateModified: '2025-11-16T20:33:48Z'
+        extra: ''
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: 4L8QG3G6
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        publicationTitle: Frontiers Artif. Intell.
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: A framework for establishing shared, task-oriented understanding in
+            hybrid open multi-agent systems
+        url: https://doi.org/10.3389/frai.2025.1440582
+        version: 1132
+        volume: '8'
+    key: 4L8QG3G6
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/4L8QG3G6
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/4L8QG3G6
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11405446
+            links:
+                alternate:
+                    href: https://www.zotero.org/annettetenteije
+                    type: text/html
+            name: ''
+            username: annettetenteije
+        creatorSummary: Kondylidis et al.
+        numChildren: 0
+        parsedDate: '2025'
+    version: 1132
+-   data:
         DOI: ''
         ISSN: 2640-3498
         abstractNote: 'Link Prediction (LP) in Knowledge Graphs (KGs) is typically
