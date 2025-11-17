@@ -1,4 +1,829 @@
 -   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Diego
+            lastName: Rincon-Yanez
+        -   creatorType: author
+            firstName: Wilma Johanna
+            lastName: Schmidt
+        -   creatorType: author
+            firstName: Evgeny
+            lastName: Kharlamov
+        -   creatorType: author
+            firstName: Michael
+            lastName: Cochez
+        -   creatorType: author
+            firstName: Adrian
+            lastName: Paschke
+        -   creatorType: author
+            firstName: Declan
+            lastName: O'Sullivan
+        -   creatorType: editor
+            firstName: David
+            lastName: Chaves-Fraga
+        -   creatorType: editor
+            firstName: Ivan
+            lastName: Heibi
+        -   creatorType: editor
+            firstName: Daniel
+            lastName: Garijo
+        -   creatorType: editor
+            firstName: Diego
+            lastName: Collarana
+        -   creatorType: editor
+            firstName: Angelo A.
+            lastName: Salatino
+        -   creatorType: editor
+            firstName: Sahar
+            lastName: Vahdati
+        date: '2025'
+        dateAdded: '2025-11-17T14:49:47Z'
+        dateModified: '2025-11-17T14:49:47Z'
+        extra: ''
+        itemType: conferencePaper
+        key: FXDZYS6Q
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        place: ''
+        proceedingsTitle: Joint Proceedings of Posters, Demos, Workshops, and Tutorials
+            of the 21st International Conference on Semantic Systems co-located with
+            21st International Conference on Semantic Systems (SEMANTiCS 2025), Vienna,
+            Austria, September 3-5, 2025
+        publisher: CEUR-WS.org
+        relations: {}
+        rights: ''
+        series: CEUR Workshop Proceedings
+        shortTitle: ''
+        tags: []
+        title: 'Second International Workshop on Scaling Knowledge Graphs for Industry
+            (SKGi 2025) - LLMs meet KGs: Summary'
+        url: https://ceur-ws.org/Vol-4064/SKGI-preface.pdf
+        version: 1160
+        volume: '4064'
+    key: FXDZYS6Q
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/FXDZYS6Q
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/FXDZYS6Q
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Rincon-Yanez et al.
+        numChildren: 0
+        parsedDate: '2025'
+    version: 1160
+-   data:
+        DOI: 10.48550/ARXIV.2509.20113
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Erkan
+            lastName: Karabulut
+        -   creatorType: author
+            firstName: Daniel
+            lastName: Daza
+        -   creatorType: author
+            firstName: Paul
+            lastName: Groth
+        -   creatorType: author
+            firstName: Victoria
+            lastName: Degeler
+        date: '2025'
+        dateAdded: '2025-11-17T14:48:25Z'
+        dateModified: '2025-11-17T14:48:25Z'
+        extra: 'arXiv: 2509.20113'
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: LNBSAU9T
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        publicationTitle: CoRR
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: Discovering Association Rules in High-Dimensional Small Tabular Data
+        url: https://doi.org/10.48550/arXiv.2509.20113
+        version: 1159
+        volume: abs/2509.20113
+    key: LNBSAU9T
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/LNBSAU9T
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/LNBSAU9T
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Karabulut et al.
+        numChildren: 0
+        parsedDate: '2025'
+    version: 1159
+-   data:
+        DOI: 10.48550/ARXIV.2507.03617
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Klim
+            lastName: Zaporojets
+        -   creatorType: author
+            firstName: Daniel
+            lastName: Daza
+        -   creatorType: author
+            firstName: Edoardo
+            lastName: Barba
+        -   creatorType: author
+            firstName: Ira
+            lastName: Assent
+        -   creatorType: author
+            firstName: Roberto
+            lastName: Navigli
+        -   creatorType: author
+            firstName: Paul
+            lastName: Groth
+        date: '2025'
+        dateAdded: '2025-11-17T14:46:00Z'
+        dateModified: '2025-11-17T14:46:00Z'
+        extra: 'arXiv: 2507.03617'
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: NXPJW8VE
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        publicationTitle: CoRR
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: 'EMERGE: A Benchmark for Updating Knowledge Graphs with Emerging Textual
+            Knowledge'
+        url: https://doi.org/10.48550/arXiv.2507.03617
+        version: 1158
+        volume: abs/2507.03617
+    key: NXPJW8VE
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/NXPJW8VE
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/NXPJW8VE
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Zaporojets et al.
+        numChildren: 0
+        parsedDate: '2025'
+    version: 1158
+-   data:
+        DOI: 10.48550/ARXIV.2509.07733
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveID: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Mustafa Kaan
+            lastName: Aslan
+        -   creatorType: author
+            firstName: Reinout
+            lastName: Heijungs
+        -   creatorType: author
+            firstName: Filip
+            lastName: Ilievski
+        date: '2025'
+        dateAdded: '2025-11-14T09:36:51Z'
+        dateModified: '2025-11-17T14:43:39Z'
+        extra: 'arXiv: 2509.07733'
+        genre: ''
+        itemType: preprint
+        key: BCII8BVH
+        language: ''
+        libraryCatalog: ''
+        place: ''
+        relations: {}
+        repository: ''
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: 'The Carbon Footprint Wizard: A Knowledge-Augmented AI Interface for
+            Streamlining Food Carbon Footprint Analysis'
+        url: https://doi.org/10.48550/arXiv.2509.07733
+        version: 1157
+    key: BCII8BVH
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/BCII8BVH
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/BCII8BVH
+            type: application/json
+    meta:
+        createdByUser:
+            id: 13135791
+            links:
+                alternate:
+                    href: https://www.zotero.org/filipilievski
+                    type: text/html
+            name: ''
+            username: filipilievski
+        creatorSummary: Aslan et al.
+        lastModifiedByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        numChildren: 0
+        parsedDate: '2025'
+    version: 1157
+-   data:
+        DOI: 10.48550/ARXIV.2508.10956
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveID: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Abhishek
+            lastName: Kolari
+        -   creatorType: author
+            firstName: Mohammadhossein
+            lastName: Khojasteh
+        -   creatorType: author
+            firstName: Yifan
+            lastName: Jiang
+        -   creatorType: author
+            firstName: Floris den
+            lastName: Hengst
+        -   creatorType: author
+            firstName: Filip
+            lastName: Ilievski
+        date: '2025'
+        dateAdded: '2025-11-14T09:36:37Z'
+        dateModified: '2025-11-17T14:42:52Z'
+        extra: 'arXiv: 2508.10956'
+        genre: ''
+        itemType: preprint
+        key: MXHS6FU7
+        language: ''
+        libraryCatalog: ''
+        place: ''
+        relations: {}
+        repository: ''
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: 'ORBIT: An Object Property Reasoning Benchmark for Visual Inference
+            Tasks'
+        url: https://doi.org/10.48550/arXiv.2508.10956
+        version: 1156
+    key: MXHS6FU7
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/MXHS6FU7
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/MXHS6FU7
+            type: application/json
+    meta:
+        createdByUser:
+            id: 13135791
+            links:
+                alternate:
+                    href: https://www.zotero.org/filipilievski
+                    type: text/html
+            name: ''
+            username: filipilievski
+        creatorSummary: Kolari et al.
+        lastModifiedByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        numChildren: 0
+        parsedDate: '2025'
+    version: 1156
+-   data:
+        DOI: 10.48550/ARXIV.2503.05712
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveID: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Niklas
+            lastName: Höpner
+        -   creatorType: author
+            firstName: Leon
+            lastName: Eshuijs
+        -   creatorType: author
+            firstName: Dimitrios
+            lastName: Alivanistos
+        -   creatorType: author
+            firstName: Giacomo
+            lastName: Zamprogno
+        -   creatorType: author
+            firstName: Ilaria
+            lastName: Tiddi
+        date: '2025'
+        dateAdded: '2025-11-17T14:37:37Z'
+        dateModified: '2025-11-17T14:37:57Z'
+        extra: 'arXiv: 2503.05712'
+        genre: ''
+        itemType: preprint
+        key: 5U8J3BWF
+        language: ''
+        libraryCatalog: ''
+        place: ''
+        relations: {}
+        repository: ''
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: Automatic Evaluation Metrics for Artificially Generated Scientific
+            Research
+        url: https://doi.org/10.48550/arXiv.2503.05712
+        version: 1155
+    key: 5U8J3BWF
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/5U8J3BWF
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/5U8J3BWF
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Höpner et al.
+        numChildren: 0
+        parsedDate: '2025'
+    version: 1155
+-   data:
+        DOI: 10.48550/ARXIV.2509.24660
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveID: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Nikolaos
+            lastName: Kondylidis
+        -   creatorType: author
+            firstName: Anil
+            lastName: Yaman
+        -   creatorType: author
+            firstName: Frank van
+            lastName: Harmelen
+        -   creatorType: author
+            firstName: Erman
+            lastName: Acar
+        -   creatorType: author
+            firstName: Annette ten
+            lastName: Teije
+        date: '2025'
+        dateAdded: '2025-11-17T14:26:58Z'
+        dateModified: '2025-11-17T14:27:15Z'
+        extra: 'arXiv: 2509.24660'
+        genre: ''
+        itemType: preprint
+        key: H2FQSDQZ
+        language: ''
+        libraryCatalog: ''
+        place: ''
+        relations: {}
+        repository: ''
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: 'Successful Misunderstandings: Learning to Coordinate Without Being
+            Understood'
+        url: https://doi.org/10.48550/arXiv.2509.24660
+        version: 1147
+    key: H2FQSDQZ
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/H2FQSDQZ
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/H2FQSDQZ
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Kondylidis et al.
+        numChildren: 0
+        parsedDate: '2025'
+    version: 1147
+-   data:
+        DOI: 10.48550/ARXIV.2509.24651
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveID: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Nikolaos
+            lastName: Kondylidis
+        -   creatorType: author
+            firstName: Andrea
+            lastName: Rafanelli
+        -   creatorType: author
+            firstName: Ilaria
+            lastName: Tiddi
+        -   creatorType: author
+            firstName: Annette ten
+            lastName: Teije
+        -   creatorType: author
+            firstName: Frank van
+            lastName: Harmelen
+        date: '2025'
+        dateAdded: '2025-11-17T14:25:06Z'
+        dateModified: '2025-11-17T14:25:22Z'
+        extra: 'arXiv: 2509.24651'
+        genre: ''
+        itemType: preprint
+        key: ASW4LWAB
+        language: ''
+        libraryCatalog: ''
+        place: ''
+        relations: {}
+        repository: ''
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: '"Stop replacing salt with sugar!": Towards Intuitive Human-Agent Teaching'
+        url: https://doi.org/10.48550/arXiv.2509.24651
+        version: 1145
+    key: ASW4LWAB
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/ASW4LWAB
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/ASW4LWAB
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Kondylidis et al.
+        numChildren: 0
+        parsedDate: '2025'
+    version: 1145
+-   data:
+        DOI: 10.1109/JBHI.2023.3338356
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Chengcheng
+            lastName: Fu
+        -   creatorType: author
+            firstName: Xueli
+            lastName: Pan
+        -   creatorType: author
+            firstName: Jieyu
+            lastName: Wu
+        -   creatorType: author
+            firstName: Junkai
+            lastName: Cai
+        -   creatorType: author
+            firstName: Zhisheng
+            lastName: Huang
+        -   creatorType: author
+            firstName: Frank van
+            lastName: Harmelen
+        -   creatorType: author
+            firstName: Weizhong
+            lastName: Zhao
+        -   creatorType: author
+            firstName: Xingpeng
+            lastName: Jiang
+        -   creatorType: author
+            firstName: Tingting
+            lastName: He
+        date: '2025'
+        dateAdded: '2025-11-17T14:23:26Z'
+        dateModified: '2025-11-17T14:23:44Z'
+        extra: ''
+        issue: '3'
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: M2Q69395
+        language: ''
+        libraryCatalog: ''
+        pages: 1793–1804
+        publicationTitle: IEEE J. Biomedical Health Informatics
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: 'KG4NH: A Comprehensive Knowledge Graph for Question Answering in Dietary
+            Nutrition and Human Health'
+        url: https://doi.org/10.1109/JBHI.2023.3338356
+        version: 1143
+        volume: '29'
+    key: M2Q69395
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/M2Q69395
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/M2Q69395
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Fu et al.
+        numChildren: 0
+        parsedDate: '2025'
+    version: 1143
+-   data:
+        DOI: 10.1016/J.KNOSYS.2025.114215
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Qiyuan
+            lastName: Li
+        -   creatorType: author
+            firstName: Haijiang
+            lastName: Liu
+        -   creatorType: author
+            firstName: Caicai
+            lastName: Guo
+        -   creatorType: author
+            firstName: Chao
+            lastName: Gao
+        -   creatorType: author
+            firstName: Deyu
+            lastName: Chen
+        -   creatorType: author
+            firstName: Meng
+            lastName: Wang
+        -   creatorType: author
+            firstName: Feng
+            lastName: Gao
+        -   creatorType: author
+            firstName: Frank van
+            lastName: Harmelen
+        -   creatorType: author
+            firstName: Jinguang
+            lastName: Gu
+        date: '2025'
+        dateAdded: '2025-11-17T14:22:12Z'
+        dateModified: '2025-11-17T14:22:36Z'
+        extra: ''
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: T2XQTQC5
+        language: ''
+        libraryCatalog: ''
+        pages: '114215'
+        publicationTitle: Knowledge Based Systems
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: 'Reviewing clinical knowledge in medical large language models: Training
+            and beyond'
+        url: https://doi.org/10.1016/j.knosys.2025.114215
+        version: 1141
+        volume: '328'
+    key: T2XQTQC5
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/T2XQTQC5
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/T2XQTQC5
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Li et al.
+        numChildren: 0
+        parsedDate: '2025'
+    version: 1141
+-   data:
         DOI: https://doi.org/10.1016/j.imu.2025.101673
         ISSN: 2352-9148
         abstractNote: Clinical practice guidelines (CPGs) play a pivotal role in elevating
@@ -99,110 +924,6 @@
         numChildren: 0
         parsedDate: '2025'
     version: 1138
--   data:
-        DOI: 10.1007/978-3-032-09527-5_26
-        ISBN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        conferenceName: ''
-        creators:
-        -   creatorType: author
-            firstName: Inès
-            lastName: Blin
-        -   creatorType: author
-            firstName: Ilaria
-            lastName: Tiddi
-        -   creatorType: author
-            firstName: Annette ten
-            lastName: Teije
-        -   creatorType: editor
-            firstName: Daniel
-            lastName: Garijo
-        -   creatorType: editor
-            firstName: Sabrina
-            lastName: Kirrane
-        -   creatorType: editor
-            firstName: Angelo A.
-            lastName: Salatino
-        -   creatorType: editor
-            firstName: Cogan
-            lastName: Shimizu
-        -   creatorType: editor
-            firstName: Maribel
-            lastName: Acosta
-        -   creatorType: editor
-            firstName: Andrea Giovanni
-            lastName: Nuzzolese
-        -   creatorType: editor
-            firstName: Sebastián
-            lastName: Ferrada
-        -   creatorType: editor
-            firstName: Thibaut
-            lastName: Soulard
-        -   creatorType: editor
-            firstName: Kouji
-            lastName: Kozaki
-        -   creatorType: editor
-            firstName: Hideaki
-            lastName: Takeda
-        -   creatorType: editor
-            firstName: Anna Lisa
-            lastName: Gentile
-        date: '2025'
-        dateAdded: '2025-11-16T20:37:53Z'
-        dateModified: '2025-11-16T20:37:53Z'
-        extra: ''
-        itemType: conferencePaper
-        key: NL7T4JIR
-        language: ''
-        libraryCatalog: ''
-        pages: 481–501
-        place: ''
-        proceedingsTitle: The Semantic Web - ISWC 2025 - 24th International Semantic
-            Web Conference, Nara, Japan, November 2-6, 2025, Proceedings, Part I
-        publisher: Springer
-        relations: {}
-        rights: ''
-        series: Lecture Notes in Computer Science
-        shortTitle: ''
-        tags: []
-        title: Measuring the Impact of Narrative Complexity on Knowledge Graph Embeddings
-        url: https://doi.org/10.1007/978-3-032-09527-5\_26
-        version: 1137
-        volume: '16140'
-    key: NL7T4JIR
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/NL7T4JIR
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/NL7T4JIR
-            type: application/json
-    meta:
-        createdByUser:
-            id: 11405446
-            links:
-                alternate:
-                    href: https://www.zotero.org/annettetenteije
-                    type: text/html
-            name: ''
-            username: annettetenteije
-        creatorSummary: Blin et al.
-        numChildren: 0
-        parsedDate: '2025'
-    version: 1137
 -   data:
         DOI: 10.5220/0013157400003911
         ISBN: ''
@@ -1171,156 +1892,6 @@
         parsedDate: '2025'
     version: 1116
 -   data:
-        DOI: 10.48550/ARXIV.2509.07733
-        ISSN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Mustafa Kaan
-            lastName: Aslan
-        -   creatorType: author
-            firstName: Reinout
-            lastName: Heijungs
-        -   creatorType: author
-            firstName: Filip
-            lastName: Ilievski
-        date: '2025'
-        dateAdded: '2025-11-14T09:36:51Z'
-        dateModified: '2025-11-14T09:36:51Z'
-        extra: 'arXiv: 2509.07733'
-        issue: ''
-        itemType: journalArticle
-        journalAbbreviation: ''
-        key: BCII8BVH
-        language: ''
-        libraryCatalog: ''
-        pages: ''
-        publicationTitle: CoRR
-        relations: {}
-        rights: ''
-        series: ''
-        seriesText: ''
-        seriesTitle: ''
-        shortTitle: ''
-        tags: []
-        title: 'The Carbon Footprint Wizard: A Knowledge-Augmented AI Interface for
-            Streamlining Food Carbon Footprint Analysis'
-        url: https://doi.org/10.48550/arXiv.2509.07733
-        version: 1115
-        volume: abs/2509.07733
-    key: BCII8BVH
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/BCII8BVH
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/BCII8BVH
-            type: application/json
-    meta:
-        createdByUser:
-            id: 13135791
-            links:
-                alternate:
-                    href: https://www.zotero.org/filipilievski
-                    type: text/html
-            name: ''
-            username: filipilievski
-        creatorSummary: Aslan et al.
-        numChildren: 0
-        parsedDate: '2025'
-    version: 1115
--   data:
-        DOI: 10.48550/ARXIV.2508.10956
-        ISSN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Abhishek
-            lastName: Kolari
-        -   creatorType: author
-            firstName: Mohammadhossein
-            lastName: Khojasteh
-        -   creatorType: author
-            firstName: Yifan
-            lastName: Jiang
-        -   creatorType: author
-            firstName: Floris den
-            lastName: Hengst
-        -   creatorType: author
-            firstName: Filip
-            lastName: Ilievski
-        date: '2025'
-        dateAdded: '2025-11-14T09:36:37Z'
-        dateModified: '2025-11-14T09:36:37Z'
-        extra: 'arXiv: 2508.10956'
-        issue: ''
-        itemType: journalArticle
-        journalAbbreviation: ''
-        key: MXHS6FU7
-        language: ''
-        libraryCatalog: ''
-        pages: ''
-        publicationTitle: CoRR
-        relations: {}
-        rights: ''
-        series: ''
-        seriesText: ''
-        seriesTitle: ''
-        shortTitle: ''
-        tags: []
-        title: 'ORBIT: An Object Property Reasoning Benchmark for Visual Inference
-            Tasks'
-        url: https://doi.org/10.48550/arXiv.2508.10956
-        version: 1114
-        volume: abs/2508.10956
-    key: MXHS6FU7
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/MXHS6FU7
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/MXHS6FU7
-            type: application/json
-    meta:
-        createdByUser:
-            id: 13135791
-            links:
-                alternate:
-                    href: https://www.zotero.org/filipilievski
-                    type: text/html
-            name: ''
-            username: filipilievski
-        creatorSummary: Kolari et al.
-        numChildren: 0
-        parsedDate: '2025'
-    version: 1114
--   data:
         DOI: 10.48550/ARXIV.2507.09751
         ISSN: ''
         abstractNote: ''
@@ -1397,78 +1968,6 @@
         numChildren: 0
         parsedDate: '2025'
     version: 1113
--   data:
-        DOI: 10.48550/ARXIV.2502.04352
-        ISSN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Fabian
-            lastName: Hoppe
-        -   creatorType: author
-            firstName: Filip
-            lastName: Ilievski
-        -   creatorType: author
-            firstName: Jan-Christoph
-            lastName: Kalo
-        date: '2025'
-        dateAdded: '2025-11-14T09:36:07Z'
-        dateModified: '2025-11-14T09:36:07Z'
-        extra: 'arXiv: 2502.04352'
-        issue: ''
-        itemType: journalArticle
-        journalAbbreviation: ''
-        key: VD2HEP8D
-        language: ''
-        libraryCatalog: ''
-        pages: ''
-        publicationTitle: CoRR
-        relations: {}
-        rights: ''
-        series: ''
-        seriesText: ''
-        seriesTitle: ''
-        shortTitle: ''
-        tags: []
-        title: Investigating the Robustness of Deductive Reasoning with Large Language
-            Models
-        url: https://doi.org/10.48550/arXiv.2502.04352
-        version: 1112
-        volume: abs/2502.04352
-    key: VD2HEP8D
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/VD2HEP8D
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/VD2HEP8D
-            type: application/json
-    meta:
-        createdByUser:
-            id: 13135791
-            links:
-                alternate:
-                    href: https://www.zotero.org/filipilievski
-                    type: text/html
-            name: ''
-            username: filipilievski
-        creatorSummary: Hoppe et al.
-        numChildren: 0
-        parsedDate: '2025'
-    version: 1112
 -   data:
         DOI: 10.1609/ICWSM.V19I1.35815
         ISBN: ''
@@ -1993,6 +2492,113 @@
         parsedDate: '2025'
     version: 1101
 -   data:
+        DOI: 10.48550/arXiv.2508.13288
+        abstractNote: Conformal prediction (CP) is a powerful framework for quantifying
+            uncertainty in machine learning models, offering reliable predictions
+            with finite-sample coverage guarantees. When applied to classification,
+            CP produces a prediction set of possible labels that is guaranteed to
+            contain the true label with high probability, regardless of the underlying
+            classifier. However, standard CP treats classes as flat and unstructured,
+            ignoring domain knowledge such as semantic relationships or hierarchical
+            structure among class labels. This paper presents hierarchical conformal
+            classification (HCC), an extension of CP that incorporates class hierarchies
+            into both the structure and semantics of prediction sets. We formulate
+            HCC as a constrained optimization problem whose solutions yield prediction
+            sets composed of nodes at different levels of the hierarchy, while maintaining
+            coverage guarantees. To address the combinatorial nature of the problem,
+            we formally show that a much smaller, well-structured subset of candidate
+            solutions suffices to ensure coverage while upholding optimality. An empirical
+            evaluation on three new benchmarks consisting of audio, image, and text
+            data highlights the advantages of our approach, and a user study shows
+            that annotators significantly prefer hierarchical over flat prediction
+            sets.
+        accessDate: '2025-10-21T07:53:54Z'
+        archive: ''
+        archiveID: arXiv:2508.13288
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: hengstHierarchicalConformalClassification2025
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Floris den
+            lastName: Hengst
+        -   creatorType: author
+            firstName: Inès
+            lastName: Blin
+        -   creatorType: author
+            firstName: Majid
+            lastName: Mohammadi
+        -   creatorType: author
+            firstName: Syed Ihtesham Hussain
+            lastName: Shah
+        -   creatorType: author
+            firstName: Taraneh
+            lastName: Younesian
+        date: '2025-08-18'
+        dateAdded: '2025-10-21T07:53:54Z'
+        dateModified: '2025-10-23T19:24:29Z'
+        extra: arXiv:2508.13288 [cs]
+        genre: ''
+        itemType: preprint
+        key: GHD5VK34
+        language: ''
+        libraryCatalog: arXiv.org
+        place: ''
+        relations: {}
+        repository: arXiv
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags:
+        -   tag: Computer Science - Artificial Intelligence
+            type: 1
+        -   tag: Computer Science - Machine Learning
+            type: 1
+        -   tag: Statistics - Machine Learning
+            type: 1
+        title: Hierarchical Conformal Classification
+        url: http://arxiv.org/abs/2508.13288
+        version: 1139
+    key: GHD5VK34
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/GHD5VK34
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/GHD5VK34
+            type: application/json
+    meta:
+        createdByUser:
+            id: 7770939
+            links:
+                alternate:
+                    href: https://www.zotero.org/inesblin
+                    type: text/html
+            name: ''
+            username: inesblin
+        creatorSummary: Hengst et al.
+        lastModifiedByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        numChildren: 2
+        parsedDate: '2025-08-18'
+    version: 1139
+-   data:
         DOI: ''
         ISBN: 978-88-6719-333-2
         abstractNote: Concept Maps are semantic graph summary representations of relations
@@ -2108,115 +2714,6 @@
             username: hemile
         numChildren: 1
         parsedDate: 2025-09
-    version: 1096
--   data:
-        DOI: 10.48550/arXiv.2508.13288
-        abstractNote: Conformal prediction (CP) is a powerful framework for quantifying
-            uncertainty in machine learning models, offering reliable predictions
-            with finite-sample coverage guarantees. When applied to classification,
-            CP produces a prediction set of possible labels that is guaranteed to
-            contain the true label with high probability, regardless of the underlying
-            classifier. However, standard CP treats classes as flat and unstructured,
-            ignoring domain knowledge such as semantic relationships or hierarchical
-            structure among class labels. This paper presents hierarchical conformal
-            classification (HCC), an extension of CP that incorporates class hierarchies
-            into both the structure and semantics of prediction sets. We formulate
-            HCC as a constrained optimization problem whose solutions yield prediction
-            sets composed of nodes at different levels of the hierarchy, while maintaining
-            coverage guarantees. To address the combinatorial nature of the problem,
-            we formally show that a much smaller, well-structured subset of candidate
-            solutions suffices to ensure coverage while upholding optimality. An empirical
-            evaluation on three new benchmarks consisting of audio, image, and text
-            data highlights the advantages of our approach, and a user study shows
-            that annotators significantly prefer hierarchical over flat prediction
-            sets.
-        accessDate: '2025-10-21T07:53:54Z'
-        archive: ''
-        archiveID: arXiv:2508.13288
-        archiveLocation: ''
-        callNumber: ''
-        citationKey: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Floris den
-            lastName: Hengst
-        -   creatorType: author
-            firstName: Inès
-            lastName: Blin
-        -   creatorType: author
-            firstName: Majid
-            lastName: Mohammadi
-        -   creatorType: author
-            firstName: Syed Ihtesham Hussain
-            lastName: Shah
-        -   creatorType: author
-            firstName: Taraneh
-            lastName: Younesian
-        date: '2025-08-18'
-        dateAdded: '2025-10-21T07:53:54Z'
-        dateModified: '2025-10-23T19:24:29Z'
-        extra: 'arXiv:2508.13288 [cs]
-
-            Citation Key: hengstHierarchicalConformalClassification2025'
-        genre: ''
-        itemType: preprint
-        key: GHD5VK34
-        language: ''
-        libraryCatalog: arXiv.org
-        place: ''
-        relations: {}
-        repository: arXiv
-        rights: ''
-        series: ''
-        seriesNumber: ''
-        shortTitle: ''
-        tags:
-        -   tag: Computer Science - Artificial Intelligence
-            type: 1
-        -   tag: Computer Science - Machine Learning
-            type: 1
-        -   tag: Statistics - Machine Learning
-            type: 1
-        title: Hierarchical Conformal Classification
-        url: http://arxiv.org/abs/2508.13288
-        version: 1096
-    key: GHD5VK34
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/GHD5VK34
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/GHD5VK34
-            type: application/json
-    meta:
-        createdByUser:
-            id: 7770939
-            links:
-                alternate:
-                    href: https://www.zotero.org/inesblin
-                    type: text/html
-            name: ''
-            username: inesblin
-        creatorSummary: Hengst et al.
-        lastModifiedByUser:
-            id: 6261094
-            links:
-                alternate:
-                    href: https://www.zotero.org/hemile
-                    type: text/html
-            name: ''
-            username: hemile
-        numChildren: 2
-        parsedDate: '2025-08-18'
     version: 1096
 -   data:
         DOI: ''
@@ -7896,81 +8393,6 @@
         numChildren: 0
         parsedDate: '2024'
     version: 1054
--   data:
-        DOI: 10.5220/0013157400003911
-        ISBN: 978-989-758-731-3
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        conferenceName: HEALTHINF
-        creators:
-        -   creatorType: author
-            firstName: Syed Ihtesham
-            lastName: Shah et al.
-        date: '2025'
-        dateAdded: '2025-06-29T18:15:14Z'
-        dateModified: '2025-07-07T13:12:07Z'
-        extra: 'Citation Key: shahetal.CanWeTrust2025'
-        itemType: conferencePaper
-        key: 6SAX9WRC
-        language: ''
-        libraryCatalog: ''
-        pages: 530-539
-        place: ''
-        proceedingsTitle: 18th International Joint Conference on Biomedical Engineering
-            Systems and Technologies (BIOSTEC 2025)
-        publisher: SCITEPRESS – Science and Technology Publications, Lda.
-        relations: {}
-        rights: ''
-        series: ''
-        shortTitle: ''
-        tags: []
-        title: Can We Trust Explanation! Evaluation of Model-Agnostic Explanation
-            Techniques on Highly Imbalanced, Multiclass-Multioutput Classification
-            Problem
-        url: ''
-        version: 1053
-        volume: ''
-    key: 6SAX9WRC
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/6SAX9WRC
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/6SAX9WRC
-            type: application/json
-    meta:
-        createdByUser:
-            id: 16105841
-            links:
-                alternate:
-                    href: https://www.zotero.org/ihtesham_shah
-                    type: text/html
-            name: ''
-            username: Ihtesham_Shah
-        creatorSummary: Shah et al.
-        lastModifiedByUser:
-            id: 6261094
-            links:
-                alternate:
-                    href: https://www.zotero.org/hemile
-                    type: text/html
-            name: ''
-            username: hemile
-        numChildren: 0
-        parsedDate: '2025'
-    version: 1053
 -   data:
         accessDate: '2025-02-07T08:37:15Z'
         charset: ''
