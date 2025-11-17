@@ -1,4 +1,161 @@
 -   data:
+        DOI: 10.48550/ARXIV.2503.01290
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveID: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Andreas
+            lastName: Sauter
+        -   creatorType: author
+            firstName: Saber
+            lastName: Salehkaleybar
+        -   creatorType: author
+            firstName: Aske
+            lastName: Plaat
+        -   creatorType: author
+            firstName: Erman
+            lastName: Acar
+        date: '2025'
+        dateAdded: '2025-11-17T22:18:54Z'
+        dateModified: '2025-11-17T22:19:09Z'
+        extra: 'arXiv: 2503.01290'
+        genre: ''
+        itemType: preprint
+        key: EQYR267L
+        language: ''
+        libraryCatalog: ''
+        place: ''
+        relations: {}
+        repository: ''
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: 'ACTIVA: Amortized Causal Effect Estimation without Graphs via Transformer-based
+            Variational Autoencoder'
+        url: https://doi.org/10.48550/arXiv.2503.01290
+        version: 1182
+    key: EQYR267L
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/EQYR267L
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/EQYR267L
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Sauter et al.
+        numChildren: 0
+        parsedDate: '2025'
+    version: 1182
+-   data:
+        DOI: 10.48550/ARXIV.2310.14657
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveID: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Stefan F.
+            lastName: Schouten
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        -   creatorType: author
+            firstName: Ilia
+            lastName: Markov
+        -   creatorType: author
+            firstName: Piek
+            lastName: Vossen
+        date: '2023'
+        dateAdded: '2023-12-05T14:42:59Z'
+        dateModified: '2025-11-17T22:17:11Z'
+        extra: ''
+        genre: ''
+        itemType: preprint
+        key: 8Y35LRBG
+        language: ''
+        libraryCatalog: ''
+        place: ''
+        relations: {}
+        repository: ''
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags:
+        -   tag: datasets
+        -   tag: large language models
+        -   tag: nlp
+        -   tag: tasks
+        title: Reasoning about Ambiguous Definite Descriptions
+        url: https://doi.org/10.48550/arXiv.2310.14657
+        version: 1180
+    key: 8Y35LRBG
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/8Y35LRBG
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/8Y35LRBG
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: Schouten et al.
+        lastModifiedByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        numChildren: 0
+        parsedDate: '2023'
+    version: 1180
+-   data:
         DOI: 10.3233/FAIA250662
         ISBN: ''
         abstractNote: ''
@@ -11654,91 +11811,6 @@
         numChildren: 0
         parsedDate: 2023-12
     version: 815
--   data:
-        DOI: 10.48550/ARXIV.2310.14657
-        ISBN: ''
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        collections: []
-        conferenceName: ''
-        creators:
-        -   creatorType: author
-            firstName: Stefan F.
-            lastName: Schouten
-        -   creatorType: author
-            firstName: Peter
-            lastName: Bloem
-        -   creatorType: author
-            firstName: Ilia
-            lastName: Markov
-        -   creatorType: author
-            firstName: Piek
-            lastName: Vossen
-        date: '2023'
-        dateAdded: '2023-12-05T14:42:59Z'
-        dateModified: '2023-12-06T11:01:47Z'
-        extra: ''
-        itemType: conferencePaper
-        key: 8Y35LRBG
-        language: ''
-        libraryCatalog: ''
-        pages: ''
-        place: ''
-        proceedingsTitle: EMNLP
-        publisher: ''
-        relations: {}
-        rights: ''
-        series: ''
-        shortTitle: ''
-        tags:
-        -   tag: datasets
-        -   tag: large language models
-        -   tag: nlp
-        -   tag: tasks
-        title: Reasoning about Ambiguous Definite Descriptions
-        url: https://doi.org/10.48550/arXiv.2310.14657
-        version: 814
-        volume: '2024'
-    key: 8Y35LRBG
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/8Y35LRBG
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/8Y35LRBG
-            type: application/json
-    meta:
-        createdByUser:
-            id: 11362521
-            links:
-                alternate:
-                    href: https://www.zotero.org/pbloemesquire
-                    type: text/html
-            name: ''
-            username: pbloemesquire
-        creatorSummary: Schouten et al.
-        lastModifiedByUser:
-            id: 11114839
-            links:
-                alternate:
-                    href: https://www.zotero.org/frank.van.harmelen
-                    type: text/html
-            name: Frank van Harmelen
-            username: Frank.van.Harmelen
-        numChildren: 0
-        parsedDate: '2023'
-    version: 814
 -   data:
         DOI: 10.48550/arXiv.2308.02622
         abstractNote: The Sustainable Development Goals (SDGs) were introduced by
