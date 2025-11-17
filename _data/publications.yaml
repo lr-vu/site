@@ -1,4 +1,85 @@
 -   data:
+        DOI: 10.48550/ARXIV.2508.13663
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveID: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Daniel
+            lastName: Daza
+        -   creatorType: author
+            firstName: Alberto
+            lastName: Bernardi
+        -   creatorType: author
+            firstName: Luca
+            lastName: Costabello
+        -   creatorType: author
+            firstName: Christophe
+            lastName: Guéret
+        -   creatorType: author
+            firstName: Masoud
+            lastName: Mansoury
+        -   creatorType: author
+            firstName: Michael
+            lastName: Cochez
+        -   creatorType: author
+            firstName: Martijn
+            lastName: Schut
+        date: '2025'
+        dateAdded: '2025-11-17T14:50:52Z'
+        dateModified: '2025-11-17T14:51:25Z'
+        extra: 'arXiv: 2508.13663'
+        genre: ''
+        itemType: preprint
+        key: AVAND66F
+        language: ''
+        libraryCatalog: ''
+        place: ''
+        relations: {}
+        repository: ''
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: Interactive Query Answering on Knowledge Graphs with Soft Entity Constraints
+        url: https://doi.org/10.48550/arXiv.2508.13663
+        version: 1162
+    key: AVAND66F
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/AVAND66F
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/AVAND66F
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11114839
+            links:
+                alternate:
+                    href: https://www.zotero.org/frank.van.harmelen
+                    type: text/html
+            name: Frank van Harmelen
+            username: Frank.van.Harmelen
+        creatorSummary: Daza et al.
+        numChildren: 0
+        parsedDate: '2025'
+    version: 1162
+-   data:
         DOI: ''
         ISBN: ''
         abstractNote: ''
