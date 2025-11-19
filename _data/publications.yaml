@@ -1,4 +1,152 @@
 -   data:
+        DOI: 10.48550/ARXIV.2507.20832
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Mihai
+            lastName: Pomarlan
+        -   creatorType: author
+            firstName: Stefano
+            lastName: De Giorgis
+        -   creatorType: author
+            firstName: Rachel
+            lastName: Ringe
+        -   creatorType: author
+            firstName: Maria M.
+            lastName: Hedblom
+        -   creatorType: author
+            firstName: Nikolaos
+            lastName: Tsiogkas
+        date: '2025'
+        dateAdded: '2025-11-19T10:35:55Z'
+        dateModified: '2025-11-19T10:36:18Z'
+        extra: 'arXiv: 2507.20832'
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: QN98IBQW
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        publicationTitle: CoRR
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: 'Hanging Around: Cognitive Inspired Reasoning for Reactive Robotics'
+        url: https://doi.org/10.48550/arXiv.2507.20832
+        version: 1192
+        volume: abs/2507.20832
+    key: QN98IBQW
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/QN98IBQW
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/QN98IBQW
+            type: application/json
+    meta:
+        createdByUser:
+            id: 7896747
+            links:
+                alternate:
+                    href: https://www.zotero.org/stefano_dg
+                    type: text/html
+            name: ''
+            username: stefano_dg
+        creatorSummary: Pomarlan et al.
+        numChildren: 0
+        parsedDate: '2025'
+    version: 1192
+-   data:
+        DOI: 10.1016/J.IPM.2025.104127
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Stefano
+            lastName: De Giorgis
+        -   creatorType: author
+            firstName: Aldo
+            lastName: Gangemi
+        -   creatorType: author
+            firstName: Alessandro
+            lastName: Russo
+        date: '2025'
+        dateAdded: '2025-11-19T10:32:09Z'
+        dateModified: '2025-11-19T10:33:32Z'
+        extra: ''
+        issue: '4'
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: 9HT7SN7W
+        language: ''
+        libraryCatalog: ''
+        pages: '104127'
+        publicationTitle: Inf. Process. Manag.
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: Neurosymbolic graph enrichment for Grounded World Models
+        url: https://doi.org/10.1016/j.ipm.2025.104127
+        version: 1189
+        volume: '62'
+    key: 9HT7SN7W
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/9HT7SN7W
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/9HT7SN7W
+            type: application/json
+    meta:
+        createdByUser:
+            id: 7896747
+            links:
+                alternate:
+                    href: https://www.zotero.org/stefano_dg
+                    type: text/html
+            name: ''
+            username: stefano_dg
+        creatorSummary: De Giorgis et al.
+        numChildren: 0
+        parsedDate: '2025'
+    version: 1189
+-   data:
         DOI: 10.48550/ARXIV.2503.01290
         abstractNote: ''
         accessDate: ''
