@@ -1,4 +1,208 @@
 -   data:
+        ISBN: 978-1-64368-578-6
+        abstractNote: Geometric relational embeddings map relational data as geometric
+            objects that combine vector information suitable for machine learning
+            and structured/symbolic information suitable for symbolic reasoning, typically
+            in low dimensions. Their preservation of relational structures and their
+            appealing properties and interpretability have led to their uptake for
+            multiple neuro-symbolic reasoning tasks such as knowledge graph completion,
+            ontology and hierarchy reasoning, logical query answering, and hierarchical
+            multi-label classification. We survey methods that underly geometric relational
+            embeddings and categorize them based on (i) the embedding geometries that
+            are used to represent the data; and (ii) the relational reasoning tasks
+            that they aim to improve. We identify the desired properties (i.e., inductive
+            biases) of each kind of embedding and discuss some potential future work.
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        bookTitle: Handbook on Neurosymbolic AI and Knowledge Graphs
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Bo
+            lastName: Xiong
+        -   creatorType: author
+            firstName: Mojtaba
+            lastName: Nayyeri
+        -   creatorType: author
+            firstName: Ming
+            lastName: Jin
+        -   creatorType: author
+            firstName: Yunjie
+            lastName: He
+        -   creatorType: author
+            firstName: Michael
+            lastName: Cochez
+        -   creatorType: author
+            firstName: Shirui
+            lastName: Pan
+        -   creatorType: author
+            firstName: Steffen
+            lastName: Staab
+        -   creatorType: editor
+            firstName: Pascal
+            lastName: Hitzler
+        -   creatorType: editor
+            firstName: Abhilekha
+            lastName: Dalal
+        -   creatorType: editor
+            firstName: '{Mohammad Saeid}'
+            lastName: Mahdavinejad
+        -   creatorType: editor
+            firstName: '{Sanaz Saki}'
+            lastName: Norouzi
+        date: '2025'
+        dateAdded: '2025-11-19T17:35:06Z'
+        dateModified: '2025-11-19T17:36:52Z'
+        edition: ''
+        extra: 'DOI: 10.3233/FAIA250208'
+        itemType: bookSection
+        key: RNDUI6GF
+        language: English
+        libraryCatalog: ''
+        numberOfVolumes: ''
+        pages: 213–229
+        place: Netherlands
+        publisher: IOS Press
+        relations: {}
+        rights: ''
+        series: Frontiers in Artificial Intelligence and Applications
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: 'Geometric Relational Embeddings: Progress and Prospects'
+        url: https://doi.org/10.48550/arXiv.2304.11949
+        version: 1199
+        volume: ''
+    key: RNDUI6GF
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/RNDUI6GF
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/RNDUI6GF
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: Xiong et al.
+        numChildren: 0
+        parsedDate: '2025'
+    version: 1199
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: Deep neural networks (DNNs) achieve state-of-the-art performance
+            on many tasks, but this often requires increasingly larger model sizes,
+            which in turn leads to more complex internal representations. Explainability
+            techniques (XAI) have made remarkable progress in the interpretability
+            of ML models. However, the non-euclidean nature of Graph Neural Networks
+            (GNNs) makes it difficult to reuse already existing XAI methods. While
+            other works have focused on instance-based explanation methods for GNNs,
+            very few have investigated model-based methods and, to our knowledge,
+            none have tried to probe the embedding of the GNNs for structural graph
+            properties. In this paper we present a model agnostic explainability pipeline
+            for Graph Neural Networks (GNNs) employing diagnostic classifiers. We
+            propose to consider graph-theoretic properties as the features of choice
+            for studying the emergence of representations in GNNs. This pipeline aims
+            to probe and interpret the learned representations in GNNs across various
+            architectures and datasets, refining our understanding and trust in these
+            models.
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Tom
+            lastName: Pelletreau-Duris
+        -   creatorType: author
+            firstName: Ruud van
+            lastName: Bakel
+        -   creatorType: author
+            firstName: Michael
+            lastName: Cochez
+        -   creatorType: editor
+            firstName: Leilani
+            lastName: H. Gilpin
+        -   creatorType: editor
+            firstName: Eleonora
+            lastName: Giunchiglia
+        -   creatorType: editor
+            firstName: Pascal
+            lastName: Hitzler
+        -   creatorType: editor
+            firstName: Emile
+            lastName: van Krieken
+        date: '2025-09-08'
+        dateAdded: '2025-11-19T17:23:28Z'
+        dateModified: '2025-11-19T17:23:28Z'
+        extra: ''
+        itemType: conferencePaper
+        key: BATQ6KE4
+        language: ''
+        libraryCatalog: ''
+        pages: 15–51
+        place: ''
+        proceedingsTitle: Proceedings of The 19th International Conference on Neurosymbolic
+            Learning and Reasoning
+        publisher: PMLR
+        relations: {}
+        rights: ''
+        series: Proceedings of Machine Learning Research
+        shortTitle: ''
+        tags: []
+        title: Do Graph Neural Network States Contain Graph Properties?
+        url: https://proceedings.mlr.press/v284/pelletreau-duris25a.html
+        version: 1196
+        volume: '284'
+    key: BATQ6KE4
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/BATQ6KE4
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/BATQ6KE4
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: Pelletreau-Duris et al.
+        numChildren: 1
+        parsedDate: '2025-09-08'
+    version: 1196
+-   data:
         DOI: ''
         ISSN: ''
         abstractNote: ''
@@ -7884,83 +8088,6 @@
         parsedDate: '2024'
     version: 1055
 -   data:
-        DOI: 10.48550/ARXIV.2411.02168
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveID: ''
-        archiveLocation: ''
-        callNumber: ''
-        citationKey: pelletreau-durisGraphNeuralNetwork2024
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Tom
-            lastName: Pelletreau-Duris
-        -   creatorType: author
-            firstName: Ruud van
-            lastName: Bakel
-        -   creatorType: author
-            firstName: Michael
-            lastName: Cochez
-        date: '2024'
-        dateAdded: '2025-01-08T19:08:20Z'
-        dateModified: '2025-07-07T13:12:16Z'
-        extra: 'arXiv: 2411.02168'
-        genre: ''
-        itemType: preprint
-        key: VRFT5PVU
-        language: ''
-        libraryCatalog: ''
-        place: ''
-        relations: {}
-        repository: ''
-        rights: ''
-        series: ''
-        seriesNumber: ''
-        shortTitle: ''
-        tags: []
-        title: Do graph neural network states contain graph properties?
-        url: https://doi.org/10.48550/arXiv.2411.02168
-        version: 1061
-    key: VRFT5PVU
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/VRFT5PVU
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/VRFT5PVU
-            type: application/json
-    meta:
-        createdByUser:
-            id: 11114839
-            links:
-                alternate:
-                    href: https://www.zotero.org/frank.van.harmelen
-                    type: text/html
-            name: Frank van Harmelen
-            username: Frank.van.Harmelen
-        creatorSummary: Pelletreau-Duris et al.
-        lastModifiedByUser:
-            id: 6261094
-            links:
-                alternate:
-                    href: https://www.zotero.org/hemile
-                    type: text/html
-            name: ''
-            username: hemile
-        numChildren: 0
-        parsedDate: '2024'
-    version: 1061
--   data:
         DOI: 10.48550/ARXIV.2402.07384
         abstractNote: ''
         accessDate: ''
@@ -12693,87 +12820,6 @@
         numChildren: 0
         parsedDate: '2023'
     version: 747
--   data:
-        DOI: 10.48550/ARXIV.2304.11949
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveID: ''
-        archiveLocation: ''
-        callNumber: ''
-        citationKey: ''
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Bo
-            lastName: Xiong
-        -   creatorType: author
-            firstName: Mojtaba
-            lastName: Nayyeri
-        -   creatorType: author
-            firstName: Ming
-            lastName: Jin
-        -   creatorType: author
-            firstName: Yunjie
-            lastName: He
-        -   creatorType: author
-            firstName: Michael
-            lastName: Cochez
-        -   creatorType: author
-            firstName: Shirui
-            lastName: Pan
-        -   creatorType: author
-            firstName: Steffen
-            lastName: Staab
-        date: '2023'
-        dateAdded: '2023-12-06T00:06:53Z'
-        dateModified: '2023-12-06T00:07:02Z'
-        extra: 'arXiv: 2304.11949'
-        genre: ''
-        itemType: preprint
-        key: 656G2C9C
-        language: ''
-        libraryCatalog: ''
-        place: ''
-        relations: {}
-        repository: ''
-        rights: ''
-        series: ''
-        seriesNumber: ''
-        shortTitle: ''
-        tags: []
-        title: 'Geometric Relational Embeddings: A Survey'
-        url: https://doi.org/10.48550/arXiv.2304.11949
-        version: 742
-    key: 656G2C9C
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/656G2C9C
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/656G2C9C
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Xiong et al.
-        numChildren: 0
-        parsedDate: '2023'
-    version: 742
 -   data:
         DOI: 10.48550/ARXIV.2311.05778
         ISBN: ''
