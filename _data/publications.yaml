@@ -1,4 +1,234 @@
 -   data:
+        DOI: ''
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Luana
+            lastName: Bulla
+        -   creatorType: author
+            firstName: Stefano
+            lastName: De Giorgis
+        -   creatorType: author
+            firstName: Misael
+            lastName: Mongiovì
+        -   creatorType: author
+            firstName: Aldo
+            lastName: Gangemi
+        date: '2025'
+        dateAdded: '2025-11-19T11:04:51Z'
+        dateModified: '2025-11-19T11:04:51Z'
+        extra: 'Publisher: Elsevier'
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: L74YILM8
+        language: ''
+        libraryCatalog: ''
+        pages: '100609'
+        publicationTitle: Computers in Human Behavior Reports
+        relations: {}
+        rights: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: 'Large Language Models meet moral values: A comprehensive assessment
+            of moral abilities'
+        url: ''
+        version: 1195
+        volume: '17'
+    key: L74YILM8
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/L74YILM8
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/L74YILM8
+            type: application/json
+    meta:
+        createdByUser:
+            id: 7896747
+            links:
+                alternate:
+                    href: https://www.zotero.org/stefano_dg
+                    type: text/html
+            name: ''
+            username: stefano_dg
+        creatorSummary: Bulla et al.
+        numChildren: 0
+        parsedDate: '2025'
+    version: 1195
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Rachel
+            lastName: Ringe
+        -   creatorType: author
+            firstName: Mihai
+            lastName: Pomarlan
+        -   creatorType: author
+            firstName: Nikolaos
+            lastName: Tsiogkas
+        -   creatorType: author
+            firstName: Stefano
+            lastName: De Giorgis
+        -   creatorType: author
+            firstName: Maria
+            lastName: Hedblom
+        -   creatorType: author
+            firstName: Rainer
+            lastName: Malaka
+        date: '2025'
+        dateAdded: '2025-11-19T11:04:04Z'
+        dateModified: '2025-11-19T11:04:04Z'
+        extra: ''
+        itemType: conferencePaper
+        key: G77Z5QLM
+        language: ''
+        libraryCatalog: ''
+        pages: 1078–1082
+        place: ''
+        proceedingsTitle: 2025 20th ACM/IEEE International Conference on Human-Robot
+            Interaction (HRI)
+        publisher: IEEE
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: The Wilhelm Tell Dataset of Affordance Demonstrations
+        url: ''
+        version: 1194
+        volume: ''
+    key: G77Z5QLM
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/G77Z5QLM
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/G77Z5QLM
+            type: application/json
+    meta:
+        createdByUser:
+            id: 7896747
+            links:
+                alternate:
+                    href: https://www.zotero.org/stefano_dg
+                    type: text/html
+            name: ''
+            username: stefano_dg
+        creatorSummary: Ringe et al.
+        numChildren: 0
+        parsedDate: '2025'
+    version: 1194
+-   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Andrea
+            lastName: Schimmenti
+        -   creatorType: author
+            firstName: Stefano
+            lastName: De Giorgis
+        -   creatorType: author
+            firstName: Fabio
+            lastName: Vitali
+        -   creatorType: author
+            firstName: Marieke
+            lastName: Van Erp
+        date: '2025'
+        dateAdded: '2025-11-19T11:03:31Z'
+        dateModified: '2025-11-19T11:03:31Z'
+        extra: ''
+        itemType: conferencePaper
+        key: XF8ZVDJ3
+        language: ''
+        libraryCatalog: ''
+        pages: 266–276
+        place: ''
+        proceedingsTitle: Proceedings of the 5th Conference on Language, Data and
+            Knowledge
+        publisher: ''
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: 'Old Reviews, New Aspects: Aspect Based Sentiment Analysis and Entity
+            Typing for Book Reviews with LLMs'
+        url: ''
+        version: 1193
+        volume: ''
+    key: XF8ZVDJ3
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/XF8ZVDJ3
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/XF8ZVDJ3
+            type: application/json
+    meta:
+        createdByUser:
+            id: 7896747
+            links:
+                alternate:
+                    href: https://www.zotero.org/stefano_dg
+                    type: text/html
+            name: ''
+            username: stefano_dg
+        creatorSummary: Schimmenti et al.
+        numChildren: 0
+        parsedDate: '2025'
+    version: 1193
+-   data:
         DOI: 10.48550/ARXIV.2507.20832
         ISSN: ''
         abstractNote: ''
