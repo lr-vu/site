@@ -54,11 +54,6 @@ The [LEAPfROG project](https://www.pharmacoinformaticslab.nl/leapfrog/)  aims fo
 
 [LEMUR](https://lemur-dn.github.io/) is a 2021 Marie Skłodowska-Curie Action doctoral network on Learning with Multiple Representations. LEMUR aims to develop the theoretical foundations and a first set of algorithms for the new “Learning with Multiple Representations” (LMR) paradigm. Moreover, corresponding applications will be developed to demonstrate the usefulness of the new family of approaches.
 
-## MUHAI
-
-<a class="logo" href="https://muhai.univiu.org/"><img src="/images/projects/muhai.png" title="The logo of the MUHAI project"></a>
-
-[MUHAI](https://muhai.univiu.org/) (meaning and understanding in human-centric IA), is an international project that brings together researchers from France, Germany, Belgium and the Netherlands, with the aim of understanding _meaning_ in the context of modern AI methods.
 
 ## PersOn
 <a class="logo alt" href="http://www.personalisedcareinoncology.nl/"><img src="/images/projects/PersOn_logo.png" title="The logo of the PersOn project"></a>
