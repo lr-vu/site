@@ -389,11 +389,12 @@
   role: phd
   title: PhD student
 
-# Alumni
 - name: Dimitrios Alivanistos
   website: https://dimitrisalivas.github.io/
   bio: null
-  role: alumnus
+  role: guest
+
+# Alumni
 
 - name: Majid Mohammedi
   orderby: Mohammedi
