@@ -11,9 +11,6 @@ current_projects:
 -   name: LEAPfROG
     website: https://www.pharmacoinformaticslab.nl/leapfrog/
     image: /images/projects/leapfrog.png
--   name: MUHAI
-    website: https://muhai.univiu.org/
-    image: /images/projects/muhai.png
 -   name: GraphMassivizer
     website: https://graph-massivizer.eu/
     image: /images/projects/Graph-Massivizer.png
@@ -24,6 +21,9 @@ current_projects:
     website: https://www.cost.eu/actions/CA23147/
     image: /images/projects/goblin.png
 previous_projects:
+-   name: MUHAI
+    website: https://muhai.univiu.org/
+    image: null
 -   name: Humane AI
     website: https://www.humane-ai.eu/
     image: null
