@@ -1,4 +1,75 @@
 -   data:
+        DOI: ''
+        ISBN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Ruud
+            lastName: van Bakel
+        -   creatorType: author
+            firstName: Michael
+            lastName: Cochez
+        -   creatorType: author
+            firstName: Patrick
+            lastName: Koopmann
+        date: '2025'
+        dateAdded: '2025-11-19T17:40:17Z'
+        dateModified: '2025-11-19T17:40:17Z'
+        extra: ''
+        itemType: conferencePaper
+        key: WJJIJPI5
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        place: ''
+        proceedingsTitle: Proceedings of the 38th International Workshop on Description
+            Logics - DL 2025
+        publisher: ''
+        relations: {}
+        rights: ''
+        series: ''
+        shortTitle: ''
+        tags: []
+        title: Towards Conceptual Clustering in EL with Simulation Graphs
+        url: ''
+        version: 1200
+        volume: '4091'
+    key: WJJIJPI5
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/WJJIJPI5
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/WJJIJPI5
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: van Bakel et al.
+        numChildren: 0
+        parsedDate: '2025'
+    version: 1200
+-   data:
         ISBN: 978-1-64368-578-6
         abstractNote: Geometric relational embeddings map relational data as geometric
             objects that combine vector information suitable for machine learning
