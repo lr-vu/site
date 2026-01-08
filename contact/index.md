@@ -16,8 +16,7 @@ For general enquiries, send an email to the department secretary <a href="mailto
     
 # For students
 
-If you are a student looking for thesis supervision, you should have access to an overview of projects available at the department on Canvas. Do not approach researchers before checking the list to see if they have projects or slots available. If you have trouble finding a supervisor, contact the coordinator for your thesis project. You can find [an overview of thesis topics we offer in the group here](https://cutt.ly/NwmLzD7H
-).
+If you are a student looking for thesis supervision, you should have access to an overview of projects available at the department on OnStage. Do not approach researchers before checking the list to see if they have projects or slots available. If you have trouble finding a supervisor, contact the AI thesis coordinator. 
 
 # Finding us
 

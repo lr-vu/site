@@ -52,7 +52,7 @@ branch. For example, adding / modifying your profile can be easily done by you.
 
 ## Adding or modifying a project at https://lr.cs.vu.nl/research
 
-See [`./research/index.md`](research/index.md).
+See [`./research/index.md`](about/projects.md).
 
 ## Adding or modifying news at https://lr.cs.vu.nl/
 

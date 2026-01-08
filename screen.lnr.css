@@ -288,7 +288,7 @@ header ul.menu li a {
 	height: auto
 	line-height: 27.5px;
 	
-	margin: 23px 0 0 23px; 
+	margin: 23px 0 0 -2px;
 	padding: 17px;
 	
 	text-decoration: none;
