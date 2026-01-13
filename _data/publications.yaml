@@ -23,11 +23,14 @@
         date: '2025'
         dateAdded: '2025-11-19T17:40:17Z'
         dateModified: '2025-11-19T17:40:17Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: WJJIJPI5
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: ''
         place: ''
         proceedingsTitle: Proceedings of the 38th International Workshop on Description
@@ -36,6 +39,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Towards Conceptual Clustering in EL with Simulation Graphs
@@ -236,11 +240,14 @@
         date: '2025-09-08'
         dateAdded: '2025-11-19T17:23:28Z'
         dateModified: '2025-11-19T17:23:28Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: BATQ6KE4
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 15–51
         place: ''
         proceedingsTitle: Proceedings of The 19th International Conference on Neurosymbolic
@@ -249,6 +256,7 @@
         relations: {}
         rights: ''
         series: Proceedings of Machine Learning Research
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Do Graph Neural Network States Contain Graph Properties?
@@ -401,11 +409,14 @@
         date: '2025'
         dateAdded: '2025-11-19T11:04:04Z'
         dateModified: '2025-11-19T11:04:04Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: G77Z5QLM
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 1078–1082
         place: ''
         proceedingsTitle: 2025 20th ACM/IEEE International Conference on Human-Robot
@@ -414,6 +425,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: The Wilhelm Tell Dataset of Affordance Demonstrations
@@ -477,11 +489,14 @@
         date: '2025'
         dateAdded: '2025-11-19T11:03:31Z'
         dateModified: '2025-11-19T11:03:31Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: XF8ZVDJ3
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 266–276
         place: ''
         proceedingsTitle: Proceedings of the 5th Conference on Language, Data and
@@ -490,6 +505,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: 'Old Reviews, New Aspects: Aspect Based Sentiment Analysis and Entity
@@ -869,11 +885,14 @@
         date: '2025'
         dateAdded: '2025-11-17T16:21:59Z'
         dateModified: '2025-11-17T16:24:10Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: ZNP9V7YA
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 455-469
         place: ''
         proceedingsTitle: ''
@@ -881,6 +900,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: 'Towards Chatbots That Know Their Users: A Comparative Study of Memory
@@ -1050,11 +1070,14 @@
         date: '2025'
         dateAdded: '2025-11-17T14:49:47Z'
         dateModified: '2025-11-17T14:49:47Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: FXDZYS6Q
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: ''
         place: ''
         proceedingsTitle: Joint Proceedings of Posters, Demos, Workshops, and Tutorials
@@ -1065,6 +1088,7 @@
         relations: {}
         rights: ''
         series: CEUR Workshop Proceedings
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: 'Second International Workshop on Scaling Knowledge Graphs for Industry
@@ -2012,11 +2036,14 @@
         date: '2025'
         dateAdded: '2025-11-16T20:36:53Z'
         dateModified: '2025-11-16T20:36:53Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: Y5KKV9YV
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 530–539
         place: ''
         proceedingsTitle: 'Proceedings of the 18th International Joint Conference
@@ -2026,6 +2053,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Can We Trust Explanation! Evaluation of Model-Agnostic Explanation
@@ -2100,11 +2128,14 @@
         date: '2025'
         dateAdded: '2025-11-16T20:35:59Z'
         dateModified: '2025-11-16T20:35:59Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: M4L6UUNG
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 333–343
         place: ''
         proceedingsTitle: Artificial Intelligence in Medicine - 23rd International
@@ -2114,6 +2145,7 @@
         relations: {}
         rights: ''
         series: Lecture Notes in Computer Science
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: A Boxology-Based Analysis of Design Patterns for Neuro-Symbolic Medical
@@ -2184,11 +2216,14 @@
         date: '2025'
         dateAdded: '2025-11-16T20:35:05Z'
         dateModified: '2025-11-16T20:35:05Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: LZDMXMYZ
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 19520–19527
         place: ''
         proceedingsTitle: AAAI-25, Sponsored by the Association for the Advancement
@@ -2198,6 +2233,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Support Vector-based Estimation of Multilinear Games for Feature Selection
@@ -2268,11 +2304,14 @@
         date: '2025'
         dateAdded: '2025-11-16T20:34:26Z'
         dateModified: '2025-11-16T20:34:26Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: 6FZ9YLIJ
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 19512–19519
         place: ''
         proceedingsTitle: AAAI-25, Sponsored by the Association for the Advancement
@@ -2282,6 +2321,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: 'Unlocking the Game: Estimating Games in Möbius Representation for
@@ -2681,11 +2721,14 @@
         date: '2025'
         dateAdded: '2025-11-14T09:42:29Z'
         dateModified: '2025-11-14T09:42:29Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: 2TCPVKYW
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: ''
         place: ''
         proceedingsTitle: ECAI
@@ -2693,6 +2736,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Investigating the robustness of deductive reasoning with large language
@@ -2859,11 +2903,14 @@
         date: '2025'
         dateAdded: '2025-11-14T09:42:29Z'
         dateModified: '2025-11-14T09:42:29Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: KIUMRWZ7
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: ''
         place: ''
         proceedingsTitle: Proceedings of the 2nd Workshop on Analogical Abstraction
@@ -2872,6 +2919,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Proceedings of the 2nd Workshop on Analogical Abstraction in Cognition,
@@ -3108,11 +3156,14 @@
         date: '2025'
         dateAdded: '2025-11-14T09:35:46Z'
         dateModified: '2025-11-14T09:35:46Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: MVBIUKM8
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 259–276
         place: ''
         proceedingsTitle: Proceedings of the Nineteenth International AAAI Conference
@@ -3121,6 +3172,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Clustering Internet Memes Through Template Matching and Multi-Dimensional
@@ -3185,11 +3237,14 @@
         date: '2025'
         dateAdded: '2025-11-14T09:35:23Z'
         dateModified: '2025-11-14T09:35:23Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: I37KW2YX
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: ''
         place: ''
         proceedingsTitle: The Thirteenth International Conference on Learning Representations,
@@ -3198,6 +3253,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: 'MLLMs Know Where to Look: Training-free Perception of Small Visual
@@ -3259,11 +3315,14 @@
         date: '2025'
         dateAdded: '2025-11-14T09:34:45Z'
         dateModified: '2025-11-14T09:34:45Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: 75TEPDTX
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 3262–3271
         place: ''
         proceedingsTitle: IEEE/CVF Conference on Computer Vision and Pattern Recognition,
@@ -3272,6 +3331,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Commonsense Video Question Answering through Video-Grounded Entailment
@@ -3345,11 +3405,14 @@
         date: '2025'
         dateAdded: '2025-11-14T09:34:30Z'
         dateModified: '2025-11-14T09:34:30Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: IGW48K9Y
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 4410–4418
         place: ''
         proceedingsTitle: AAAI-25, Sponsored by the Association for the Advancement
@@ -3359,6 +3422,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: 'COLUMBUS: Evaluating COgnitive Lateral Understanding Through Multiple-Choice
@@ -3553,11 +3617,14 @@
         date: '2025'
         dateAdded: '2025-11-02T01:40:00Z'
         dateModified: '2025-11-13T16:17:53Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: JUYY7BW2
         language: en
         libraryCatalog: Springer Link
+        numberOfVolumes: ''
         pages: 481-501
         place: Cham
         proceedingsTitle: The Semantic Web – ISWC 2025
@@ -3565,6 +3632,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Measuring the Impact of Narrative Complexity on Knowledge Graph Embeddings
@@ -3778,11 +3846,14 @@
         date: 2025-09
         dateAdded: '2025-10-21T07:55:14Z'
         dateModified: '2025-10-23T19:24:29Z'
+        eventPlace: ''
         extra: 'Citation Key: gallettiAutomatedConceptMap2025'
+        issue: ''
         itemType: conferencePaper
         key: 8Z8FPIRX
         language: ''
         libraryCatalog: ACLWeb
+        numberOfVolumes: ''
         pages: 87–99
         place: Naples, Italy
         proceedingsTitle: Proceedings of the 5th Conference on Language, Data and
@@ -3791,6 +3862,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Automated Concept Map Extraction from Text
@@ -4075,11 +4147,14 @@
         date: '2025'
         dateAdded: '2025-10-16T14:11:00Z'
         dateModified: '2025-10-23T19:24:28Z'
+        eventPlace: ''
         extra: 'Citation Key: kriekenNeurosymbolicReasoningShortcuts2025'
+        issue: ''
         itemType: conferencePaper
         key: MZMEC92P
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: ''
         place: ''
         proceedingsTitle: 19th International Conference on Neurosymbolic Learning
@@ -4088,6 +4163,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Neurosymbolic Reasoning Shortcuts under the Independence Assumption
@@ -4151,11 +4227,14 @@
         date: '2025'
         dateAdded: '2025-10-16T14:08:47Z'
         dateModified: '2025-10-23T19:24:28Z'
+        eventPlace: ''
         extra: 'Citation Key: vankriekenNeurosymbolicDiffusionModels2025'
+        issue: ''
         itemType: conferencePaper
         key: P7KFJL8A
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: ''
         place: ''
         proceedingsTitle: The Thirty-ninth Annual Conference on Neural Information
@@ -4164,6 +4243,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Neurosymbolic Diffusion Models
@@ -4449,11 +4529,14 @@
         date: '2024'
         dateAdded: '2024-12-03T09:44:59Z'
         dateModified: '2025-07-07T13:32:06Z'
+        eventPlace: ''
         extra: 'Citation Key: alivanistosEffectKnowledgeGraph2024'
+        issue: ''
         itemType: conferencePaper
         key: HBEGATWY
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 149–170
         place: ''
         proceedingsTitle: Natural Scientific Language Processing and Research Knowledge
@@ -4463,6 +4546,7 @@
         relations: {}
         rights: ''
         series: Lecture Notes in Computer Science
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: The Effect of Knowledge Graph Schema on Classifying Future Research
@@ -4562,11 +4646,14 @@
         date: '2024'
         dateAdded: '2024-12-03T09:44:02Z'
         dateModified: '2025-07-07T13:32:06Z'
+        eventPlace: ''
         extra: 'Citation Key: weerdtOfficeGraphKnowledgeGraph2024'
+        issue: ''
         itemType: conferencePaper
         key: FKKGUM2K
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 94–109
         place: ''
         proceedingsTitle: The Semantic Web - 21st International Conference, ESWC 2024,
@@ -4575,6 +4662,7 @@
         relations: {}
         rights: ''
         series: Lecture Notes in Computer Science
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: 'OfficeGraph: A Knowledge Graph of Office Building IoT Measurements'
@@ -4652,11 +4740,14 @@
         date: '2024'
         dateAdded: '2024-12-03T09:43:09Z'
         dateModified: '2025-07-07T13:32:06Z'
+        eventPlace: ''
         extra: 'Citation Key: grguricEvaluatingTMRModel2024'
+        issue: ''
         itemType: conferencePaper
         key: C3CJ8L3L
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 52–63
         place: ''
         proceedingsTitle: Artificial Intelligence in Medicine - 22nd International
@@ -4666,6 +4757,7 @@
         relations: {}
         rights: ''
         series: Lecture Notes in Computer Science
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Evaluating the TMR Model for Multimorbidity Decision Support Using
@@ -5280,11 +5372,14 @@
         date: '2024'
         dateAdded: '2024-12-11T11:01:12Z'
         dateModified: '2025-07-07T13:32:03Z'
+        eventPlace: ''
         extra: 'Citation Key: blinStructuredRepresentationsNarratives2024'
+        issue: ''
         itemType: conferencePaper
         key: 2FAE7PQ6
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 133–154
         place: ''
         proceedingsTitle: Knowledge Engineering and Knowledge Management - 24th International
@@ -5294,6 +5389,7 @@
         relations: {}
         rights: ''
         series: Lecture Notes in Computer Science
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Structured Representations for Narratives
@@ -5389,11 +5485,14 @@
         date: '2024'
         dateAdded: '2024-12-03T09:56:22Z'
         dateModified: '2025-07-07T13:32:03Z'
+        eventPlace: ''
         extra: 'Citation Key: storkEnablingSocialDemography2024'
+        issue: ''
         itemType: conferencePaper
         key: UZE3RLSY
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 199–216
         place: ''
         proceedingsTitle: The Semantic Web - 21st International Conference, ESWC 2024,
@@ -5402,6 +5501,7 @@
         relations: {}
         rights: ''
         series: Lecture Notes in Computer Science
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Enabling Social Demography Research Using Semantic Technologies
@@ -5575,11 +5675,14 @@
         date: '2024'
         dateAdded: '2024-12-17T13:00:11Z'
         dateModified: '2025-07-07T13:12:21Z'
+        eventPlace: ''
         extra: 'Citation Key: deshpandeContextualizingArgumentQuality2024'
+        issue: ''
         itemType: conferencePaper
         key: QYSIGMDA
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 316–326
         place: ''
         proceedingsTitle: 'Proceedings of the 2024 Conference of the North American
@@ -5590,6 +5693,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Contextualizing Argument Quality Assessment with Relevant Knowledge
@@ -5667,11 +5771,14 @@
         date: '2024'
         dateAdded: '2024-12-17T12:58:20Z'
         dateModified: '2025-07-07T13:12:21Z'
+        eventPlace: ''
         extra: 'Citation Key: joshiKnowledgePoweredRecommendationImproved2024a'
+        issue: ''
         itemType: conferencePaper
         key: 3HAQA3RY
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 23805–23807
         place: ''
         proceedingsTitle: Thirty-Eighth AAAI Conference on Artificial Intelligence,
@@ -5683,6 +5790,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Knowledge-Powered Recommendation for an Improved Diet Water Footprint
@@ -5892,11 +6000,14 @@
         date: '2024'
         dateAdded: '2024-12-17T12:59:52Z'
         dateModified: '2025-07-07T13:12:21Z'
+        eventPlace: ''
         extra: 'Citation Key: ilievskiFirstInternationalWorkshop2024'
+        issue: ''
         itemType: conferencePaper
         key: 5ADG98WY
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: ''
         place: ''
         proceedingsTitle: Joint Proceedings of the ESWC 2024 Workshops and Tutorials
@@ -5906,6 +6017,7 @@
         relations: {}
         rights: ''
         series: CEUR Workshop Proceedings
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: First International Workshop on Generative Neuro-Symbolic AI (GeNeSy
@@ -5990,11 +6102,14 @@
         date: '2024'
         dateAdded: '2024-12-17T12:59:18Z'
         dateModified: '2025-07-07T13:12:21Z'
+        eventPlace: ''
         extra: 'Citation Key: souratiRobustTextClassification2024'
+        issue: ''
         itemType: conferencePaper
         key: ZBTNXZRW
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 12736–12757
         place: ''
         proceedingsTitle: 'Findings of the Association for Computational Linguistics:
@@ -6003,6 +6118,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: 'Robust Text Classification: Analyzing Prototype-Based Networks'
@@ -6094,11 +6210,14 @@
         date: 2024-06
         dateAdded: '2024-07-04T13:00:53Z'
         dateModified: '2025-07-07T13:12:20Z'
+        eventPlace: ''
         extra: 'Citation Key: hengstConformalIntentClassification2024'
+        issue: ''
         itemType: conferencePaper
         key: 66JUDAG7
         language: ''
         libraryCatalog: ACLWeb
+        numberOfVolumes: ''
         pages: 2412–2432
         place: Mexico City, Mexico
         proceedingsTitle: 'Findings of the Association for Computational Linguistics:
@@ -6107,6 +6226,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags:
         -   tag: conformal prediction
@@ -6546,11 +6666,14 @@
         date: '2024'
         dateAdded: '2024-12-17T13:01:18Z'
         dateModified: '2025-07-07T13:12:20Z'
+        eventPlace: ''
         extra: 'Citation Key: joshiContextualizingInternetMemes2024'
+        issue: ''
         itemType: conferencePaper
         key: IF7TDBGW
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 1831–1840
         place: ''
         proceedingsTitle: Companion Proceedings of the ACM on Web Conference 2024,
@@ -6559,6 +6682,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Contextualizing Internet Memes Across Social Media Platforms
@@ -6633,11 +6757,14 @@
         date: '2024'
         dateAdded: '2024-12-17T13:01:05Z'
         dateModified: '2025-07-07T13:12:20Z'
+        eventPlace: ''
         extra: 'Citation Key: chhikaraFIREFoodImage2024'
+        issue: ''
         itemType: conferencePaper
         key: LR2CC8D3
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 8169–8179
         place: ''
         proceedingsTitle: IEEE/CVF Winter Conference on Applications of Computer Vision,
@@ -6646,6 +6773,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: 'FIRE: Food Image to REcipe generation'
@@ -6732,11 +6860,14 @@
         date: '2024'
         dateAdded: '2024-12-17T13:00:52Z'
         dateModified: '2025-07-07T13:12:20Z'
+        eventPlace: ''
         extra: 'Citation Key: jiangSemEval2024TaskBRAINTEASER2024'
+        issue: ''
         itemType: conferencePaper
         key: 9QPVR7EW
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 1994–2008
         place: ''
         proceedingsTitle: Proceedings of the 18th International Workshop on Semantic
@@ -6745,6 +6876,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: 'SemEval-2024 Task 9: BRAINTEASER: A Novel Task Defying Common Sense'
@@ -6828,11 +6960,14 @@
         date: '2023'
         dateAdded: '2024-12-17T13:08:36Z'
         dateModified: '2025-07-07T13:12:20Z'
+        eventPlace: ''
         extra: 'Citation Key: chhikaraKnowledgeenhancedAgentsInteractive2023'
+        issue: ''
         itemType: conferencePaper
         key: 7NNEQ9PL
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 157–165
         place: ''
         proceedingsTitle: Proceedings of the 12th Knowledge Capture Conference 2023,
@@ -6841,6 +6976,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Knowledge-enhanced Agents for Interactive Text Games
@@ -6936,11 +7072,14 @@
         date: '2024'
         dateAdded: '2024-12-17T14:44:39Z'
         dateModified: '2025-07-07T13:12:19Z'
+        eventPlace: ''
         extra: 'Citation Key: wangQAGCNAnsweringMultirelation2024'
+        issue: ''
         itemType: conferencePaper
         key: QMJHYBRU
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 41–58
         place: ''
         proceedingsTitle: The Semantic Web - 21st International Conference, ESWC 2024,
@@ -6949,6 +7088,7 @@
         relations: {}
         rights: ''
         series: Lecture Notes in Computer Science
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: 'QAGCN: Answering Multi-relation Questions via Single-Step Implicit
@@ -7021,11 +7161,14 @@
         date: '2024'
         dateAdded: '2024-12-17T14:44:11Z'
         dateModified: '2025-07-07T13:12:19Z'
+        eventPlace: ''
         extra: 'Citation Key: rozanecBackFuturePredicting2024'
+        issue: ''
         itemType: conferencePaper
         key: ZWB2IR88
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: ''
         place: ''
         proceedingsTitle: The Second Tiny Papers Track at ICLR 2024, Tiny Papers @
@@ -7034,6 +7177,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: 'Back to the Future: predicting causal relationships influencing oil
@@ -7107,11 +7251,14 @@
         date: 2023-10-9
         dateAdded: '2024-12-17T13:24:23Z'
         dateModified: '2025-07-07T13:12:19Z'
+        eventPlace: ''
         extra: 'Citation Key: petrescuLogParsingEvaluation2023'
+        issue: ''
         itemType: conferencePaper
         key: 96PEVRUP
         language: ''
         libraryCatalog: DOI.org (Crossref)
+        numberOfVolumes: ''
         pages: 379-390
         place: Florence, Italy
         proceedingsTitle: 2023 IEEE 34th International Symposium on Software Reliability
@@ -7120,6 +7267,7 @@
         relations: {}
         rights: https://doi.org/10.15223/policy-029
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Log Parsing Evaluation in the Era of Modern Software Systems
@@ -7209,11 +7357,14 @@
         date: '2024'
         dateAdded: '2024-12-17T13:09:09Z'
         dateModified: '2025-07-07T13:12:19Z'
+        eventPlace: ''
         extra: 'Citation Key: younesianReWiseRelationWiseSampling2024'
+        issue: ''
         itemType: conferencePaper
         key: WJVHVQXG
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 123–141
         place: ''
         proceedingsTitle: Knowledge Graphs in the Age of Language Models and Neuro-Symbolic
@@ -7223,6 +7374,7 @@
         relations: {}
         rights: ''
         series: Studies on the Semantic Web
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: 'ReWise: A Relation-Wise Sampling Framework for Relational Graph Convolutional
@@ -7659,11 +7811,14 @@
         date: November 2024
         dateAdded: '2024-12-17T14:45:19Z'
         dateModified: '2025-07-07T13:12:18Z'
+        eventPlace: ''
         extra: 'Citation Key: cucumidesUnRavLNeuroSymbolicFramework2024'
+        issue: ''
         itemType: conferencePaper
         key: HFEANI96
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: ''
         place: ''
         proceedingsTitle: The Third Learning on Graphs Conference
@@ -7671,6 +7826,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: 'UnRavL: A Neuro-Symbolic Framework for Answering Graph Pattern Queries
@@ -7758,11 +7914,14 @@
         date: '2024'
         dateAdded: '2025-01-08T19:04:16Z'
         dateModified: '2025-07-07T13:12:18Z'
+        eventPlace: ''
         extra: 'Citation Key: cochezFirstInternationalWorkshop2024'
+        issue: ''
         itemType: conferencePaper
         key: 8YGTGB6I
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: ''
         place: ''
         proceedingsTitle: Joint Proceedings of Posters, Demos, Workshops, and Tutorials
@@ -7773,6 +7932,7 @@
         relations: {}
         rights: ''
         series: CEUR Workshop Proceedings
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: 'First International Workshop on Scaling Knowledge Graphs for Industry:
@@ -7851,11 +8011,14 @@
         date: '2024'
         dateAdded: '2025-01-08T18:59:58Z'
         dateModified: '2025-07-07T13:12:18Z'
+        eventPlace: ''
         extra: 'Citation Key: stohrKnowledgeModellingStrategy2024'
+        issue: ''
         itemType: conferencePaper
         key: 7GJ9VA3Q
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 210–221
         place: ''
         proceedingsTitle: Proceedings of the 16th International Conference on Agents
@@ -7865,6 +8028,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Knowledge Modelling, Strategy Designing, and Agent Engineering for
@@ -8061,11 +8225,14 @@
         date: '2024'
         dateAdded: '2025-01-08T18:59:15Z'
         dateModified: '2025-07-07T13:12:18Z'
+        eventPlace: ''
         extra: 'Citation Key: panEnhancingScholarlyPaper2024'
+        issue: ''
         itemType: conferencePaper
         key: 7DAFLPBW
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 182–194
         place: ''
         proceedingsTitle: Recent Challenges in Intelligent Information and Database
@@ -8076,6 +8243,7 @@
         relations: {}
         rights: ''
         series: Communications in Computer and Information Science
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Enhancing Scholarly Paper Recommendation by Modelling Diversity of
@@ -8328,11 +8496,14 @@
         date: '2024'
         dateAdded: '2025-01-06T16:19:32Z'
         dateModified: '2025-07-07T13:12:17Z'
+        eventPlace: ''
         extra: 'Citation Key: manigrassoProbingLLMsLogical2024'
+        issue: ''
         itemType: conferencePaper
         key: P4XG2L79
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 257–278
         place: ''
         proceedingsTitle: Neural-Symbolic Learning and Reasoning - 18th International
@@ -8342,6 +8513,7 @@
         relations: {}
         rights: ''
         series: Lecture Notes in Computer Science
+        seriesNumber: ''
         shortTitle: ''
         tags:
         -   tag: large language models
@@ -8679,11 +8851,14 @@
         date: ''
         dateAdded: '2025-02-04T09:35:04Z'
         dateModified: '2025-07-07T13:12:12Z'
+        eventPlace: ''
         extra: 'Citation Key: zotero-4426'
+        issue: ''
         itemType: conferencePaper
         key: W7PTAXYX
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: ''
         place: ''
         proceedingsTitle: ''
@@ -8691,6 +8866,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: ''
@@ -8796,11 +8972,14 @@
         date: 2024-11
         dateAdded: '2025-02-04T09:37:35Z'
         dateModified: '2025-07-07T13:12:12Z'
+        eventPlace: ''
         extra: 'Citation Key: prevedelloLyricsSuccessEmbedding2024'
+        issue: ''
         itemType: conferencePaper
         key: 7HPE9NE4
         language: ''
         libraryCatalog: ACLWeb
+        numberOfVolumes: ''
         pages: 75–80
         place: Oakland, USA
         proceedingsTitle: Proceedings of the 3rd Workshop on NLP for Music and Audio
@@ -8809,6 +8988,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: Lyrics for Success
         tags: []
         title: 'Lyrics for Success: Embedding Features for Song Popularity Prediction'
@@ -8905,11 +9085,14 @@
         date: 31 March 2025
         dateAdded: '2025-01-20T10:15:06Z'
         dateModified: '2025-07-07T13:12:12Z'
+        eventPlace: ''
         extra: 'Citation Key: gardnerBiasDesignDiversity2025'
+        issue: ''
         itemType: conferencePaper
         key: W5C5H76X
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: ''
         place: Lyon, France
         proceedingsTitle: ''
@@ -8917,6 +9100,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: 'Bias by Design: Diversity Quantification to Mitigate Structural Bias
@@ -9275,11 +9459,14 @@
         date: '2025-04-28'
         dateAdded: '2025-05-27T11:06:01Z'
         dateModified: '2025-07-07T13:12:11Z'
+        eventPlace: ''
         extra: 'Citation Key: deswartDetectingLinguisticBias2025'
+        issue: ''
         itemType: conferencePaper
         key: YXADEN2T
         language: en
         libraryCatalog: DOI.org (Crossref)
+        numberOfVolumes: ''
         pages: 5034-5044
         place: Sydney NSW Australia
         proceedingsTitle: Proceedings of the ACM on Web Conference 2025
@@ -9287,6 +9474,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Detecting Linguistic Bias in Government Documents Using Large language
@@ -9404,11 +9592,14 @@
         date: '2024'
         dateAdded: '2025-01-08T19:18:30Z'
         dateModified: '2025-07-07T13:12:10Z'
+        eventPlace: ''
         extra: 'Citation Key: lisenaSemanticMethodsEvents2024'
+        issue: ''
         itemType: conferencePaper
         key: G4UM8PRH
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: ''
         place: ''
         proceedingsTitle: Joint Proceedings of the ESWC 2024 Workshops and Tutorials
@@ -9418,6 +9609,7 @@
         relations: {}
         rights: ''
         series: CEUR Workshop Proceedings
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Semantic Methods for Events and Stories (SEMMES) 2024
@@ -9501,11 +9693,14 @@
         date: '2024'
         dateAdded: '2024-12-17T13:03:57Z'
         dateModified: '2025-07-07T13:12:09Z'
+        eventPlace: ''
         extra: 'Citation Key: jiangMARVELMultidimensionalAbstraction2024'
+        issue: ''
         itemType: conferencePaper
         key: JLW4TEXB
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: ''
         place: ''
         proceedingsTitle: NeurIPS Benchmarks and Datasets
@@ -9513,6 +9708,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: 'MARVEL: Multidimensional Abstraction and Reasoning through Visual
@@ -9756,11 +9952,14 @@
         date: 05-2024
         dateAdded: '2024-06-03T11:27:28Z'
         dateModified: '2024-07-03T10:46:26Z'
+        eventPlace: ''
         extra: 'Citation Key: sauterCOREScalableEfficient2024'
+        issue: ''
         itemType: conferencePaper
         key: UZS3SWZU
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: ''
         place: New Zealand
         proceedingsTitle: Proceedings of the 23rd International Conference on Autonomous
@@ -9769,6 +9968,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags:
         -   tag: causal discovery
@@ -9847,13 +10047,16 @@
         date: '2024-05-21'
         dateAdded: '2024-06-03T11:30:56Z'
         dateModified: '2024-07-03T10:46:03Z'
+        eventPlace: ''
         extra: 'arXiv:2405.13092 [cs]
 
             Citation Key: sauterCausalPlaygroundAddressingDataGeneration2024'
+        issue: ''
         itemType: conferencePaper
         key: 7K83HMSJ
         language: ''
         libraryCatalog: arXiv.org
+        numberOfVolumes: ''
         pages: ''
         place: ''
         proceedingsTitle: ''
@@ -9861,6 +10064,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: CausalPlayground
         tags:
         -   tag: Computer Science - Artificial Intelligence
@@ -9930,13 +10134,16 @@
         date: '2022'
         dateAdded: '2023-03-24T12:41:58Z'
         dateModified: '2024-06-11T08:59:41Z'
+        eventPlace: ''
         extra: '_eprint: 2106.08166
 
             Citation Key: alivanistosQueryEmbeddingHyperRelational2022'
+        issue: ''
         itemType: conferencePaper
         key: W96WM9VC
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: ''
         place: ''
         proceedingsTitle: International Conference on Learning Representations (ICLR
@@ -9945,6 +10152,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Query Embedding on Hyper-Relational Knowledge Graphs
@@ -10017,11 +10225,14 @@
         date: '2022'
         dateAdded: '2023-03-24T12:41:58Z'
         dateModified: '2024-06-11T08:59:41Z'
+        eventPlace: ''
         extra: 'Citation Key: xiongHyperbolicEmbeddingInference2022'
+        issue: ''
         itemType: conferencePaper
         key: FGKTVWSM
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: ''
         place: ''
         proceedingsTitle: NeurIPS2022
@@ -10029,6 +10240,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Hyperbolic Embedding Inference for Structured Multi-Label Prediction
@@ -10302,11 +10514,14 @@
         date: '2020'
         dateAdded: '2023-03-24T12:41:57Z'
         dateModified: '2024-06-11T08:59:41Z'
+        eventPlace: ''
         extra: 'Citation Key: pellegrinoGEvalModularExtensible2020'
+        issue: ''
         itemType: conferencePaper
         key: MGLZ5ZCQ
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 565–582
         place: Cham
         proceedingsTitle: The Semantic Web
@@ -10314,6 +10529,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: 'GEval: A Modular and Extensible Evaluation Framework for Graph Embedding
@@ -10387,11 +10603,14 @@
         date: '2021'
         dateAdded: '2023-03-24T12:41:25Z'
         dateModified: '2024-06-11T08:59:41Z'
+        eventPlace: ''
         extra: 'Citation Key: arakelyanComplexQueryAnswering2021a'
+        issue: ''
         itemType: conferencePaper
         key: SC67JHK9
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: ''
         place: ''
         proceedingsTitle: 9th International Conference on Learning Representations,
@@ -10401,6 +10620,7 @@
             dc:replaces: http://zotero.org/groups/4989916/items/2U4GTEST
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Complex Query Answering with Neural Link Predictors
@@ -10473,11 +10693,14 @@
         date: '2021'
         dateAdded: '2023-03-27T15:48:35Z'
         dateModified: '2024-06-11T08:59:40Z'
+        eventPlace: ''
         extra: 'Citation Key: bloemKgbenchCollectionKnowledge2021'
+        issue: ''
         itemType: conferencePaper
         key: JCDFA2BU
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 614–630
         place: ''
         proceedingsTitle: 'The Semantic Web: 18th International Conference, ESWC 2021,
@@ -10486,6 +10709,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: 'kgbench: A collection of knowledge graph datasets for evaluating relational
@@ -10753,11 +10977,14 @@
         date: '2021'
         dateAdded: '2023-03-24T12:41:25Z'
         dateModified: '2024-06-11T08:59:40Z'
+        eventPlace: ''
         extra: 'Citation Key: wilckeKgbenchCollectionDatasets2021'
+        issue: ''
         itemType: conferencePaper
         key: UBS22RJM
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 614–630
         place: ''
         proceedingsTitle: Proceedings of the European Semantic Web Conference 2021
@@ -10765,6 +10992,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: 'kgbench: A Collection of Datasets for Multimodal and Relational Learning
@@ -10887,11 +11115,14 @@
         date: '2020'
         dateAdded: '2023-03-24T12:41:23Z'
         dateModified: '2024-06-11T08:59:40Z'
+        eventPlace: ''
         extra: 'Citation Key: gleimSchemaTreeMaximumLikelihoodProperty2020'
+        issue: ''
         itemType: conferencePaper
         key: 2YRKFJMI
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 179–195
         place: Cham
         proceedingsTitle: The Semantic Web
@@ -10900,6 +11131,7 @@
             dc:replaces: http://zotero.org/groups/4989916/items/ID64XAV8
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: 'SchemaTree: Maximum-Likelihood Property Recommendation for Wikidata'
@@ -10976,11 +11208,14 @@
         date: '2018'
         dateAdded: '2023-03-27T15:48:34Z'
         dateModified: '2024-06-11T08:59:39Z'
+        eventPlace: ''
         extra: 'Citation Key: schlichtkrullModelingRelationalData2018a'
+        issue: ''
         itemType: conferencePaper
         key: R3FJRED9
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: ''
         place: ''
         proceedingsTitle: European Semantic Web Conference, 593-607
@@ -10988,6 +11223,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags:
         -   tag: graph learning
@@ -11060,11 +11296,14 @@
         date: '2022'
         dateAdded: '2023-03-27T15:48:35Z'
         dateModified: '2024-06-11T08:59:39Z'
+        eventPlace: ''
         extra: 'Citation Key: schoutenProbingRepresentationsNamed2022'
+        issue: ''
         itemType: conferencePaper
         key: P5W6J8LZ
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 384–393
         place: ''
         proceedingsTitle: Proceedings of the Fifth BlackboxNLP Workshop on Analyzing
@@ -11073,6 +11312,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags:
         -   tag: large language models
@@ -11340,11 +11580,14 @@
         date: '2020'
         dateAdded: '2023-03-27T15:48:35Z'
         dateModified: '2024-06-11T08:59:38Z'
+        eventPlace: ''
         extra: 'Citation Key: wangSUBMASSIVEResolvingSubclass2020'
+        issue: ''
         itemType: conferencePaper
         key: CPNQNC38
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: ''
         place: ''
         proceedingsTitle: Workshop on Large Scale RDF Analytics
@@ -11352,6 +11595,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags:
         -   tag: linked open data
@@ -11632,11 +11876,14 @@
         date: '2023'
         dateAdded: '2023-12-06T00:12:09Z'
         dateModified: '2024-06-11T08:59:36Z'
+        eventPlace: ''
         extra: 'Citation Key: xiongReasoningTriplesRecent2023'
+        issue: ''
         itemType: conferencePaper
         key: CAQRS9DS
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 5228–5231
         place: ''
         proceedingsTitle: Proceedings of the 32nd ACM International Conference on
@@ -11646,6 +11893,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: 'Reasoning beyond Triples: Recent Advances in Knowledge Graph Embeddings'
@@ -11859,13 +12107,16 @@
         date: '2023-07-11'
         dateAdded: '2023-12-04T12:34:56Z'
         dateModified: '2024-06-11T08:59:36Z'
+        eventPlace: ''
         extra: 'arXiv:2301.12313 [cs]
 
             Citation Key: arakelyanAdaptingNeuralLink2023a'
+        issue: ''
         itemType: conferencePaper
         key: ZSIPXSH2
         language: ''
         libraryCatalog: arXiv.org
+        numberOfVolumes: ''
         pages: ''
         place: New Orleans
         proceedingsTitle: ''
@@ -11873,6 +12124,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags:
         -   tag: Computer Science - Artificial Intelligence
@@ -12070,13 +12322,16 @@
         date: '2022'
         dateAdded: '2023-03-24T12:41:58Z'
         dateModified: '2024-06-11T08:59:35Z'
+        eventPlace: ''
         extra: 'event-place: Virtual Event, Lyon, France
 
             Citation Key: generaleScalingRGCNTraining2022'
+        issue: ''
         itemType: conferencePaper
         key: 3D4R7SJM
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 1073–1082
         place: New York, NY, USA
         proceedingsTitle: International Workshop on Graph Learning at the Webconf
@@ -12085,6 +12340,7 @@
         relations: {}
         rights: ''
         series: WWW '22
+        seriesNumber: ''
         shortTitle: ''
         tags:
         -   tag: graph neural network
@@ -12176,11 +12432,14 @@
         date: 19 May 2024
         dateAdded: '2023-03-24T12:41:58Z'
         dateModified: '2024-06-05T09:49:13Z'
+        eventPlace: ''
         extra: 'Citation Key: wangQAGCNGraphConvolutional2022'
+        issue: ''
         itemType: conferencePaper
         key: H8KQQQ3Z
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 41-58
         place: ''
         proceedingsTitle: The Semantic Web. ESWC 2024
@@ -12188,6 +12447,7 @@
         relations: {}
         rights: ''
         series: Lecture Notes in Computer Science
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: 'QAGCN: A Graph Convolutional Network-based Multi-Relation Question
@@ -13129,11 +13389,14 @@
         date: '2023-11-07'
         dateAdded: '2023-12-06T00:14:51Z'
         dateModified: '2023-12-06T00:17:41Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: FUHR9V3F
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: ''
         place: Athens, Greece
         proceedingsTitle: ''
@@ -13141,6 +13404,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Qualifier Recommendation for Wikidata
@@ -13261,11 +13525,14 @@
         date: '2023'
         dateAdded: '2023-12-06T00:11:32Z'
         dateModified: '2023-12-06T00:11:32Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: E5B43QUE
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 1459–1464
         place: ''
         proceedingsTitle: 47th IEEE Annual Computers, Software, and Applications Conference,
@@ -13274,6 +13541,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: The Graph-Massivizer Approach Toward a European Sustainable Data Center
@@ -13447,11 +13715,14 @@
         date: '2023'
         dateAdded: '2023-12-05T23:55:24Z'
         dateModified: '2023-12-05T23:57:33Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: GA2FFIW5
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: ''
         place: New Orleans
         proceedingsTitle: ''
@@ -13459,6 +13730,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: 'DONUT-hole: DONUT Sparsification by Harnessing Knowledge and Optimizing
@@ -13723,11 +13995,14 @@
         date: '2023'
         dateAdded: '2023-11-30T14:21:27Z'
         dateModified: '2023-12-04T07:57:59Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: RA2AFXAJ
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: ''
         place: New York
         proceedingsTitle: Proceedings of the Workshop on Explainable AI in Finance
@@ -13736,6 +14011,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Explainable Fraud Detection with Deep Symbolic Classification
@@ -13799,11 +14075,14 @@
         date: '2023-12-05'
         dateAdded: '2023-11-30T23:28:16Z'
         dateModified: '2023-11-30T23:28:16Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: IK2CMHJW
         language: en
         libraryCatalog: DOI.org (Crossref)
+        numberOfVolumes: ''
         pages: 166-174
         place: Pensacola FL USA
         proceedingsTitle: Proceedings of the 12th Knowledge Capture Conference 2023
@@ -13811,6 +14090,7 @@
         relations: {}
         rights: All rights reserved
         series: ''
+        seriesNumber: ''
         shortTitle: OKG
         tags: []
         title: 'OKG: A Knowledge Graph for Fine-grained Understanding of Social Media
@@ -13973,11 +14253,14 @@
         date: '2023'
         dateAdded: '2023-11-30T14:26:55Z'
         dateModified: '2023-11-30T14:26:55Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: 6845TZ96
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: ''
         place: ''
         proceedingsTitle: Proceedings of the 5th Symposium on Multidisciplinary International
@@ -13986,6 +14269,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Analysing Political Bias of News Outlets by Deep Clustering Social
@@ -14044,11 +14328,14 @@
         date: '2023'
         dateAdded: '2023-11-30T14:26:25Z'
         dateModified: '2023-11-30T14:26:25Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: XSI5TH5Z
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: ''
         place: ''
         proceedingsTitle: Proceedings of the Belgium Netherlands Artificial Intelligence
@@ -14057,6 +14344,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: 'Time2vec: A Generative Model for Timestamps Representation Learning'
@@ -14120,11 +14408,14 @@
         date: '2023'
         dateAdded: '2023-11-30T13:20:18Z'
         dateModified: '2023-11-30T13:25:21Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: 2GL3H8RC
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: ''
         place: ''
         proceedingsTitle: NeurIPS 2023 R0-FoMo Workshop
@@ -14132,6 +14423,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Visual Cropping Improves Zero-Shot Question Answering of Multimodal
@@ -14340,11 +14632,14 @@
         date: '2023'
         dateAdded: '2023-11-30T13:20:18Z'
         dateModified: '2023-11-30T13:23:30Z'
+        eventPlace: ''
         extra: 'arXiv: 2310.05057'
+        issue: ''
         itemType: conferencePaper
         key: S3Q64X68
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: ''
         place: ''
         proceedingsTitle: ''
@@ -14352,6 +14647,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: 'BRAINTEASER: Lateral Thinking Puzzles for Large Language Models'
@@ -14697,11 +14993,14 @@
         date: '2023'
         dateAdded: '2023-11-30T10:59:58Z'
         dateModified: '2023-11-30T11:02:33Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: AD7HX877
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: ''
         place: New Orleans
         proceedingsTitle: 'Advances in Neural Information Processing Systems 35: Annual
@@ -14710,6 +15009,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: 'A-NeSI: A Scalable Approximate Method for Probabilistic Neurosymbolic
@@ -14864,11 +15164,14 @@
         date: '2022'
         dateAdded: '2023-11-30T10:46:04Z'
         dateModified: '2023-11-30T10:46:04Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: UGJ7M2A4
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 252–263
         place: ''
         proceedingsTitle: 'The Semantic Web: ESWC 2022 Satellite Events - Hersonissos,
@@ -14877,6 +15180,7 @@
         relations: {}
         rights: ''
         series: Lecture Notes in Computer Science
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Using Referential Language Games for Task-oriented Ontology Alignment
@@ -15375,11 +15679,14 @@
         date: '2015'
         dateAdded: '2023-11-30T10:11:45Z'
         dateModified: '2023-11-30T10:11:45Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: TAVUNTGM
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 133–142
         place: ''
         proceedingsTitle: Artificial Intelligence in Medicine - 15th Conference on
@@ -15389,6 +15696,7 @@
         relations: {}
         rights: ''
         series: Lecture Notes in Computer Science
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: On the Advantage of Using Dedicated Data Mining Techniques to Predict
@@ -15553,11 +15861,14 @@
         date: '2018'
         dateAdded: '2023-11-30T10:09:27Z'
         dateModified: '2023-11-30T10:09:27Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: R9EFC36Z
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 29–36
         place: ''
         proceedingsTitle: Proceedings of the Joint Proceedings of Reasoning with Ambiguous
@@ -15570,6 +15881,7 @@
         relations: {}
         rights: ''
         series: CEUR Workshop Proceedings
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: 'Filtering Clinical Guideline Interactions with Pre-Conditions: A Case
@@ -16429,11 +16741,14 @@
         date: '2017'
         dateAdded: '2023-11-30T09:50:53Z'
         dateModified: '2023-11-30T09:50:53Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: 5Q7VT89H
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 117–122
         place: ''
         proceedingsTitle: Proceedings of the Second Workshop on Humanities in the
@@ -16443,6 +16758,7 @@
         relations: {}
         rights: ''
         series: CEUR Workshop Proceedings
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: An Ontology Model for Narrative Image Annotation in the Field of Cultural
@@ -16616,11 +16932,14 @@
         date: '2018'
         dateAdded: '2023-11-30T09:49:34Z'
         dateModified: '2023-11-30T09:49:34Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: 4I6PNWJX
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 391–407
         place: ''
         proceedingsTitle: The Semantic Web - ISWC 2018 - 17th International Semantic
@@ -16630,6 +16949,7 @@
         relations: {}
         rights: ''
         series: Lecture Notes in Computer Science
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Detecting Erroneous Identity Links on the Web Using Network Metrics
@@ -16717,11 +17037,14 @@
         date: '2018'
         dateAdded: '2023-11-30T09:49:11Z'
         dateModified: '2023-11-30T09:49:11Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: ZNZZ4UA3
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 65–80
         place: ''
         proceedingsTitle: The Semantic Web - 15th International Conference, ESWC 2018,
@@ -16730,6 +17053,7 @@
         relations: {}
         rights: ''
         series: Lecture Notes in Computer Science
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: 'sameAs.cc: The Closure of 500M owl: sameAs Statements'
@@ -16802,11 +17126,14 @@
         date: '2018'
         dateAdded: '2023-11-30T09:48:47Z'
         dateModified: '2023-11-30T09:48:47Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: AR6BMJ4S
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 147–162
         place: ''
         proceedingsTitle: Knowledge Engineering and Knowledge Management - 21st International
@@ -16815,6 +17142,7 @@
         relations: {}
         rights: ''
         series: Lecture Notes in Computer Science
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Network Metrics for Assessing the Quality of Entity Resolution Between
@@ -17561,11 +17889,14 @@
         date: '2022'
         dateAdded: '2023-11-30T09:38:03Z'
         dateModified: '2023-11-30T09:38:03Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: D9HLNTHN
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 2909–2915
         place: ''
         proceedingsTitle: Proceedings of the Thirty-First International Joint Conference
@@ -17574,6 +17905,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags:
         -   tag: reinforcement learning
@@ -17807,11 +18139,14 @@
         date: '2022'
         dateAdded: '2023-11-30T09:37:06Z'
         dateModified: '2023-11-30T09:37:06Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: S3EPAENC
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 231–242
         place: ''
         proceedingsTitle: Health Information Science - 11th International Conference,
@@ -17820,6 +18155,7 @@
         relations: {}
         rights: ''
         series: Lecture Notes in Computer Science
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Food Recommendation for Mental Health by Using Knowledge Graph Approach
@@ -18441,11 +18777,14 @@
         date: '2023-08-10'
         dateAdded: '2023-08-10T14:57:42Z'
         dateModified: '2023-08-10T14:57:42Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: 7WBJXIIK
         language: en
         libraryCatalog: proceedings.mlr.press
+        numberOfVolumes: ''
         pages: 602-619
         place: ''
         proceedingsTitle: Proceedings of the Second Conference on Causal Learning
@@ -18454,6 +18793,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags:
         -   tag: Causal Discovery
@@ -18516,11 +18856,14 @@
         date: '2022'
         dateAdded: '2023-03-24T12:41:58Z'
         dateModified: '2023-08-09T09:31:43Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: VFDUQBIN
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 32–39
         place: ''
         proceedingsTitle: Proceedings of the ACL 2022 Workshop on Structured Prediction
@@ -18529,6 +18872,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: 'SlotGAN: Detecting Mentions in Text via Adversarial Distant Learning'
@@ -18625,11 +18969,14 @@
         date: '2021'
         dateAdded: '2023-03-24T12:41:57Z'
         dateModified: '2023-08-09T09:31:06Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: R9UH4NJH
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 798–808
         place: New York, NY, USA
         proceedingsTitle: Proceedings of the Web Conference 2021
@@ -18637,6 +18984,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Inductive Entity Representations from Text via Link Prediction
@@ -18702,11 +19050,14 @@
         date: '2020'
         dateAdded: '2023-03-24T12:41:57Z'
         dateModified: '2023-08-09T09:29:46Z'
+        eventPlace: ''
         extra: '_eprint: 2002.02406'
+        issue: ''
         itemType: conferencePaper
         key: C767BSUV
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: ''
         place: ''
         proceedingsTitle: ''
@@ -18714,6 +19065,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Message Passing Query Embedding
@@ -18885,11 +19237,14 @@
         date: '2023'
         dateAdded: '2023-07-19T14:07:13Z'
         dateModified: '2023-07-19T14:18:53Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: 54QGRAMA
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: ''
         place: ''
         proceedingsTitle: Knowledge Representation for Health Care (KR4HC)
@@ -18897,6 +19252,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags:
         -   tag: Clinical Guidelines
@@ -18968,11 +19324,14 @@
         date: '2023'
         dateAdded: '2023-07-19T14:15:26Z'
         dateModified: '2023-07-19T14:18:16Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: G9XXMADA
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: '121'
         place: Glasgow
         proceedingsTitle: ''
@@ -18980,6 +19339,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags:
         -   tag: Clinical Guidelines
@@ -19043,11 +19403,14 @@
         date: '2023'
         dateAdded: '2023-07-19T14:00:10Z'
         dateModified: '2023-07-19T14:01:33Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: EMM2MB3V
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: ''
         place: Krakow
         proceedingsTitle: European Conference on Artificial Intelligence
@@ -19055,6 +19418,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags:
         -   tag: Explainability
@@ -19131,11 +19495,14 @@
         date: '2023'
         dateAdded: '2023-07-19T13:51:50Z'
         dateModified: '2023-07-19T13:58:28Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: VMC64744
         language: English
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 7165-7179
         place: ''
         proceedingsTitle: 'Association for Computational Linguistics: ACL 2023'
@@ -19143,6 +19510,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags:
         -   tag: Knowledge graphs
@@ -19362,11 +19730,14 @@
         date: '2023'
         dateAdded: '2023-07-18T18:08:31Z'
         dateModified: '2023-07-18T18:08:31Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: XA8PYFQ6
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 3–20
         place: ''
         proceedingsTitle: The Semantic Web - 20th International Conference, ESWC 2023,
@@ -19375,6 +19746,7 @@
         relations: {}
         rights: ''
         series: Lecture Notes in Computer Science
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Explainable Drug Repurposing in Context via Deep Reinforcement Learning
@@ -19450,11 +19822,14 @@
         date: '2023'
         dateAdded: '2023-07-18T18:08:31Z'
         dateModified: '2023-07-18T18:08:31Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: 64CP43BE
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 61–73
         place: ''
         proceedingsTitle: Proceedings of the First International Workshop on Semantic
@@ -19464,6 +19839,7 @@
         relations: {}
         rights: ''
         series: CEUR Workshop Proceedings
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Evaluating the Effect of Semantic Enrichment on Entity Embeddings of
@@ -19543,11 +19919,14 @@
         date: '2022'
         dateAdded: '2023-07-18T18:08:31Z'
         dateModified: '2023-07-18T18:08:31Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: TZY5EPHJ
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 735–742
         place: ''
         proceedingsTitle: 'Proceedings of the 15th International Joint Conference
@@ -19557,6 +19936,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Local Explanations for Clinical Search Engine Results
@@ -19645,11 +20025,14 @@
         date: '2021'
         dateAdded: '2023-03-24T12:41:24Z'
         dateModified: '2023-07-18T16:34:59Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: A9MB95FZ
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 249–264
         place: ''
         proceedingsTitle: The Semantic Web - 18th International Conference, ESWC 2021,
@@ -19659,6 +20042,7 @@
             dc:replaces: http://zotero.org/groups/4989916/items/ULWZBP9Y
         rights: ''
         series: Lecture Notes in Computer Science
+        seriesNumber: ''
         shortTitle: ''
         tags:
         -   tag: linked open data
@@ -19749,11 +20133,14 @@
         date: '2023'
         dateAdded: '2023-07-17T15:35:12Z'
         dateModified: '2023-07-18T00:34:53Z'
+        eventPlace: ''
         extra: 'event-place: London, United Kingdom'
+        issue: ''
         itemType: conferencePaper
         key: PSR7PEB7
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 281–289
         place: Richland, SC
         proceedingsTitle: Proceedings of the 2023 International Conference on Autonomous
@@ -19762,6 +20149,7 @@
         relations: {}
         rights: ''
         series: AAMAS '23
+        seriesNumber: ''
         shortTitle: ''
         tags:
         -   tag: collaborative query answering
@@ -19845,11 +20233,14 @@
         date: 2022-10
         dateAdded: '2023-07-17T17:36:20Z'
         dateModified: '2023-07-17T17:56:20Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: DKC9HVBQ
         language: ''
         libraryCatalog: DOI.org (Crossref)
+        numberOfVolumes: ''
         pages: 23-30
         place: Fairfax, VA, USA
         proceedingsTitle: 2022 IEEE Cloud Summit
@@ -19857,6 +20248,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Towards Extreme and Sustainable Graph Processing for Urgent Societal
@@ -19925,11 +20317,14 @@
         date: '2023-04-15'
         dateAdded: '2023-07-17T17:35:40Z'
         dateModified: '2023-07-17T17:35:40Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: R863DBK3
         language: en
         libraryCatalog: DOI.org (Crossref)
+        numberOfVolumes: ''
         pages: 251-252
         place: Coimbra Portugal
         proceedingsTitle: Companion of the 2023 ACM/SPEC International Conference
@@ -19938,6 +20333,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: Graph-Scrutinizer
         tags: []
         title: 'Graph-Scrutinizer: Towards Massive Graph Analytics and Reasoning'
@@ -20026,11 +20422,14 @@
         date: '2023'
         dateAdded: '2023-07-17T15:35:47Z'
         dateModified: '2023-07-17T15:42:21Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: 34G3BJI6
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 55–71
         place: ''
         proceedingsTitle: The Semantic Web - 20th International Conference, ESWC 2023,
@@ -20039,6 +20438,7 @@
         relations: {}
         rights: ''
         series: Lecture Notes in Computer Science
+        seriesNumber: ''
         shortTitle: ''
         tags:
         -   tag: Knowledge graphs
@@ -20198,11 +20598,14 @@
         date: '2022'
         dateAdded: '2023-03-24T12:41:58Z'
         dateModified: '2023-03-31T16:01:53Z'
+        eventPlace: ''
         extra: 'Issue: 3121'
+        issue: ''
         itemType: conferencePaper
         key: 7HAUSPSY
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 1–9
         place: ''
         proceedingsTitle: 'AAAI Spring Symposium: MAKE'
@@ -20210,6 +20613,7 @@
         relations: {}
         rights: ''
         series: CEUR Workshop Proceedings
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Potential Energy to Improve Link Prediction With Relational Graph Neural
@@ -20278,11 +20682,14 @@
         date: '2014'
         dateAdded: '2023-03-27T15:48:34Z'
         dateModified: '2023-03-31T11:46:44Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: DWD6FD46
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 336–350
         place: ''
         proceedingsTitle: International Conference on Algorithmic Learning Theory
@@ -20290,6 +20697,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags:
         -   tag: kolmogorov complexity
@@ -20354,11 +20762,14 @@
         date: '2015'
         dateAdded: '2023-03-27T15:48:34Z'
         dateModified: '2023-03-31T11:46:12Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: WPWLEIPE
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 379–394
         place: ''
         proceedingsTitle: 'Algorithmic Learning Theory: 26th International Conference,
@@ -20367,6 +20778,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags:
         -   tag: kolmogorov complexity
@@ -20433,11 +20845,14 @@
         date: '2018'
         dateAdded: '2023-03-27T15:48:34Z'
         dateModified: '2023-03-31T11:40:27Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: GPALI7LF
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: ''
         place: ''
         proceedingsTitle: Privacy Preserving Machine Learning Workshop
@@ -20445,6 +20860,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags:
         -   tag: differential privacy
@@ -20512,11 +20928,14 @@
         date: '2015'
         dateAdded: '2023-03-24T12:41:26Z'
         dateModified: '2023-03-29T15:20:55Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: R7AY6ETG
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 41–46
         place: ''
         proceedingsTitle: Proceedings of the ESWC Developers Workshop 2015 co-located
@@ -20525,6 +20944,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: 'Frank: The LOD cloud at your fingertips?'
@@ -20600,11 +21020,14 @@
         date: '2021'
         dateAdded: '2023-03-29T12:41:15Z'
         dateModified: '2023-03-29T12:46:06Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: ZYIGX6WB
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 7574–7587
         place: ''
         proceedingsTitle: Advances in neural information processing systems
@@ -20612,6 +21035,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags:
         -   tag: machine learning
@@ -20873,11 +21297,14 @@
         date: '2020'
         dateAdded: '2023-03-24T12:41:24Z'
         dateModified: '2023-03-29T12:45:32Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: 26KMT284
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 893–903
         place: ''
         proceedingsTitle: Proceedings of the 17th International Conference on Principles
@@ -20887,6 +21314,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags:
         -   tag: Knowledge Representation
@@ -21047,11 +21475,14 @@
         date: '2022'
         dateAdded: '2023-03-27T15:48:35Z'
         dateModified: '2023-03-27T15:54:00Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: BCQXWUAE
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: ''
         place: ''
         proceedingsTitle: 8th Workshop on Managing the Evolution and Preservation
@@ -21060,6 +21491,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags:
         -   tag: linked open data
@@ -21147,11 +21579,14 @@
         date: '2017'
         dateAdded: '2023-03-27T15:48:34Z'
         dateModified: '2023-03-27T15:53:30Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: IKP6U9HC
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 156–164
         place: ''
         proceedingsTitle: 'The Semantic Web–ISWC 2017: 16th International Semantic
@@ -21161,6 +21596,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags:
         -   tag: linked open data
@@ -21330,11 +21766,14 @@
         date: '2019'
         dateAdded: '2023-03-27T15:48:34Z'
         dateModified: '2023-03-27T15:50:49Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: 486CUG2X
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 0–0
         place: ''
         proceedingsTitle: Proceedings of the IEEE/CVF International Conference on
@@ -21343,6 +21782,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags:
         -   tag: computer vision
@@ -21416,11 +21856,14 @@
         date: '2019'
         dateAdded: '2023-03-27T15:48:34Z'
         dateModified: '2023-03-27T15:49:22Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: QYSJXR9A
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 95–102
         place: ''
         proceedingsTitle: 'OR 2.0 Context-Aware Operating Theaters and Machine Learning
@@ -21431,6 +21874,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags:
         -   tag: biomedical
@@ -21659,11 +22103,14 @@
         date: 2022-04
         dateAdded: '2023-03-24T12:41:58Z'
         dateModified: '2023-03-24T14:37:26Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: 42YJQF2M
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: ''
         place: ''
         proceedingsTitle: 'HCSHI2022: Workshop on Human-centered Design of Symbiotic
@@ -21672,6 +22119,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags:
         -   tag: human memory
@@ -21828,11 +22276,14 @@
         date: '2021'
         dateAdded: '2023-03-24T12:41:24Z'
         dateModified: '2023-03-24T12:47:11Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: H4GXFBHU
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 192–199
         place: ''
         proceedingsTitle: Proceedings of the 10th International Conference on Data
@@ -21845,6 +22296,7 @@
             - http://zotero.org/groups/4989916/items/TDHJUDQJ
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Biomedical Dataset Recommendation
@@ -21934,11 +22386,14 @@
         date: '2021'
         dateAdded: '2023-03-24T12:41:23Z'
         dateModified: '2023-03-24T12:47:06Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: NXKZ3VPB
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 183–197
         place: Cham
         proceedingsTitle: Advances in Databases and Information Systems
@@ -21947,6 +22402,7 @@
             dc:replaces: http://zotero.org/groups/4989916/items/BEYGMGN2
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Unsupervised Feature Selection for Efficient Exploration of High Dimensional
@@ -22064,11 +22520,14 @@
         date: '2021'
         dateAdded: '2023-03-24T12:41:23Z'
         dateModified: '2023-03-24T12:47:04Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: AWDDTGUF
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 21–26
         place: Cham
         proceedingsTitle: 'The Semantic Web: ESWC 2021 Satellite Events'
@@ -22077,6 +22536,7 @@
             dc:replaces: http://zotero.org/groups/4989916/items/W5MA3MFP
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Towards Easy Vocabulary Drafts with Neologism 2.0
@@ -22254,11 +22714,14 @@
         date: '2020'
         dateAdded: '2023-03-24T12:41:24Z'
         dateModified: '2023-03-24T12:46:52Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: H6JI7M6H
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 49–60
         place: ''
         proceedingsTitle: Health Information Science - 9th International Conference,
@@ -22270,6 +22733,7 @@
             - http://zotero.org/groups/4989916/items/I4JGJM6V
         rights: ''
         series: Lecture Notes in Computer Science
+        seriesNumber: ''
         shortTitle: ''
         tags:
         -   tag: Biomedical dataset
@@ -22340,11 +22804,14 @@
         date: '2020'
         dateAdded: '2023-03-24T12:41:24Z'
         dateModified: '2023-03-24T12:46:51Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: 4ZBE9MMQ
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 153–160
         place: ''
         proceedingsTitle: 'Proceedings of the 12th International Joint Conference
@@ -22357,6 +22824,7 @@
             - http://zotero.org/groups/4989916/items/3525MMRG
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: 'Ontology-based Methods for Classifying Scientific Datasets into Research
@@ -22596,11 +23064,14 @@
         date: '2020'
         dateAdded: '2023-03-24T12:41:24Z'
         dateModified: '2023-03-24T12:46:45Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: FPEAFHZP
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: '21'
         place: ''
         proceedingsTitle: 'Proceedings of the 12th International Joint Conference
@@ -22611,6 +23082,7 @@
             dc:replaces: http://zotero.org/groups/4989916/items/NXSGPM7X
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: 'Hybrid Intelligence: AI Systems That Collaborate with People Instead
@@ -22776,11 +23248,14 @@
         date: '2020'
         dateAdded: '2023-03-24T12:41:23Z'
         dateModified: '2023-03-24T12:46:41Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: T9BTWYM5
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 1034-1037
         place: ''
         proceedingsTitle: 2020 IEEE International Conference on Bioinformatics and
@@ -22790,6 +23265,7 @@
             dc:replaces: http://zotero.org/groups/4989916/items/579KURCH
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: 'DeepCOVIDExplainer: Explainable COVID-19 Diagnosis from Chest X-ray
@@ -22946,11 +23422,14 @@
         date: '2020'
         dateAdded: '2023-03-24T12:41:23Z'
         dateModified: '2023-03-24T12:46:38Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: 98I6UEFK
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 390-399
         place: ''
         proceedingsTitle: 2020 IEEE 7th International Conference on Data Science and
@@ -22960,6 +23439,7 @@
             dc:replaces: http://zotero.org/groups/4989916/items/IBHKYD3R
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Classification Benchmarks for Under-resourced Bengali Language based
@@ -23033,11 +23513,14 @@
         date: '2020'
         dateAdded: '2023-03-24T12:41:24Z'
         dateModified: '2023-03-24T12:46:37Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: YZ25DESB
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 81–92
         place: ''
         proceedingsTitle: 'Proceedings of the 12th International Joint Conference
@@ -23048,6 +23531,7 @@
             dc:replaces: http://zotero.org/groups/4989916/items/EEMIU5V9
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Bottom-up Discovery of Context-aware Quality Constraints for Heterogeneous
@@ -23124,11 +23608,14 @@
         date: '2020'
         dateAdded: '2023-03-24T12:41:24Z'
         dateModified: '2023-03-24T12:46:36Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: K74Z7TN5
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 38–51
         place: ''
         proceedingsTitle: Web Information Systems Engineering - WISE 2020 - 21st International
@@ -23141,6 +23628,7 @@
             - http://zotero.org/groups/4989916/items/XDFX2Q8P
         rights: ''
         series: Lecture Notes in Computer Science
+        seriesNumber: ''
         shortTitle: ''
         tags:
         -   tag: Data science
@@ -23230,11 +23718,14 @@
         date: '2020'
         dateAdded: '2023-03-24T12:41:24Z'
         dateModified: '2023-03-24T12:46:35Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: H2CAR858
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 287–303
         place: ''
         proceedingsTitle: The Semantic Web - 17th International Conference, ESWC 2020,
@@ -23244,6 +23735,7 @@
             dc:replaces: http://zotero.org/groups/4989916/items/VB458SY2
         rights: ''
         series: Lecture Notes in Computer Science
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: 'Fostering Scientific Meta-analyses with Knowledge Graphs: A Case-Study'
@@ -23609,11 +24101,14 @@
         date: '2022'
         dateAdded: '2023-03-24T12:41:58Z'
         dateModified: '2023-03-24T12:41:58Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: GD6LACKH
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 469–484
         place: Cham
         proceedingsTitle: Knowledge Science, Engineering and Management
@@ -23621,6 +24116,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Scientific Item Recommendation Using a Citation Network
@@ -23959,11 +24455,14 @@
         date: '2021'
         dateAdded: '2023-03-24T12:41:57Z'
         dateModified: '2023-03-24T12:41:57Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: SXZNTPWH
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 107–124
         place: Cham
         proceedingsTitle: Graph Structures for Knowledge Representation and Reasoning
@@ -23971,6 +24470,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: 'Approximate Knowledge Graph Query Answering: From Ranking to Binary
@@ -34124,11 +34624,14 @@
         date: '2020'
         dateAdded: '2023-03-24T12:41:25Z'
         dateModified: '2023-03-24T12:41:25Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: SFCL6BTI
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 361–370
         place: ''
         proceedingsTitle: Proceedings of the 17th International Conference on Principles
@@ -34138,6 +34641,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: 'On Sufficient and Necessary Conditions in Bounded CTL: A Forgetting
@@ -34595,11 +35099,14 @@
         date: '2020'
         dateAdded: '2023-03-24T12:41:25Z'
         dateModified: '2023-03-24T12:41:25Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: JEJMY5CB
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: ''
         place: ''
         proceedingsTitle: Proceedings of the Joint Ontology Workshops co-located with
@@ -34609,6 +35116,7 @@
         relations: {}
         rights: ''
         series: CEUR Workshop Proceedings
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Using Linked Data to Help Robots Understand Product-related Actions
@@ -34696,11 +35204,14 @@
         date: '2021'
         dateAdded: '2023-03-24T12:41:25Z'
         dateModified: '2023-03-24T12:41:25Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: IS37654J
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: ''
         place: ''
         proceedingsTitle: Proceedings of the AAAI 2021 Spring Symposium on Combining
@@ -34710,6 +35221,7 @@
         relations: {}
         rights: ''
         series: CEUR Workshop Proceedings
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Learning Profile-Based Recommendations for Medical Search Auto-Complete
@@ -34858,11 +35370,14 @@
         date: '2020'
         dateAdded: '2023-03-24T12:41:25Z'
         dateModified: '2023-03-24T12:41:25Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: TA3AID6S
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: ''
         place: ''
         proceedingsTitle: Proceedings of the CIKM 2020 Workshops co-located with 29th
@@ -34872,6 +35387,7 @@
         relations: {}
         rights: ''
         series: CEUR Workshop Proceedings
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Creative Storytelling with Language Models and Knowledge Graphs
@@ -34956,11 +35472,14 @@
         date: '2020'
         dateAdded: '2023-03-24T12:41:25Z'
         dateModified: '2023-03-24T12:41:25Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: LPIWUC4Y
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: ''
         place: ''
         proceedingsTitle: Proceedings of the AAAI 2020 Spring Symposium on Combining
@@ -34970,6 +35489,7 @@
         relations: {}
         rights: ''
         series: CEUR Workshop Proceedings
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: 'Mitigating Bias in Deep Nets with Knowledge Bases: the Case of Natural
@@ -35141,11 +35661,14 @@
         date: '2021'
         dateAdded: '2023-03-24T12:41:25Z'
         dateModified: '2023-03-24T12:41:25Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: MFY2LQQ5
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 477–494
         place: ''
         proceedingsTitle: The Semantic Web - 18th International Conference, ESWC 2021,
@@ -35154,6 +35677,7 @@
         relations: {}
         rights: ''
         series: Lecture Notes in Computer Science
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Discovering Research Hypotheses in Social Science Using Knowledge Graph
@@ -35479,11 +36003,14 @@
         date: '2019'
         dateAdded: '2023-03-24T12:41:25Z'
         dateModified: '2023-03-24T12:41:25Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: ZKLKESMY
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 149–158
         place: ''
         proceedingsTitle: Brain Informatics - 12th International Conference, BI 2019,
@@ -35492,6 +36019,7 @@
         relations: {}
         rights: ''
         series: Lecture Notes in Computer Science
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Time Recognition of Chinese Electronic Medical Record of Depression
@@ -35571,11 +36099,14 @@
         date: '2018'
         dateAdded: '2023-03-24T12:41:25Z'
         dateModified: '2023-03-24T12:41:25Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: DK385E8T
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 17–24
         place: ''
         proceedingsTitle: Health Information Science - 7th International Conference,
@@ -35584,6 +36115,7 @@
         relations: {}
         rights: ''
         series: Lecture Notes in Computer Science
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Extraction of Semantic Relations from Medical Literature Based on Semantic
@@ -35759,11 +36291,14 @@
         date: '2019'
         dateAdded: '2023-03-24T12:41:25Z'
         dateModified: '2023-03-24T12:41:25Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: 7XE9YS7Z
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 263–275
         place: ''
         proceedingsTitle: Health Information Science - 8th International Conference,
@@ -35772,6 +36307,7 @@
         relations: {}
         rights: ''
         series: Lecture Notes in Computer Science
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Semantic Processing of Personality Description for Depression Patients
@@ -35847,11 +36383,14 @@
         date: '2019'
         dateAdded: '2023-03-24T12:41:25Z'
         dateModified: '2023-03-24T12:41:25Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: WZPUMQJR
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 238–249
         place: ''
         proceedingsTitle: Health Information Science - 8th International Conference,
@@ -35860,6 +36399,7 @@
         relations: {}
         rights: ''
         series: Lecture Notes in Computer Science
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Evidence-Based Analysis of Neurotransmitter Modulation by Gut Microbiota
@@ -35935,11 +36475,14 @@
         date: '2019'
         dateAdded: '2023-03-24T12:41:25Z'
         dateModified: '2023-03-24T12:41:25Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: DMMQDDDV
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 108–118
         place: ''
         proceedingsTitle: Health Information Science - 8th International Conference,
@@ -35948,6 +36491,7 @@
         relations: {}
         rights: ''
         series: Lecture Notes in Computer Science
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Document Recommendation Based on Interests of Co-authors for Brain
@@ -36027,11 +36571,14 @@
         date: '2019'
         dateAdded: '2023-03-24T12:41:25Z'
         dateModified: '2023-03-24T12:41:25Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: ENKEINFA
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 58–67
         place: ''
         proceedingsTitle: Health Information Science - 8th International Conference,
@@ -36040,6 +36587,7 @@
         relations: {}
         rights: ''
         series: Lecture Notes in Computer Science
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Classification of Skin Pigmented Lesions Based on Deep Residual Network
@@ -36535,11 +37083,14 @@
         date: '2019'
         dateAdded: '2023-03-24T12:41:24Z'
         dateModified: '2023-03-24T12:41:24Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: 8LPESXIL
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 59–67
         place: ''
         proceedingsTitle: 2019 IEEE/WIC/ACM International Conference on Web Intelligence,
@@ -36548,6 +37099,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags:
         -   tag: reinforcement learning
@@ -36632,11 +37184,14 @@
         date: '2020'
         dateAdded: '2023-03-24T12:41:24Z'
         dateModified: '2023-03-24T12:41:24Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: NW74DZV4
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 25–34
         place: ''
         proceedingsTitle: Health Information Science - 9th International Conference,
@@ -36645,6 +37200,7 @@
         relations: {}
         rights: ''
         series: Lecture Notes in Computer Science
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Research on the Behavior Pattern of Microblog "Tree Hole" Users with
@@ -37286,11 +37842,14 @@
         date: '2020'
         dateAdded: '2023-03-24T12:41:24Z'
         dateModified: '2023-03-24T12:41:24Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: DKR39ZEY
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 307–311
         place: ''
         proceedingsTitle: Digital Personalized Health and Medicine - Proceedings of
@@ -37300,6 +37859,7 @@
         relations: {}
         rights: ''
         series: Studies in Health Technology and Informatics
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Machine Learning Explainability in Breast Cancer Survival
@@ -37384,11 +37944,14 @@
         date: '2021'
         dateAdded: '2023-03-24T12:41:24Z'
         dateModified: '2023-03-24T12:41:24Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: 57E2WNCM
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: ''
         place: ''
         proceedingsTitle: Proceedings of the AAAI 2021 Spring Symposium on Combining
@@ -37398,6 +37961,7 @@
         relations: {}
         rights: ''
         series: CEUR Workshop Proceedings
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: 'Team Design Patterns for Moral Decisions in Hybrid Intelligent Systems:
@@ -37742,11 +38306,14 @@
         date: '2019'
         dateAdded: '2023-03-24T12:41:24Z'
         dateModified: '2023-03-24T12:41:24Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: 6LGS78L9
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 523–538
         place: ''
         proceedingsTitle: The Semantic Web - ISWC 2019 - 18th International Semantic
@@ -37756,6 +38323,7 @@
         relations: {}
         rights: ''
         series: Lecture Notes in Computer Science
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Entity Enabled Relation Linking
@@ -37840,11 +38408,14 @@
         date: '2019'
         dateAdded: '2023-03-24T12:41:24Z'
         dateModified: '2023-03-24T12:41:24Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: 8QNF84EP
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 253–256
         place: ''
         proceedingsTitle: Proceedings of the ISWC 2019 Satellite Tracks (Posters &
@@ -37855,6 +38426,7 @@
         relations: {}
         rights: ''
         series: CEUR Workshop Proceedings
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Triplifying Equivalence Set Graphs
@@ -37948,11 +38520,14 @@
         date: '2019'
         dateAdded: '2023-03-24T12:41:24Z'
         dateModified: '2023-03-24T12:41:24Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: YUTYBCJJ
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 57–74
         place: ''
         proceedingsTitle: The Semantic Web - ISWC 2019 - 18th International Semantic
@@ -37962,6 +38537,7 @@
         relations: {}
         rights: ''
         series: Lecture Notes in Computer Science
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: 'Observing LOD Using Equivalent Set Graphs: It Is Mostly Flat and Sparsely
@@ -38035,11 +38611,14 @@
         date: '2019'
         dateAdded: '2023-03-24T12:41:24Z'
         dateModified: '2023-03-24T12:41:24Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: 2RDHWQ6H
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 259–262
         place: ''
         proceedingsTitle: Proceedings of the 10th International Conference on Knowledge
@@ -38048,6 +38627,7 @@
         relations: {}
         rights: ''
         series: ''
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: 'Contextual Entity Disambiguation in Domains with Weak Identity Criteria:
@@ -38109,11 +38689,14 @@
         date: '2019'
         dateAdded: '2023-03-24T12:41:24Z'
         dateModified: '2023-03-24T12:41:24Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: JWG83TIC
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 1–2
         place: ''
         proceedingsTitle: Extraction et Gestion des connaissances, EGC 2019, Metz,
@@ -38122,6 +38705,7 @@
         relations: {}
         rights: ''
         series: RNTI
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: 'Combining learning and reasoning: new challenges for knowledge graphs'
@@ -38463,11 +39047,14 @@
         date: '2020'
         dateAdded: '2023-03-24T12:41:24Z'
         dateModified: '2023-03-24T12:41:24Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: SALAAIBG
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 481–496
         place: ''
         proceedingsTitle: The Semantic Web - 17th International Conference, ESWC 2020,
@@ -38476,6 +39063,7 @@
         relations: {}
         rights: ''
         series: Lecture Notes in Computer Science
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: 'MetaLink: A Travel Guide to the LOD Cloud'
@@ -38563,11 +39151,14 @@
         date: '2020'
         dateAdded: '2023-03-24T12:41:24Z'
         dateModified: '2023-03-24T12:41:24Z'
+        eventPlace: ''
         extra: ''
+        issue: ''
         itemType: conferencePaper
         key: IYI3ISY2
         language: ''
         libraryCatalog: ''
+        numberOfVolumes: ''
         pages: 3–19
         place: ''
         proceedingsTitle: The Semantic Web - 17th International Conference, ESWC 2020,
@@ -38576,6 +39167,7 @@
         relations: {}
         rights: ''
         series: Lecture Notes in Computer Science
+        seriesNumber: ''
         shortTitle: ''
         tags: []
         title: Handling Impossible Derivations During Stream Reasoning
