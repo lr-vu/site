@@ -12214,6 +12214,109 @@
         parsedDate: '2023'
     version: 1202
 -   data:
+        DOI: 10.1145/3487553.3524719
+        ISBN: 978-1-4503-9130-6
+        ISSN: ''
+        abstractNote: Training of Relational Graph Convolutional Networks (R-GCN)
+            is a memory intense task. The amount of gradient information that needs
+            to be stored during training for real-world graphs is often too large
+            for the amount of memory available on most GPUs. In this work, we experiment
+            with the use of graph summarization techniques to compress the graph and
+            hence reduce the amount of memory needed. After training the R-GCN on
+            the graph summary, we transfer the weights back to the original graph
+            and attempt to perform inference on it. We obtain reasonable results on
+            the AIFB, MUTAG and AM datasets. Our experiments show that training on
+            the graph summary can yield a comparable or higher accuracy to training
+            on the original graphs. Furthermore, if we take the time to compute the
+            summary out of the equation, we observe that the smaller graph representations
+            obtained with graph summarization methods reduces the computational overhead.
+            However, further experiments are needed to evaluate additional graph summary
+            models and whether our findings also holds true for very large graphs.
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: generaleScalingRGCNTraining2022
+        collections:
+        - ATA95EWX
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Alessandro
+            lastName: Generale
+        -   creatorType: author
+            firstName: Till
+            lastName: Blume
+        -   creatorType: author
+            firstName: Michael
+            lastName: Cochez
+        date: '2022'
+        dateAdded: '2023-03-24T12:41:58Z'
+        dateModified: '2024-06-11T08:59:35Z'
+        eventPlace: Virtual Event, Lyon, France
+        extra: ''
+        issue: ''
+        itemType: conferencePaper
+        key: 3D4R7SJM
+        language: ''
+        libraryCatalog: ''
+        numberOfVolumes: ''
+        pages: 1073–1082
+        place: New York, NY, USA
+        proceedingsTitle: International Workshop on Graph Learning at the Webconf
+            2022
+        publisher: Association for Computing Machinery
+        relations: {}
+        rights: ''
+        series: WWW '22
+        seriesNumber: ''
+        shortTitle: ''
+        tags:
+        -   tag: graph neural network
+        -   tag: graph summarization
+        -   tag: scalability
+        title: Scaling R-GCN Training with Graph Summarization
+        url: https://doi.org/10.1145/3487553.3524719
+        version: 1221
+        volume: ''
+    key: 3D4R7SJM
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/3D4R7SJM
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/3D4R7SJM
+            type: application/json
+    meta:
+        createdByUser:
+            id: 10215556
+            links:
+                alternate:
+                    href: https://www.zotero.org/michaelcochez
+                    type: text/html
+            name: Michael Cochez
+            username: michaelcochez
+        creatorSummary: Generale et al.
+        lastModifiedByUser:
+            id: 13135791
+            links:
+                alternate:
+                    href: https://www.zotero.org/filipilievski
+                    type: text/html
+            name: ''
+            username: filipilievski
+        numChildren: 1
+        parsedDate: '2022'
+    version: 1221
+-   data:
         DOI: 10.1186/s13326-023-00301-y
         ISSN: 2041-1480
         PMCID: ''
@@ -12318,109 +12421,6 @@
             username: Shaur.Gaur
         numChildren: 0
         parsedDate: '2023-12-08'
-    version: 1203
--   data:
-        DOI: 10.1145/3487553.3524719
-        ISBN: 978-1-4503-9130-6
-        ISSN: ''
-        abstractNote: Training of Relational Graph Convolutional Networks (R-GCN)
-            is a memory intense task. The amount of gradient information that needs
-            to be stored during training for real-world graphs is often too large
-            for the amount of memory available on most GPUs. In this work, we experiment
-            with the use of graph summarization techniques to compress the graph and
-            hence reduce the amount of memory needed. After training the R-GCN on
-            the graph summary, we transfer the weights back to the original graph
-            and attempt to perform inference on it. We obtain reasonable results on
-            the AIFB, MUTAG and AM datasets. Our experiments show that training on
-            the graph summary can yield a comparable or higher accuracy to training
-            on the original graphs. Furthermore, if we take the time to compute the
-            summary out of the equation, we observe that the smaller graph representations
-            obtained with graph summarization methods reduces the computational overhead.
-            However, further experiments are needed to evaluate additional graph summary
-            models and whether our findings also holds true for very large graphs.
-        accessDate: ''
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        citationKey: generaleScalingRGCNTraining2022
-        collections:
-        - ATA95EWX
-        conferenceName: ''
-        creators:
-        -   creatorType: author
-            firstName: Alessandro
-            lastName: Generale
-        -   creatorType: author
-            firstName: Till
-            lastName: Blume
-        -   creatorType: author
-            firstName: Michael
-            lastName: Cochez
-        date: '2022'
-        dateAdded: '2023-03-24T12:41:58Z'
-        dateModified: '2024-06-11T08:59:35Z'
-        eventPlace: ''
-        extra: 'event-place: Virtual Event, Lyon, France'
-        issue: ''
-        itemType: conferencePaper
-        key: 3D4R7SJM
-        language: ''
-        libraryCatalog: ''
-        numberOfVolumes: ''
-        pages: 1073–1082
-        place: New York, NY, USA
-        proceedingsTitle: International Workshop on Graph Learning at the Webconf
-            2022
-        publisher: Association for Computing Machinery
-        relations: {}
-        rights: ''
-        series: WWW '22
-        seriesNumber: ''
-        shortTitle: ''
-        tags:
-        -   tag: graph neural network
-        -   tag: graph summarization
-        -   tag: scalability
-        title: Scaling R-GCN Training with Graph Summarization
-        url: https://doi.org/10.1145/3487553.3524719
-        version: 1203
-        volume: ''
-    key: 3D4R7SJM
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/3D4R7SJM
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/3D4R7SJM
-            type: application/json
-    meta:
-        createdByUser:
-            id: 10215556
-            links:
-                alternate:
-                    href: https://www.zotero.org/michaelcochez
-                    type: text/html
-            name: Michael Cochez
-            username: michaelcochez
-        creatorSummary: Generale et al.
-        lastModifiedByUser:
-            id: 18057342
-            links:
-                alternate:
-                    href: https://www.zotero.org/shaur.gaur
-                    type: text/html
-            name: ''
-            username: Shaur.Gaur
-        numChildren: 1
-        parsedDate: '2022'
     version: 1203
 -   data:
         DOI: 10.1007/978-3-031-60626-7_3
@@ -20252,8 +20252,8 @@
         date: '2023'
         dateAdded: '2023-07-17T15:35:12Z'
         dateModified: '2023-07-18T00:34:53Z'
-        eventPlace: ''
-        extra: 'event-place: London, United Kingdom'
+        eventPlace: London, United Kingdom
+        extra: ''
         issue: ''
         itemType: conferencePaper
         key: PSR7PEB7
@@ -20278,7 +20278,7 @@
         -   tag: task-oriented communication establishment
         title: Establishing Shared Query Understanding in an Open Multi-Agent System
         url: ''
-        version: 376
+        version: 1222
         volume: ''
     key: PSR7PEB7
     library:
@@ -20306,9 +20306,17 @@
             name: ''
             username: kondilidisn
         creatorSummary: Kondylidis et al.
+        lastModifiedByUser:
+            id: 13135791
+            links:
+                alternate:
+                    href: https://www.zotero.org/filipilievski
+                    type: text/html
+            name: ''
+            username: filipilievski
         numChildren: 0
         parsedDate: '2023'
-    version: 376
+    version: 1222
 -   data:
         DOI: 10.1109/CloudSummit54781.2022.00010
         ISBN: '9781665451130'
@@ -20718,8 +20726,8 @@
         dateAdded: '2023-03-24T12:41:58Z'
         dateModified: '2023-03-31T16:01:53Z'
         eventPlace: ''
-        extra: 'Issue: 3121'
-        issue: ''
+        extra: ''
+        issue: '3121'
         itemType: conferencePaper
         key: 7HAUSPSY
         language: ''
@@ -20738,7 +20746,7 @@
         title: Potential Energy to Improve Link Prediction With Relational Graph Neural
             Networks.
         url: https://ceur-ws.org/Vol-3121/short2.pdf
-        version: 320
+        version: 1222
         volume: ''
     key: 7HAUSPSY
     library:
@@ -20766,9 +20774,17 @@
             name: Michael Cochez
             username: michaelcochez
         creatorSummary: Colombo et al.
+        lastModifiedByUser:
+            id: 13135791
+            links:
+                alternate:
+                    href: https://www.zotero.org/filipilievski
+                    type: text/html
+            name: ''
+            username: filipilievski
         numChildren: 0
         parsedDate: '2022'
-    version: 320
+    version: 1222
 -   data:
         DOI: ''
         ISBN: ''
