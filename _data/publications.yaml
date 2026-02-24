@@ -1,4 +1,50 @@
 -   data:
+        accessDate: ''
+        charset: ''
+        collections: []
+        contentType: application/pdf
+        dateAdded: '2026-02-24T16:38:10Z'
+        dateModified: '2026-02-24T16:38:10Z'
+        filename: 15_Dynamics_Reveals_Structure_.pdf
+        itemType: attachment
+        key: VJXA6CVS
+        linkMode: imported_file
+        md5: 8f2cafefa3135a22d937ebd8662bb576
+        mtime: 1771951090947
+        note: ''
+        relations: {}
+        tags: []
+        title: 15_Dynamics_Reveals_Structure_
+        url: ''
+        version: 1263
+    key: VJXA6CVS
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/VJXA6CVS
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/VJXA6CVS
+            type: application/json
+    meta:
+        createdByUser:
+            id: 6261094
+            links:
+                alternate:
+                    href: https://www.zotero.org/hemile
+                    type: text/html
+            name: ''
+            username: hemile
+        numChildren: 4
+    version: 1263
+-   data:
         DOI: ''
         ISBN: ''
         ISSN: ''
