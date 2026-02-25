@@ -384,13 +384,11 @@
 - name: Inès Blin
   orderby: Blin
   website: https://inesblin.github.io
-  image: /images/people/Ines.png
   role: alumnus
 
 - name: Nikos Kondylidis
   orderby: Kondylidis
   website: https://research.vu.nl/en/persons/nikolaos-kondylidis/
-  image: /images/people/Nikos.png
   role: alumnus
 
 - name: Majid Mohammedi
