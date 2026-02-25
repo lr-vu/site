@@ -8,17 +8,6 @@
 #
 # Add the person's image to /images/people/ as a png or a jpeg. Make sure to crop it to a square.
 
-- name: Michael Cochez
-  orderby: Cochez
-  keywords:
-    - approximate reasoning
-    - formalisation of medical knowledge
-    - diagnosis
-  role: faculty
-  title: assistant professor
-  website: https://cochez.nl
-  image: /images/people/michael.png
-
 - name: Frank van Harmelen
   orderby: Harmelen
   website: https://cs.vu.nl/~frankh/
@@ -181,32 +170,6 @@
   image: /images/people/Mayank.jpg
   role: guest
   title: PhD student
-
-- name: Inès Blin
-  orderby: Blin
-  keywords:
-    - narratives
-    - knowledge graphs
-  scholar: https://scholar.google.com/citations?user=YQmdRbwAAAAJ&hl=en
-  website: https://inesblin.github.io
-  image: /images/people/Ines.png
-  role: phd
-  title: PhD Student
-  github: https://github.com/InesBlin
-  linkedin: https://www.linkedin.com/in/ines-blin-903650151/
-
-- name: Nikos Kondylidis
-  orderby: Kondylidis
-  keywords:
-    - Multi-Agent Communication
-    - Establishing Shared Understanding
-    - Human-Hybrid Artificial Intelligence
-  github: https://github.com/kondilidisn
-  scholar: https://scholar.google.com/citations?user=ZX7iR4QAAAAJ&hl=en
-  linkedin: https://www.linkedin.com/in/nikolaos-kondylidis-b28b3b168/
-  website: https://research.vu.nl/en/persons/nikolaos-kondylidis/
-  image: /images/people/Nikos.png
-  role: phd
 
 - name: Romy Vos
   keywords:
@@ -381,6 +344,15 @@
   scholar: https://scholar.google.nl/citations?user=8I8iSHkAAAAJ
   website: https://florisdh.nl/
 
+- name: Erkan Karabulut
+  orderby: Karabulut
+  image: /images/people/Erkan.png
+  role: guest
+  title: PhD student
+  website: https://erkankarabulut.github.io/
+  github: https://github.com/erkankarabulut?tab=repositories
+  scholar: https://scholar.google.com/citations?user=HqdBpEUAAAAJ&hl=en
+
 - name: Chaohui Guo
   orderby: Guo
   keywords:
@@ -395,7 +367,31 @@
   bio: null
   role: guest
 
+  
+- name: Michael Cochez
+  orderby: Cochez
+  keywords:
+    - approximate reasoning
+    - formalisation of medical knowledge
+    - diagnosis
+  role: guest
+  title: assistant professor
+  website: https://cochez.nl
+  image: /images/people/michael.png
+
 # Alumni
+
+- name: Inès Blin
+  orderby: Blin
+  website: https://inesblin.github.io
+  image: /images/people/Ines.png
+  role: alumnus
+
+- name: Nikos Kondylidis
+  orderby: Kondylidis
+  website: https://research.vu.nl/en/persons/nikolaos-kondylidis/
+  image: /images/people/Nikos.png
+  role: alumnus
 
 - name: Majid Mohammedi
   orderby: Mohammedi
