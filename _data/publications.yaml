@@ -40636,8 +40636,8 @@
         callNumber: ''
         citationKey: wilckeKnowledgeGraphDefault2017
         collections:
-        - VSP3MV9F
         - ATA95EWX
+        - VSP3MV9F
         creators:
         -   creatorType: author
             firstName: Xander
@@ -40729,8 +40729,8 @@
         callNumber: ''
         citationKey: schlichtkrullModelingRelationalData2018a
         collections:
-        - VSP3MV9F
         - ATA95EWX
+        - VSP3MV9F
         conferenceName: ''
         creators:
         -   creatorType: author
@@ -40823,8 +40823,8 @@
         callNumber: ''
         citationKey: schoutenProbingRepresentationsNamed2022
         collections:
-        - VSP3MV9F
         - ATA95EWX
+        - VSP3MV9F
         conferenceName: ''
         creators:
         -   creatorType: author
@@ -40913,8 +40913,8 @@
         callNumber: ''
         citationKey: capelProteinGLUEMultitaskBenchmark2022
         collections:
-        - VSP3MV9F
         - ATA95EWX
+        - VSP3MV9F
         creators:
         -   creatorType: author
             firstName: Henriette
@@ -41102,8 +41102,8 @@
         callNumber: ''
         citationKey: wangSUBMASSIVEResolvingSubclass2020
         collections:
-        - VSP3MV9F
         - ATA95EWX
+        - VSP3MV9F
         conferenceName: ''
         creators:
         -   creatorType: author
@@ -41194,8 +41194,8 @@
         callNumber: ''
         citationKey: bloemLargescaleNetworkMotif2020
         collections:
-        - VSP3MV9F
         - ATA95EWX
+        - VSP3MV9F
         creators:
         -   creatorType: author
             firstName: Peter
@@ -41282,8 +41282,8 @@
         callNumber: ''
         citationKey: thanapalasingamRelationalGraphConvolutional2022
         collections:
-        - VSP3MV9F
         - ATA95EWX
+        - VSP3MV9F
         creators:
         -   creatorType: author
             firstName: Thiviyan
