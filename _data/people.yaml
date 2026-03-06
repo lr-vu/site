@@ -92,13 +92,14 @@
   image: /images/people/taraneh.png
 
 - name: Chao Gao
+  orderby: Gao
   keywords:
     - Knowledge and AI 
     - Neural Networks Framework
-    - Medical & CS.
-  orderby: Gao
-  image: /images/people/Chao.png
+    - Medical & CS
   role: phd
+  image: /images/people/Chao.png
+  
 
 - name: Andreas Sauter
   orderby: Sauter
