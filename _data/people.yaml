@@ -91,16 +91,6 @@
   title: PhD student
   image: /images/people/taraneh.png
 
-- name: Chao Gao
-  orderby: Gao
-  keywords:
-    - Knowledge and AI 
-    - Neural Networks Framework
-    - Medical & CS
-  role: phd
-  image: /images/people/Chao.png
-  
-
 - name: Andreas Sauter
   orderby: Sauter
   keywords:
@@ -168,6 +158,15 @@
   title: PhD student
   github: https://github.com/gabriellabollici 
   linkedin: linkedin.com/in/gabriella-bollici-bab32123b
+
+- name: Chao Gao
+  orderby: Gao
+  keywords:
+    - Knowledge and AI 
+    - Neural Networks Framework
+    - Medical & CS
+  role: phd
+  image: /images/people/Chao.png
 
 - name: Mayank Kharbanda
   orderby: Kharbanda
