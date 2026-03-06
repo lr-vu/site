@@ -91,6 +91,15 @@
   title: PhD student
   image: /images/people/taraneh.png
 
+- name: Chao Gao
+  keywords:
+    - Knowledge and AI 
+    - Neural Networks Framework
+    - Medical & CS.
+  orderby: Gao
+  image: /images/people/Chao.png
+  role: phd
+
 - name: Andreas Sauter
   orderby: Sauter
   keywords:
