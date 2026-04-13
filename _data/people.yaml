@@ -373,9 +373,19 @@
 - name: Dimitrios Alivanistos
   website: https://dimitrisalivas.github.io/
   image: /images/people/Dimitris.png
-  bio: null
+  keywords: null
   role: guest
 
+- name: Riccardo Andreoni
+  keywords: 
+    - neurosymbolic AI
+    - temporal logics
+    - process mining
+  role: guest
+  image: /images/people/riccardo-andreoni.jpg
+  linkedin: https://www.linkedin.com/in/riccardo-andreoni/
+  github: https://github.com/andreoniriccardo
+  bio: null
   
 - name: Michael Cochez
   orderby: Cochez
