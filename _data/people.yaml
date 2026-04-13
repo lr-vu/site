@@ -377,6 +377,7 @@
   role: guest
 
 - name: Riccardo Andreoni
+  orderby: Andreoni
   keywords: 
     - neurosymbolic AI
     - temporal logics
@@ -385,7 +386,6 @@
   image: /images/people/riccardo-andreoni.jpg
   linkedin: https://www.linkedin.com/in/riccardo-andreoni/
   github: https://github.com/andreoniriccardo
-  bio: null
   
 - name: Michael Cochez
   orderby: Cochez
