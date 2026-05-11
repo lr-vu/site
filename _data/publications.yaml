@@ -1,5 +1,84 @@
 -   data:
         DOI: ''
+        ISSN: 2835-8856
+        PMCID: ''
+        PMID: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: hoekstraSymbolicQuantileRegression2026
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Cas Oude
+            lastName: Hoekstra
+        -   creatorType: author
+            firstName: Floris den
+            lastName: Hengst
+        date: '2026'
+        dateAdded: '2026-05-11T14:31:18Z'
+        dateModified: '2026-05-11T14:32:12Z'
+        extra: ''
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: FLQPVDXG
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        partNumber: ''
+        partTitle: ''
+        place: ''
+        publicationTitle: Transactions on Machine Learning Research
+        publisher: ''
+        relations: {}
+        rights: ''
+        section: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags:
+        -   tag: machine learning
+        -   tag: neurosymbolic
+        title: Symbolic Quantile Regression for the Interpretable Prediction of Conditional
+            Quantiles
+        url: https://openreview.net/forum?id=x9OYbyPJOG
+        version: 1343
+        volume: ''
+    key: FLQPVDXG
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/FLQPVDXG
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/FLQPVDXG
+            type: application/json
+    meta:
+        createdByUser:
+            id: 12590531
+            links:
+                alternate:
+                    href: https://www.zotero.org/florisdenhengst
+                    type: text/html
+            name: ''
+            username: florisdenhengst
+        creatorSummary: Hoekstra and Hengst
+        numChildren: 0
+        parsedDate: '2026'
+    version: 1343
+-   data:
+        DOI: ''
         ISBN: ''
         ISSN: ''
         abstractNote: ''
