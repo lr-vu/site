@@ -64,6 +64,20 @@
   image: /images/people/Filip.JPG
   mail: f.ilievski@vu.nl
 
+- name: Emile van Krieken
+  orderby: Krieken
+  keywords:
+    - neurosymbolic learning
+    - commonsense reasoning
+    - generative modeling
+  scholar: https://scholar.google.com/citations?user=il8Y0B4AAAAJ&hl=en
+  website: https://emilevankrieken.com/
+  twitter: https://x.com/emilevankrieken
+  linkedin: https://www.linkedin.com/in/emile-van-krieken/
+  image: /images/people/Emile.jpg
+  role: faculty
+  title: assistant professor
+
 - name: Syed Ihtesham Shah
   orderby: Shah
   website: https://research.vu.nl/en/persons/syed-shah/
@@ -121,20 +135,6 @@
   twitter: https://twitter.com/danieldazac
   scholar: https://scholar.google.com/citations?user=VR4a4QIAAAAJ&hl=en
   linkedin: https://www.linkedin.com/in/daniel-daza/
-
-- name: Emile van Krieken
-  orderby: Krieken
-  keywords:
-    - neurosymbolic learning
-    - commonsense reasoning
-    - generative modeling
-  scholar: https://scholar.google.com/citations?user=il8Y0B4AAAAJ&hl=en
-  website: https://emilevankrieken.com/
-  twitter: https://x.com/emilevankrieken
-  linkedin: https://www.linkedin.com/in/emile-van-krieken/
-  image: /images/people/Emile.jpg
-  role: postdoc
-  title: postdoc
 
 - name: Stefano De Giorgis
   orderby: Giorgis
