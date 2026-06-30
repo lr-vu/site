@@ -1,4 +1,792 @@
 -   data:
+        DOI: 10.18653/V1/2023.FINDINGS-EMNLP.296
+        ISBN: ''
+        ISSN: ''
+        abstractNote: ''
+        accessDate: '2026-06-30T11:23:38Z'
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: schoutenReasoningAmbiguousDefinite2023
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Stefan F.
+            lastName: Schouten
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        -   creatorType: author
+            firstName: Ilia
+            lastName: Markov
+        -   creatorType: author
+            firstName: Piek
+            lastName: Vossen
+        -   creatorType: editor
+            firstName: Houda
+            lastName: Bouamor
+        -   creatorType: editor
+            firstName: Juan
+            lastName: Pino
+        -   creatorType: editor
+            firstName: Kalika
+            lastName: Bali
+        date: '2023'
+        dateAdded: '2026-06-30T11:23:38Z'
+        dateModified: '2026-06-30T11:23:38Z'
+        eventPlace: ''
+        extra: ''
+        issue: ''
+        itemType: conferencePaper
+        key: 8Y77SRBW
+        language: ''
+        libraryCatalog: DBLP Computer Science Bibliography
+        numberOfVolumes: ''
+        pages: 4479–4484
+        place: ''
+        proceedingsTitle: 'Findings of the Association for Computational Linguistics:
+            EMNLP 2023, Singapore, December 6-10, 2023'
+        publisher: Association for Computational Linguistics
+        relations: {}
+        rights: ''
+        series: Findings of ACL
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: Reasoning about Ambiguous Definite Descriptions
+        url: https://doi.org/10.18653/v1/2023.findings-emnlp.296
+        version: 1403
+        volume: EMNLP 2023
+    key: 8Y77SRBW
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/8Y77SRBW
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/8Y77SRBW
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: Schouten et al.
+        lastModifiedByUser:
+            id: 8249033
+            links:
+                alternate:
+                    href: https://www.zotero.org/f_hoppe
+                    type: text/html
+            name: Fabian Hoppe
+            username: f_hoppe
+        numChildren: 1
+        parsedDate: '2023'
+    version: 1403
+-   data:
+        DOI: 10.48550/ARXIV.2511.02089
+        ISSN: ''
+        PMCID: ''
+        PMID: ''
+        abstractNote: ''
+        accessDate: '2026-06-30T11:22:56Z'
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: schoutenLLMProbingContrastive2025
+        collections:
+        - VSP3MV9F
+        creators:
+        -   creatorType: author
+            firstName: Stefan F.
+            lastName: Schouten
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        date: '2025'
+        dateAdded: '2026-06-30T11:22:56Z'
+        dateModified: '2026-06-30T11:22:56Z'
+        extra: 'arXiv: 2511.02089'
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: TGJHHFWG
+        language: ''
+        libraryCatalog: DBLP Computer Science Bibliography
+        pages: ''
+        partNumber: ''
+        partTitle: ''
+        place: ''
+        publicationTitle: CoRR
+        publisher: ''
+        relations: {}
+        rights: ''
+        section: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: LLM Probing with Contrastive Eigenproblems
+        tags: []
+        title: 'LLM Probing with Contrastive Eigenproblems: Improving Understanding
+            and Applicability of CCS'
+        url: https://doi.org/10.48550/arXiv.2511.02089
+        version: 1398
+        volume: abs/2511.02089
+    key: TGJHHFWG
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/TGJHHFWG
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/TGJHHFWG
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: Schouten and Bloem
+        lastModifiedByUser:
+            id: 8249033
+            links:
+                alternate:
+                    href: https://www.zotero.org/f_hoppe
+                    type: text/html
+            name: Fabian Hoppe
+            username: f_hoppe
+        numChildren: 0
+        parsedDate: '2025'
+    version: 1398
+-   data:
+        DOI: 10.48550/ARXIV.2602.10751
+        ISSN: ''
+        PMCID: ''
+        PMID: ''
+        abstractNote: ''
+        accessDate: '2026-06-30T11:22:27Z'
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: maatPredictingIntegersContinuous2026
+        collections:
+        - VSP3MV9F
+        creators:
+        -   creatorType: author
+            firstName: Bas
+            lastName: Maat
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        date: '2026'
+        dateAdded: '2026-06-30T11:22:27Z'
+        dateModified: '2026-06-30T11:22:27Z'
+        extra: 'arXiv: 2602.10751'
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: 39Q3CGLD
+        language: ''
+        libraryCatalog: DBLP Computer Science Bibliography
+        pages: ''
+        partNumber: ''
+        partTitle: ''
+        place: ''
+        publicationTitle: CoRR
+        publisher: ''
+        relations: {}
+        rights: ''
+        section: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: Predicting integers from continuous parameters
+        url: https://doi.org/10.48550/arXiv.2602.10751
+        version: 1396
+        volume: abs/2602.10751
+    key: 39Q3CGLD
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/39Q3CGLD
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/39Q3CGLD
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: Maat and Bloem
+        lastModifiedByUser:
+            id: 8249033
+            links:
+                alternate:
+                    href: https://www.zotero.org/f_hoppe
+                    type: text/html
+            name: Fabian Hoppe
+            username: f_hoppe
+        numChildren: 0
+        parsedDate: '2026'
+    version: 1396
+-   data:
+        DOI: 10.48550/ARXIV.2602.06707
+        ISSN: ''
+        PMCID: ''
+        PMID: ''
+        abstractNote: ''
+        accessDate: '2026-06-30T11:22:12Z'
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: thanapalasingamAutoregressiveModelsKnowledge2026
+        collections:
+        - VSP3MV9F
+        creators:
+        -   creatorType: author
+            firstName: Thiviyan
+            lastName: Thanapalasingam
+        -   creatorType: author
+            firstName: Antonis
+            lastName: Vozikis
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        -   creatorType: author
+            firstName: Paul
+            lastName: Groth
+        date: '2026'
+        dateAdded: '2026-06-30T11:22:12Z'
+        dateModified: '2026-06-30T11:22:12Z'
+        extra: 'arXiv: 2602.06707'
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: 8ISASKIA
+        language: ''
+        libraryCatalog: DBLP Computer Science Bibliography
+        pages: ''
+        partNumber: ''
+        partTitle: ''
+        place: ''
+        publicationTitle: CoRR
+        publisher: ''
+        relations: {}
+        rights: ''
+        section: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: Autoregressive Models for Knowledge Graph Generation
+        url: https://doi.org/10.48550/arXiv.2602.06707
+        version: 1394
+        volume: abs/2602.06707
+    key: 8ISASKIA
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/8ISASKIA
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/8ISASKIA
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: Thanapalasingam et al.
+        lastModifiedByUser:
+            id: 8249033
+            links:
+                alternate:
+                    href: https://www.zotero.org/f_hoppe
+                    type: text/html
+            name: Fabian Hoppe
+            username: f_hoppe
+        numChildren: 0
+        parsedDate: '2026'
+    version: 1394
+-   data:
+        DOI: ''
+        ISSN: ''
+        PMCID: ''
+        PMID: ''
+        abstractNote: ''
+        accessDate: '2026-06-30T11:21:32Z'
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: thanapalasingamIntelliGraphsDatasetsBenchmarking2026
+        collections:
+        - VSP3MV9F
+        creators:
+        -   creatorType: author
+            firstName: Thiviyan
+            lastName: Thanapalasingam
+        -   creatorType: author
+            firstName: Emile van
+            lastName: Krieken
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        -   creatorType: author
+            firstName: Paul
+            lastName: Groth
+        date: '2026'
+        dateAdded: '2026-06-30T11:21:32Z'
+        dateModified: '2026-06-30T11:21:56Z'
+        extra: ''
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: WDUY6MGA
+        language: ''
+        libraryCatalog: DBLP Computer Science Bibliography
+        pages: (6):1–34
+        partNumber: ''
+        partTitle: ''
+        place: ''
+        publicationTitle: J. Data-centric Mach. Learn. Res.
+        publisher: ''
+        relations: {}
+        rights: ''
+        section: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: IntelliGraphs
+        tags:
+        -   tag: Benchmarking
+        -   tag: datasets
+        -   tag: machine learning
+        title: 'IntelliGraphs: Datasets for Benchmarking Knowledge Graph Generation'
+        url: https://data.mlr.press/assets/pdf/v03-6.pdf
+        version: 1392
+        volume: '3'
+    key: WDUY6MGA
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/WDUY6MGA
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/WDUY6MGA
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: Thanapalasingam et al.
+        numChildren: 0
+        parsedDate: '2026'
+    version: 1392
+-   data:
+        DOI: 10.1007/s40264-024-01474-w
+        ISSN: 1179-1942
+        PMCID: ''
+        PMID: ''
+        abstractNote: 'The recent rise in acute kidney injury (AKI) incidence, with
+            approximately 30% attributed to potentially preventable adverse drug events
+            (ADEs), poses challenges in evaluating drug-induced AKI due to polypharmacy
+            and other risk factors. This study seeks to consolidate knowledge on the
+            drugs with AKI potential from four distinct sources: (i) bio(medical)
+            peer-reviewed journals; (ii) spontaneous reporting systems (SRS); (iii)
+            drug information databases (DIDs); and (iv) NephroTox website. By harnessing
+            the potential of these underutilised sources, our objective is to bridge
+            gaps and enhance the understanding of drug-induced AKI.'
+        accessDate: '2026-06-30T10:20:24Z'
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: fernandez-llanezaIntegratedApproachRepresenting2025
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Daniel
+            lastName: Fernández-Llaneza
+        -   creatorType: author
+            firstName: Romy M. P.
+            lastName: Vos
+        -   creatorType: author
+            firstName: Joris E.
+            lastName: Lieverse
+        -   creatorType: author
+            firstName: Helen R.
+            lastName: Gosselt
+        -   creatorType: author
+            firstName: Sandra L.
+            lastName: Kane-Gill
+        -   creatorType: author
+            firstName: Teun
+            lastName: van Gelder
+        -   creatorType: author
+            firstName: Joanna E.
+            lastName: Klopotowska
+        -   creatorType: author
+            firstName: Ameen
+            lastName: Abu-Hanna
+        -   creatorType: author
+            firstName: Annemiek
+            lastName: Dorgelo
+        -   creatorType: author
+            firstName: Annette
+            lastName: ten Teije
+        -   creatorType: author
+            firstName: Birgit  A.
+            lastName: Damoiseaux
+        -   creatorType: author
+            firstName: Cornelis
+            lastName: Boersma
+        -   creatorType: author
+            firstName: Dave  A.
+            lastName: Dongelmans
+        -   creatorType: author
+            firstName: David  H.
+            lastName: de Koning
+        -   creatorType: author
+            firstName: Erol  S.
+            lastName: Hofmans
+        -   creatorType: author
+            firstName: Evelien
+            lastName: Tiggelaar
+        -   creatorType: author
+            firstName: Frank
+            lastName: van Harmelen
+        -   creatorType: author
+            firstName: Giovanni
+            lastName: Cinà
+        -   creatorType: author
+            firstName: Gerty
+            lastName: Holla
+        -   creatorType: author
+            firstName: Hilda  J.
+            lastName: de Jong
+        -   creatorType: author
+            firstName: Iacopo
+            lastName: Vagliano
+        -   creatorType: author
+            firstName: Jan
+            lastName: Pander
+        -   creatorType: author
+            firstName: Jasper  M.
+            lastName: Boomker
+        -   creatorType: author
+            firstName: Jurjen
+            lastName: van der Schans
+        -   creatorType: author
+            firstName: Kitty  J.
+            lastName: Jager
+        -   creatorType: author
+            firstName: Linda
+            lastName: Dusseljee-Peute
+        -   creatorType: author
+            firstName: Luuk  B.
+            lastName: Hilbrands
+        -   creatorType: author
+            firstName: Marianne
+            lastName: le Comte
+        -   creatorType: author
+            firstName: Marieke A. R.
+            lastName: Bak
+        -   creatorType: author
+            firstName: Mariette
+            lastName: van den Hoven
+        -   creatorType: author
+            firstName: Martijn  G.
+            lastName: Kersloot
+        -   creatorType: author
+            firstName: Menno
+            lastName: Maris
+        -   creatorType: author
+            firstName: Nicolette  F.
+            lastName: de Keizer
+        -   creatorType: author
+            firstName: Otto  R.
+            lastName: Maarsingh
+        -   creatorType: author
+            firstName: Paul
+            lastName: Blank
+        -   creatorType: author
+            firstName: Piet
+            lastName: Heingraaf
+        -   creatorType: author
+            firstName: Ron
+            lastName: Herings
+        -   creatorType: author
+            firstName: Ron  J.
+            lastName: Keizer
+        -   creatorType: author
+            firstName: Ronald
+            lastName: Cornet
+        -   creatorType: author
+            firstName: Ruben
+            lastName: Boyd
+        -   creatorType: author
+            firstName: Sebastiaan  L.
+            lastName: Knijnenburg
+        -   creatorType: author
+            firstName: Sipke
+            lastName: Visser
+        -   creatorType: author
+            firstName: Stephanie
+            lastName: Medlock
+        -   creatorType: author
+            firstName: Tjerk  S.
+            lastName: Heijmens Visser
+        -   creatorType: author
+            firstName: Vianda  S.
+            lastName: Stel
+        -   creatorType: author
+            firstName: Wanda
+            lastName: Konijn
+        -   creatorType: author
+            name: the LEAPfROG Consortium
+        date: '2025-01-01'
+        dateAdded: '2026-06-30T10:20:31Z'
+        dateModified: '2026-06-30T10:20:31Z'
+        extra: ''
+        issue: '1'
+        itemType: journalArticle
+        journalAbbreviation: Drug Saf
+        key: NB9EX55Q
+        language: en
+        libraryCatalog: Springer Link
+        pages: 43-58
+        partNumber: ''
+        partTitle: ''
+        place: ''
+        publicationTitle: Drug Safety
+        publisher: ''
+        relations: {}
+        rights: ''
+        section: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: An Integrated Approach for Representing Knowledge on the Potential
+            of Drugs to Cause Acute Kidney Injury
+        url: https://doi.org/10.1007/s40264-024-01474-w
+        version: 1388
+        volume: '48'
+    key: NB9EX55Q
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/NB9EX55Q
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/NB9EX55Q
+            type: application/json
+    meta:
+        createdByUser:
+            id: 13137784
+            links:
+                alternate:
+                    href: https://www.zotero.org/romyvos
+                    type: text/html
+            name: ''
+            username: romyvos
+        creatorSummary: Fernández-Llaneza et al.
+        lastModifiedByUser:
+            id: 6261094
+            links:
+                alternate:
+                    href: https://www.zotero.org/hemile
+                    type: text/html
+            name: ''
+            username: hemile
+        numChildren: 0
+        parsedDate: '2025-01-01'
+    version: 1388
+-   data:
+        DOI: 10.1038/s41597-026-07579-4
+        ISSN: 2052-4463
+        PMCID: ''
+        PMID: ''
+        abstractNote: "Abstract \n            In this study, a Knowledge Graph (KG)\
+            \ for Drug-Induced Acute Kidney Injury (DAKI) was developed to provide\
+            \ structured and standardized knowledge about drugs known to cause AKI.\
+            \ The DAKI-KG is integrated from several credible domain sources, which\
+            \ we standardized to international vocabularies. We demonstrate the applicability\
+            \ of the DAKI-KG through competency questions and expert evaluations.\
+            \ The envisioned two application areas are: (1) the KG can be used as\
+            \ input for a decision support tool to get insights into potential side-effects\
+            \ and drug-drug interactions harmful for kidneys, especially in patients\
+            \ with chronic kidney disease and (2) researchers can utilize the KG to\
+            \ derive confounders and variables for (causal) machine learning models\
+            \ or as input into link prediction methods. The evaluation results show\
+            \ the applicability of our KG through varying competency questions and\
+            \ use cases, though further improvements are needed before it is ready\
+            \ for clinical application. We anticipate the DAKI-KG to be relevant for\
+            \ tasks such as confounder identification, variable analysis, and the\
+            \ development of QA systems."
+        accessDate: '2026-06-30T10:19:17Z'
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: vosComputerInterpretableDomainKnowledge2026
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Romy
+            lastName: Vos
+        -   creatorType: author
+            firstName: Iacopo
+            lastName: Vagliano
+        -   creatorType: author
+            firstName: Cornelis
+            lastName: Boersma
+        -   creatorType: author
+            firstName: Frank
+            lastName: Van Harmelen
+        -   creatorType: author
+            firstName: Annette
+            lastName: Ten Teije
+        -   creatorType: author
+            firstName: Joanna E.
+            lastName: Klopotowska
+        -   creatorType: author
+            name: On behalf of the LEAPfROG Consortium
+        date: '2026-06-10'
+        dateAdded: '2026-06-30T10:19:17Z'
+        dateModified: '2026-06-30T10:19:17Z'
+        extra: ''
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: Sci Data
+        key: RLSLEDJS
+        language: en
+        libraryCatalog: DOI.org (Crossref)
+        pages: ''
+        partNumber: ''
+        partTitle: ''
+        place: ''
+        publicationTitle: Scientific Data
+        publisher: ''
+        relations: {}
+        rights: ''
+        section: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: Computer-Interpretable Domain Knowledge for Drug-Induced Acute
+            Kidney Injury
+        tags: []
+        title: 'Computer-Interpretable Domain Knowledge for Drug-Induced Acute Kidney
+            Injury: a Knowledge Graph Approach'
+        url: https://www.nature.com/articles/s41597-026-07579-4
+        version: 1386
+        volume: ''
+    key: RLSLEDJS
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/RLSLEDJS
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/RLSLEDJS
+            type: application/json
+    meta:
+        createdByUser:
+            id: 13137784
+            links:
+                alternate:
+                    href: https://www.zotero.org/romyvos
+                    type: text/html
+            name: ''
+            username: romyvos
+        creatorSummary: Vos et al.
+        lastModifiedByUser:
+            id: 6261094
+            links:
+                alternate:
+                    href: https://www.zotero.org/hemile
+                    type: text/html
+            name: ''
+            username: hemile
+        numChildren: 0
+        parsedDate: '2026-06-10'
+    version: 1386
+-   data:
         DOI: ''
         ISSN: 2835-8856
         PMCID: ''
@@ -34131,90 +34919,6 @@
             name: Michael Cochez
             username: michaelcochez
         creatorSummary: Renaux et al.
-        lastModifiedByUser:
-            id: 18057342
-            links:
-                alternate:
-                    href: https://www.zotero.org/shaur.gaur
-                    type: text/html
-            name: ''
-            username: Shaur.Gaur
-        numChildren: 0
-        parsedDate: '2023'
-    version: 1227
--   data:
-        DOI: 10.48550/ARXIV.2310.14657
-        abstractNote: ''
-        accessDate: ''
-        archive: ''
-        archiveID: ''
-        archiveLocation: ''
-        callNumber: ''
-        citationKey: Schouten2023_ReasoningAmbiguousDefinite
-        collections: []
-        creators:
-        -   creatorType: author
-            firstName: Stefan F.
-            lastName: Schouten
-        -   creatorType: author
-            firstName: Peter
-            lastName: Bloem
-        -   creatorType: author
-            firstName: Ilia
-            lastName: Markov
-        -   creatorType: author
-            firstName: Piek
-            lastName: Vossen
-        date: '2023'
-        dateAdded: '2023-12-05T14:42:59Z'
-        dateModified: '2026-02-16T13:40:50Z'
-        extra: ''
-        genre: ''
-        itemType: preprint
-        key: 8Y35LRBG
-        language: ''
-        libraryCatalog: ''
-        place: ''
-        relations: {}
-        repository: ''
-        rights: ''
-        series: ''
-        seriesNumber: ''
-        shortTitle: ''
-        tags:
-        -   tag: datasets
-        -   tag: large language models
-        -   tag: nlp
-        -   tag: tasks
-        title: Reasoning about Ambiguous Definite Descriptions
-        url: https://doi.org/10.48550/arXiv.2310.14657
-        version: 1227
-    key: 8Y35LRBG
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/8Y35LRBG
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/8Y35LRBG
-            type: application/json
-    meta:
-        createdByUser:
-            id: 11362521
-            links:
-                alternate:
-                    href: https://www.zotero.org/pbloemesquire
-                    type: text/html
-            name: ''
-            username: pbloemesquire
-        creatorSummary: Schouten et al.
         lastModifiedByUser:
             id: 18057342
             links:
