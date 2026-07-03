@@ -22,15 +22,15 @@ dark: true
 
     <dl>
         <dt> June, 2026 </dt>
-            <dd> Filip and Emile were awarded PhD funding from ELLIS in collaboration with G-Research. This was <a href="https://ellis.eu/news/g-research-invests-in-ellis-phd-program-to-support-the-next-generation-of-european-ai-talent" a special call for proposals </a> for a single position in four ELLIS Units, including one in Amsterdam. The PhD funding has been matched by NEC (whose Sascha Sarajelew will be co-advisor) and VU’s computer science department. </dd>
+            <dd> Filip and Emile were awarded PhD funding from ELLIS in collaboration with G-Research. This was <a href="https://ellis.eu/news/g-research-invests-in-ellis-phd-program-to-support-the-next-generation-of-european-ai-talent"> a special call for proposals </a> for a single position in four ELLIS Units, including one in Amsterdam. The PhD funding has been matched by NEC (whose Sascha Sarajelew will be co-advisor) and VU’s computer science department. </dd>
         <dt> June, 2026 </dt>
             <dd> Filip’s Dagstuhl seminar proposal “Analogical Abstraction: Modeling and Applications” in 2027, together with Marianna Bolognesi, Jay Pujara, and Ute Schmid, has been accepted. This seminar will take place in 2027. </dd>
         <dt> June, 2026 </dt>
-            <dd> Stefano and Filip organize a special issue at the <a href="https://www.dagstuhl.de/en/institute/news/2026/tgdk-cfp-special-issue-neuro-symbolic-modeling-for-human-centric-ai" TGDK journal on Neuro-Symbolic Modeling for Human-Centric AI </a>  </dd>
+            <dd> Stefano and Filip organize a special issue at the <a href="https://www.dagstuhl.de/en/institute/news/2026/tgdk-cfp-special-issue-neuro-symbolic-modeling-for-human-centric-ai"> TGDK journal on Neuro-Symbolic Modeling for Human-Centric AI </a>  </dd>
         <dt> June, 2026 </dt>
             <dd> Filip is an editor of the NeSy journal Special Call on Neurosymbolic Benchmark Papers </dd>
         <dt> June, 18, 2026 </dt>
-            <dd> L&R presented 5 posters at <a href="https://ivi.fnwi.uva.nl/ellis/events/deep-learning-extravaganza-2026/" the ELLIS Deep Learning Extravaganza 2026 event </a> </dd>
+            <dd> L&R presented 5 posters at <a href="https://ivi.fnwi.uva.nl/ellis/events/deep-learning-extravaganza-2026/"> the ELLIS Deep Learning Extravaganza 2026 event </a> </dd>
         <dt> May, 29, 2026 </dt>
             <dd> Frank participated in the “meet a professor” program, visiting a primary school in Amsterdam, and talking with the children on AI and on what we do in a university </dd>
         <dt> May, 6, 2026 </dt>
