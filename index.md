@@ -21,6 +21,36 @@ dark: true
     {% endcomment %}
 
     <dl>
+The most likely reason you are experiencing a commit failure with this snippet is a **syntax error in the very last `<a>` link**, which is missing a closing quotation mark (`"`) for its `href` attribute.
+
+Look closely at this line near the bottom:
+
+```html
+... its online <a href="https://research.vu.nl/ws/portalfiles/portal/454410792/nikos%20delapaschos%20kondylidis%20phd%20thesis%20-%206942c0af66d9a.pdf> here </a> </dd>
+
+```
+
+### The Fix
+
+The URL ends with `.pdf` but **fails to close the quote** before the `>` bracket.
+
+Here is the corrected line:
+
+```html
+... it’s online <a href="https://research.vu.nl/ws/portalfiles/portal/454410792/nikos%20delapaschos%20kondylidis%20phd%20thesis%20-%206942c0af66d9a.pdf"> here </a> </dd>
+
+```
+
+---
+
+### Why this blocks your commit
+
+If your repository or CI/CD pipeline uses pre-commit hooks, linters, or formatters (like Prettier, HTMLHint, or an automated test suite), it will reject the file because broken HTML syntax fails compile/lint checks.
+
+Here is the fully corrected code block ready to copy-paste:
+
+```html
+    <dl>
         <dt> June, 2026 </dt>
             <dd> Filip and Emile were awarded PhD funding from ELLIS in collaboration with G-Research. This was <a href="https://ellis.eu/news/g-research-invests-in-ellis-phd-program-to-support-the-next-generation-of-european-ai-talent"> a special call for proposals </a> for a single position in four ELLIS Units, including one in Amsterdam. The PhD funding has been matched by NEC (whose Sascha Sarajelew will be co-advisor) and VU’s computer science department. </dd>
         <dt> June, 2026 </dt>
