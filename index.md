@@ -21,20 +21,30 @@ dark: true
     {% endcomment %}
 
     <dl>
+        <dt> June, 2026 </dt>
+            <dd> Filip and Emile were awarded PhD funding from ELLIS in collaboration with G-Research. This was <a href= "https://ellis.eu/news/g-research-invests-in-ellis-phd-program-to-support-the-next-generation-of-european-ai-talent" a special call for proposals </a> for a single position in four ELLIS Units, including one in Amsterdam. The PhD funding has been matched by NEC (whose Sascha Sarajelew will be co-advisor) and VU’s computer science department. </dd>
+        <dt> June, 2026 </dt>
+            <dd> Filip’s Dagstuhl seminar proposal “Analogical Abstraction: Modeling and Applications” in 2027, together with Marianna Bolognesi, Jay Pujara, and Ute Schmid, has been accepted. This seminar will take place in 2027. </dd>
+        <dt> June, 2026 </dt>
+            <dd> Stefano and Filip organize a special issue at the <a href= "https://www.dagstuhl.de/en/institute/news/2026/tgdk-cfp-special-issue-neuro-symbolic-modeling-for-human-centric-ai" TGDK journal on Neuro-Symbolic Modeling for Human-Centric AI </a>  </dd>
+        <dt> June, 2026 </dt>
+            <dd> Filip is an editor of the NeSy journal Special Call on Neurosymbolic Benchmark Papers </dd>
+        <dt> June, 18, 2026 </dt>
+            <dd> L&R presented 5 posters at <a href="https://ivi.fnwi.uva.nl/ellis/events/deep-learning-extravaganza-2026/" the ELLIS Deep Learning Extravaganza 2026 event </a> </dd>
+        <dt> May, 29, 2026 </dt>
+            <dd> Frank participated in the “meet a professor” program, visiting a primary school in Amsterdam, and talking with the children on AI and on what we do in a university </dd>
+        <dt> May, 6, 2026 </dt>
+            <dd> We hosted a workshop together with Huawei Finland where researchers from different groups (KAI, L&R, CL) presented proposals for future collaboration as part of our DReaMS lab collaboration with Huawei. </dd>
+        <dt> March, 5, 2026 </dt>
+            <dd> Frank gave a keynote at the ICAART conference in Marbella, entitled “Loosely Coupled Architectures for Neuro-symbolic Systems”. You can watch it <a href="https://vimeo.com/1178771181?msockid=1ad1b452d80d61dd1d20a302d91c605b"> here </a> </dd>
+        <dt> March, 11, 2026 </dt>
+            <dd> Elsevier hosted the final meeting of the Discovery Lab, which has been our succesful 5-year collaboration between Elsevier, UvA and us. </dd>
+        <dt> February, 5, 2026 </dt>
+            <dd> Inez Blin succesfully defended her PhD thesis with Annette and Ilaria Tidi (from the KAI group) as supervisors. Her thesis is entitled Narrative Understanding with Knowledge Graphs, it’s online <a href="https://research.vu.nl/ws/portalfiles/portal/453611861/blin-phd-manuscript%20-%2069452f95719dd.pdf"> here </a> </dd>
         <dt> February, 4, 2026 </dt>
             <dd> On the occasion of the PhD defense by Nikos, we invited three of the committee members, Luc Steels, Valentina Tamma and Mark Neerincs, to speak at a mini-symposium </dd>
         <dt> February, 4, 2026 </dt>
             <dd> Nikos succesfully defended his PhD thesis with Annette and Ilaria Tidi (from the KAI group) as supervisors. His thesis is entitled Establishing Task-oriented Understanding Between Agents, it’s online <a href="https://research.vu.nl/ws/portalfiles/portal/454410792/nikos%20delapaschos%20kondylidis%20phd%20thesis%20-%206942c0af66d9a.pdf"> here </a> </dd>
-        <dt> February, 2026 </dt>
-            <dd> Inez Blin succesfully defended her PhD thesis with Annette and Ilaria Tidi (from the KAI group) as supervisors. Her thesis is entitled Narrative Understanding with Knowledge Graphs, it’s online <a href="https://research.vu.nl/ws/portalfiles/portal/453611861/blin-phd-manuscript%20-%2069452f95719dd.pdf"> here </a> </dd>
-        <dt> March, 2026 </dt>
-            <dd> Frank gave a keynote at the ICAART conference in Marbella, entitled “Loosely Coupled Architectures for Neuro-symbolic Systems”. You can watch it <a href="https://vimeo.com/1178771181?msockid=1ad1b452d80d61dd1d20a302d91c605b"> here </a> </dd>
-        <dt> March, 2026 </dt>
-            <dd> Elsevier hosted the final meeting of the Discovery Lab, which has been our succesful 5-year collaboration between Elsevier, UvA and us. </dd>
-        <dt> May, 2026 </dt>
-            <dd> We hosted a workshop together with Huawei Finland where researchers from different groups (KAI, L&R, CL) presented proposals for future collaboration as part of our DReaMS lab collaboration with Huawei. </dd>
-        <dt> May, 2026 </dt>
-            <dd> Frank participated in the “meet a professor” program, visiting a primary school in Amsterdam, and talking with the children on AI and on what we do in a university </dd>
         <dt> October, 2025 </dt>
             <dd> Frank van Harmelen receives prestigous European AI award Frank was awarded the EurAI Distinguished Service Award at the European Conference on AI (ECAI) in Bologna. The EurAI Distinguished Service Award is presented annually to individuals who have contributed exceptionally to the European AI community.  Only 10 other individuals have received this award since its inception in 2012. More information on the motivation of the award to Frank at <a href="https://eurai.org/award/frank-vanharmelen"> https://eurai.org/award/frank-vanharmelen </a></dd>
     <dt>October, 2025</dt>
