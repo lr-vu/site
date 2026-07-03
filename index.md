@@ -40,11 +40,11 @@ dark: true
         <dt> March, 11, 2026 </dt>
             <dd> Elsevier hosted the final meeting of the Discovery Lab, which has been our succesful 5-year collaboration between Elsevier, UvA and us. </dd>
         <dt> February, 5, 2026 </dt>
-            <dd> Inez Blin succesfully defended her PhD thesis with Annette and Ilaria Tidi (from the KAI group) as supervisors. Her thesis is entitled Narrative Understanding with Knowledge Graphs, it’s online <a href="https://research.vu.nl/ws/portalfiles/portal/453611861/blin-phd-manuscript%20-%2069452f95719dd.pdf"> here </a> </dd>
+            <dd> Inès Blin succesfully defended her PhD thesis with Annette and Ilaria Tiddi (from the KAI group) as supervisors. Her thesis is entitled Narrative Understanding with Knowledge Graphs, it’s online <a href="https://research.vu.nl/ws/portalfiles/portal/453611861/blin-phd-manuscript%20-%2069452f95719dd.pdf"> here </a> </dd>
         <dt> February, 4, 2026 </dt>
-            <dd> On the occasion of the PhD defense by Nikos, we invited three of the committee members, Luc Steels, Valentina Tamma and Mark Neerincs, to speak at a mini-symposium </dd>
+            <dd> On the occasion of the PhD defense by Nikos, we invited three of the committee members, Luc Steels, Valentina Tamma and Mark Neerincx, to speak at a mini-symposium </dd>
         <dt> February, 4, 2026 </dt>
-            <dd> Nikos succesfully defended his PhD thesis with Annette and Ilaria Tidi (from the KAI group) as supervisors. His thesis is entitled Establishing Task-oriented Understanding Between Agents, it’s online <a href="https://research.vu.nl/ws/portalfiles/portal/454410792/nikos%20delapaschos%20kondylidis%20phd%20thesis%20-%206942c0af66d9a.pdf"> here </a> </dd>
+            <dd> Nikos succesfully defended his PhD thesis with Annette and Ilaria Tiddi (from the KAI group) as supervisors. His thesis is entitled Establishing Task-oriented Understanding Between Agents, it’s online <a href="https://research.vu.nl/ws/portalfiles/portal/454410792/nikos%20delapaschos%20kondylidis%20phd%20thesis%20-%206942c0af66d9a.pdf"> here </a> </dd>
         <dt> October, 2025 </dt>
             <dd> Frank van Harmelen receives prestigous European AI award Frank was awarded the EurAI Distinguished Service Award at the European Conference on AI (ECAI) in Bologna. The EurAI Distinguished Service Award is presented annually to individuals who have contributed exceptionally to the European AI community.  Only 10 other individuals have received this award since its inception in 2012. More information on the motivation of the award to Frank at <a href="https://eurai.org/award/frank-vanharmelen"> https://eurai.org/award/frank-vanharmelen </a></dd>
     <dt>October, 2025</dt>
