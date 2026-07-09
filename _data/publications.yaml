@@ -1,4 +1,154 @@
 -   data:
+        DOI: ''
+        ISBN: 9783032307095 9783032307101
+        ISSN: ''
+        abstractNote: ''
+        accessDate: '2026-07-09T14:49:49Z'
+        archive: ''
+        archiveLocation: ''
+        bookTitle: Artificial Intelligence in Medicine
+        callNumber: ''
+        citationKey: ''
+        collections: []
+        creators:
+        -   creatorType: editor
+            firstName: Pavel
+            lastName: Andreev
+        -   creatorType: editor
+            firstName: William
+            lastName: Van Woensel
+        -   creatorType: editor
+            firstName: John
+            lastName: Holmes
+        -   creatorType: editor
+            firstName: Antoine
+            lastName: Sauré
+        -   creatorType: author
+            firstName: Aneta
+            lastName: Lisowska
+        -   creatorType: author
+            firstName: Floris
+            lastName: Den Hengst
+        -   creatorType: author
+            firstName: Syed Ihtesham Hussain
+            lastName: Shah
+        -   creatorType: author
+            firstName: Annette
+            lastName: Ten Teije
+        -   creatorType: author
+            firstName: Omar
+            lastName: Bohoudi
+        -   creatorType: author
+            firstName: Pauline
+            lastName: Vissers
+        -   creatorType: author
+            firstName: Mahsoem
+            lastName: Ali
+        -   creatorType: author
+            firstName: Laura
+            lastName: Leeuwenburgh
+        -   creatorType: author
+            firstName: Martijn
+            lastName: Stommel
+        -   creatorType: author
+            firstName: Amber
+            lastName: Lamoré
+        -   creatorType: author
+            firstName: Inez
+            lastName: Verpalen
+        -   creatorType: author
+            firstName: Marjolein
+            lastName: Homs
+        -   creatorType: author
+            firstName: Bas Groot
+            lastName: Koerkamp
+        -   creatorType: author
+            firstName: Judith
+            lastName: De Vos-Geelen
+        -   creatorType: author
+            firstName: Sven
+            lastName: Mieog
+        -   creatorType: author
+            firstName: Jeanin E.
+            lastName: Van Hooft
+        -   creatorType: author
+            firstName: Lois
+            lastName: Daamen
+        -   creatorType: author
+            firstName: Vincent E.
+            lastName: De Meijer
+        -   creatorType: author
+            firstName: Hanneke
+            lastName: Wilmink
+        -   creatorType: author
+            firstName: Hanneke
+            lastName: Van Laarhoven
+        -   creatorType: author
+            firstName: Marc
+            lastName: Besselink
+        -   creatorType: author
+            firstName: Geert
+            lastName: Kazemier
+        -   creatorType: author
+            name: for the Dutch Pancreatic Cancer Group
+        date: '2027'
+        dateAdded: '2026-07-09T14:49:49Z'
+        dateModified: '2026-07-09T14:49:49Z'
+        edition: ''
+        extra: 'DOI: 10.1007/978-3-032-30710-1_4'
+        format: ''
+        itemType: bookSection
+        key: SRFMLVB3
+        language: en
+        libraryCatalog: DOI.org (Crossref)
+        numberOfVolumes: ''
+        originalDate: ''
+        originalPlace: ''
+        originalPublisher: ''
+        pages: 28-37
+        place: Cham
+        publisher: Springer Nature Switzerland
+        relations: {}
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: Addressing Incomplete Data in Survival and Quality of Life Prediction
+        tags: []
+        title: 'Addressing Incomplete Data in Survival and Quality of Life Prediction:
+            A Pancreatic Cancer Case Study'
+        url: https://link.springer.com/10.1007/978-3-032-30710-1_4
+        version: 1405
+        volume: '16748'
+    key: SRFMLVB3
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/SRFMLVB3
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/SRFMLVB3
+            type: application/json
+    meta:
+        createdByUser:
+            id: 12590531
+            links:
+                alternate:
+                    href: https://www.zotero.org/florisdenhengst
+                    type: text/html
+            name: ''
+            username: florisdenhengst
+        creatorSummary: Lisowska et al.
+        numChildren: 0
+        parsedDate: '2027'
+    version: 1405
+-   data:
         DOI: 10.18653/V1/2023.FINDINGS-EMNLP.296
         ISBN: ''
         ISSN: ''
