@@ -1,6 +1,6 @@
 -   data:
         DOI: ''
-        ISBN: 9783032307095 9783032307101
+        ISBN: 978-3-032-30709-5 978-3-032-30710-1
         ISSN: ''
         abstractNote: ''
         accessDate: '2026-07-09T14:49:49Z'
@@ -8,7 +8,7 @@
         archiveLocation: ''
         bookTitle: Artificial Intelligence in Medicine
         callNumber: ''
-        citationKey: ''
+        citationKey: lisowskaAddressingIncompleteData2027
         collections: []
         creators:
         -   creatorType: editor
@@ -117,7 +117,7 @@
         title: 'Addressing Incomplete Data in Survival and Quality of Life Prediction:
             A Pancreatic Cancer Case Study'
         url: https://link.springer.com/10.1007/978-3-032-30710-1_4
-        version: 1405
+        version: 1406
         volume: '16748'
     key: SRFMLVB3
     library:
@@ -145,9 +145,17 @@
             name: ''
             username: florisdenhengst
         creatorSummary: Lisowska et al.
+        lastModifiedByUser:
+            id: 6261094
+            links:
+                alternate:
+                    href: https://www.zotero.org/hemile
+                    type: text/html
+            name: ''
+            username: hemile
         numChildren: 0
         parsedDate: '2027'
-    version: 1405
+    version: 1406
 -   data:
         DOI: 10.18653/V1/2023.FINDINGS-EMNLP.296
         ISBN: ''
