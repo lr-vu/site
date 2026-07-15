@@ -1,5 +1,5 @@
 -   data:
-        DOI: ''
+        DOI: 10.1007/978-3-032-30710-1_4
         ISBN: 978-3-032-30709-5 978-3-032-30710-1
         ISSN: ''
         abstractNote: ''
@@ -95,7 +95,7 @@
         dateAdded: '2026-07-09T14:49:49Z'
         dateModified: '2026-07-09T14:49:49Z'
         edition: ''
-        extra: 'DOI: 10.1007/978-3-032-30710-1_4'
+        extra: ''
         format: ''
         itemType: bookSection
         key: SRFMLVB3
@@ -117,7 +117,7 @@
         title: 'Addressing Incomplete Data in Survival and Quality of Life Prediction:
             A Pancreatic Cancer Case Study'
         url: https://link.springer.com/10.1007/978-3-032-30710-1_4
-        version: 1406
+        version: 1407
         volume: '16748'
     key: SRFMLVB3
     library:
@@ -146,16 +146,16 @@
             username: florisdenhengst
         creatorSummary: Lisowska et al.
         lastModifiedByUser:
-            id: 6261094
+            id: 13137509
             links:
                 alternate:
-                    href: https://www.zotero.org/hemile
+                    href: https://www.zotero.org/chaohui.guo.cn
                     type: text/html
-            name: ''
-            username: hemile
+            name: Chaohui Guo
+            username: chaohui.guo.cn
         numChildren: 0
         parsedDate: '2027'
-    version: 1406
+    version: 1407
 -   data:
         DOI: 10.18653/V1/2023.FINDINGS-EMNLP.296
         ISBN: ''
