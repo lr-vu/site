@@ -21,6 +21,8 @@ dark: true
     {% endcomment %}
 
     <dl>
+        <dt> July, 10, 2026 </dt>
+            <dd> Aneta, Floris, Ihtesham, and Annette received the Best Paper Award at the 24th International Conference on Artificial Intelligence in Medicine <a href="https://aime26.aimedicine.info/"> (AIME 2026) </a>, held in Ottawa, Canada, for their paper, <a href="https://vu.nl/en/news/2026/ai-researchers-win-best-paper-award-at-aime-2026"> "Addressing Incomplete Data in Survival and Quality of Life Prediction: A Pancreatic Cancer Case Study." </a> </dd>
         <dt> June, 2026 </dt>
             <dd> Filip and Emile were awarded PhD funding from ELLIS in collaboration with G-Research. This was <a href="https://ellis.eu/news/g-research-invests-in-ellis-phd-program-to-support-the-next-generation-of-european-ai-talent"> a special call for proposals </a> for a single position in four ELLIS Units, including one in Amsterdam. The PhD funding has been matched by NEC (whose Sascha Sarajelew will be co-advisor) and VU’s computer science department. </dd>
         <dt> June, 2026 </dt>
