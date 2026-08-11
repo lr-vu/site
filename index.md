@@ -21,6 +21,8 @@ dark: true
     {% endcomment %}
 
     <dl>
+        <dt> August, 2026 </dt>
+            <dd> Annette's Dagstuhl seminar proposal on “Research Data Management in Times of Agentic AI", together with Marianna Bolognesi, Jay Pujara, and Ute Schmid, has been accepted. This seminar will take place in June 2027. </dd>
         <dt> July, 10, 2026 </dt>
             <dd> Aneta, Floris, Ihtesham, and Annette received the Best Paper Award at the 24th International Conference on Artificial Intelligence in Medicine <a href="https://aime26.aimedicine.info/"> (AIME 2026) </a>, held in Ottawa, Canada, for their paper, <a href="https://vu.nl/en/news/2026/ai-researchers-win-best-paper-award-at-aime-2026"> "Addressing Incomplete Data in Survival and Quality of Life Prediction: A Pancreatic Cancer Case Study." </a> </dd>
         <dt> June, 2026 </dt>
