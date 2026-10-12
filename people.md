@@ -69,7 +69,7 @@ or they won't show up.
     {% for person in site.data.people %}
         {% if person.role == 'alumnus' %}
             
-            <li>{% if person.website %}<span>{{person.name}}</span>{% else %}<a href="{{person.website}}">{{person.name}}</a>{% endif %}
+            <li>{% if person.website %}<a href="{{person.website}}">{{person.name}}</a>{% else %}<span>{{person.name}}</span>{% endif %}
             {{person.bio | markdownify }}</li>
 
         {% endif %}
