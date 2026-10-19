@@ -140,18 +140,6 @@
   role: phd
   image: /images/people/Chao.png
 
-- name: Mayank Kharbanda
-  orderby: Kharbanda
-  keywords:
-    - knowledge graphs
-    - multi-modal knowledge graphs
-    - logical reasoning
-  scholar: https://scholar.google.com/citations?user=UGSKuZIAAAAJ
-  website: https://mayankkharbanda.github.io/
-  image: /images/people/Mayank.jpg
-  role: guest
-  title: PhD student
-
 - name: Romy Vos
   keywords:
     - neurosymbolic AI
@@ -312,6 +300,19 @@
   scholar: https://scholar.google.com/citations?user=8N_u7TcAAAAJ
   mastodon: https://mathstodon.xyz/@fab
 
+- name: Federica Kulka
+  orderby: Kulka
+  keywords:
+    - Neuro-symbolic AI
+    - World Models 
+    - Multimodality
+    - Reinforcement Learning
+  image: /images/people/Federica.jpeg
+  role: phd
+  title: PhD student
+  github: https://github.com/federicakulka
+  linkedin: https://www.linkedin.com/in/federica-kulka/
+
 - name: Floris den Hengst
   orderby: Hengst
   keywords:
@@ -342,23 +343,6 @@
   role: phd
   title: PhD student
 
-- name: Dimitrios Alivanistos
-  website: https://dimitrisalivas.github.io/
-  image: /images/people/Dimitris.png
-  keywords: null
-  role: guest
-
-- name: Riccardo Andreoni
-  orderby: Andreoni
-  keywords: 
-    - neurosymbolic AI
-    - temporal logics
-    - process mining
-  role: guest
-  image: /images/people/riccardo-andreoni.jpg
-  linkedin: https://www.linkedin.com/in/riccardo-andreoni/
-  github: https://github.com/andreoniriccardo
-  
 - name: Michael Cochez
   orderby: Cochez
   keywords:
@@ -383,6 +367,23 @@
   website: https://dfdazac.github.io/
   role: alumnus
   bio: Now at TU Eindhoven
+
+  - name: Riccardo Andreoni
+  orderby: Andreoni
+  role: alumnus
+  linkedin: https://www.linkedin.com/in/riccardo-andreoni/
+  bio: April - August 2026
+
+- name: Dimitrios Alivanistos
+  website: https://dimitrisalivas.github.io/
+  role: alumnus
+  bio: Now at Elsevier
+
+- name: Mayank Kharbanda
+  orderby: Kharbanda
+  website: https://mayankkharbanda.github.io/
+  role: alumnus
+  bio: Sep 2024 - March 2025
   
 - name: Inès Blin
   orderby: Blin
