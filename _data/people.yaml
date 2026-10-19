@@ -400,6 +400,18 @@
 
 # Alumni
 
+- name: Syed Ihtesham Shah
+  orderby: Shah
+  website: https://research.vu.nl/en/persons/syed-shah/
+  role: alumnus
+  bio: Now at the Mathematics Department, VU
+  
+- name: Daniel Daza
+  orderby: Daza
+  website: https://dfdazac.github.io/
+  role: alumnus
+  bio: Now at TU Eindhoven
+  
 - name: Inès Blin
   orderby: Blin
   website: https://inesblin.github.io
