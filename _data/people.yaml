@@ -371,7 +371,7 @@
   - name: Riccardo Andreoni
   orderby: Andreoni
   role: alumnus
-  linkedin: https://www.linkedin.com/in/riccardo-andreoni/
+  website: https://www.linkedin.com/in/riccardo-andreoni/
   bio: April - August 2026
 
 - name: Dimitrios Alivanistos
@@ -394,12 +394,14 @@
   orderby: Kondylidis
   website: https://research.vu.nl/en/persons/nikolaos-kondylidis/
   role: alumnus
+  bio: now at Deloitte
 
 - name: Majid Mohammedi
   orderby: Mohammedi
   website: https://research.vu.nl/en/persons/majeed-mohammadi/
   image: /images/people/Majid.png
   role:  alumnus
+  bio: now at TU Delft
 
 - name: Xander Wilcke
   orderby: Wilcke
@@ -482,7 +484,7 @@
   website: https://www.illc.uva.nl/People/person/4927/Al-Idrissou/
   image: /images/people/Al.png
   role: alumnus
-  bio:
+  bio: now at Erasmus Rotterdam
 
 - name: Jan Christoph Kalo
   website: https://research.vu.nl/en/persons/jan-christoph-kalo
@@ -536,7 +538,7 @@
 
 - name: Darya Tarasowa
   website: http://few.vu.nl/~dta570/
-  bio: null
+  bio: now at RFW university Bonn
   role: alumnus
 
 - name: Dongmo Zhang
@@ -658,7 +660,7 @@
 
 - name: Kathrin Dentler
   website: http://www.few.vu.nl/~kdr250/
-  bio: now at [Triply](https://triply.cc/)
+  bio: now at TU Delft
   role: alumnus
 
 - name: Klaas Andries de Graaf
@@ -668,7 +670,7 @@
 
 - name: Krystyna Milian
   website: https://www.linkedin.com/in/krystyna-milian-56069114/?originalSubdomain=pl
-  bio: null
+  bio: now at Academic Computer Scentre, Krakow
   role: alumnus
 
 - name: Laura Hollink
@@ -720,7 +722,7 @@
 
 - name: Marat Charlaganov
   website: http://scholar.google.com/citations?user=Jiq47YsAAAAJ&hl=en
-  bio: null
+  bio: now at Deloitte
   role: alumnus
 
 - name: Maria Cristina
@@ -796,7 +798,7 @@
 
 - name: Peter Mika
   website: https://www.linkedin.com/in/pmika/?originalSubdomain=nl/
-  bio: October 2010
+  bio: now at Heineken
   role: alumnus
 
 - name: Qing Hu
@@ -831,8 +833,7 @@
 
 - name: Romana Pernisch
   website: https://pernisch.ch/
-  bio: now at the Knowledge in Artificial Intelligence ([KAI](https://kai.cs.vu.nl/))
-    group
+  bio: now at Eraneos Switzerland
   role: alumnus
 
 - name: Ronald Siebes
@@ -910,7 +911,7 @@
 
 - name: Veruska Carretta Zamborlini
   website: https://www.linkedin.com/in/veruska-carretta-zamborlini-80614751/?originalSubdomain=nl
-  bio: now at [Ufes - Universidade Federal do Espírito Santo](https://www.ufes.br/)
+  bio: now at KNAW Digital Humanities
   role: alumnus
 
 - name: Vitor Horta
