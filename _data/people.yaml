@@ -253,12 +253,6 @@
   image: /images/people/giulia.jpeg
   role: guest
 
-- name: Zhisheng Huang
-  orderby: Huang
-  website: https://www.cs.vu.nl/~huang/
-  image: /images/people/Zhisheng-Huang.jpg
-  role: guest
-
 - name: Ali Khalili
   orderby: Khalili
   website: https://ali1k.com/
@@ -366,6 +360,12 @@
   title: assistant professor
   website: https://cochez.nl
   image: /images/people/michael.png
+
+- name: Zhisheng Huang
+  orderby: Huang
+  website: https://www.cs.vu.nl/~huang/
+  image: /images/people/Zhisheng-Huang.jpg
+  role: guest
 
 # Alumni
 
