@@ -240,6 +240,19 @@
   image: /images/people/Taewoon.png
   role: phd
 
+- name: Giulia Coucourde
+  orderby: Coucourde
+  keywords:
+    - Neuro-symbolic AI
+    - Large Language Models
+    - Knowledge Graphs
+    - User Modeling
+  linkedin: https://www.linkedin.com/in/giulia-coucourde/
+  scholar: https://scholar.google.com/citations?hl=it&user=mOSrAzYAAAAJ
+  github: https://github.com/Giuliaqqrd
+  image: /images/people/giulia.jpeg
+  role: guest
+
 - name: Zhisheng Huang
   orderby: Huang
   website: https://www.cs.vu.nl/~huang/
