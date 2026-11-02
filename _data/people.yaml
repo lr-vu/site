@@ -274,16 +274,6 @@
   image: /images/people/Maarten.png
   role: phd
 
-- name: Stefan Schouten
-  orderby: Schouten
-  keywords:
-    - natural language
-    - large language models
-    - linear probes
-  image: /images/people/Stefan.jpg
-  website: https://stefanfs.me/
-  role: guest  
-
 - name: Mohammadhossein Khojasteh
   orderby: Khojasteh
   keywords:
@@ -465,6 +455,12 @@
   image: /images/people/Andrea.png
   role: guest
   bio: November 2023 – June 2024
+
+- name: Stefan Schouten
+  orderby: Schouten
+  bio: now at University of Zurich
+  website: https://stefanfs.me/
+  role: alumnus
 
 - name: Zhan Qu
   orderby: Qu
