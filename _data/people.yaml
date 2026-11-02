@@ -206,7 +206,7 @@
   scholar: https://scholar.google.com/citations?user=bi6JjMEAAAAJ&hl=nl
 
 - name: Ting-Chih Chen
-  orderby: Chen
+  orderby: 
   keywords:
     - Multimodal learning
     - Embodied AI
@@ -273,6 +273,16 @@
     - benchmark design
   image: /images/people/Maarten.png
   role: phd
+
+- name: Stefan Schouten
+  orderby: Schouten
+  keywords:
+    - natural language
+    - large language models
+    - linear probes
+  image: /images/people/Stefan.jpg
+  website: https://stefanfs.me/
+  role: guest  
 
 - name: Mohammadhossein Khojasteh
   orderby: Khojasteh
