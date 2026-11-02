@@ -458,9 +458,9 @@
 
 - name: Stefan Schouten
   orderby: Schouten
-  bio: now at University of Zurich
   website: https://stefanfs.me/
   role: alumnus
+  bio: now at University of Zurich
 
 - name: Zhan Qu
   orderby: Qu
