@@ -206,7 +206,7 @@
   scholar: https://scholar.google.com/citations?user=bi6JjMEAAAAJ&hl=nl
 
 - name: Ting-Chih Chen
-  orderby: 
+  orderby: Chen
   keywords:
     - Multimodal learning
     - Embodied AI
@@ -378,6 +378,7 @@
   bio: April - August 2026
 
 - name: Dimitrios Alivanistos
+  orderby: Alivanistos
   website: https://dimitrisalivas.github.io/
   role: alumnus
   bio: Now at Elsevier
