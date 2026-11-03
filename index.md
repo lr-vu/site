@@ -20,6 +20,10 @@ dark: true
     - Only the subject of the news message gets a link.
     {% endcomment %}
 
+        <dl>
+        <dt> October, 2026 </dt>
+            <dd> We congratulate Stefan F. Schouten and Peter Bloem for winning best paper award at BlackboxNLP for “Probing Without Labels: Contrast-only Reproductions of Interpretability Results” </dd>
+
     <dl>
         <dt> August, 2026 </dt>
             <dd> Annette's Dagstuhl seminar proposal on “Research Data Management in Times of Agentic AI", together with Marianna Bolognesi, Jay Pujara, and Ute Schmid, has been accepted. This seminar will take place in June 2027. </dd>
