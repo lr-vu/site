@@ -35,7 +35,7 @@ jobs:
         env:
           ZOTERO_API_KEY: ${{ secrets.ZOTERO_API_KEY }}
         run: |
-          pip install pyzotero==1.5.5 PyYAML==6.0
+          pip install pyzotero==1.5.5 PyYAML==6.0.4
           python files/zotero.py
           echo "BIBLIOGRAPHY_CHANGES=$(git diff --name-only | wc -l)" >> $GITHUB_ENV
       - name: print_env
