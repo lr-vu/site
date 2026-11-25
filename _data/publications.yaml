@@ -1,4 +1,164 @@
 -   data:
+        DOI: ''
+        ISSN: ''
+        PMCID: ''
+        PMID: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: ''
+        collections:
+        - VSP3MV9F
+        creators:
+        -   creatorType: author
+            firstName: Thiviyan
+            lastName: Thanapalasingam
+        -   creatorType: author
+            firstName: Antonis
+            lastName: Vozikis
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        -   creatorType: author
+            firstName: Paul
+            lastName: Groth
+        date: '2026'
+        dateAdded: '2026-11-25T15:00:25Z'
+        dateModified: '2026-11-25T15:00:25Z'
+        extra: ''
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: GUQHLT95
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        partNumber: ''
+        partTitle: ''
+        place: ''
+        publicationTitle: Trans. Mach. Learn. Res.
+        publisher: ''
+        relations: {}
+        rights: ''
+        section: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: Autoregressive Models for Small-Scale Knowledge Graph Generation
+        url: https://openreview.net/forum?id=xhy0tB4uzb
+        version: 1504
+        volume: '2026'
+    key: GUQHLT95
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/GUQHLT95
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/GUQHLT95
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: Thanapalasingam et al.
+        numChildren: 0
+        parsedDate: '2026'
+    version: 1504
+-   data:
+        DOI: ''
+        ISSN: ''
+        PMCID: ''
+        PMID: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: ''
+        collections:
+        - VSP3MV9F
+        creators:
+        -   creatorType: author
+            firstName: Bas
+            lastName: Maat
+        -   creatorType: author
+            firstName: Peter
+            lastName: Bloem
+        date: '2026'
+        dateAdded: '2026-11-25T14:59:40Z'
+        dateModified: '2026-11-25T14:59:40Z'
+        extra: ''
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: E86YGTN5
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        partNumber: ''
+        partTitle: ''
+        place: ''
+        publicationTitle: Trans. Mach. Learn. Res.
+        publisher: ''
+        relations: {}
+        rights: ''
+        section: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: Predicting integers from continuous parameters
+        url: https://openreview.net/forum?id=d1WKFlKFEa
+        version: 1502
+        volume: '2026'
+    key: E86YGTN5
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/E86YGTN5
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/E86YGTN5
+            type: application/json
+    meta:
+        createdByUser:
+            id: 11362521
+            links:
+                alternate:
+                    href: https://www.zotero.org/pbloemesquire
+                    type: text/html
+            name: ''
+            username: pbloemesquire
+        creatorSummary: Maat and Bloem
+        numChildren: 0
+        parsedDate: '2026'
+    version: 1502
+-   data:
         DOI: 10.1016/j.jbi.2026.105127
         ISSN: '15320464'
         PMCID: ''
@@ -1083,182 +1243,6 @@
         numChildren: 0
         parsedDate: '2025'
     version: 1398
--   data:
-        DOI: 10.48550/ARXIV.2602.10751
-        ISSN: ''
-        PMCID: ''
-        PMID: ''
-        abstractNote: ''
-        accessDate: '2026-06-30T11:22:27Z'
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        citationKey: maatPredictingIntegersContinuous2026
-        collections:
-        - VSP3MV9F
-        creators:
-        -   creatorType: author
-            firstName: Bas
-            lastName: Maat
-        -   creatorType: author
-            firstName: Peter
-            lastName: Bloem
-        date: '2026'
-        dateAdded: '2026-06-30T11:22:27Z'
-        dateModified: '2026-06-30T11:22:27Z'
-        extra: 'arXiv: 2602.10751'
-        issue: ''
-        itemType: journalArticle
-        journalAbbreviation: ''
-        key: 39Q3CGLD
-        language: ''
-        libraryCatalog: DBLP Computer Science Bibliography
-        pages: ''
-        partNumber: ''
-        partTitle: ''
-        place: ''
-        publicationTitle: CoRR
-        publisher: ''
-        relations: {}
-        rights: ''
-        section: ''
-        series: ''
-        seriesText: ''
-        seriesTitle: ''
-        shortTitle: ''
-        tags: []
-        title: Predicting integers from continuous parameters
-        url: https://doi.org/10.48550/arXiv.2602.10751
-        version: 1396
-        volume: abs/2602.10751
-    key: 39Q3CGLD
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/39Q3CGLD
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/39Q3CGLD
-            type: application/json
-    meta:
-        createdByUser:
-            id: 11362521
-            links:
-                alternate:
-                    href: https://www.zotero.org/pbloemesquire
-                    type: text/html
-            name: ''
-            username: pbloemesquire
-        creatorSummary: Maat and Bloem
-        lastModifiedByUser:
-            id: 8249033
-            links:
-                alternate:
-                    href: https://www.zotero.org/f_hoppe
-                    type: text/html
-            name: Fabian Hoppe
-            username: f_hoppe
-        numChildren: 0
-        parsedDate: '2026'
-    version: 1396
--   data:
-        DOI: 10.48550/ARXIV.2602.06707
-        ISSN: ''
-        PMCID: ''
-        PMID: ''
-        abstractNote: ''
-        accessDate: '2026-06-30T11:22:12Z'
-        archive: ''
-        archiveLocation: ''
-        callNumber: ''
-        citationKey: thanapalasingamAutoregressiveModelsKnowledge2026
-        collections:
-        - VSP3MV9F
-        creators:
-        -   creatorType: author
-            firstName: Thiviyan
-            lastName: Thanapalasingam
-        -   creatorType: author
-            firstName: Antonis
-            lastName: Vozikis
-        -   creatorType: author
-            firstName: Peter
-            lastName: Bloem
-        -   creatorType: author
-            firstName: Paul
-            lastName: Groth
-        date: '2026'
-        dateAdded: '2026-06-30T11:22:12Z'
-        dateModified: '2026-06-30T11:22:12Z'
-        extra: 'arXiv: 2602.06707'
-        issue: ''
-        itemType: journalArticle
-        journalAbbreviation: ''
-        key: 8ISASKIA
-        language: ''
-        libraryCatalog: DBLP Computer Science Bibliography
-        pages: ''
-        partNumber: ''
-        partTitle: ''
-        place: ''
-        publicationTitle: CoRR
-        publisher: ''
-        relations: {}
-        rights: ''
-        section: ''
-        series: ''
-        seriesText: ''
-        seriesTitle: ''
-        shortTitle: ''
-        tags: []
-        title: Autoregressive Models for Knowledge Graph Generation
-        url: https://doi.org/10.48550/arXiv.2602.06707
-        version: 1394
-        volume: abs/2602.06707
-    key: 8ISASKIA
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/8ISASKIA
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/8ISASKIA
-            type: application/json
-    meta:
-        createdByUser:
-            id: 11362521
-            links:
-                alternate:
-                    href: https://www.zotero.org/pbloemesquire
-                    type: text/html
-            name: ''
-            username: pbloemesquire
-        creatorSummary: Thanapalasingam et al.
-        lastModifiedByUser:
-            id: 8249033
-            links:
-                alternate:
-                    href: https://www.zotero.org/f_hoppe
-                    type: text/html
-            name: Fabian Hoppe
-            username: f_hoppe
-        numChildren: 0
-        parsedDate: '2026'
-    version: 1394
 -   data:
         DOI: ''
         ISSN: ''
