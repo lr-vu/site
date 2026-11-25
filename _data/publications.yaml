@@ -1,4 +1,748 @@
 -   data:
+        DOI: 10.1016/j.jbi.2026.105127
+        ISSN: '15320464'
+        PMCID: ''
+        PMID: ''
+        abstractNote: ''
+        accessDate: '2026-11-23T10:23:24Z'
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: vosKnowledgeGraphsPolypharmacy2026
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Romy
+            lastName: Vos
+        -   creatorType: author
+            firstName: Annette
+            lastName: Ten Teije
+        -   creatorType: author
+            firstName: Iacopo
+            lastName: Vagliano
+        -   creatorType: author
+            firstName: Joanna E.
+            lastName: Klopotowska
+        date: 12/2026
+        dateAdded: '2026-11-23T10:23:24Z'
+        dateModified: '2026-11-23T10:23:24Z'
+        extra: ''
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: Journal of Biomedical Informatics
+        key: CRHK8597
+        language: en
+        libraryCatalog: DOI.org (Crossref)
+        pages: '105127'
+        partNumber: ''
+        partTitle: ''
+        place: ''
+        publicationTitle: Journal of Biomedical Informatics
+        publisher: ''
+        relations: {}
+        rights: ''
+        section: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: Knowledge graphs for polypharmacy
+        tags: []
+        title: 'Knowledge graphs for polypharmacy: A systematic review and critical
+            appraisal of reporting quality'
+        url: https://linkinghub.elsevier.com/retrieve/pii/S1532046426001516
+        version: 1497
+        volume: '184'
+    key: CRHK8597
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/CRHK8597
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/CRHK8597
+            type: application/json
+    meta:
+        createdByUser:
+            id: 13137784
+            links:
+                alternate:
+                    href: https://www.zotero.org/romyvos
+                    type: text/html
+            name: ''
+            username: romyvos
+        creatorSummary: Vos et al.
+        lastModifiedByUser:
+            id: 6261094
+            links:
+                alternate:
+                    href: https://www.zotero.org/hemile
+                    type: text/html
+            name: ''
+            username: hemile
+        numChildren: 0
+        parsedDate: '2026'
+    version: 1497
+-   data:
+        DOI: ''
+        ISSN: 2835-8856
+        PMCID: ''
+        PMID: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: karabulutDifferentiableNumericalAssociation2026
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Erkan
+            lastName: Karabulut
+        -   creatorType: author
+            firstName: Daniel
+            lastName: Daza
+        -   creatorType: author
+            firstName: Emile van
+            lastName: Krieken
+        -   creatorType: author
+            firstName: Paul
+            lastName: Groth
+        -   creatorType: author
+            firstName: Victoria
+            lastName: Degeler
+        date: '2026-11-19'
+        dateAdded: '2026-11-20T21:09:02Z'
+        dateModified: '2026-11-20T21:11:56Z'
+        extra: ''
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: P2PUB24K
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        partNumber: ''
+        partTitle: ''
+        place: ''
+        publicationTitle: Transactions on Machine Learning Research
+        publisher: ''
+        relations: {}
+        rights: ''
+        section: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: Differentiable Numerical Association Rule Learning
+        url: https://openreview.net/forum?id=0WZf2uidpa
+        version: 1495
+        volume: ''
+    key: P2PUB24K
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/P2PUB24K
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/P2PUB24K
+            type: application/json
+    meta:
+        createdByUser:
+            id: 22668629
+            links:
+                alternate:
+                    href: https://www.zotero.org/erkankarabulut
+                    type: text/html
+            name: ''
+            username: erkankarabulut
+        creatorSummary: Karabulut et al.
+        lastModifiedByUser:
+            id: 6261094
+            links:
+                alternate:
+                    href: https://www.zotero.org/hemile
+                    type: text/html
+            name: ''
+            username: hemile
+        numChildren: 1
+        parsedDate: '2026-11-19'
+    version: 1495
+-   data:
+        DOI: ''
+        ISSN: 2835-8856
+        PMCID: ''
+        PMID: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: karabulutModelAgnosticAssociationRule2026
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Erkan
+            lastName: Karabulut
+        -   creatorType: author
+            firstName: Daniel
+            lastName: Daza
+        -   creatorType: author
+            firstName: Paul
+            lastName: Groth
+        -   creatorType: author
+            firstName: M. C.
+            lastName: Schut
+        -   creatorType: author
+            firstName: Victoria
+            lastName: Degeler
+        date: '2026-10-19'
+        dateAdded: '2026-11-20T21:11:14Z'
+        dateModified: '2026-11-20T21:11:38Z'
+        extra: ''
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: ''
+        key: JX8DA4SS
+        language: ''
+        libraryCatalog: ''
+        pages: ''
+        partNumber: ''
+        partTitle: ''
+        place: ''
+        publicationTitle: Transactions on Machine Learning Research
+        publisher: ''
+        relations: {}
+        rights: ''
+        section: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: ''
+        tags: []
+        title: Model-Agnostic Association Rule Learning with Tabular Foundation Models
+        url: https://openreview.net/forum?id=Y70lnNnA6T
+        version: 1494
+        volume: ''
+    key: JX8DA4SS
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/JX8DA4SS
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/JX8DA4SS
+            type: application/json
+    meta:
+        createdByUser:
+            id: 22668629
+            links:
+                alternate:
+                    href: https://www.zotero.org/erkankarabulut
+                    type: text/html
+            name: ''
+            username: erkankarabulut
+        creatorSummary: Karabulut et al.
+        lastModifiedByUser:
+            id: 6261094
+            links:
+                alternate:
+                    href: https://www.zotero.org/hemile
+                    type: text/html
+            name: ''
+            username: hemile
+        numChildren: 0
+        parsedDate: '2026-10-19'
+    version: 1494
+-   data:
+        DOI: 10.1109/ICSA-C68850.2026.00040
+        ISBN: 979-8-3315-7787-2
+        ISSN: ''
+        abstractNote: ''
+        accessDate: '2026-11-20T16:16:19Z'
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: Gaur2026_DesignDecisionGuidance
+        collections: []
+        conferenceName: 2026 IEEE 23rd International Conference on Software Architecture
+            Companion (ICSA-C)
+        creators:
+        -   creatorType: author
+            firstName: Shaurya
+            lastName: Gaur
+        date: 6/2026
+        dateAdded: '2026-11-20T16:16:19Z'
+        dateModified: '2026-11-20T16:16:19Z'
+        eventPlace: ''
+        extra: ''
+        issue: ''
+        itemType: conferencePaper
+        key: HP9UUNUA
+        language: ''
+        libraryCatalog: DOI.org (Crossref)
+        numberOfVolumes: ''
+        pages: 151-156
+        place: Amsterdam, Netherlands
+        proceedingsTitle: 2026 IEEE 23rd International Conference on Software Architecture
+            Companion (ICSA-C)
+        publisher: IEEE
+        relations: {}
+        rights: https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: Design Decision Guidance for Human-Centric Ai Systems
+        url: https://ieeexplore.ieee.org/document/11641228/
+        version: 1484
+        volume: ''
+    key: HP9UUNUA
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/HP9UUNUA
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/HP9UUNUA
+            type: application/json
+    meta:
+        createdByUser:
+            id: 18057342
+            links:
+                alternate:
+                    href: https://www.zotero.org/shaur.gaur
+                    type: text/html
+            name: ''
+            username: Shaur.Gaur
+        creatorSummary: Gaur
+        numChildren: 0
+        parsedDate: '2026'
+    version: 1484
+-   data:
+        DOI: ''
+        ISBN: ''
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: brazSHARPIERobustFramework2026
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Libio Goncalves
+            lastName: Braz
+        -   creatorType: author
+            firstName: Kevin
+            lastName: Godin-Dubois
+        -   creatorType: author
+            firstName: Floris
+            lastName: den Hengst
+        -   creatorType: author
+            firstName: Hüseyin
+            lastName: Aydın
+        -   creatorType: author
+            firstName: Kim
+            lastName: Baraka
+        -   creatorType: author
+            firstName: Frans A
+            lastName: Oliehoek
+        -   creatorType: author
+            firstName: Shihan
+            lastName: Wang
+        date: 2026-10
+        dateAdded: '2026-11-19T13:11:07Z'
+        dateModified: '2026-11-19T13:11:38Z'
+        eventPlace: ''
+        extra: ''
+        issue: ''
+        itemType: conferencePaper
+        key: 6RLNLRKW
+        language: ''
+        libraryCatalog: ''
+        numberOfVolumes: ''
+        pages: ''
+        place: Lille, France
+        proceedingsTitle: European Workshop on Reinforcement Learning
+        publisher: ''
+        relations: {}
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: 'SHARPIE: A Robust Framework for Streamlining Human-AI Reinforcement
+            Learning Experiments'
+        url: https://openreview.net/forum?id=NnVnCEPt55&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DEWRL%2F2026%2FWorkshop%2FAuthors%23your-submissions)
+        version: 1482
+        volume: ''
+    key: 6RLNLRKW
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/6RLNLRKW
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/6RLNLRKW
+            type: application/json
+    meta:
+        createdByUser:
+            id: 12590531
+            links:
+                alternate:
+                    href: https://www.zotero.org/florisdenhengst
+                    type: text/html
+            name: ''
+            username: florisdenhengst
+        creatorSummary: Braz et al.
+        numChildren: 0
+        parsedDate: 2026-10
+    version: 1482
+-   data:
+        DOI: ''
+        ISBN: ''
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: denhengstHierarchicalConformalClassification2026
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Floris
+            lastName: den Hengst
+        -   creatorType: author
+            firstName: Inès
+            lastName: Blin
+        -   creatorType: author
+            firstName: Majid
+            lastName: Mohammadi
+        -   creatorType: author
+            firstName: Syed Ihtesham
+            lastName: Shah
+        -   creatorType: author
+            firstName: Taranah
+            lastName: Younesian
+        date: '2026'
+        dateAdded: '2026-11-19T13:06:39Z'
+        dateModified: '2026-11-19T13:07:26Z'
+        eventPlace: ''
+        extra: ''
+        issue: ''
+        itemType: conferencePaper
+        key: R6KTM4EN
+        language: ''
+        libraryCatalog: ''
+        numberOfVolumes: ''
+        pages: ''
+        place: Paris
+        proceedingsTitle: Advances in Neural Information Processing Systems
+        publisher: Curran Associates, Inc.
+        relations: {}
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: Hierarchical Conformal Classification
+        url: https://openreview.net/forum?id=k9Vms7prG3#discussion
+        version: 1479
+        volume: 39, Main Conference
+    key: R6KTM4EN
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/R6KTM4EN
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/R6KTM4EN
+            type: application/json
+    meta:
+        createdByUser:
+            id: 12590531
+            links:
+                alternate:
+                    href: https://www.zotero.org/florisdenhengst
+                    type: text/html
+            name: ''
+            username: florisdenhengst
+        creatorSummary: den Hengst et al.
+        numChildren: 0
+        parsedDate: '2026'
+    version: 1479
+-   data:
+        DOI: 10.3233/FAIA250669
+        ISBN: 978-1-64368-611-0
+        ISSN: ''
+        abstractNote: We present SHARPIE (Shared Human-AI Reinforcement Learning Platform
+            for Interactive Experiments), a generic framework to support experiments
+            with RL agents and humans. It consists of a versatile wrapper for RL environments
+            and algorithm libraries, a participant-facing web interface, logging utilities,
+            and deployment on popular cloud and participant recruitment platforms.
+            It empowers researchers to study a wide variety of research questions
+            related to the interaction between humans and RL agents and aims to standardize
+            the field of study on RL in human contexts.
+        accessDate: '2026-11-19T13:05:16Z'
+        archive: ''
+        archiveLocation: ''
+        bookTitle: HHAI 2025
+        callNumber: ''
+        citationKey: aydinExperimentationPlatformHybrid2025
+        collections: []
+        creators:
+        -   creatorType: editor
+            firstName: Dino
+            lastName: Pedreschi
+        -   creatorType: editor
+            firstName: Michela
+            lastName: Milano
+        -   creatorType: editor
+            firstName: Ilaria
+            lastName: Tiddi
+        -   creatorType: editor
+            firstName: Stuart
+            lastName: Russell
+        -   creatorType: editor
+            firstName: Chiara
+            lastName: Boldrini
+        -   creatorType: editor
+            firstName: Luca
+            lastName: Pappalardo
+        -   creatorType: editor
+            firstName: Andrea
+            lastName: Passerini
+        -   creatorType: editor
+            firstName: Shenghui
+            lastName: Wang
+        -   creatorType: author
+            firstName: Hüseyin
+            lastName: Aydin
+        -   creatorType: author
+            firstName: Kevin
+            lastName: Godin-Dubois
+        -   creatorType: author
+            firstName: Libio
+            lastName: Goncalvez Braz
+        -   creatorType: author
+            firstName: Floris
+            lastName: Den Hengst
+        -   creatorType: author
+            firstName: Kim
+            lastName: Baraka
+        -   creatorType: author
+            firstName: Mustafa Mert
+            lastName: Çelikok
+        -   creatorType: author
+            firstName: Andreas
+            lastName: Sauter
+        -   creatorType: author
+            firstName: Shihan
+            lastName: Wang
+        -   creatorType: author
+            firstName: Frans A.
+            lastName: Oliehoek
+        date: '2025-09-22'
+        dateAdded: '2026-11-19T13:05:16Z'
+        dateModified: '2026-11-19T13:05:16Z'
+        edition: ''
+        extra: ''
+        format: ''
+        itemType: bookSection
+        key: TADSPRAN
+        language: ''
+        libraryCatalog: DOI.org (Crossref)
+        numberOfVolumes: ''
+        originalDate: ''
+        originalPlace: ''
+        originalPublisher: ''
+        pages: ''
+        place: ''
+        publisher: IOS Press
+        relations: {}
+        rights: https://creativecommons.org/licenses/by-nc/4.0/
+        series: Frontiers in Artificial Intelligence and Applications
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: Towards an Experimentation Platform for Hybrid Human-AI Sequential
+            Decision-Making
+        url: https://ebooks.iospress.nl/doi/10.3233/FAIA250669
+        version: 1476
+        volume: ''
+    key: TADSPRAN
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/TADSPRAN
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/TADSPRAN
+            type: application/json
+    meta:
+        createdByUser:
+            id: 12590531
+            links:
+                alternate:
+                    href: https://www.zotero.org/florisdenhengst
+                    type: text/html
+            name: ''
+            username: florisdenhengst
+        creatorSummary: Aydin et al.
+        lastModifiedByUser:
+            id: 8249033
+            links:
+                alternate:
+                    href: https://www.zotero.org/f_hoppe
+                    type: text/html
+            name: Fabian Hoppe
+            username: f_hoppe
+        numChildren: 0
+        parsedDate: '2025-09-22'
+    version: 1476
+-   data:
+        DOI: 10.1016/j.softx.2026.102536
+        ISSN: '23527110'
+        PMCID: ''
+        PMID: ''
+        abstractNote: ''
+        accessDate: '2026-11-19T13:04:20Z'
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: DenHengst2026_CollaborativeHybridIntelligence
+        collections: []
+        creators:
+        -   creatorType: author
+            firstName: Floris
+            lastName: Den Hengst
+        -   creatorType: author
+            firstName: Shaad
+            lastName: Alaka
+        -   creatorType: author
+            firstName: Bart A.
+            lastName: Kamphorst
+        date: 02/2026
+        dateAdded: '2026-11-19T13:04:20Z'
+        dateModified: '2026-11-19T13:04:20Z'
+        extra: ''
+        issue: ''
+        itemType: journalArticle
+        journalAbbreviation: SoftwareX
+        key: 35ZFXMTP
+        language: en
+        libraryCatalog: DOI.org (Crossref)
+        pages: '102536'
+        partNumber: ''
+        partTitle: ''
+        place: ''
+        publicationTitle: SoftwareX
+        publisher: ''
+        relations: {}
+        rights: ''
+        section: ''
+        series: ''
+        seriesText: ''
+        seriesTitle: ''
+        shortTitle: Collaborative hybrid intelligence platform CHIP
+        tags: []
+        title: 'Collaborative hybrid intelligence platform CHIP: A modular architecture
+            for developing and testing personalized lifestyle support interactions'
+        url: https://linkinghub.elsevier.com/retrieve/pii/S2352711026000300
+        version: 1483
+        volume: '33'
+    key: 35ZFXMTP
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/35ZFXMTP
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/35ZFXMTP
+            type: application/json
+    meta:
+        createdByUser:
+            id: 12590531
+            links:
+                alternate:
+                    href: https://www.zotero.org/florisdenhengst
+                    type: text/html
+            name: ''
+            username: florisdenhengst
+        creatorSummary: Den Hengst et al.
+        lastModifiedByUser:
+            id: 18057342
+            links:
+                alternate:
+                    href: https://www.zotero.org/shaur.gaur
+                    type: text/html
+            name: ''
+            username: Shaur.Gaur
+        numChildren: 0
+        parsedDate: '2026'
+    version: 1483
+-   data:
         DOI: 10.1007/978-3-032-30710-1_4
         ISBN: 978-3-032-30709-5 978-3-032-30710-1
         ISSN: ''
@@ -40310,98 +41054,6 @@
         numChildren: 0
         parsedDate: '2024'
     version: 1219
--   data:
-        accessDate: '2025-02-07T08:37:15Z'
-        charset: ''
-        collections: []
-        contentType: application/pdf
-        dateAdded: '2025-02-07T08:37:15Z'
-        dateModified: '2025-02-07T08:37:15Z'
-        filename: pdf.pdf
-        itemType: attachment
-        key: PYXW8MU5
-        linkMode: imported_url
-        md5: 28dfd12a55e99b9d9a5ea6d84040fb45
-        mtime: 1738917435486
-        note: ''
-        relations: {}
-        tags: []
-        title: pdf.pdf
-        url: https://openreview.net/pdf?id=pqOjj90Vwp
-        version: 1034
-    key: PYXW8MU5
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/PYXW8MU5
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/PYXW8MU5
-            type: application/json
-    meta:
-        createdByUser:
-            id: 11405446
-            links:
-                alternate:
-                    href: https://www.zotero.org/annettetenteije
-                    type: text/html
-            name: ''
-            username: annettetenteije
-        numChildren: 0
-    version: 1034
--   data:
-        accessDate: '2025-02-07T08:37:14Z'
-        charset: ''
-        collections: []
-        contentType: application/pdf
-        dateAdded: '2025-02-07T08:37:14Z'
-        dateModified: '2025-02-07T08:37:14Z'
-        filename: pdf.pdf
-        itemType: attachment
-        key: VCXVRVXX
-        linkMode: imported_url
-        md5: 28dfd12a55e99b9d9a5ea6d84040fb45
-        mtime: 1738917434731
-        note: ''
-        relations: {}
-        tags: []
-        title: pdf.pdf
-        url: https://openreview.net/pdf?id=pqOjj90Vwp
-        version: 1035
-    key: VCXVRVXX
-    library:
-        id: 4989916
-        links:
-            alternate:
-                href: https://www.zotero.org/groups/lrvu-publications
-                type: text/html
-        name: lrvu-publications
-        type: group
-    links:
-        alternate:
-            href: https://www.zotero.org/groups/lrvu-publications/items/VCXVRVXX
-            type: text/html
-        self:
-            href: https://api.zotero.org/groups/4989916/items/VCXVRVXX
-            type: application/json
-    meta:
-        createdByUser:
-            id: 11405446
-            links:
-                alternate:
-                    href: https://www.zotero.org/annettetenteije
-                    type: text/html
-            name: ''
-            username: annettetenteije
-        numChildren: 0
-    version: 1035
 -   data:
         DOI: ''
         ISBN: ''
