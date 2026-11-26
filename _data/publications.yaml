@@ -7,7 +7,7 @@
         archive: ''
         archiveLocation: ''
         callNumber: ''
-        citationKey: ''
+        citationKey: hanHybridDrugDrugInteraction2026
         collections: []
         conferenceName: ''
         creators:
@@ -44,7 +44,7 @@
         title: 'Hybrid Drug-Drug Interaction Prediction: Combining Knowledge Graph
             Embeddings and Symbolic Learning.'
         url: ''
-        version: 1505
+        version: 1506
         volume: ''
     key: ZLPHC5AA
     library:
@@ -72,9 +72,17 @@
             name: ''
             username: romyvos
         creatorSummary: Han et al.
+        lastModifiedByUser:
+            id: 6261094
+            links:
+                alternate:
+                    href: https://www.zotero.org/hemile
+                    type: text/html
+            name: ''
+            username: hemile
         numChildren: 0
         parsedDate: '2026'
-    version: 1505
+    version: 1506
 -   data:
         DOI: ''
         ISSN: ''
@@ -85,7 +93,7 @@
         archive: ''
         archiveLocation: ''
         callNumber: ''
-        citationKey: ''
+        citationKey: thanapalasingamAutoregressiveModelsSmallScale2026
         collections:
         - VSP3MV9F
         creators:
@@ -127,7 +135,7 @@
         tags: []
         title: Autoregressive Models for Small-Scale Knowledge Graph Generation
         url: https://openreview.net/forum?id=xhy0tB4uzb
-        version: 1504
+        version: 1507
         volume: '2026'
     key: GUQHLT95
     library:
@@ -155,9 +163,17 @@
             name: ''
             username: pbloemesquire
         creatorSummary: Thanapalasingam et al.
+        lastModifiedByUser:
+            id: 6261094
+            links:
+                alternate:
+                    href: https://www.zotero.org/hemile
+                    type: text/html
+            name: ''
+            username: hemile
         numChildren: 0
         parsedDate: '2026'
-    version: 1504
+    version: 1507
 -   data:
         DOI: ''
         ISSN: ''
@@ -168,7 +184,7 @@
         archive: ''
         archiveLocation: ''
         callNumber: ''
-        citationKey: ''
+        citationKey: maatPredictingIntegersContinuous2026
         collections:
         - VSP3MV9F
         creators:
@@ -204,7 +220,7 @@
         tags: []
         title: Predicting integers from continuous parameters
         url: https://openreview.net/forum?id=d1WKFlKFEa
-        version: 1502
+        version: 1508
         volume: '2026'
     key: E86YGTN5
     library:
@@ -232,9 +248,17 @@
             name: ''
             username: pbloemesquire
         creatorSummary: Maat and Bloem
+        lastModifiedByUser:
+            id: 6261094
+            links:
+                alternate:
+                    href: https://www.zotero.org/hemile
+                    type: text/html
+            name: ''
+            username: hemile
         numChildren: 0
         parsedDate: '2026'
-    version: 1502
+    version: 1508
 -   data:
         DOI: 10.1016/j.jbi.2026.105127
         ISSN: '15320464'
