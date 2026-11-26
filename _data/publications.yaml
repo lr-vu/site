@@ -1,5 +1,82 @@
 -   data:
         DOI: ''
+        ISBN: ''
+        ISSN: ''
+        abstractNote: ''
+        accessDate: ''
+        archive: ''
+        archiveLocation: ''
+        callNumber: ''
+        citationKey: ''
+        collections: []
+        conferenceName: ''
+        creators:
+        -   creatorType: author
+            firstName: Duru Naz
+            lastName: Han
+        -   creatorType: author
+            firstName: Romy
+            lastName: Vos
+        -   creatorType: author
+            firstName: Annette
+            lastName: ten Teije
+        date: '2026'
+        dateAdded: '2026-11-26T08:21:04Z'
+        dateModified: '2026-11-26T08:21:04Z'
+        eventPlace: ''
+        extra: ''
+        issue: ''
+        itemType: conferencePaper
+        key: ZLPHC5AA
+        language: ''
+        libraryCatalog: ''
+        numberOfVolumes: ''
+        pages: 116–127
+        place: ''
+        proceedingsTitle: BIOSTEC (3)
+        publisher: ''
+        relations: {}
+        rights: ''
+        series: ''
+        seriesNumber: ''
+        shortTitle: ''
+        tags: []
+        title: 'Hybrid Drug-Drug Interaction Prediction: Combining Knowledge Graph
+            Embeddings and Symbolic Learning.'
+        url: ''
+        version: 1505
+        volume: ''
+    key: ZLPHC5AA
+    library:
+        id: 4989916
+        links:
+            alternate:
+                href: https://www.zotero.org/groups/lrvu-publications
+                type: text/html
+        name: lrvu-publications
+        type: group
+    links:
+        alternate:
+            href: https://www.zotero.org/groups/lrvu-publications/items/ZLPHC5AA
+            type: text/html
+        self:
+            href: https://api.zotero.org/groups/4989916/items/ZLPHC5AA
+            type: application/json
+    meta:
+        createdByUser:
+            id: 13137784
+            links:
+                alternate:
+                    href: https://www.zotero.org/romyvos
+                    type: text/html
+            name: ''
+            username: romyvos
+        creatorSummary: Han et al.
+        numChildren: 0
+        parsedDate: '2026'
+    version: 1505
+-   data:
+        DOI: ''
         ISSN: ''
         PMCID: ''
         PMID: ''
